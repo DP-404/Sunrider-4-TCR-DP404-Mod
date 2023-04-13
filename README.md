@@ -9,6 +9,7 @@ It consists on a Spanish translation of the game.
 
 # How to install?
 - Install Sunrider 4: The Captain's Return v1.2.04
+- Download the [latest version of DP404 Mod](https://github.com/DP-404/Sunrider-4-TCR-DP404-Mod/releases).
 - Copy `"Spanish_###.txt"` files into your game folder.
 - Copy `"Localization"` folder into `"C:/Users/{Your User}/AppData/Local/Sunrider_4_The_Captains_Return/"`.
 - Run Sunrider 4 The Captains Return.exe. Check the combo box in Options > Language. If `"Spanish"` text appears, then you're good to go.
