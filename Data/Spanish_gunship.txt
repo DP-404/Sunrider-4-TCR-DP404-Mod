@@ -1,0 +1,230 @@
+#$ Gunboat here.
+Cañonero aquí.
+#$ For independence!
+¡Por la independencia!
+#$ Reporting, command.
+Reportándose, órdenes.
+#$ I read you.
+Le escucho.
+#$ Awaiting orders
+Esperando órdenes.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Wilco. Heading to coordinates.
+Wilco. Dirigiéndome a las coordenadas.
+#$ Underway.
+En camino.
+#$ Heading out.
+Saliendo.
+#$ Copy that.
+Copiado.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Lighting them up.
+Encendiéndolos.
+#$ I've got guns on them.
+Tengo las armas sobre ellos.
+#$ Guns guns guns.
+Cañones cañones cañones.
+#$ Who's the best shot in the West?
+¿Quién es el mejor tirador en el Oeste?
+#$ Hitting 'em hard.
+Golpeándolos fuerte.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ I've got tone. Firing.
+Lo he escuchado. DIsparando.
+#$ Missiles away.
+Misiles fuera.
+#$ Let's light some fireworks.
+Encendamos algunos fuegos artificiales.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Can't do that, command. Missiles are dry.
+No puedo hacer eso, comando. No poseo misiles.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Copy that. Holding position.
+Copiado. Manteniendo la posición.
+#$ Setting up flak net.
+Estableciendo red de fuego antiaéreo.
+#$ They won't get past me.
+No pasarán detrás de mí.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Try again next time, buster.
+Inténtalo de nuevo más tarde, hombre.
+#$ Bandit scratched.
+Bandido acabado.
+#$ He's down.
+Derribado.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ I'm so small I'm surprised that hit.
+Soy tan pequeño que estoy sorprendido que eso golpeara.
+#$ Some minor damage.
+Algunos daños menores.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ My bird's starting to smoke, command.
+Mi ave está empezando a fumar, comando.
+#$ Getting awfully breezy here.
+Esta poniéndose terriblemente movido aquí.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ They're up my caboose.
+Están detrás de mí.
+#$ Seeing red lights. Might have to ditch.
+Viendo luces rojas. Podría tener que abandonar.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Ditching bird. Good luck, command.
+Ave fuera. Buena suerte, comando.
+#$ Attack successful.
+Ataque exitoso.
+#$ That nailed 'em.
+Eso los acabó.
+#$ Solid shots.
+Disparos sólidos.
+#$ Attack failed.
+Ataque fallido.
+#$ Enemy evaded.
+El enemigo evadió.
+#$ No joy.
+Sin broma.
+#$ Dodging attack.
+Evadiendo ataque.
+#$ Injecting Ongessite.
+Inyectando Ongessita.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ My electronics are being sabotaged.
+Mis electrónicos están siendo saboteados.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Can't do that command, my bird's all out of power.
+No puedo hacer eso capitán, mi ave se ha quedado sin energía.
+#$ -1000
+-1000
+#$ -1000
+-1000

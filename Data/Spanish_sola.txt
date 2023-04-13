@@ -1,0 +1,294 @@
+#$ Archangel.
+Archangel.
+#$ Yes?
+¿Sí?
+#$ Captain?
+¿Capitán?
+#$ I copy.
+Copiado.
+#$ I obey.
+Obedezco.
+#$ Mm.
+Mm.
+#$ Your command?
+¿Su orden?
+#$ What?
+¿Qué?
+#$ Ah?
+¿Ah?
+#$ Orders?
+¿Órdenes?
+#$ Understood.
+Entendido.
+#$ Moving.
+Moviéndome.
+#$ Throttle on.
+Acelerador activado.
+#$ Powering engines.
+Encendiendo motores.
+#$ Moving to location.
+Moviéndome a la ubicación.
+#$ Yes captain.
+Sí capitán.
+#$ Accelerating.
+Acelerando.
+#$ Gaining speed.
+Ganando velocidad.
+#$ Intercepting.
+Interceptando.
+#$ Very well.
+Muy bien.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Sniping out target.
+Disparando al objetivo.
+#$ Target locked.
+Objetivo adquirido.
+#$ Firing.
+Disparando.
+#$ Locked.
+Apuntando.
+#$ Eliminating.
+Eliminando.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Hiyah!
+¡Hiyah!
+#$ Haa!
+¡Haa!
+#$ Perish!
+¡Perece!
+#$ Hiya!
+¡Hiya!
+#$ Begone!
+¡Desaparece!
+#$ Awakening!
+¡Despertando!
+#$ Come, my powers!
+¡Vengan, poderes míos!
+#$ G-Gygn...!
+¡G-Gygn...!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Target eliminated.
+Objetivo eliminado.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Light damage reported.
+Daños ligeros reportados.
+#$ I've been hit. Not bad.
+He sido golpeada. Nada mal.
+#$ Just a graze
+Solo un razguño.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Archangel, reporting damage!
+¡Archangel, reportando daños!
+#$ Ack! Archangel, hit!
+¡Ack! ¡Archangel, golpeado!
+#$ Venting pressure!
+¡Perdiendo presión!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ They've snuck up on me!
+¡Me han emboscado!
+#$ I've got an enemy on my tail!
+¡Tengo un enemigo detrás de mí!
+#$ Hyaa!
+¡Hyaa!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Retreating!
+¡Retirándome!
+#$ Hit confirmed.
+Golpe confirmado.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Negative hit.
+Golpe negativo.
+#$ -100
+-100
+#$ -1000
+-1000
+#$ Arch Angel, no damage to report.
+Arch Angel, sin daños que reportar.
+#$ Enemy attack, unsuccessful.
+Ataque enemigo, fallido.
+#$ No damage.
+Sin daños.
+#$ Evasion successful.
+Evasión exitosa.
+#$ Whew...
+Whew...
+#$ My electronics have been hacked!
+¡Mis electrónicos han sido hackeados!
+#$ Subterfuge!
+¡Subterfugio!
+#$ The enemy has impaired my ryder!
+¡El enemigo ha dañado mi ryder!
+#$ Borrowing your hull, captain.
+Tomando prestado tu casco, captain.
+#$ Archangel, secured.
+Archangel, asegurado.
+#$ Attached. Your orders, captain?
+Acoplado. ¿Tus órdenes, capitán?
+#$ Increasing power.
+Incrementando poder.
+#$ Secured, and standing by.
+Asegurado, y en posición.
+#$ Sufficient energy.
+Energía suficiente.
+#$ Negative.
+Negativo.
+#$ Lacking power.
+Falta energía.
+#$ Yes, captain?
+¿Sí, capitán?
+#$ I...
+Yo...
+#$ Yes...
+Sí...
+#$ Hmm...
+Hmm...
+#$ Ah...
+Ah...
+#$ I see...
+Ya veo...
+#$ It is so.
+Así es.
+#$ Very well.
+Muy bien.
+#$ I hear you.
+Te escucho.
+#$ Listen.
+Escucha.
+#$ Eheh.
+Eheh.
+#$ Captain?
+¿Capitán?
+#$ The stars give me peace.
+Las estrellas me dan paz.
+#$ Nommunommu
+Nommunommu
+#$ ZzZzZz...
+ZzZzZz...
+#$ Hmph.
+Hmph.
+#$ Idiot.
+Idiota.
+#$ Foolishness.
+Tontería.
+#$ Black day!
+¡Día Negro!
+#$ Sigh...
+Suspiro...
+#$ I can't.
+No puedo.
+#$ No.
+No.
+#$ Captain...
+Capitán...
+#$ Leave me.
+Déjame.
+#$ Alas...
+Dios...
+#$ A-Ah...
+A-Ah...
+#$ Y-You flatter me...
+M-Me halagas...
+#$ Ah!
+¡Ah!
+#$ By the Emperor!
+¡Por el Emperador!
+#$ By Destiny's waters!
+¡Por las aguas del Destino!
+#$ What secrets could these treasures hold?
+¿Qué secretos podrían guardar estos tesoros?
+#$ I will continue my research of lost technology.
+Continuaré mi investigación de tecnología perdida.

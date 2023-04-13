@@ -1,0 +1,3574 @@
+﻿#$ tag chap2_start
+tag chap2_start
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ dbg spr_bg_captainsquarter
+dbg spr_bg_captainsquarter
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha shi_neu
+cha shi_neu
+#$ shi Captain's Log. It's been 24 hours since we destroyed the PACT base in orbit around Ryuvia Prime. As expected, there's no sign of any PACT retaliation on the planet. Either the base was too remote for Fontana to care about or they don't want to deal with the political fallout of conquering Ryuvia Prime for the second time.
+shi Registro del Capitán. Han pasado 24 horas desde que destruimos la base del PACT en órbita alrededor de Ryuvia Prime. Como esperábamos, no hay señal de ninguna represalia del PACT en el planeta. O la base era demasiado remota como para que Fontana se preocupara o no quieren tratar con las consecuencias políticas de conquistar Ryuvia Prime por segunda vez.
+#$ shi I've just barely started settling in to my new command. Everything has changed from before. And without Ava to organize the ship, I am left in an overwhelming sense of confusion.
+shi Acabo apenas de comenzar a establecerme a mi nuevo comando. Todo ha cambiado respecto a antes. Y sin Ava para organizar la nave, estoy en un abrumador sentido de confusión.
+#$ shi I've missed so much in the past six years. Where is everyone now? What has happened while I was trapped on Tydaria? I have so many questions, but with so many more pressing issues, I haven't had the time to get answers.
+shi Me he perdido tanto en los últimos seis años. ¿Dónde están todos ahora? ¿Qué ha ocurrido mientras estuve atrapado en Tydaria? Tengo tantas preguntas, pero con tantas cuestiones urgentes, no he tenido el tiempo para obtener respuestas.
+#$ shi Ava... I've got to find her again. The ship needs her right now, more than anyone else. End log.
+shi Ava... Tengo que encontrarla de nuevo. La nave la necesita ahora mismo, más que a ningún otro. Fin del registro.
+#$ cha shi_closedeyes
+cha shi_closedeyes
+#$ shi (I've been so busy figuring out how to captain the ship that I couldn't ask Asaga anything about what happened while I was gone. Maybe I can find her in the mess hall...)
+shi (He estado tan ocupado averiguando cómo capitanear la nave que no he podido preguntarle a Asaga nada acerca de lo que sucedió mientras no estaba. Tal vez pueda encontrarla en el comedor...)
+#$ flag
+flag
+#$ hid shi
+hid shi
+#$ dbg hide
+dbg hide
+#$ map 
+map 
+#$ 
+
+#$ tag chap2_messhallasaga1
+tag chap2_messhallasaga1
+#$ dbg spr_bg_maraymesshall
+dbg spr_bg_maraymesshall
+#$ ccc asa_uni
+ccc asa_uni
+#$ voi asa_neu1
+voi asa_neu1
+#$ cha asa_armup_happytalk 
+cha asa_armup_happytalk 
+#$ asa Oh! Capt'n! Ya finally gettin' the hang of the ship now?
+asa ¡Oh! ¡Capitán! ¿Finalmente te estás acostumbrando a la nave ahora?
+#$ cha shi_neu
+cha shi_neu
+#$ shi Getting there. But more importantly, I've got so many questions...
+shi Algo así. Pero más importante, tengo tantas preguntas...
+#$ voi asa_neu4
+voi asa_neu4
+#$ cha asa_armscrossed_focustalk
+cha asa_armscrossed_focustalk
+#$ asa I bet. What do you want to know?
+asa Lo apuesto. ¿Qué quieres saber?
+#$ cha shi_neu
+cha shi_neu
+#$ shi How can we contact the commander? I feel like I'm sitting in the bridge in my boxers without her.
+shi ¿Cómo podemos contactar a la comandante? Siento que estoy sentado en el puente en calzones sin ella.
+#$ voi asa_neu3
+voi asa_neu3
+#$ cha asa_fingerpoint_talk
+cha asa_fingerpoint_talk
+#$ asa Well, this is the flagship of Ryuvia Prime, isn't it? Like I said, the commander's the Acting Prime Minister of Cera now. We can just ring her up on the diplomatic channel! Heck, ya coulda done that earlier right from your office!
+asa Bueno, esta es la nave insignea de Ryuvia Prime, ¿no es así? Como dije, la comandante es la Primera Ministra Interina de Cera ahora. ¡Podemos simplemente llamarla por el canal diplomático! ¡Diablos, podías haber hecho eso antes justo desde tu oficina!
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+#$ shi O-Oh... Right. Didn't think it'd be so easy...
+shi O-Oh... Cierto. No pensé que sería tan fácil...
+#$ cha shi_closedeyes 
+cha shi_closedeyes 
+#$ shi (I've checked the holonet now that I'm out of PACT's firewall, and sure enough, Ava's now the Acting Prime Minister of Cera... Installed by Veniczar Fontana himself.)
+shi (He revisado la holonet ahora que estoy fuera del cortafuegos del PACT, y ciertamente, Ava es ahora la Primera Ministra Interina de Cera... Instaurada por Veniczar Fontana en persona.)
+#$ shi (But why would he appoint an arch-nemesis as the Prime Minister? Ava would never become his puppet!)
+shi (¿Pero por qué designaría a una archienemiga como Primera Ministra Interina? ¡Ava nunca se volvería su marioneta!)
+#$ cc0 chap2_asacafe
+cc0 chap2_asacafe
+#$ cc1 Tell me more about the situation on Cera.
+cc1 Cuéntame más acerca de la situación en Cera.
+#$ cc2 We need to contact the commander right away. (Proceed to next conversation)
+cc2 Necesitamos contactar a la comandante ahora mismo. (Seguir a la próxima conversación)
+#$ cc3 It's not going to be so easy to contact the commander, Asaga. (Proceed to next conversation)
+cc3 No será tan fácil contactar a la comandante, Asaga. (Seguir a la próxima conversación)
+#$ 
+
+#$ tag chap2_asacafe_cc1
+tag chap2_asacafe_cc1
+#$ voi asa_neu3
+voi asa_neu3
+#$ cha asa_fingerpoint_kittyclosedeyessmile
+cha asa_fingerpoint_kittyclosedeyessmile
+#$ asa Eh yeah, I think I heard the Chancellor say something about Cera in a briefing. But I was kinda half asleep, tell ya the truth...
+asa Eh sí, creo que escuché al Canciller decir algo acerca de Cera en una sesión informativa. Pero estaba como medio dormida, a decir verdad...
+#$ cha asa_fingerpoint_talk 
+cha asa_fingerpoint_talk 
+#$ asa Fontana's installed the commander, now a renown figure in the Ceran Liberation Movement, to give the upcoming election the appearance of legitimacy. The Acting Prime Minister is there only until the election, so it's not like she has actual power though.
+asa Fontana ha instalado a la comandante, ahora una figura renombrada en el Movimiento de Liberación de Cera, para darle a las próximas elecciones la apariencia de legitimidad. Sin embargo la Primera Ministra Interina está ahí solo hasta las elecciones, así que no es como que tenga verdadero poder.
+#$ asa Still, with someone like the commander overseeing the election, people will accept the result, whichever way it turns out. Cera's Prime Ministerial election is the first time that a Neutral Rim world will hold an election after Fontana's announcement. If a candidate in support of joining PACT wins, then it's all but certain the other Neutral Rim worlds will follow in line.
+asa Aun así, con alguien como la comandante supervisando las elecciones, la gente aceptará el resultado, comoquiera que resulte. La elección del Primer Ministro de Cera es la primera vez que un mundo del Margen Neutral sostendrá una elección luego del anuncio de Fontana. Si un candidato que apoye unirse al PACT gana, entonces es más que seguro que los otros mundos del Margen Neutral seguirán en fila.
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi But just seven years ago, PACT reduced Cera City into a smoldering crater! We'd string up anyone who dares run for PACT, much less drop off our ballots for them!
+shi ¡Pero hace solo siete años, el PACT redujo Ciudad Cera a un ardiente cráter! ¡Colgaríamos a cualquiera que se atreva a apoyar al PACT, no daríamos nuestros votos por ellos!
+#$ voi asa_sad2
+voi asa_sad2
+#$ cha asa_armscrossed_focustalk
+cha asa_armscrossed_focustalk
+#$ asa Aaahh, weellll, the thing is, the other guy's running under a Pro-Solar Alliance platform. And the Alliance's reputation is basically garbage after that whole Tactical Paradox Core business. Anyways, what's her name? The lady who's running in support of joining PACT, she's actually doing surprisingly well in the opinion polls right now. Miirage Foster, I think that's her name.
+asa Aaahh, bueenoooo, la cosa es que, el otro tipo se está postulando bajo una plataforma Pro-Alianza Solar. Y la reputación de la Alianza es básicamente basura tras todo ese asunto del Tactical Paradox Core. De todas formas, ¿cuál era su nombre? La señorita que se está postulando en apoyo al PACT, ella en realidad lo está haciendo sorprendentemente bien en las encuestas de opiniones ahora mismo. Miirage Foster, creo que ese es su nombre.
+#$ asa Right now, she's tellin' everyone that by joining PACT, there'll be peace and equality for everyone or some nonsense.
+asa Ahora mismo, ella le está diciendo a todo el mundo que uniéndose al PACT, habrá paz e igualdad para todos o alguna tontería.
+#$ cha shi_surprise 
+cha shi_surprise 
+#$ shi What? So you mean the Cerans... are supporting PACT?!
+shi ¿Qué? ¡¿Así que insinuas que los Ceranos... están apoyando al PACT?!
+#$ voi asa_hap3
+voi asa_hap3
+#$ cha asa_fingerpoint_smug
+cha asa_fingerpoint_smug
+#$ asa Too bad your planet doesn't have a Sharr to protect the people from such shenanigans, eh, capt'n? Ufu.
+asa Qué mal que tu planeta no tiene una Sharr para proteger a la gente de semejantes engaños, ¿eh, capitán? Ufu.
+#$ cha shi_sadgroan 
+cha shi_sadgroan 
+#$ shi (A candidate for the Ceran Prime Ministership, running on a Pro-PACT banner... and actually winning in the opinion polls... I... must have fallen into a mining pit back in Tydaria and be delirious. I'm probably about to wake up any minute now...)
+shi (Una candidata a Primer Ministro Cerano, postulándose con un estandarte Pro-PACT... y verdaderamente ganando en las encuestas de opiniones... Yo... debo haber caído en un pozo de minería en Tydaria y estár delirando. Probablemente estoy a punto de despertar en cualquier minuto...)
+#$ voi asa_neu1
+voi asa_neu1
+#$ cha asa_armup_sadtalk 
+cha asa_armup_sadtalk 
+#$ asa Ya feelin' all right, capt'n?
+asa ¿Te sientes bien, capitán?
+#$ cha shi_sigh
+cha shi_sigh
+#$ shi They vaporized over a million innocents. Entire families were annihilated. Our cultural sites... The places where we grew up...
+shi Ellos vaporizaron a más de un millón de inocentes. Familias enteras fueron aniquiladas. Nuestros sitios culturales... Los lugares donde crecimos...
+#$ voi asa_sad1
+voi asa_sad1
+#$ cha asa_armup_sadtalk 
+cha asa_armup_sadtalk 
+#$ asa Veniczar Fontana's blamed the Prototypes for all that, capt'n. It's easy to shift the blame to a race of genetically engineered mutants. The Prototypes are so despised that even Lynn needs protection or else there'd be no telling what'll happen to her.
+asa Veniczar Fontana ha culpado a los Prototipos por todo eso, capitán. Es fácil echarle la culpa a una raza de mutantes diseñados genéticamente. Los Prototipos están tan molestos que incluso Lynn necesita protección o de lo contrario no sabremos qué le ocurriría.
+#$ asa Right now, Fontana's playing the role of the hero who leads humanity against the Prototype monsters and the Solar Alliance pigmen. He's practically got the whole galaxy dancing on his palms.
+asa Ahora mismo, Fontana está haciendo el rol del héroe que lidera a la humanidad contra los monstruos Prototipos y los codiciosos de la Alianza Solar. Prácticamente tiene a toda la galaxia danzando en las palmas de sus manos.
+#$ cha shi_sigh 
+cha shi_sigh 
+#$ shi All the more reason we need the commander back on the ship...
+shi Más razón para necesitar a la comandante de vuelta en la nave...
+#$ cha shi_closedeyesthink 
+cha shi_closedeyesthink 
+#$ shi (The only way I'll be able to find out what's happening on Cera for sure is to find Ava. I hope she's still all right out there...)
+shi (La única forma de poder ser capaz de averiguar lo que está sucediendo en Cera con certeza es encontrando a Ava. Espero que todavía esté bien ahí fuera...)
+#$ cc0 chap2_asacafe2
+cc0 chap2_asacafe2
+#$ cc1 We need to contact the commander right away. (Proceed to next conversation)
+cc1 Necesitamos contactar a la comandante ahora mismo. (Seguir a la próxima conversación)
+#$ cc2 It's not going to be so easy to contact the commander, Asaga. (Proceed to next conversation)
+cc2 No será tan fácil contactar a la comandante, Asaga. (Seguir a la próxima conversación)
+#$ 
+
+#$ tag chap2_asacafe_cc2
+tag chap2_asacafe_cc2
+#$ tag chap2_asacafe2_cc1
+tag chap2_asacafe2_cc1
+#$ var contactava
+var contactava
+#$ voi asa_hap1
+voi asa_hap1
+#$ cha asa_bendover_confident 
+cha asa_bendover_confident 
+#$ asa Ya got it. Let's head to the bridge right now and get this taken care of.
+asa De acuerdo. Dirijámonos al puente ahora mismo y hagámonos cargo de esto.
+#$ hid asa
+hid asa
+#$ fade
+fade
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ voi asa_neu4
+voi asa_neu4
+#$ cha asa_fingerpoint_talk 
+cha asa_fingerpoint_talk 
+#$ asa Here's the comm station right here. I had a nice little chat with the commander just a few weeks ago while we were testing the Maray's electronics, so everything's already been set up. Ya just press these buttons and bypass the biometric lock and... voila! I've patched us through.
+asa Aquí mismo está la estación de comunicación. Tuve una buena y pequeña charla con la comandante hace solo unas pocas semanas mientras probábamos los electrónicos de la Maray, así que todo ya ha sido arreglado. Solo presiono estos botones y paso el cierre biométrico y... ¡voilá! Nos he conectado.
+#$ cha shi_sadclosedeyes 
+cha shi_sadclosedeyes 
+#$ shi (To think Ava was already so nearby... I was worried I might have had to fly this ship by myself...)
+shi (Y pensar que Ava estaba ya tan cerca... Estuve preocupado de que tuviera que volar esta nave por mí mismo...)
+#$ cha asa_fingerpoint_talk
+cha asa_fingerpoint_talk
+#$ asa Here, I've got her on the line.
+asa Ten, la tengo en línea.
+#$ hid asa
+hid asa
+#$ sou sou_holoopen
+sou sou_holoopen
+#$ ccc ava_suit
+ccc ava_suit
+#$ cha ava_armscrossed_talk 
+cha ava_armscrossed_talk 
+#$ ava I hear you Ryuvia One. This is Prime Minister Crescentia.
+ava Te escucho Ryuvia. Aquí la Primera Ministra Crescentia.
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi Ava! It's me! Kayto!
+shi ¡Ava! ¡Soy yo! ¡Kayto!
+#$ cha ava_armscrossed_madtalk 
+cha ava_armscrossed_madtalk 
+#$ ava What is this?
+ava ¿Qué es esto?
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi I'm on board the Ryuvian flagship along with Asaga and Sola. Listen, there's been a big development. It's hard to believe, but-
+shi Estoy a bordo de la nave insignea Ryuviana junto con Asaga y Sola. Escucha, ha habido una gran situación. Es difícil de creer, pero-
+#$ cha ava_armup_madtalk 
+cha ava_armup_madtalk 
+#$ ava I'm afraid I have no clue what you may be referring to. May I remind you, misuse of diplomatic channels is a national offense. This line is monitored at all times by security personnel. I have nothing further to add to this matter!
+ava Me temo que no tengo idea de a qué podría estar refiriéndose. Le recuerdo que, el mal empleo de los canales diplomáticos es una ofensa nacional. Esta línea es monitoreada todo el tiempo por personal de seguridad. ¡No tengo nada más que añadir a este asunto! 
+#$ sou sou_holoclose
+sou sou_holoclose
+#$ hid ava
+hid ava
+#$ voi asa_ang1
+voi asa_ang1
+#$ cha asa_bendover_madshout 
+cha asa_bendover_madshout 
+#$ asa Ah. She cut the channel. Whaddahell, I know she's stick in the mud, but that was awfully cold even for her!
+asa Ah. Cortó el canal. ¡Qué demonios, sé que ella es estricta, pero eso fue terriblemente frío incluso para ella!
+#$ cha shi_closedeyesthink 
+cha shi_closedeyesthink 
+#$ shi No... Ava wasn't acting like herself... She was trying to tell me something.
+shi No... Ava no estuvo actuando como ella misma... Estaba intentando decirme algo.
+#$ cha shi_gasp 
+cha shi_gasp 
+#$ shi The diplomatic channels to Cera have been bugged. By PACT!
+shi Los canales diplomáticos a Cera han sido pinchados. ¡Por el PACT!
+#$ voi asa_sad3
+voi asa_sad3
+#$ cha asa_armup_sadtalk 
+cha asa_armup_sadtalk 
+#$ asa Ah, I see, I see... That does make perfect sense, now that you mention it...
+asa Ah, ya veo, ya veo... Eso tiene perfecto sentido, ahora que lo mencionas...
+#$ cha shi_sadthink 
+cha shi_sadthink 
+#$ shi (I was so eager to talk to Ava that I lost my brain in the process... Of course PACT would have bugged Ava's office. There's no way they'd let the Prime Minister of the Cera hold any sort of real power...)
+shi (Estuve tan contento de hablar con Ava que perdí mi mente en el proceso... Por supuesto que el PACT habría pinchado la oficina de Ava. No hay forma de que le dejarían a la Primera Ministra de Cera tener ningún tipo de poder real...)
+#$ cha shi_neu  
+cha shi_neu  
+#$ shi Looks like trying to reach Ava's going to be harder than expected. We're going to need a security expert to figure out a way to scramble our transmission.
+shi Parece que intentar alcanzar a Ava será más difícil de lo esperado. Necesitaremos un experto en seguridad para averiguar una forma de lograr nuestra transmisión.
+#$ voi asa_neu1
+voi asa_neu1
+#$ cha asa_armup_confused 
+cha asa_armup_confused 
+#$ asa Eh? And where're we gonna find a crazy person like that?
+asa ¿Eh? ¿Y dónde vamos a encontrar a una persona loca como esa?
+#$ cha shi_smile 
+cha shi_smile 
+#$ shi Luckily, I know just the person...
+shi Afortunadamente, conozco a la persona indicada...
+#$ flag
+flag
+#$ hid shi
+hid shi
+#$ hid asa
+hid asa
+#$ dbg hide
+dbg hide
+#$ map 
+map 
+#$ 
+
+#$ tag chap2_asacafe2_cc2
+tag chap2_asacafe2_cc2
+#$ tag chap2_asacafe_cc3
+tag chap2_asacafe_cc3
+#$ voi asa_ang1
+voi asa_ang1
+#$ cha asa_armup_talk
+cha asa_armup_talk
+#$ asa Eh? Whaddaya mean?
+asa ¿Eh? ¿Qué quieres decir?
+#$ cha shi_focus 
+cha shi_focus 
+#$ shi We can't just ring the line to the Acting Prime Minister of Cera without certain security measures, even if we have access to the diplomatic channels. As soon as we call her, a whole bunch of red lights will turn on at the nearest PACT intelligence office, and it'll be child's play for them to trace the call to us.
+shi No podemos simplemente llamar a la Primera Ministra Interina de Cera sin ciertas medidas de seguridad, incluso si tenemos acceso a los canales diplomáticos. Tan pronto como la llamemos, un gran montón de luces rojas se encenderán en la oficina de inteligencia del PACT más cercana, y será un juego de niños para ellos rastrear la llamada hasta nosotros.
+#$ cha shi_focus 
+cha shi_focus 
+#$ shi You can bet that Fontana has intelligence personnel listening to everything said in Ava's office. And I'll have to pass on sharing any information with those rats.
+shi Puedes apostar a que Fontana tiene personal de inteligencia escuchando todo lo que se dice en la oficina de Ava. Y tendré que pasar de compartir cualquier información con esas ratas.
+#$ voi asa_neu4
+voi asa_neu4
+#$ cha asa_shrug_laugh
+cha asa_shrug_laugh
+#$ asa Oooh, I see, I see... Nice one, capt'n! Ya probably just saved us from PACT gettin' the drop on us!
+asa Oooh, ya veo, ya veo... ¡Bien hecho, capitán! ¡Probablemente nos acabas de salvar que conseguir que el PACT nos cayera encima!
+#$ cha shi_neu 
+cha shi_neu 
+#$ shi We're going to need a security expert to figure out a way to scramble our transmission.
+shi Necesitaremos un experto en seguridad para averiguar una forma de lograr nuestra transmisión.
+#$ voi asa_neu1
+voi asa_neu1
+#$ cha asa_armup_confused 
+cha asa_armup_confused 
+#$ asa Eh? And where're we gonna find a crazy person like that?
+asa ¿Eh? ¿Y dónde vamos a encontrar a una persona loca como esa?
+#$ cha shi_smile 
+cha shi_smile 
+#$ shi Luckily, I know just the person...
+shi Afortunadamente, conozco a la persona indicada...
+#$ flag
+flag
+#$ hid shi
+hid shi
+#$ hid asa
+hid asa
+#$ dbg hide
+dbg hide
+#$ map 
+map 
+#$ 
+
+#$ tag chap2_engineering_lynn
+tag chap2_engineering_lynn
+#$ dbg spr_bg_marayengineering
+dbg spr_bg_marayengineering
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ voi lyn_neu7
+voi lyn_neu7
+#$ cha lyn_handup_talk 
+cha lyn_handup_talk 
+#$ lyn All right, all right. I looked through holonet to track down this mercenary of yours.
+lyn Está bien, está bien. He revisado la holonet rastreando a esta mercenaria tuya.
+#$ voi lyn_hap1
+voi lyn_hap1
+#$ cha lyn_handtoface_confidentsly 
+cha lyn_handtoface_confidentsly 
+#$ lyn Heh, she really must be something to be able to hack diplomatic channels... Honestly, I'd love to give it a crack myself, you know...
+lyn Heh, ella realmente debe ser algo para ser capaz de hackear canales diplomáticos... Honestamente, amaría intentarlo yo misma, sabes...
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi We need Icari back if we're going to stop Crow Harbor, so we need to find her either way. Besides, I'm pretty sure it'd be a capital crime to let a Prototype hack through diplomatic transmissions...
+shi Necesitamos a Icari de vuelta si vamos a detener a Crow Harbor, así que necesitamos encontrarla de cualquier forma. Aparte, estoy bastante seguro de que sería un crimen capital dejar a un Prototipo hackear las transmisiones diplomáticas...
+#$ voi lyn_ang3
+voi lyn_ang3
+#$ cha lyn_armscrossed_closedeyespout 
+cha lyn_armscrossed_closedeyespout 
+#$ lyn Tch, be that way. Pretty sure I could crack any PACT listening device like an egg, but I guess some people are just so-narrow-minded-and-can-neverletgoofastupidgrudgegrumblegrumblegrumble...
+lyn Tch, así será. Estoy bastante segura de que podría romper cualquier dispositivo de escucha del PACT como un huevo, pero supongo que algunas personas son simplemente tan-estrechos-de-mente-y-nunca-puedendejarirestúpidosrencoresrefunfuñorefunfuñorefunfuño...
+#$ cha shi_frown 
+cha shi_frown 
+#$ shi ... ... ...
+shi ... ... ...
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_handonhip_focustalk 
+cha lyn_handonhip_focustalk 
+#$ lyn Sigh... This mercenary's somewhat of a legend anyways. She even has a fan club? Of mostly women? What's going on here?
+lyn Suspiro... Esta mercenaria es algo así como una leyenda de todas formas. ¿Incluso tiene un club de fans? ¿De mayormente mujeres? ¿Qué está pasando aquí?
+#$ cha shi_neu 
+cha shi_neu 
+#$ shi Sounds like we've found her.
+shi Suena a que la hemos encontrado.
+#$ voi lyn_neu6
+voi lyn_neu6
+#$ cha lyn_handup_talk 
+cha lyn_handup_talk 
+#$ lyn Anyways, word is that she's somewhere on New Kowloon Station, in orbit around Argasso. That narrow it down enough?
+lyn De cualquier forma, se rumorea que está en algún lugar en la Nueva Estación Kowloon, en órbita alrededor de Argasso. ¿Es eso lo suficientemente reducido?
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi It's a step in the right direction. Let me know if you find anything else.
+shi Es un paso en la dirección correcta. Hazme saber si averiguas alguna otra cosa.
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_handup_annoyedtalk 
+cha lyn_handup_annoyedtalk 
+#$ lyn Yes, captain, right away captain, sir...
+lyn Sí, capitán, ahora mismo capitán, señor...
+#$ cha shi_frown 
+cha shi_frown 
+#$ shi ... ... ...
+shi ... ... ...
+#$ hid shi
+hid shi
+#$ hid lyn
+hid lyn
+#$ obj Go to the galaxy map and head to New Kowloon Station in Argasso
+obj Ve al mapa de la galaxia y dirígete a la Nueva Estación Kowloon en Argasso
+#$ dbg hide
+dbg hide
+#$ var unlock_asa1
+var unlock_asa1
+#$ var unlock_sol1
+var unlock_sol1
+#$ var unlock_lyn1
+var unlock_lyn1
+#$ flag
+flag
+#$ map 
+map 
+#$ //Sola
+//Sola
+#$ tag sol_affection1
+tag sol_affection1
+#$ ccc sol_uni
+ccc sol_uni
+#$ dbg spr_bg_crewquarter_windows
+dbg spr_bg_crewquarter_windows
+#$ cha sol_back_neutral 
+cha sol_back_neutral 
+#$ sol Mm?
+sol ¿Mm?
+#$ cha shi_neu 
+cha shi_neu 
+#$ shi Your injuries all healed up well?
+shi ¿Tus heridas se han curado todas bien?
+#$ cha sol_side_neutral 
+cha sol_side_neutral 
+#$ sol Indeed. The Queen's healers tended to me back on Ryuvia. Their expertise proved immeasurable.
+sol Sin duda. Los curanderos de la Reina me atendieron allá en Ryuvia. Su experiencia demostró ser inmensurable.
+#$ cha shi_smile 
+cha shi_smile 
+#$ shi Looks so. You look like a new woman.
+shi Así parece. Luces como una mujer nueva.
+#$ cha sol_side_neutral 
+cha sol_side_neutral 
+#$ sol Should you not have been seen by the healers as well?
+sol ¿No deberías haber sido visto por los curanderos igualmente?
+#$ cha shi_sadclosedeyes 
+cha shi_sadclosedeyes 
+#$ shi Me? Ah, well... I don't mind looking like this. Heh...
+shi ¿Yo? Ah, bueno... No me importa lucir así. Heh...
+#$ cha sol_side_concernclosedeyesfrown 
+cha sol_side_concernclosedeyesfrown 
+#$ sol I see...
+sol Ya veo...
+#$ cha shi_sadsmile 
+cha shi_sadsmile 
+#$ shi Sorry if the old man look is rough on your eyes...
+shi Lo siento si la apariencia de viejo hombre es dura a tus ojos...
+#$ cha sol_front_sad 
+cha sol_front_sad 
+#$ sol Ah, no... I merely... wished you would care more for your health.
+sol Ah, no... Yo meramente... deseaba que te preocuparas más por tu salud.
+#$ cha shi_smile 
+cha shi_smile 
+#$ shi Don't worry Sola. I'm not planning on kneeling over any time soon.
+shi No te preocupes Sola. No planeo arrodillarme pronto.
+#$ cha sol_front_neutral 
+cha sol_front_neutral 
+#$ sol Did you wish to speak, captain?
+sol ¿Deseabas hablar, capitán?
+#$ cc0 chap2_sola1
+cc0 chap2_sola1
+#$ cc1 Tell me again about your war against Crow Harbor.
+cc1 Cuéntame de nuevo acerca de tu guerra contra Crow Harbor.
+#$ cc2 I'll talk to you later. (End conversation)
+cc2 Hablaré contigo más tarde. (Terminar conversación)
+#$ 
+
+#$ tag chap2_sola1_cc1
+tag chap2_sola1_cc1
+#$ mus mus_akaifuusen
+mus mus_akaifuusen
+#$ voi sol_neu8
+voi sol_neu8
+#$ cha sol_front_neutral
+cha sol_front_neutral
+#$ sol Very well. Given the situation, it seems prudent to review all that we know about Crow Harbor.
+sol Muy bien. Dada la situación, parece prudente revisar todo lo que conocemos acerca de Crow Harbor.
+#$ sol Over two thousand years ago, during my time, the Holy Ryuvian Empire was in the midst of a bloody civil war. Crow Harbor, the bastard son of the late Emperor, claimed the throne against my father, Rayvin di Ryuvia, the Second Prince. The Emperor and First Prince were assassinated with the detonation of a bomb, and my father was by law the rightful claimant to the throne.
+sol Hace dos mil años, durante mi tiempo, el Sagrado Imperio Ryuviano estuvo en medio de una sangriente guerra civil. Crow Harbor, el hijo bastardo del fallecido Emperador, reclamaba el trono contra mi padre, Rayvin di Ryuvia, el Segundo Príncipe. El Emperador y el Primer Príncipe fueron asesinados con la detonación de una bomba, y mi padre era por ley el legítimo demandante del trono.
+#$ sol However, the Emperor had also sired Crow Harbor with a minor Ryuvian Princess, and the jealous bastard son had always lusted the throne. It was none other than Crow Harbor who had planted the bomb which killed the Emperor and the First Prince.
+sol Sin embargo, el Emperador también había engendrado a Crow Harbor con una Princesa Ryuviana menor, y el celoso hijo bastardo siempre había codiciado el trono. No fue otro sino Crow Harbor quien había pantado la bomba que mató al Emperador y al Primer Príncipe.
+#$ sol ...Or so my father claimed. But in truth, I knew him as a man exceptional in only cruelty. And his daughter, the Princess, was of the same ilk. She proved too cowardly to bring war upon Crow Harbor as the Sharr of Ryuvia. She kidnapped me, an illegitimate daughter from the remote world of Far Port to play that role. I was baptized Sola di Ryuvia and declared the Sharr of Ryuvia.
+sol ...O eso decía mi padre. Pero en realidad, yo lo conocía como un hombre excepcional en solo crueldad. Y su hija, la Princesa, era de la misma índole. Ella demostró ser demasiado cobarde para llevar la guerra a Crow Harbor como la Sharr de Ryuvia. Me secuestró, una hija ilegítima del remoto mundo de Far Port para desempeñar ese papel. Fui bautizada como Sola di Ryuvia y declarada la Sharr de Ryuvia.
+#$ sol In all my interactions with him, my father was a spiteful and cowardly man. I loathed him and believed that it was actually him who had planted the bomb which murdered his father and his brother.
+sol En todas mis interacciones con él, mi padre fue un hombre malévolo y cobarde. Yo lo detestaba y creía que había sido en realidad él quien había plantado la bomba que asesinó a su padre y su hermano.
+#$ voi sol_sad5
+voi sol_sad5
+#$ cha sol_side_sadsmile 
+cha sol_side_sadsmile 
+#$ sol Despite my hate for my father though, becoming the Sharr of Ryuvia was the greatest pride of my life. For the first time, I felt loved by the trillions of Ryuvian citizens who I defended.
+sol Sin embargo a pesar de mi odio por mi padre, volverme la Sharr de Ryuvia fue el mayor orgullo de mi vida. Por primera vez, me sentí amada por los billones de ciudadanos Ryuvianos que defendía.
+#$ sol And so, I gladly sacrificed my life when the moment came. We cornered Crow Harbor and his fleet to the Mnemosyne System. It was there that I saw an opportunity to end the civil war once and for all.
+sol Y así, sacrifiqué con alegría mi vida cuando el momento llegó. Acorralamos a Crow Harbor y su flota en el Sistema Mnemosyne. Fue ahí que vi la oportunidad de terminar la guerra civil de una vez por todas.
+#$ sol The flagship of the Ryuvian Empire, the Sharr'Lac, had an ultimate ability: The Final Tear. The ship could explode in a massive space-time explosion, obliterating all life within a half light year radius. It was an weapon which could only be used with the payment of my own life.
+sol La nave insignea del Imperio Ryuviano, el Sharr'Lac, poseía una habilidad definitiva: La Final Tear. La nave podía explotar en una masiva explosión espacio-tiempo, borrando toda vida en un radio de medio año luz. Era un arma que solo podía ser usada con el pago de la propia vida.
+#$ cha sol_side_sadclosedeyestalk
+cha sol_side_sadclosedeyestalk
+#$ sol As I activated the Final Tear, I closed my eyes... and was enveloped by light. And I thought the next sight I would behold would be the infinite meadows of Heaven.
+sol Mientras activaba la Final Tear, cerré mis ojos... y fui envuelta por una luz. Y pensé que la próxima vista que presenciaría serían los prados infinitos del Paraíso.
+#$ cha sol_side_neutral
+cha sol_side_neutral
+#$ sol Yet instead... I awoke two thousand years into the future. And the sight which awaited me was not Heaven, but the face of the woman who would later become the Queen of the very same Ryuvia I once served...
+sol Pero aun así... deperté dos mil años en el futuro. Y la vista que me esperaba no era el Paraíso, sino el rostro de la mujer que luego se volvería la Reina de la misma Ryuvia a la que una vez serví...
+#$ sol I do not know how I was sent here... But could Crow Harbor have been transported here as well, through the same mechanism which brought me here, albeit at a later time? A difference in arrival time of only a few years seems well within the margin of error for a mechanism which could translocate us thousands of years...
+sol No sé cómo fui enviada aquí... ¿Pero pudo Crow Harbor haber sido transportado aquí de igual forma, a través del mismo mecanismo que me trajo aquí, aunque a un tiempo más tarde? Una diferencia en el tiempo de llegada de solo unos pocos años no parece mal dentro del margen de error de un mecanismo que podría translocarnos miles de años...
+#$ voi sol_ang5
+voi sol_ang5
+#$ cha sol_side_concernclosedeyesfrown
+cha sol_side_concernclosedeyesfrown
+#$ sol That is all I know of this matter. The rest is merely speculation, colored by anxiety.
+sol Eso es todo lo que sé de este asunto. El resto es meramente especulación, coloreado por ansiedad.
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+#$ shi Right now, it helps to have every single detail straight. Thanks for going through all of that again, Sola.
+shi Ahora mismo, nos ayuda tener cada simple detalle esclarecido. Gracias por contarme todo eso de nuevo, Sola.
+#$ voi sol_neu3
+voi sol_neu3
+#$ cha sol_front_neutral
+cha sol_front_neutral
+#$ sol Of course, captain.
+sol Por supuesto, capitán.
+#$ cc0 chap2_sola1_end
+cc0 chap2_sola1_end
+#$ cc1 I'll talk to you later. (End conversation)
+cc1 Hablaré contigo más tarde. (Terminar conversación)
+#$ 
+
+#$ tag chap2_sola1_cc2
+tag chap2_sola1_cc2
+#$ tag chap2_sola1_end_cc1
+tag chap2_sola1_end_cc1
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ voi sol_neu0
+voi sol_neu0
+#$ cha sol_front_neutral 
+cha sol_front_neutral 
+#$ sol Ah, lest I forget, captain, there is a certain matter...
+sol Ah, antes que lo olvide, capitán, hay un cierto asunto...
+#$ cha shi_neu 
+cha shi_neu 
+#$ shi Sola? Is something the matter?
+shi ¿Sola? ¿Hay algún problema?
+#$ voi sol_neu7
+voi sol_neu7
+#$ cha sol_front_neutral 
+cha sol_front_neutral 
+#$ sol Despite being assaulted by Crow's assassin drones, we know naught what lies before us. Thus, I have taken it upon myself to gather as much knowledge as I can regarding the Lost Technology from my time.
+sol A pesar de ser asaltados por los drones asesinos de Crow, no conocemos nada de lo que se encuentra ante nosotros. Por tanto, me he encomendado a mí misma reunir tanto conocimiento como pueda respecto a la Tecnología Perdida de mi tiempo.
+#$ sol Perhaps my familiarity with ancient Ryuvia can assist you in our latest quest.
+sol Quizás mi familiarización con la antigua Ryuvia pueda ayudarte en tu más reciente misión.
+#$ var sol_aff
+var sol_aff
+#$ cha shi_smile
+cha shi_smile
+#$ shi That's great news. We'll need all the help we can get.
+shi Esas son buenas noticias. Necesitaremos toda la ayuda que podamos conseguir.
+#$ hid sol
+hid sol
+#$ hid shi
+hid shi
+#$ dbg hide
+dbg hide
+#$ var unlock_side_sol1
+var unlock_side_sol1
+#$ var done_sol1
+var done_sol1
+#$ map 
+map 
+#$ 
+
+#$ tag asa_affection1
+tag asa_affection1
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ dbg spr_bg_maraymesshall
+dbg spr_bg_maraymesshall
+#$ voi asa_hap1
+voi asa_hap1
+#$ cha asa_excited_happy
+cha asa_excited_happy
+#$ asa Hey, hey, captain! How ya doin'.
+asa ¡Hey, hey, capitán! Cómo te va.
+#$ cha shi_surprise
+cha shi_surprise
+#$ shi O-Oh... Asaga.
+shi O-Oh... Asaga.
+#$ voi asa_neu2
+voi asa_neu2
+#$ cha asa_fingerpoint_talk
+cha asa_fingerpoint_talk
+#$ asa Something the matter?
+asa ¿Hay algún problema?
+#$ cha shi_sadsmile
+cha shi_sadsmile
+#$ shi Not really something... Just having a hard time believing any of this is happening.
+shi No realmente un problema... Solo teniendo un mal rato creyendo que todo esto está sucediendo.
+#$ shi Just a few days ago, I was living out of a trailer in the middle of nowhere. Now, I'm here, captaining the flagship of the Ryuvian Kingdom... What's more, I've now been commissioned as an officer of the Ryuvian fleet by the head of state herself. Which is you.
+shi Hace solo unos pocos días, estaba viviendo en un remolque en el medio de la nada. Ahora, estoy aquí, capitaneando la nave insignea del Reino Ryuviano. Y lo que es más, he sido nombrado como un oficial de la flota Ryuviana por la líder del estado en persona. La cual eres tú.
+#$ shi Guess I'm working for you now, Asaga. I'm not much to look at, but I'll do what I can.
+shi Supongo que estoy trabajando para tí ahora, Asaga. No tengo mucho que mostrar, pero haré lo que pueda.
+#$ voi asa_neu3
+voi asa_neu3
+#$ cha asa_shrug_sadtalk
+cha asa_shrug_sadtalk
+#$ asa Listen, capt'n... I may be the queen now, but just treat me as just Asaga, okay?
+asa Escucha, capitán... Podré ser la reina ahora, pero solo trátame como simplemente Asaga, ¿bien?
+#$ var asa_aff
+var asa_aff
+#$ cha asa_fist_focusconfident
+cha asa_fist_focusconfident
+#$ asa I didn't make you the captain on a whim. This is something we've been working towards for years. I might be the head of state, but I'm leaving all decisions on tactical matters to you. I have great faith in your abilities, capt'n!
+asa No te hice el capitán por un capricho. Esto es algo por lo que hemos estado trabajando durante años. Podré ser la líder de estado, pero te estoy dejando todas las decisiones sobre cuestiones tácticas a tí. ¡Tengo gran fe en tus habilidades, capitán!
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+#$ shi Really? But my track record of good tactical decisions is pretty lackluster...
+shi ¿En serio? Pero mi registro de buenas decisiones tácticas es bastante apagado...
+#$ shi I mean, if I had just listened to you and suspected Chigara more, we wouldn't be in this situation right now...
+shi Quiero decir, si solo te hubiera escuchado y sospechado de Chigara más, no estaríamos en esta situación ahora mismo...
+#$ voi asa_hap3
+voi asa_hap3
+#$ cha asa_bendover_confident
+cha asa_bendover_confident
+#$ asa Don't worry! The past is the past! Besides, I saw first hand what you're capable of when you're in command of an assault carrier. There's no other person on Ryuvia Prime more suited for this job!
+asa ¡No te preocupes! ¡El pasado es pasado! Aparte, vi de primera mano de lo que eres capaz cuando estás al mando de un carguero de asalto. ¡No hay otra persona en Ryuvia Prime más apta para este trabajo!
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+#$ shi Then... I won't let you down.
+shi Entonces... No te decepcionaré.
+#$ voi asa_hap2
+voi asa_hap2
+#$ cha asa_fist_focushappy
+cha asa_fist_focushappy
+#$ asa Ummu! I'm counting on ya, capt'n!
+asa ¡Ummu! ¡Cuento contigo, capitán!
+#$ voi asa_neu4
+voi asa_neu4
+#$ cha asa_shrug_catlaugh
+cha asa_shrug_catlaugh
+#$ asa Eeeh, now that we've settled that issue, ya feeling peckish for something? The ship's freshly stocked with all the goods from Ryuvia Prime. Ya better dig in now while everything's still fresh! I recommend the Ryuvian stew, level ten spice.
+asa Eeeh, ahora que hemos esclarecido ese asunto, ¿te sientes hambriento? La nave está recientemente abastecida con todas las mercancías de Ryuvia Prime. ¡Mejor comes ahora mientras todo está todavía fresco! Te recomiendo el estofado Ryuviano, nivel diez en picante.
+#$ voi asa_sad3
+voi asa_sad3
+#$ cha asa_armup_sadclosedkitty
+cha asa_armup_sadclosedkitty
+#$ asa Uggh... Let's hope the supply chains hold up and we don't have to eat nothing but basic rations once we're out of Ryuvian space...
+asa Uggh... Esperemos que las cadenas de abastecimiento se mantengan y no tengamos que comer nada más que raciones básicas una vez que estemos fuera del espacio Ryuviano...
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+#$ shi (Please Asaga, this is a pretty big issue for me... Don't suddenly change the subject and start talking about food...)
+shi (Por favor Asaga, este es un asunto bastante grande para mí... No cambies repentinamente el tema y comiences a hablar de comida...)
+#$ cha shi_sadsmile
+cha shi_sadsmile
+#$ shi I'll... do my best. First, we're going to have to get the commander back on the ship. Then we won't have to worry about running out of supplies.
+shi Yo... haré mi mejor esfuerzo. Primero, tendremos que regresar a la comandante de vuelta a la nave. Luego no tendremos que preocuparnos por quedarnos sin suministros.
+#$ voi asa_ang1
+voi asa_ang1
+#$ cha asa_fingerpoint_focustalk
+cha asa_fingerpoint_focustalk
+#$ asa You've got that right... We need the commander back to fill out all the acquisitions forms... Or else the real war might take place here in this mess hall.
+asa Tienes razón en eso... Necesitamos a la comandante de vuelta para llenar todos los formularios de adquisiciones... O de lo contrario la verdadera guerra podría tener lugar aquí en este comedor.
+#$ cha shi_smile
+cha shi_smile
+#$ shi (Sounds like I'm on the clock already.)
+shi (Parece que ya estoy justo de tiempo.)
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+#$ shi (Let's get to work. I can't let Asaga down. Not this time!)
+shi (Pongámonos a trabajar. No puedo decepcionar a Asaga. ¡No esta vez!)
+#$ cha shi_focus
+cha shi_focus
+#$ shi Actually, I think I'll just grab the insta-meal. I've got work to do.
+shi En realidad, creo que simplemente tomaré la insta-comida. Tengo trabajo que hacer.
+#$ voi asa_hap1
+voi asa_hap1
+#$ cha asa_excited_kittyfocus
+cha asa_excited_kittyfocus
+#$ asa Copy! Here, take these spice packets. They really pack a punch!
+asa ¡Copiado! Ten, toma estos sobres de picante. ¡Realmente asestan un buen golpe!
+#$ cha shi_smile
+cha shi_smile
+#$ shi Thanks.
+shi Gracias.
+#$ var done_asa1
+var done_asa1
+#$ dbg hide
+dbg hide
+#$ hid asa
+hid asa
+#$ map
+map
+#$ 
+
+#$ tag lyn_affection1
+tag lyn_affection1
+#$ dbg spr_bg_marayengineering
+dbg spr_bg_marayengineering
+#$ cha lyn_armscrossed_neutral
+cha lyn_armscrossed_neutral
+#$ voi lyn_oth1
+voi lyn_oth1
+#$ lyn Shields, huh? Welcome to Engineering.
+lyn Shields, ¿huh? Bienvenido a Ingeniería.
+#$ cc0 chap2_lyn1_1
+cc0 chap2_lyn1_1
+#$ cc1 Tell me about the Prototypes
+cc1 Cuéntame más acerca de los Prototipos.
+#$ cc2 As you were. (End conversation)
+cc2 Continua. (Terminar conversación)
+#$ 
+
+#$ tag chap2_lyn1_1_cc1
+tag chap2_lyn1_1_cc1
+#$ mus mus_fallen_angel_pt1
+mus mus_fallen_angel_pt1
+#$ voi lyn_neu5
+voi lyn_neu5
+#$ cha lyn_handup_talk
+cha lyn_handup_talk
+#$ lyn Ever since I cut myself off from the Mindstream, I've lost all contact with them. This happened over four years ago, so what I already told you before is the extent of what I know about the remaining Prototypes.
+lyn Desde que me separé del Torrente de Mentes, he perdido todo contacto con ellos. Esto sucedió hace más de cuatro años, así que lo que ya te dije antes es todo lo que sé acerca de los restantes Prototipos.
+#$ cha shi_focus
+cha shi_focus
+#$ shi Four years ago? So you were still connected to them for a while after I last saw you?
+shi ¿Hace cuatro años? ¿Así que todavía seguías conectada a ellos durante un tiempo luego de la última vez que te vi?
+#$ voi lyn_neu8
+voi lyn_neu8
+#$ cha lyn_handup_talk
+cha lyn_handup_talk
+#$ lyn After I so graciously pulled you out of the burning wreck of the Sunrider, I was held captive in a maximum security Ryuvian facility. It might be hard to believe now, but the Queen of Ryuvia wasn't always so chummy with me. Heh, well, I guess it's only expected. She hated me, just as you hate me now, Shields. Just as all of humanity hates my kind.
+lyn Después de que tan amablemente te saqué del ardiente naufragio del Sunrider, estuve presa en una instalación de máxima seguridad Ryuviana. Podrá ser difícil de creer ahora, pero la Reina de Ryuvia no siempre fue tan afable conmigo. Heh, bueno, supongo que es solo de esperar. Ella me odiaba, al igual que tú me odias ahora, Shields. Al igual que toda la humanidad odia a mi raza.
+#$ cha lyn_armscrossed_focustalk
+cha lyn_armscrossed_focustalk
+#$ lyn For two years, I felt echoes... distant rumblings in the mindstream. Something wasn't right. There was conflict between two voices. Something that shouldn't... couldn't happen. The mindstream was always one voice. We had always been united in purpose and in mind. But...
+lyn Durante dos años, sentí ecos... rumores distantes en el torrente de mentes. Algo no estaba bien. Había conflicto entre dos voces. Algo que no debería... que no podía pasar. El torrente de mentes fue siempre una voz. Siempre habíamos estado unidos en propósito y en mente. Pero...
+#$ cha lyn_handup_focustalk 
+cha lyn_handup_focustalk 
+#$ lyn I cut a deal with Asaga. I would cut myself off from the Mindstream and divulge all of the Prototypes' technology to Ryuvia. And she would guarantee my safety.
+lyn Cerré un trato con Asaga. Me separaría del Torrente de Mentes y divulgaría toda la tecnología de los Prototipos a Ryuvia. Y ella garantizaría mi seguridad.
+#$ voi lyn_sad5
+voi lyn_sad5
+#$ cha lyn_armscrossed_sad 
+cha lyn_armscrossed_sad 
+#$ lyn Because what I saw in the Mindstream scared me, Shields. It scared me. More than the thought of being a prisoner for the rest of my life. More than the thought of being dissected by you humans in a lab.
+lyn Porque lo que vi en el Torrente de Mentes me asustó, Shields. Me asustó. Más que pensar en ser una prisionera por el resto de mi vida. Más que pensar en ser disecada por ustedes humanos en un laboratorio.
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_armscrossed_sigh 
+cha lyn_armscrossed_sigh 
+#$ lyn Sigh...
+lyn Suspiro...
+#$ voi lyn_sad4
+voi lyn_sad4
+#$ cha lyn_armscrossed_sad 
+cha lyn_armscrossed_sad 
+#$ lyn I'm sorry, Shields.
+lyn Lo siento, Shields.
+#$ cha shi_confusethink 
+cha shi_confusethink 
+#$ shi You're sorry?
+shi ¿Lo sientes?
+#$ voi lyn_sad2
+voi lyn_sad2
+#$ cha lyn_handup_focustalk
+cha lyn_handup_focustalk
+#$ lyn From what I saw in the Mindstream that day, whatever remained of your girlfriend's soul is completely gone. If you know what's good for you, you should forget any notion of reuniting with her again. Never cross paths with the Prototypes ever again.
+lyn Por lo que vi en el Torrente de Mentes ese día, lo que fuera que quedase del alma de tu novia se ha ido completamente. Si sabes lo que te conviene, te olvidarás de cualquier idea de reunirte con ella de nuevo. Nunca más te cruces con los Prototipos de nuevo.
+#$ cha shi_sadthink
+cha shi_sadthink
+#$ shi (Chigara...)
+shi (Chigara...)
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_handup_focustalk 
+cha lyn_handup_focustalk 
+#$ lyn At least, that's what I've decided. That's why I put this thing over my head. I'm never going to meddle in the Prototypes' affairs ever again.
+lyn Al menos, eso es lo que he decidido. Es por eso que puse esta cosa sobre mi cabeza. Nunca más me voy a meter en asuntos de los Prototipos de nuevo.
+#$ cc0 chap2_lyn1_2a
+cc0 chap2_lyn1_2a
+#$ cc1 How did you win Asaga's trust?
+cc1 ¿Cómo te ganaste la confianza de Asaga?
+#$ cc2 What were the Prototypes like before the mindstream was corrupted?
+cc2 ¿Cómo eran los Prototipos antes de corromperse el torrente de mentes?
+#$ cc3 Tell me, was Chigara really a spy?
+cc3 Dime, ¿fue Chigara realmente una espía?
+#$ cc4 I'll talk to you later (End conversation)
+cc4 Hablaré contigo más tarde. (Terminar conversación)
+#$ 
+
+#$ tag chap2_lyn1_2a_cc1
+tag chap2_lyn1_2a_cc1
+#$ tag chap2_lyn1_2c_cc1
+tag chap2_lyn1_2c_cc1
+#$ tag chap2_lyn1_2d_cc1
+tag chap2_lyn1_2d_cc1
+#$ voi lyn_neu5
+voi lyn_neu5
+#$ cha lyn_handup_talk 
+cha lyn_handup_talk 
+#$ lyn That? I'm afraid that's something you humans would refer to as a long story...
+lyn ¿Eso? Me temo que es algo a lo que ustedes humanos se referirían como una larga historia...
+#$ lyn Trust me, back when I first arrived at Ryuvia, Asaga would have had no issues with tying me up and tossing me out the nearest air lock. But she really needed a new ship built. You know, the ship you're standing on right now. And there was nobody on Ryuvia who could pull that off, except me.
+lyn Créeme, antes cuando llegué por primera vez a Ryuvia, Asaga no habría tenido problemas con atarme y lanzarme por la esclusa de aire más cercana. Pero ella realmente necesitaba construir una nueva nave. Tú sabes, la nave en la que estás parado ahora mismo,. Y no había nadie en Ryuvia que pudiera lograr eso, excepto yo.
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_armscrossed_sigh 
+cha lyn_armscrossed_sigh 
+#$ lyn Sigh... You're really the worst, you know.
+lyn Suspiro... Eres realmente el peor, sabes.
+#$ cha shi_confusethink 
+cha shi_confusethink 
+#$ shi Me?
+shi ¿Yo?
+#$ voi lyn_neu4
+voi lyn_neu4
+#$ cha lyn_armscrossed_focustalk 
+cha lyn_armscrossed_focustalk 
+#$ lyn Listen, Shields. She hated my guts, but she was willing to set me free if it gave her a shot at getting you a new ship. And honestly, you really don't deserve that at all! You totally ignored her feelings, got googly-eyed at Chigara, and to top it off, it was you who decided to crash your ship in the first place! Don't you think you're a little... Ugh, you know, nevermind.
+lyn Escucha, Shields. Ella me odiaba, pero estaba dispuesta a liberarme si eso le daba una oportunidad para conseguirte una nueva nave. ¡Y honestamente, realmente no te mereces eso en lo absoluto! ¡Ignoraste totalmente sus sentimientos, te pusiste romántico con Chigara, y encima de eso, fuiste tú quien decidió estrellar tu nave en primer lugar! No crees que eres un poco... Ugh, sabes, olvídalo.
+#$ cha shi_sadgroan 
+cha shi_sadgroan 
+#$ shi U-Ugh... W-Well, it was you Prototypes that set me up in the first place...
+shi U-Ugh... B-Bueno, fueron ustedes los Prototipos quienes me dispusieron así en primer lugar...
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_armscrossed_sigh 
+cha lyn_armscrossed_sigh 
+#$ lyn I figured you were going to point that out...
+lyn Supuse que dirías a decir eso...
+#$ cha lyn_handup_talk 
+cha lyn_handup_talk 
+#$ lyn Anyways, I suppose what changed Asaga's mind the most about me was that little quest to find the ancient fusion power stabilizer... Ugh, that was a mess...
+lyn De todas formas, supongo que lo que más cambió de parecer a Asaga sobre mí fue esa pequeña búsqueda para encontrar el antiguo estabilizador de poder de fusión... Ugh, eso fue un desastre...
+#$ cha shi_neu 
+cha shi_neu 
+#$ shi Fusion power stabilizer?
+shi ¿Estabilizador de poder de fusión?
+#$ voi lyn_neu6
+voi lyn_neu6
+#$ cha lyn_handup_talk 
+cha lyn_handup_talk 
+#$ lyn The FPS-9000-ACS. It regulates the output of the Maray's two cores so that one half of the ship doesn't tear off from the other. Unfortunately, the one we had burned out centuries ago, explaining why the Twin Drives couldn't be operated at anything higher than 15 percent power.
+lyn El EPF-9000-ACS. Regula la salida de los dos núcleos de la Maray de forma que una mitad de la nave no se desgarre de la otra. Desafortunadamente, el que teníamos se había quemado hacía siglos, lo cual explica por qué los Controladores Duales no podían ser operados por encima del 15 por ciento de la energía.
+#$ lyn Luckily, we found in Ryuvia's records that another ship with the identical part was put in storage inside a forest moon facility halfway across the Neutral Rim four hundred years ago. Ah, but we couldn't pin point its precise location, and to our great surprise when we got there, the moon populated by... some really big beasts with a taste for manflesh.
+lyn Por suerte, encontramos en los registros de Ryuvia que otra nave con la parte idéntica fue puesta en un almacén dentro de una instalación en una luna boscosa a mitad de camino en el Margen Neutral hace cuatrocientos años. Ah, pero no pudimos establecer su ubicación precisa, y para nuestra gran sorpresa cuando llegamos ahí, la luna estaba poblada por... unas bestias realmente grandes con hambre de carne humana.
+#$ lyn We also had a few run-ins with a certain short-statured space pirate... All in all, Asaga and I had to overcome some serious trials on that moon...
+lyn También tuvimos unos cuantos encuentros con una cierta pirata espacial de pequeña estatura... En resumen, Asaga y yo tuvimos que superar algunos serios retos en esa luna...
+#$ lyn But somehow, after we returned to Ryuvia Prime with the fusion power stabilizer in hand, we had become best friends!
+lyn ¡Pero de alguna forma, luego de que regresamos a Ryuvia Prime con el estabilizador de poder de fusión en las manos, nos habíamos vuelto mejores amigas!
+#$ cha shi_confusethink 
+cha shi_confusethink 
+#$ shi It sounds like you guys had quite the adventure...
+shi Parece que ustedes chicas tuvieron una gran aventura...
+#$ cha lyn_handup_talk 
+cha lyn_handup_talk 
+#$ lyn After that, Asaga made me an honorary Ryuvian citizen and vouched for my loyalty. And that's the only reason why I'm still alive.
+lyn Luego de eso, Asaga me hizo una ciudadana Ryuviana honoraria y garantizó mi lealtad. Y esa es la única razón por la que todavía estoy viva.
+#$ cha shi_focus
+cha shi_focus
+#$ shi Only reason you're alive? There were others trying to kill you?
+shi ¿La única razón por la que estás viva? ¿Hubo otros intentando asesinarte?
+#$ voi lyn_ang1
+voi lyn_ang1
+#$ cha lyn_armscrossed_focustalk 
+cha lyn_armscrossed_focustalk 
+#$ lyn That Fontana bastard's pinned every single evil PACT ever committed on the monstrous Prototypes and their mad leader, Alice the imposter. PACT's practically the heroes now, while we're the prime evil. Well, I'm sure you would agree with the latter, though.
+lyn Ese bastardo de Fontana inculpó por cada simple mal que el PACT cometió a los monstruosos Prototipos y su demente líder, Alice la impostora. El PACT son prácticamente los héroes ahora, mientras que nosotros somos el mayor mal. Bueno, estoy segura de que estarías de acuerdo con lo segundo, de todas formas. 
+#$ lyn My point is just that, even on Ryuvia Prime, there's a lot of people who wouldn't hesitate to put a bullet through my head if I happened to walk by on the streets...
+lyn Mi punto es simplemente que, incluso en Ryuvia Prime, hay un montón de gente que no vacilaría en atravesar una bala por mi cabeza si fuera a caminar por las calles...
+#$ cha shi_closedeyesthink 
+cha shi_closedeyesthink 
+#$ shi (It sounds like Lynn's been through a lot these past six years... I can't believe I missed all of this.)
+shi (Parece que Lynn ha pasado por un montón estos últimos seis años... No puedo creer que me perdí todo esto.)
+#$ cc0 chap2_lyn1_2b
+cc0 chap2_lyn1_2b
+#$ cc1 What were the Prototypes like before the mindstream was corrupted?
+cc1 ¿Cómo eran los Prototipos antes de corromperse el torrente de mentes?
+#$ cc2 Tell me, was Chigara really a spy?
+cc2 Dime, ¿fue Chigara realmente una espía?
+#$ cc3 I'll talk to you later (End conversation)
+cc3 Hablaré contigo más tarde. (Terminar conversación)
+#$ 
+
+#$ tag chap2_lyn1_2a_cc2
+tag chap2_lyn1_2a_cc2
+#$ tag chap2_lyn1_2b_cc1
+tag chap2_lyn1_2b_cc1
+#$ tag chap2_lyn1_2d_cc2
+tag chap2_lyn1_2d_cc2
+#$ voi lyn_hap1
+voi lyn_hap1
+#$ cha lyn_handup_talk
+cha lyn_handup_talk
+#$ lyn Heh, I figured you'd ask me this. Ryuvian Intelligence was really curious about what I knew about the Prototypes' leadership structure. I'm afraid it's somewhat of a moot question though, since the Prototypes of today are nothing like what I personally experienced during the early Neutral Rim War.
+lyn Heh, supuse que me preguntarías esto. La Inteligencia Ryuviana estaba realmente curiosa acerca de lo que sabía sobre la estructura de liderazgo de los Prototipos. Sin embargo me temo que es algo así como una pregunta discutible, ya que los Prototipos de hoy no son nada como lo que experimenté personalmente durante la temprana Guerra del Margen Neutral.
+#$ lyn To begin with, I was a pilot model. I was created for the purpose of flying a ryder in battle.
+lyn Para empezar, yo era un modelo piloto. Fui creada para el propósito de volar un ryder en batalla.
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi You mean the Prototypes are created with specific roles in mind?
+shi ¿Quieres decir que los Prototipos son creados con roles específicos en mente?
+#$ lyn I'd say so. Of course, all Prototypes are genetically enhanced with higher brain function than humans. Still, we found it more efficient to divide labor amongst ourselves, so we Prototypes were born implanted with a certain set of skills based on our archetype.
+lyn Eso diría. Por supuesto, todos los Prototipos son genéticamente mejorados con mayor función cerebral que los humanos. Aun así, hallamos más eficiente dividir la labor entre nosotros mismos, así que nosotros los Prototipos nacimos con un cierto conjunto de habilidades implantadas basado en nuestro arquetipo.
+#$ lyn Some were born knowing how to influence humans. Some were born with the power to fabricate unbelievable machinery, even by our standards. And some, like me, were born to be top ryder aces. Heh, so relax, Shields. I couldn't manipulate you if I tried, if it wasn't obvious enough.
+lyn Algunos nacen sabiendo cómo influenciar a los humanos. Algunos nacen con el poder de crear maquinaria increíble, incluso para nuestros estándares. Y algunos, como yo, nacen para ser los mejores aces ryder. Heh, así que relájate, Shields. Yo no podría manipularte si lo intentara, por si no era suficientemente obvio.
+#$ lyn Since I was a pilot though, I'm afraid I didn't really participate much in our decision making. Still, when you're all connected in the Mindstream, there was no me. We were all one.
+lyn Sin embargo ya que yo era un piloto, me temo que realmente no participaba mucho en la toma de nuestras decisiones. Aun así, cuando todos están conectados en el Torrente de Mentes, no había un yo. Todos éramos uno.
+#$ lyn I knew that amongst the Prototypes, there was the Alpha... our creator. And her sister, Alice, the strange...
+lyn Conocía que entre los Prototipos, estaba el Alpha... nuestra creadora. Y su hermana, Alice, la extraña...
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi Strange?
+shi ¿Extraña?
+#$ voi lyn_neu6
+voi lyn_neu6
+#$ cha lyn_armscrossed_focustalk 
+cha lyn_armscrossed_focustalk 
+#$ lyn She kept her thoughts hidden to us. Now I know it was because her plan was to betray us all along... I knew nothing of her, but because Alpha had entrusted all of us to Alice, we obeyed her.
+lyn Ella mantenía sus pensamientos ocultos de nosotros. Ahora sé que era porque su plan fue traicionarnos todo el tiempo... No sabía nada de ella, pero debido a que Alpha nos encomendó a todos nosotros a Alice, la obedecíamos.
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi So Alice was your boss, but you knew nothing about her?
+shi Así que Alice era su jefa, ¿pero no sabían nada sobre ella?
+#$ lyn Alpha gave us to Alice. It was not our place to question the Alpha. We did not know who Alice was or why we were placed under her. We merely obeyed.
+lyn Alpha nos entregó a Alice. No era nuestro lugar cuestionar al Alpha. No sabíamos quién era Alice o por qué fuimos asignados a sus órdenes. Meramente obedecíamos.
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi So basically, you were just a lowly worker drone in a hivemind?
+shi Así que básicamente, ¿eras solo un simple dron trabajador en una colmena de mentes?
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_armscrossed_sigh 
+cha lyn_armscrossed_sigh 
+#$ lyn Sigh... I suppose you could put it that way.
+lyn Suspiro... Supongo que podrías ponerlo de esa forma.
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi Did you at least know anything about the Alpha?
+shi ¿Al menos sabías algo acerca del Alpha?
+#$ cha lyn_handonhip_focustalk 
+cha lyn_handonhip_focustalk 
+#$ lyn She was our creator. Our Queen.
+lyn Ella era nuestra creadora. Nuestra Reina.
+#$ cha shi_focus
+cha shi_focus
+#$ shi Is that... all?
+shi ¿Eso es... todo?
+#$ cha lyn_handonhip_closedeyessadtalk 
+cha lyn_handonhip_closedeyessadtalk 
+#$ lyn It never occurred to me to find out more when I was connected to the Mindstream. I was... already one with Alpha. From her radiated such warmth... I had no need to know more about the Alpha, as I understood from the moment I was born, until the moment I cut myself off from the Mindstream, that her very existence was the only condition I needed to exist.  
+lyn Nunca se me ocurrió hallar más cuando estaba conectada al Torrente de Mentes. Yo ya era... una con Alpha. Ella irradiaba tanta calidez... Yo no necesitaba saber más sobre el Alpha, ya que entendí desde el momento en que nací, hasta el momento en que me separé del Torrente de Mentes, que su misma existencia era la única condición que necesitaba para existir.
+#$ lyn My purpose was to fly my ryder. That was all. It wasn't after I put on this Q-Jammer that I gradually started to understand what you humans refer to as the self.
+lyn Mi propósito era volar mi ryder. Eso era todo. No fue hasta después que me puse este Q-Jammer que gradualmente comencé a entender a lo que ustedes humanos se refieren como uno mismo.
+#$ cha lyn_handup_talk 
+cha lyn_handup_talk 
+#$ lyn When I was a Prototype, there was no me. There was only us. The thought of questioning the Alpha... was inconceivable. As unnatural as questioning our own existence.
+lyn Cuando era un Prototipo, no había yo. Solo había nosotros. La idea de cuestionar al Alpha... era inconcebible. Tan antinatural como cuestionar nuestra propia existencia.
+#$ cha shi_closedeyesthink 
+cha shi_closedeyesthink 
+#$ shi (So in the end, Lynn was a soldier drone in the hivemind. She doesn't know anything about where Alpha came from, or of Alice's motives...)
+shi (Así que al final, Lynn era un dron soldado en la colmena de mentes. Ella no sabe nada sobre de dónde salió Alpha, o de los motivos de Alice...)
+#$ cc0 chap2_lyn1_2c
+cc0 chap2_lyn1_2c
+#$ cc1 How did you win Asaga's trust?
+cc1 ¿Cómo te ganaste la confianza de Asaga?
+#$ cc2 Tell me, was Chigara really a spy?
+cc2 Dime, ¿fue Chigara realmente una espía?
+#$ cc3 I'll talk to you later (End conversation)
+cc3 Hablaré contigo más tarde. (Terminar conversación)
+#$ 
+
+#$ tag chap2_lyn1_2c_cc2
+tag chap2_lyn1_2c_cc2
+#$ tag chap2_lyn1_2b_cc2
+tag chap2_lyn1_2b_cc2
+#$ tag chap2_lyn1_2a_cc3
+tag chap2_lyn1_2a_cc3
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_armscrossed_sigh 
+cha lyn_armscrossed_sigh 
+#$ lyn Sigh... Shields, I really don't feel like speaking sweet nothings to help you sleep better at night...
+lyn Suspiro... Shields, realmente no me apetece decirte cosas dulces para ayudarte a dormir mejor por la noche...
+#$ cha shi_sigh 
+cha shi_sigh 
+#$ shi I just want an answer.
+shi Solo quiero una respuesta.
+#$ voi lyn_neu9
+voi lyn_neu9
+#$ cha lyn_handup_talk 
+cha lyn_handup_talk 
+#$ lyn The Prototype you knew as Chigara was a spy model, intended to infiltrate Ryuvia's government by winning the trust of the Ryuvian Princess, Asaga. Spy models like her are born believing a cover story, and seeded to thousands of worlds across the galaxy, to become the eyes and ears of the Mindstream.
+lyn El Prototipo que conocías como Chigara era un modelo espía, destinado para infiltrarse en el gobierno de Ryuvia ganándose la confianza de la Princesa Ryuviana, Asaga. Modelos espía como ella nacen creyéndose una historia inventada, y esparcidas a miles de mundos por la galaxia, para volverse los ojos y oídos del Torrente de Mentes.
+#$ cha lyn_armscrossed_focustalk 
+cha lyn_armscrossed_focustalk 
+#$ lyn Was she snickering every night in front of a mirror, cackling how easy it was to manipulate you, Shields? Of course not. She had no clue she was even a spy in the first place.
+lyn ¿Se reía ella todas las noches en frente de un espejo, acerca de cuán fácil era manipularte, Shields? Por supuesto que no. Ella no tenía idea de que era una espía en primer lugar.
+#$ lyn But make no mistake. Whether she knew it or not, she was programmed to integrate herself into human society. She was designed to win your trust.
+lyn Pero no te equivoques. Ya sea que lo supiera o no, ella fue programada para integrarse en la sociedad humana. Fue designada para ganarse tu confianza.
+#$ cha lyn_handup_talk 
+cha lyn_handup_talk 
+#$ lyn Did it ever feel like she was surprisingly empathetic? That she understood your feelings? Cared about you? I'm afraid she was created to do all that.
+lyn ¿Alguna vez se sintió como que era sorprendentemente empática? ¿Que entendía tus sentimientos? ¿Que se preocupaba por tí? Me temo que ella fue creada para hacer todo eso.
+#$ cha shi_sadthink 
+cha shi_sadthink 
+#$ shi Oh...
+shi Oh...
+#$ voi lyn_ang5
+voi lyn_ang5
+#$ cha lyn_handonhip_focustalk 
+cha lyn_handonhip_focustalk 
+#$ lyn Ah, spare me the long face Shields. What, would you have preferred it if I said that she was just an innocent victim in all this, who had nothing to do with the Prototypes? Wake up and face the facts!
+lyn Ah, ahórrame la cara larga Shields. ¿Qué, hubieras preferido que te hubiera dicho que ella era solo una inocente víctima en todo esto, que no tenía nada que ver con los Prototipos? ¡Despierta y encara los hechos!
+#$ cha shi_sadthink 
+cha shi_sadthink 
+#$ shi (I was blind to the fact that Chigara was a Prototype... But did she really mean for the Liberation Day Massacre to occur though?)
+shi (Estuve ciego ante el hecho de que Chigara era un Prototipo... ¿Pero sin embargo realmente pretendía que ocurriera la Masacre del Día de Liberación?)
+#$ cha shi_neu 
+cha shi_neu 
+#$ shi But was it your endgame for Chigara to cause the Liberation Day Massacre? Why did she betray us all?
+shi ¿Pero era su objetivo final que Chigara provocara la Masacre del Día de Liberación? ¿Por qué nos traicionó a todos?
+#$ cha lyn_handup_annoyedtalk 
+cha lyn_handup_annoyedtalk 
+#$ lyn Sigh, don't ask me about what the endgame was, Shields. I was just a pilot. But to answer your question, no, the Alpha was deeply perturbed by what happened. It was Alice who assumed control of Chigara and assassinated Admiral Harold Grey, triggering the escalation of the Neutral Rim War.
+lyn Suspiro, no me preguntes sobre cuál era el objetivo final, Shields. Yo era solo un piloto. Pero para responder a tu pregunta, no, el Alpha estuvo profundamente molesto por lo que sucedió. Fue Alice quien asumió el control de Chigara y asesinó al Almirante Harold Grey, provocando el escalamiento de la Guerra del Margen Neutral.
+#$ cha lyn_armscrossed_sigh 
+cha lyn_armscrossed_sigh 
+#$ lyn As for why Alice would do such a thing is beyond the knowledge of the Prototypes... And perhaps even Alpha herself.
+lyn En cuanto a por qué Alice haría semejante cosa está más allá del conocimiento de los Prototipos... Y quizás incluso de Alpha misma.
+#$ cha shi_closedeyesthink 
+cha shi_closedeyesthink 
+#$ shi (So in the end, the puppet master was always Alice...)
+shi (Así que al final, la marionetista fue siempre Alice...)
+#$ cc0 chap2_lyn1_2d
+cc0 chap2_lyn1_2d
+#$ cc1 How did you win Asaga's trust?
+cc1 ¿Cómo te ganaste la confianza de Asaga?
+#$ cc2 What were the Prototypes like before the mindstream was corrupted?
+cc2 ¿Cómo eran los Prototipos antes de corromperse el torrente de mentes?
+#$ cc3 I'll talk to you later (End conversation)
+cc3 Hablaré contigo más tarde. (Terminar conversación)
+#$ 
+
+#$ tag chap2_lyn1_2a_cc4
+tag chap2_lyn1_2a_cc4
+#$ tag chap2_lyn1_2b_cc3
+tag chap2_lyn1_2b_cc3
+#$ tag chap2_lyn1_2c_cc3
+tag chap2_lyn1_2c_cc3
+#$ tag chap2_lyn1_2d_cc3
+tag chap2_lyn1_2d_cc3
+#$ tag chap2_lyn1_1_cc2
+tag chap2_lyn1_1_cc2
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_armscrossed_focustalk 
+cha lyn_armscrossed_focustalk 
+#$ lyn Sigh... Before you leave Shields...
+lyn Suspiro... Antes de irte Shields...
+#$ cha shi_neu 
+cha shi_neu 
+#$ shi Lynn?
+shi ¿Lynn?
+#$ voi lyn_neu4
+voi lyn_neu4
+#$ cha lyn_armscrossed_focustalk 
+cha lyn_armscrossed_focustalk 
+#$ lyn I know you don't like me. But unless we work together, this ship's as good as sunk. Remember, you're absolutely not allowed to crash this one.
+lyn Sé que no te gusto. Pero a menos que trabajemos juntos, esta nave será perfectamente hundida. Recuerda, absolutamente no tienes permitido hundir esta.
+#$ var lyn_aff
+var lyn_aff
+#$ cha shi_neu 
+cha shi_neu 
+#$ shi Right.
+shi Está bien.
+#$ voi lyn_neu9
+voi lyn_neu9
+#$ cha lyn_armscrossed_sigh 
+cha lyn_armscrossed_sigh 
+#$ lyn I saw everything in the Mindstream... Well, I know what happened.
+lyn Lo vi todo en el Torrente de Mentes... Bueno, sé lo que sucedió.
+#$ cha shi_closedeyesangryclench 
+cha shi_closedeyesangryclench 
+#$ shi Ugh.
+shi Ugh.
+#$ voi lyn_ang5
+voi lyn_ang5
+#$ cha lyn_armscrossed_bigsigh 
+cha lyn_armscrossed_bigsigh 
+#$ lyn Tch. Silly humans and their notions of privacy.
+lyn Tch. Ridículos humanos y sus nociones de privacidad.
+#$ cha lyn_handup_focustalk
+cha lyn_handup_focustalk
+#$ lyn But I want you to know, I'm not her. I have this thing on top of my head. I'm not a Prototype. Not anymore.
+lyn Pero quiero que sepas, que no soy ella. Tengo esta cosa encima de mi cabeza. No soy un Prototipo. Ya no más.
+#$ cha lyn_armscrossed_bigsigh 
+cha lyn_armscrossed_bigsigh 
+#$ lyn Ugh, this kind of talk really isn't for me. Ah, just come back here whenever you need the ship upgraded, okay? And don't forget to bring me some credits too.
+lyn Ugh, este tipo de conversación realmente no es para mí. Ah, simplemente regresa aquí siempre que necesites mejorar la nave, ¿de acuerdo? Y no olvides traerme algunos créditos también.
+#$ cha shi_focus
+cha shi_focus
+#$ shi Yeah.
+shi Sí.
+#$ var done_lyn1
+var done_lyn1
+#$ hid lyn
+hid lyn
+#$ hid shi
+hid shi
+#$ dbg hide
+dbg hide
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ map 
+map 
+#$ tag chap2_arrivalatargasso
+tag chap2_arrivalatargasso
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc asa_uni
+ccc asa_uni
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ cha shi_focus 
+cha shi_focus 
+#$ shi We're here. New Kowloon Station is dead ahead.
+shi Aquí estamos. La Nueva Estación Kowloon está justo enfrente.
+#$ cha lyn_handonhip_focustalk 
+cha lyn_handonhip_focustalk 
+#$ lyn I'd be careful around these parts. Based on what I read on the holo, the Lothorian Mafia's got its tentacles all over this planet. You'll find smugglers, pirates, mercenaries, along with your garden variety lowlifes here.
+lyn Yo tendría cuidado por estas partes. Basada en lo que leí en la holo, la Mafia Lothariana tiene sus tentáculos por todo este planeta. Encontrarás traficantes, piratas, mercenarios, junto con toda tu variedad de jardín de escorias aquí.
+#$ cha asa_armscrossed_confident 
+cha asa_armscrossed_confident 
+#$ asa A proverbial hive of scum and villainy, eh...
+asa Una colmena proverbial de escoria y villanía, eh...
+#$ cha lyn_handup_talk 
+cha lyn_handup_talk 
+#$ lyn Hey Shields, what exactly is your plan to get this mercenary back on the ship? Is she really going to believe you when you tell her that an ancient Ryuvian warlord's arrived thousands of years from the past to take over the galaxy?
+lyn Hey Shields, ¿cuál exactamente es tu plan para tener a esta mercenaria de vuelta en la nave? ¿Realmente va a creerte cuando le cuentes que un antiguo señor de la guerra Ryuviano llegó desde miles de años en el pasado para gobernar la galaxia?
+#$ cha shi_confusethink 
+cha shi_confusethink 
+#$ shi (That's a good question, actually. Icari's not a Ryuvian like Asaga and Sola. It's gonna take a lot more to convince her that Crow Harbor's here in our timeline...)
+shi (Esa es una buena pregunta, en realidad. Icari no es una Ryuviana como Asaga y Sola. Va a necesitarse mucho más para convencerla de que Crow Harbor está aquí en nuestra línea temporal...)
+#$ sou sou_warning
+sou sou_warning
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi Shit. Hostiles, on an intercept course! Red alert!
+shi Diablos. ¡Enemigos, en un curso de intercepción! ¡Alerta roja!
+#$ hid asa
+hid asa
+#$ hid lyn
+hid lyn
+#$ mus mus_suigeneris
+mus mus_suigeneris
+#$ sou sou_holoopen
+sou sou_holoopen
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ cha cos_laugh_crazy 
+cha cos_laugh_crazy 
+#$ cos SHIELDS! Fancy seeing you again here!!
+cos ¡SHIELDS! ¡¡Qué bueno verte de nuevo aquí!!
+#$ cha shi_surprise 
+cha shi_surprise 
+#$ shi Cosette?! Didn't you blow up back on Ryuvia?!
+shi ¡¿Cosette?! ¡¿No explotaste allá en Ryuvia?!
+#$ cha cos_laugh_crazy 
+cha cos_laugh_crazy 
+#$ cos I crawled back from the depths of Hell to kill you, Shields! Are you some kind of sicko, chasing me across the galaxy?! I knew those rumors of you chasing girls across the stars for your harem were true!
+cos ¡Me arrastré de vuelta desde las profundidades del Infierno para matarte, Shields! ¡¿Eres algún tipo de psicópata, persiguiéndome por toda la galaxia?! ¡Sabía que estos rumores acerca de tí persiguiento chicas por las estrellas para tu harem eran ciertos!
+#$ cha shi_sigh 
+cha shi_sigh 
+#$ shi It's just a coincidence, Cosette. I had no clue you were even here in the first place.
+shi Es simplemente una coincidencia, Cosette. No tenía idea de que estabas siquiera aquí en primer lugar.
+#$ cha cos_laugh_sneer 
+cha cos_laugh_sneer 
+#$ cos Well, now that you're here, there's no way I'm gonna let you go without a fight!
+cos ¡Bueno, ahora que estás aquí, no hay forma de que te deje ir sin una pelea!
+#$ cha shi_sadclosedeyes 
+cha shi_sadclosedeyes 
+#$ shi (I figured as much... I knew you would say exactly that...)
+shi (Eso supuse... Sabía que dirías exactamente eso...)
+#$ cha cos_laugh_crazy 
+cha cos_laugh_crazy 
+#$ cos Boys! Do them in!
+cos ¡Chicos! ¡A ellos!
+#$ bat roo_chap2_battle1
+bat roo_chap2_battle1
+#$ 
+
+#$ tag chap2_cosettemidbattle
+tag chap2_cosettemidbattle
+#$ mus mus_suigeneris
+mus mus_suigeneris
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ ccc sol_plugsuit
+ccc sol_plugsuit
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha cos_laugh_crazy 
+cha cos_laugh_crazy 
+#$ cos Hahaha! You're a moron for facing me here! (Whistle) Hey boys, ten thousand creds to the one who blows up the pocket carrier!
+cos ¡Hahaha! ¡Eres un tonto al enfrentarte a mí aquí! (Silbido) ¡Hey chicos, diez mil créditos al que explote el carguero de bolsillo!
+#$ cos I've got you now, Shields! Your head's gonna be my new hood ornament!
+cos ¡Te tengo ahora, Shields! ¡Tu cabeza será el nuevo adorno de mi sombrero!
+#$ cha shi_closedeyesthink 
+cha shi_closedeyesthink 
+#$ shi (She's right about us being at a tactical disadvantage here. It's like roaches swarming out of a dumpster.) 
+shi (Ella tiene razón acerca de nosotros estando en una desventaja táctica aquí. Son como cucarachas saliendo de un basurero.) 
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi We don't have to fight, Cosette. I'm not working for the Alliance any more. And from the look of things, you're not with PACT either. There's no more money in fighting.
+shi No tenemos que luchar, Cosette. Ya no estoy trabajando más para la Alianza. Y por como se ven las cosas, no estás con el PACT tampoco. No hay más dinero en luchar.
+#$ cha cos_laugh_sneer 
+cha cos_laugh_sneer 
+#$ cos Eeeeh?! You think you can talk your way out of this? You may have forgotten, but I still remember what you did at Ongess!
+cos ¡¿Eeeeh?! ¿Crees que puedes salir de esta hablando? ¡Podrás haberlo olvidado, pero todavía recuerdo lo que hiciste en Ongess!
+#$ cha shi_sadclosedeyes 
+cha shi_sadclosedeyes 
+#$ shi (I figured. It was worth a try.)
+shi (Lo suponía. Valió la pena intentarlo.)
+#$ hid cos
+hid cos
+#$ mus mus_drivingtopdown
+mus mus_drivingtopdown
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ cha ica_armscrossed_smirk 
+cha ica_armscrossed_smirk 
+#$ ica Heh, looks like you could use a hand, cap.
+ica Heh, parece que podrías necesitar una mano, capitán.
+#$ cha cos_fist_surpriseangry 
+cha cos_fist_surpriseangry 
+#$ cos What?!
+cos ¡¿Qué?!
+#$ cha ica_handsonhips_smirk 
+cha ica_handsonhips_smirk 
+#$ ica Phoenix, reporting! I'm coming up, behind the pirates!
+ica ¡Phoenix, reportándose! ¡Estoy entrando, desde detrás de los piratas!
+#$ cha shi_smile 
+cha shi_smile 
+#$ shi Confirmed. It's good to see you again, Icari. All wings, rendezvous with the Phoenix and take those pirates out!
+shi Confirmado. Es bueno verte de nuevo, Icari. ¡A todas las unidades, reúnanse con el Phoenix y eliminen a esos piratas!
+#$ cha asa_excited_kittyhappy 
+cha asa_excited_kittyhappy 
+#$ asa Copy!
+asa ¡Copiado!
+#$ hid ica
+hid ica
+#$ hid asa
+hid asa
+#$ cha cos_fist_angrynarrowclench 
+cha cos_fist_angrynarrowclench 
+#$ cos One flimsy ryder's not gonna change anything! Kill them all!
+cos ¡Un endeble ryder no va a cambiar nada! ¡Mátenlos a todos!
+#$ hid cos
+hid cos
+#$ flag
+flag
+#$ stop
+stop
+#$ 
+
+#$ tag chap2_cosetteafterbattle
+tag chap2_cosetteafterbattle
+#$ cha cos_facepalm_clench 
+cha cos_facepalm_clench 
+#$ cos Tch! All right you worthless rats, fall back! We've got what we came for already!
+cos ¡Tch! ¡De acuerdo ratas sin valor, retírense! ¡Ya tenemos lo que vinimos a buscar!
+#$ cha shi_focus 
+cha shi_focus 
+#$ shi You came here for something?
+shi ¿Viniste aquí por algo?
+#$ cha cos_fist_angrynarrowclench 
+cha cos_fist_angrynarrowclench 
+#$ cos Peh! Like I'd tell you. Shields, the next time we meet...
+cos ¡Peh! Como si te fuera a contar. Shields, la próxima vez que nos veamos...
+#$ cha shi_sadclosedeyes 
+cha shi_sadclosedeyes 
+#$ shi You'll rip my skin off and stitch it into your new pajama. I know.
+shi Me rasgarás la piel y la coserás como tu nuevo pijama. Lo sé.
+#$ cha cos_facepalm_clench 
+cha cos_facepalm_clench 
+#$ cos Grguh...! You... seriously piss me off!
+cos ¡Grguh...! ¡Tú... seriamente me molestas!
+#$ hid cos
+hid cos
+#$ cha lyn_handup_annoyedtalk 
+cha lyn_handup_annoyedtalk 
+#$ lyn The pirates are withdrawing. Or are you trying to provoke them for round two?
+lyn Los piratas están retirándose. ¿O estás intentando provocarlos para una segunda ronda?
+#$ hid lyn
+hid lyn
+#$ cha shi_surprise 
+cha shi_surprise 
+#$ shi (Wait, I can feel something happening...)
+shi (Espera, puedo sentir que algo sucede...)
+#$ var cos_aff
+var cos_aff
+#$ //Cosette Affection increased to Lv 1! ETERNAL FOE: Cosette spawns across the galaxy. Defeat her to unlock new orders.
+//¡Afecto de Cosette aumentado a Nv 1! ENEMIGO ETERNO: Cosette aparece por la galaxia. Derrótala para desbloquear nuevas órdenes.
+#$ cha shi_confusethink 
+cha shi_confusethink 
+#$ shi (I've gotten pretty rusty after being out of commission for six years... But after that scrap with Cosette, I feel like my old skills are returning. Maybe if keep running into her, I'll be able to improve my captaining...)
+shi (Me he oxidado bastante después de estar fuera de servicio durante seis años... Pero después de esa escaramuza con Cosette, siento que mis viejas habilidades están regresando. Tal vez si sigo encontrándome con ella, seré capaz de mejorar mi capitaneo...)
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi Stand down red alert. Well, looks like our pirate friend inadvertently spared us the hassle of searching around the station for our mercenary.
+shi Bajen la alerta roja. Bueno, parece que nuestra amiga pirata inadvertidamente nos evitó la molestia de buscar en la estación a nuestra mercenaria.
+#$ cha ica_handsonhips_smirk 
+cha ica_handsonhips_smirk 
+#$ ica Heh, what captain, you think I didn't already know you were on your way? I heard you made quite a mess of that PACT outpost in orbit around Ryuvia Prime.
+ica Heh, qué ocurre capitán, ¿crees que no sabía ya que estabas en camino? Escuché que hiciste un gran alboroto con ese puesto de avanzada del PACT en órbita alrededor de Ryuvia Prime.
+#$ cha shi_smile 
+cha shi_smile 
+#$ shi Word travels.
+shi Los rumores viajan.
+#$ cha ica_handsonhips_smirk 
+cha ica_handsonhips_smirk 
+#$ ica I'm coming about. Permission to dock, cap.
+ica Estoy yendo a bordo. Permiso para atracar, capitán.
+#$ cha shi_smile 
+cha shi_smile 
+#$ shi Permission granted. See you in a bit.
+shi Permiso concedido. Te veo en un rato.
+#$ hid ica
+hid ica
+#$ flag
+flag
+#$ stop
+stop
+#$ 
+
+#$ tag chap2_entericari
+tag chap2_entericari
+#$ ccc asa_uni
+ccc asa_uni
+#$ ccc sol_uni
+ccc sol_uni
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ ccc shi_uni
+ccc shi_uni
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ dbg spr_bg_maraycorridor
+dbg spr_bg_maraycorridor
+#$ voi ica_neu4
+voi ica_neu4
+#$ cha ica_handsonhips_smirk 
+cha ica_handsonhips_smirk 
+#$ ica Heh, a pocket carrier, huh? And the flagship of the Ryuvian Kingdom. Not quite as armored as your last command, but armed to the tooth. My kind of style.
+ica Heh, un carguero de bolsillo, ¿huh? Y la nave insignea del Reino Ryuviano. No tan armado como la última vez, pero armado hasta los dientes. Mi estilo.
+#$ cha shi_smile 
+cha shi_smile 
+#$ shi Welcome aboard the Maray. It's been a while, Icari. Now, I'm sure you want to know what all of this is about...
+shi Bienvenida a bordo de la Maray. Ha pasado un tiempo, Icari. Ahora, estoy seguro de que quieres saber de qué va todo esto...
+#$ voi ica_neu3
+voi ica_neu3
+#$ cha ica_armscrossed_smirk 
+cha ica_armscrossed_smirk 
+#$ ica Heh. Let me guess. It's about that ancient Ryuvian warlord who arrived from the past to take over the galaxy, right?
+ica Heh. Déjame adivinar. Es acerca de ese antiguo señor de la guerra Ryuviano que llegó desde el pasado para gobernar la galaxia, ¿cierto?
+#$ cha shi_surprise  
+cha shi_surprise  
+#$ shi Well, that makes this discussion a lot easier.
+shi Bueno, eso hace esta discusión mucho más fácil.
+#$ cha ica_handsonhips_smirk  
+cha ica_handsonhips_smirk  
+#$ ica It's already the talk of the town. Your old pal, Cosette Cosmos, already came to New Kowloon to find out the whereabouts of the Lost Ryuvian Fleet. Hell, half the town's already gone to chase after it, and the other half's just arming up and hoping the first half will soften it up for 'em.
+ica Ya es el chisme del pueblo. Tu vieja amiga, Cosette Cosmos, ya vino a Nueva Kowloon a encontrar el paradero de la Flota Perdida Ryuviana. Diablos, medio pueblo ya se ha ido a rastrearla, y la otra mitad simplemente se está preparando y esperando que la primera mitad se lo deje fácil.
+#$ cha shi_surprise  
+cha shi_surprise  
+#$ shi How do you know all this?
+shi ¿Cómo saben todo esto?
+#$ cha ica_handsonhips_focustalk 
+cha ica_handsonhips_focustalk 
+#$ ica It's your turn to listen, Shields.
+ica Es tu turno de escuchar, Shields.
+#$ ica While you were on Tydaria, a lot of shit went down. The Alliance and PACT fought a bloody war here in the Neutral Rim, leaving a lot of folks desperate. You only saw the opening year of the war.
+ica Mientras estabas en Tydaria, un montón de cosas sucedieron. La Alianza y el PACT lucharon una sangrienta guerra aquí en el Margen Neutral, dejando a un montón de personas desesperadas. Solo viste el año de apertura de la guerra.
+#$ cha shi_neu 
+cha shi_neu 
+#$ shi What did I miss?
+shi ¿De qué me perdí?
+#$ hid shi
+hid shi
+#$ voi ica_sad1
+voi ica_sad1
+#$ ica The Solar Alliance wanted blood after the murder of Admiral Grey. They were high from their victories ever since Far Port - to the point of overconfidence.
+ica La Alianza Solar quiso sangre tras el asesinato del Almirante Grey. Estaban altaneros por sus victorias desde Far Port - al punto del exceso de confianza.
+#$ ica They took the entire Combined Fleet deep inside PACT space to take the core world of Tethra and deal the final, decisive blow to PACT. But it was all a trap.
+ica Llevaron a toda la Flota Combinada a lo profundo dentro del espacio del PACT para tomar el mundo interno de Tethra y provocar el último, y decisivo golpe al PACT. Pero todo fue una trampa.
+#$ ica There's a new PACT High Admiral by the name of Emil Kuushana. You've heard of her, right?
+ica Hay una nueva Gran Almirante del PACT con el nombre de Emil Kuushana. Has oído de ella, ¿cierto?
+#$ cha shi_focus 
+cha shi_focus 
+#$ shi Kuushana of the Many Miracles. A legend of the Compact Revolution and one of the founding members of PACT. But... everyone knows she was banished to the Denari Outlands by Veniczar Arcadius... err, by the Prototype Alice.
+shi Kuushana de los Numerosos Milagros. Una leyenda de la Revolución Compact y una de los miembros fundadores del PACT. Pero... todo el mundo sabe que fue desterrada a las Tierras Lejanas de Denari por Veniczar Arcadius... err, por el Prototipo Alice.
+#$ hid shi
+hid shi
+#$ ica Veniczar Fontana rescinded her exile after the Liberation Day Massacre. He brought her back into service and made her the High Admiral of the Crimson Fleet. And in return, she turned the war around for PACT.
+ica Veniczar Fontana anuló su exilio tras la Masacre del Día de Liberación. La trajo de vuelta al servicio y la hizo la Gran Almirante de la Flota Carmesí. Y en cambio, ella volvió la guerra a favor del PACT.
+#$ ica Kuushana tricked the Alliance into thinking the PACT fleet was amassing at Cera, when in fact, it was hiding behind Tethra's moon. When the Combined Fleet warped into Tethra, they were caught entirely by surprise.
+ica Kuushana engañó a la Alianza para que pensaran que la flota del PACT se estaba concentrando en Cera, cuando de hecho, se estaba escondiendo detrás de la luna de Tethra. Cuando la Flota Combinada saltó a Tethra, fueron atrapados completamente por sorpresa.
+#$ ica The Alliance had no other choice but to attempt a long, bloody retreat out of PACT space, all the way back to the Neutral Rim.
+ica La Alianza no tuvo más elección que intentar una larga, y sangrienta retirada del espacio del PACT, todo el camino de regreso al Margen Neutral.
+#$ ica She picked the Combined Fleet apart from every single direction the whole time it retreated. By the time it made it back to a safe harbor, you couldn't even call it a fleet.
+ica Ella desmenuzó la Flota Combinada desde todas direcciones todo el tiempo que estuvo retirándose. Para cuando logró llegar a un puerto seguro, no podías siquiera llamarla una flota.
+#$ ica But by now, both sides had staked their national manhoods to the war. The Alliance licked its wounds and rebuilt its fleets. Both sides enlisted the aid of Neutral Rim worlds with promises of influence or flat out just bought them.
+ica Pero a estas alturas, ambos bandos habían apostado su virilidad nacional a la guerra. La Alianza se lamía sus heridas y reconstruía sus flotas. Ambos bandos enviaban ayuda a los mundos del Margen Neutral con promesas de influencia o vacías solo para comprarlos.
+#$ ica Proxy wars fought by various Neutral Rim worlds with grudges against each other exploded left and right. Guess what: All that created an entire generation of young people willing to pick up a gun and blast the nearest fellow over a split drink.
+ica Guerras de poder luchadas por varios mundos del Margen Neutral con resentimientos entre ellos explotaron de un lado a otro. Adivina qué: Todo eso creó toda una generación completa de jóvenes dispuestos a tomar un arma y dispararle al tipo más cercano.
+#$ ica And then, out of nowhere, an armistice! The mighty Solar Alliance humbled, and entrenched at Far Port. And PACT everywhere, acting all high and mighty as the victors of the Neutral Rim War.
+ica ¡Y luego, de la nada, un armisticio! La poderosa Alianza Solar humillada, y atrincherada en Far Port. Y el PACT en todas partes, actuando todo poderoso como los vencedores de la Guerra del Margen Neutral.
+#$ ica So here's where we're at today: A bunch of bombed out worlds and desperate people, with the few remaining Neutral Rim planetary governments struggling to maintain order in their own space.
+ica Así que aquí es donde estamos hoy: Un montón de mundos bombardeados y gente desesperada, con los pocos gobiernos planetarios restantes del Margen Neutral retorciéndose para mantener el orden en su propio espacio.
+#$ ica Now, let's say an ancient Ryuvian fleet just happened to appear, lost in space and time. You think people are gonna be scared some ancient war lord'll enslave them? No, they just had six straight years of the worst hell you can imagine. All they see is the biggest collection of Lost Technology you can get your hands on. A treasure fleet, ripe for plunder. Free money!
+ica Ahora, digamos que una antigua flota Ryuviana simplemente aparece, perdida en el tiempo y espacio. ¿Crees que la gente va a asustarse de que algún antiguo señor de la guerra los esclavice? No, acabaron de tener seis años seguidos del peor infierno que puedas imaginar. Todo lo que ven es la mayor colección de Tecnología Perdida que puedas tener en tus manos. Una flota del tesoro, lista para el saqueo. ¡Dinero gratis!
+#$ cha shi_surprise 
+cha shi_surprise 
+#$ shi Crow's Fleet... is almost like a beacon of hope for the people here?
+shi ¿La Flota de Crow... es casi como un faro de esperanza para la gente aquí?
+#$ voi ica_neu4
+voi ica_neu4
+#$ cha ica_handsonhips_smirk
+cha ica_handsonhips_smirk
+#$ ica Heh, if our last few run-ins with Lost Technology were any indication, I'd say more like an early grave. But that doesn't stop the desperate from trying. And Shields, everyone here's desperate.
+ica Heh, si nuestros últimos encuentros con Tecnología Perdida fueron algún indicio, yo diría que más como una tumba temprana. Pero eso no detiene a los desesperados de intentarlo. Y Shields, todo el mundo aquí está desesperado.
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi But how did people even find out about the Lost Fleet? Has Crow made an attack?
+shi ¿Pero cómo la gente siquiera averiguó acerca de la Flota Perdida? ¿Ha realizado Crow un ataque?
+#$ cha ica_handsonhips_focustalk 
+cha ica_handsonhips_focustalk 
+#$ ica A scavenger, searching for the leftovers of what we blew up in the Mnemosyne Abyss, happened to get a glimpse of a super dreadnought, unlike anything anyone's seen before. I've actually already met him, and the data tapes on his scanner module back him up.
+ica Un basurero, buscando restos de lo que explotamos en el Mnemosyne Abyss, casualmente logró echar un vistazo a un super acorazado, parecido a nada que alguien haya visto antes. Yo en realidad ya me he encontrado con él, y los videos de su módulo de escaneo lo respaldan.
+#$ ica But really, most of the hype's come from this fortune teller whose been making the rounds around here...
+ica Pero en serio, la mayor parte del hype viene de esta adivina que ha estado actuando por aquí...
+#$ cha shi_surprise 
+cha shi_surprise 
+#$ shi A fortune teller?!
+shi ¡¿Una adivina?!
+#$ cha ica_armscrossed_focustalk
+cha ica_armscrossed_focustalk
+#$ ica It sounds crazy, but apparently, she has a 99 percent success rate. Anyone who ever got their fortunes read by her swear that she was always right on the money. Honestly, I think all of that's bull, but she's been forecasting wealth and glory to everyone looking to go after the lost Ryuvian fleet.
+ica Suena loco, pero aparentemente, tiene un 99 por ciento de éxito. Cualquiera a quien ella le haya leído su fortuna jura que siempre acertaba en el dinero. Honestamente, creo que todo es una estafa, pero ella ha estado adivinando riquezas y gloria a todo el que vaya tras la flota Ryuviana perdida.
+#$ voi ica_sad1
+voi ica_sad1
+#$ cha ica_handsonhips_focustalk 
+cha ica_handsonhips_focustalk 
+#$ ica Ah, she's honestly whipped the entire station into a frenzy! I can't believe people are actually dumb enough to fall for that shit...
+ica ¡Ah, ella honestamente ha puesto a toda la estación en un frensí! No puedo creer que la gente es realmente lo suficientemente tonta para creer en esa tontería...
+#$ cha shi_confusethink  
+cha shi_confusethink  
+#$ shi (Even so, this fortune teller sounds like our best lead. After all, fortune telling is based on information gathering. I better track her down.)
+shi (Aun así, esta adivina parece nuestra mejor pista. Después de todo, la adivinación se basa en la recopilación de información. Mejor la rastreo.)
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi First things first. If we're going to stop Crow Harbor, I'm going to need my old crew back. Including you and the commander.
+shi Primero lo primero. Si vamos a detener a Crow Harbor, voy a necesitar a mi vieja tripulación de vuelta. Incluyéndote a tí y a la comandante.
+#$ voi ica_sad5
+voi ica_sad5
+#$ cha ica_armscrossed_focustalk  
+cha ica_armscrossed_focustalk  
+#$ ica What, you mean the commander's not already with you?
+ica ¿Qué, quieres decir que la comandante no está todavía contigo?
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi I've been trying to reach her, but PACT has the Ceran diplomatic line bugged. You suppose you could figure out a way to contact her?
+shi He estado intentando contactarla, pero el PACT tiene la línea diplomática pinchada. ¿Crees que puedas hallar alguna forma de contactarla?
+#$ voi ica_neu6
+voi ica_neu6
+#$ cha ica_handsonhips_focustalk 
+cha ica_handsonhips_focustalk 
+#$ ica Sure. All you need is a quantum encryption machine so PACT won't be able to snoop on your conversation.
+ica Seguro. Todo lo que necesitas es una máquina de encriptado cuántica para que el PACT no sea capaz de espiar en tu conversación.
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi You know where we can get our hands on something like that?
+shi ¿Sabes dónde podamos poner nuestras manos en algo como eso?
+#$ voi ica_hap2
+voi ica_hap2
+#$ cha ica_handsonhips_smirk 
+cha ica_handsonhips_smirk 
+#$ ica Heh, who do you think you're talking to, cap. I've already got one right here. What, you thought I was gonna send you on a fetch quest half way across the galaxy or something?
+ica Heh, con quién crees que estás hablando, capitán. Yo ya tengo una aquí mismo. ¿Qué, pensabas que te iba a enviar en una misión de búsqueda a través de media galaxia o algo?
+#$ cha shi_sadsmile 
+cha shi_sadsmile 
+#$ shi It does usually turn out along those lines...
+shi Usualmente termina siendo algo así...
+#$ cha ica_handsonhips_smirk 
+cha ica_handsonhips_smirk 
+#$ ica I'm a professional here. Anyways, I was just about to head out myself in search of this Lost Fleet myself.
+ica Soy una profesional. De todas formas, estaba justo a punto de salir yo misma en búsqueda de esta Flota Perdida por mi cuenta.
+#$ voi ica_neu0
+voi ica_neu0
+#$ cha ica_back_funnytsun 
+cha ica_back_funnytsun 
+#$ ica Hmph. Since we're both headed the same direction, I guess I could come along on your new ship if you want. Just give me half of your share of the loot. It's not because I like you or anything though! Don't misunderstand!
+ica Hmph. Ya que ambos vamos en la misma dirección, supongo que podría ir contigo en tu nueva nave si quieres. Solo dame la mitad de tu parte del botín. ¡Sin embargo no es porque me gustes o algo! ¡No me malentiendas!
+#$ cha shi_sadclosedeyes 
+cha shi_sadclosedeyes 
+#$ shi (Good old Icari, somehow managing to make herself look cool and cringe all at the same time...)
+shi (La vieja Icari, de alguna forma logrando hacerse ver genial y avergonzada todo al mismo tiempo...)
+#$ cha shi_smile 
+cha shi_smile 
+#$ shi Heh, you can have all the loot you want, so long as we stop Crow Harbor. Glad to have you back, Icari.
+shi Heh, puedes tener todo el botín que quieras, siempre que detengamos a Crow Harbor. Encantado de tenerte de vuelta, Icari.
+#$ hid shi
+hid shi
+#$ hid ica
+hid ica
+#$ dbg hide
+dbg hide
+#$ map 
+map 
+#$ tag chap2_findfortunestart
+tag chap2_findfortunestart
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha ica_handsonhips_focustalk 
+cha ica_handsonhips_focustalk 
+#$ ica So, what's our next move, cap?
+ica Así que, ¿cuál es nuestro próximo movimiento, capitán?
+#$ cha shi_focus 
+cha shi_focus 
+#$ shi I want to meet that fortune teller you mentioned earlier. Maybe she has a lead on where we can find the Lost Fleet...
+shi Quiero encontrarme con esa adivina que mencionaste antes. Tal vez ella tenga alguna pista sobre dónde podamos encontrar la Flota Perdida...
+#$ cha ica_back_talk 
+cha ica_back_talk 
+#$ ica All right, I'm sure she's still in town. Just don't believe any of her fortune telling nonsense...
+ica Está bien, estoy segura de que sigue todavía en el pueblo. Solo no creas ninguna de sus tonterías de adivinanza...
+#$ sou sou_warning
+sou sou_warning
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi Wait a minute... I'm detecting an unregistered ryder near the station... I'm hearing... some kind of dispute on the open channel...
+shi Espera un minuto... Estoy detectando un ryder no registrado cerca de la estación... Estoy oyendo... algún tipo de disputa en el canal abierto...
+#$ hid shi
+hid shi
+#$ hid ica
+hid ica
+#$ pir Oy, you stupid woman!
+pir ¡Oy, tú estúpida mujer!
+#$ pir What do you mean my girl's going to leave me... for another woman?! There's no way she spins that way! Your fortunes are total bull!
+pir ¡¿Qué quieres decir con que mi chica me va a dejar... por otra mujer?! ¡No hay forma de que ella batee a ese lado! ¡Tus adivinanzas son una completa tontería!
+#$ pa1 I've got bad news for you, buddy...
+pa1 Tengo malas noticias para tí, hombre...
+#$ pa2 That fortune teller's predictions are always on the mark...
+pa2 Las predicciones de la adivina son siempre certeras...
+#$ pa3 You best just move on and find yourself a new woman...
+pa3 Mejor solo sigues adelante y te encuentras una nueva mujer...
+#$ pir Eeeh?! Well, how 'bout I just space her instead?! Couldn't foresee that one, could you, bitch?!
+pir ¡¿Eeeh?! Bueno, ¡¿qué les parece si solo la lanzo al espacio en cambio?! ¡¿No pudiste ver eso venir, cierto, perra?!
+#$ cha ica_handsonhips_focustalk
+cha ica_handsonhips_focustalk
+#$ ica Hey now. Let's all get along fellas.
+ica Hey cálmense. Llevémonos bien compañeros.
+#$ pir Who... are you?
+pir ¿Quién... eres tú?
+#$ ica Just a good Samaritan passing by. I can't have you shooting up the station.
+ica Solo una buena Samaritana pasando. No puedo permitirte que dispares a la estación.
+#$ pir Eeh? You think you're station security? I'm Lothorian Mafia! We're the rulers here!
+pir ¿Eeh? ¿Te crees que eres la seguridad de la estación? ¡Yo soy la Mafia Lothariana! ¡Nosotros mandamos aquí!
+#$ cha ica_armscrossed_focustalk 
+cha ica_armscrossed_focustalk 
+#$ ica I just don't want to see my favorite watering hole get blown up by some punk.
+ica Yo solo no quiero ver a mi alcantarilla favorita ser explotada por un delincuente.
+#$ pir Sounds like this broad needs to learn some manners. Space the bitch, boys!
+pir Parece que esta mujer necesita aprender algunos modales. ¡Lancen al espacio a la perra, chicos!
+#$ cha ica_back_angrytalk 
+cha ica_back_angrytalk 
+#$ ica Sorry cap, looks like we've got some garbage to take out first before we can meet our fortune teller.
+ica Lo siento capitán, parece que tenemos basura de qué hacernos cargo primero antes de que podamos encontrarnos con nuestra adivina.
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi On it.
+shi En ello.
+#$ hid shi
+hid shi
+#$ hid ica
+hid ica
+#$ flag
+flag
+#$ stop
+stop
+#$ 
+
+#$ tag chap2_meleetip
+tag chap2_meleetip
+#$ shi (Tip: Icari's Phoenix is equipped with powerful afterburners.)
+shi (Consejo: El Phoenix de Icari está equipado con poderosos postcombustores.)
+#$ shi (After using a melee attack on an enemy, if there are any other enemy ryders near Icari, she will automatically use an afterburner to chain additional melee attacks without expending additional EN.)
+shi (Tras usar un ataque melee en un enemigo, si hay algún otro ryder enemigo cerca de Icari, ella automáticamente usará un postcombustor para encadenar ataques melee adicionales sin gastar EN adicional.)
+#$ shi (This powerful ability can quickly decimate groups of enemy ryders if I use her afterburner ammo wisely.)
+shi (Esta poderosa habilidad puede disceminar rápidamente grupos de ryders enemigos si uso su munición de postcombustores sabiamente.)
+#$ stop
+stop
+#$ 
+
+#$ tag chap2_fortunebattleend
+tag chap2_fortunebattleend
+#$ pir G-Gurgh... W-Wait... Yellow mech with swords... You're that famous mercenary, aren't you?! Shit!
+pir G-Gurgh... E-Espera... Mecha amarillo con espadas... ¡¿Tú eres esa famosa mercenaria, no es así?! ¡Demonios!
+#$ voi ica_hap1
+voi ica_hap1
+#$ cha ica_armscrossed_smirk
+cha ica_armscrossed_smirk
+#$ ica Heh. Now that we've been introduced, why don't you scram?
+ica Heh. Ahora que nos hemos introducido, ¿por qué no gritas?
+#$ pir Shit...
+pir Demonios...
+#$ hid ica
+hid ica
+#$ gir Shane! What trouble have you gotten yourself into this time? And... who is that woman?
+gir ¡Shane! ¿En qué lío te has metido esta vez? Y... ¿quién es esa mujer?
+#$ gir She's... so cool! And so much stronger than you! I knew Miss Perfect was out there for me! Please dock with me, Ms. Mercenary!!!
+gir ¡Ella es... tan genial! ¡Y mucho más fuerte que tú! ¡Sabía que la Señorita Perfecta estaba ahí fuera! ¡¡¡Por favor atraca conmigo Sta. Mercenaria!!!
+#$ pir Ggurrggnn... So the fortune teller really was right...?!
+pir Ggurrggnn... ¡¿Así que la adivina realmente tenía razón...?!
+#$ voi ica_sad2
+voi ica_sad2
+#$ cha ica_surprise_madugh 
+cha ica_surprise_madugh 
+#$ ica U-Ugh, I'm falling back before this goes any further south. R-Requesting permission to land!
+ica U-Ugh, me estoy retirando antes de que esto siga más allá. ¡P-Pidiendo permiso para aterrizar!
+#$ hid ica
+hid ica
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi (Well now that we've sorted out that problem, it's time for me to meet this fortune teller...)
+shi (Ahora que hemos solucionado ese problema, es hora de que conozca a esta adivina...)
+#$ hid shi
+hid shi
+#$ flag
+flag
+#$ stop
+stop
+#$ 
+
+#$ tag chap2_meetclaude
+tag chap2_meetclaude
+#$ ccc shi_uni
+ccc shi_uni
+#$ mus mus_fallen_angel_pt1
+mus mus_fallen_angel_pt1
+#$ dcg spr_cg21a
+dcg spr_cg21a
+#$ for My... Welcome, welcome...
+for Vaya... Bienvenido, bienvenido...
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi I want to know what my future holds. I hear this is the place to do it.
+shi Quiero saber lo que mi futuro me depara. Escuché que este es el lugar para hacerlo.
+#$ hid shi
+hid shi
+#$ for Kukuku... You've come to the right place, my dear captain...
+for Kukuku... Has venido al lugar correcto, mi querido capitán...
+#$ cha shi_confusethink 
+cha shi_confusethink 
+#$ shi (She already knows I'm a captain? Well, anyone could have figured that out.)
+shi (¿Ella ya sabe que soy un capitán? Bueno, cualquiera podría haber supuesto eso.)
+#$ hid shi
+hid shi
+#$ for Let me gaze into your destiny... I see...
+for Déjame echar un vistazo en tu destino... Ya veo...
+#$ for Oh... Oh my...
+for Oh... Oh vaya...
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi You see... what?
+shi ¿Qué... ves?
+#$ hid shi
+hid shi
+#$ for You are on a quest, I see a fleet... a black fleet...
+for Estás en una búsqueda, veo una flota... una flota negra...
+#$ cha shi_closedeyesthink 
+cha shi_closedeyesthink 
+#$ shi (Anyone could have guessed that. Icari already told me that everyone in town's gearing up to find the Lost Fleet.)
+shi (Cualquiera podría haber supuesto eso. Icari ya me dijo que todos en el pueblo se están preparando para encontrar la Flota Perdida.)
+#$ hid shi
+hid shi
+#$ for You... need to stop this fleet. To redeem yourself, for something you failed in the past. Something which hurt you... no... something which hurt the one you cared for deeply... You lost her, and also... a part of yourself in this incident...
+for Tú... necesitas detener esta flota. Para redimirte, por algo por lo que fallaste en el pasado. Algo que te hirió... no... algo que hirió a la persona por la que te preocupabas profundamente... La perdiste, y también... una parte de tí en este incidente...
+#$ cha shi_surprise 
+cha shi_surprise 
+#$ shi (...?!)
+shi (¡¿...?!)
+#$ hid shi
+hid shi
+#$ for Yes, I see her now... Her face is so clear to me... Soft hair, the color of lavender... A ribbon... But she is no longer. Nothing but a distant whisper.
+for Sí, la veo ahora... Su cara es tan clara para mí... Suave cabello, el color de lavanda... Un lazo... Pero ella ya no está más. Nada más que un distante susurro.
+#$ for Do you mourn for that which was not true? No... you already know. You mourn... but you mourn for yourself... Regret... I sense... Such a storm! Yes... a swirling maelstrom of regret. To undo what has been done. To return! To attain herohood once more! Find glory so mighty, it will radiate your black mistake to dust.
+for ¿Te lamentas por aquello que no fue verdad? No... ya lo sabías. Te lamentas... pero por tí mismo... Lamento... Lo siento... ¡Vaya tormenta! Sí... una vorágine remolineante de lamento. Para deshacer lo que fue hecho. ¡Para regresar! ¡Para tomar el heroísmo una vez más! Encontrar gloria tan poderosa, que difundirá tu negro error en polvo.
+#$ for But alas, you will find no such redemption on this mission. Only darkness.
+for Pero cuidado, no encontrarás tal redención en esta misión. Solo oscuridad.
+#$ for You will be swallowed up by ancient powers, twisted by ancient evils, a mistake forged into hatred by ambition. You will fall, never as you have fallen; The last sight to behold will be your companions, turned to fire and ash! But you shall not join them, for only a worse end awaits. 
+for Serás tragado por antiguos poderes, retorcido por antiguos males, un error forjado en odio por la ambición. Caerás, como nunca has caído; ¡La última vista que presenciarás serán tus compañeros, volviéndose fuego y ceniza! Pero no te les unirás, ya que un peor final aguarda.
+#$ cha shi_angryshout 
+cha shi_angryshout 
+#$ shi What?! That's terrible! How do I change my fate?!
+shi ¡¿Qué?! ¡Eso es terrible! ¡¿Cómo cambio mi destino?!
+#$ hid shi
+hid shi
+#$ for Your... only hope... will be to...
+for Tu... única esperanza... será...
+#$ cha shi_angryshout 
+cha shi_angryshout 
+#$ shi To do what?!
+shi ¡¿Será qué?!
+#$ hid shi
+hid shi
+#$ for Fall into someone's embrace... Yes...
+for Caer en el abrazo de alguien... Sí...
+#$ cha shi_angryshout 
+cha shi_angryshout 
+#$ shi Embrace? Whose embrace...?
+shi ¿Abrazo? ¿El abrazo de quién...?
+#$ hid shi
+hid shi
+#$ for Someone you know... A... pink haired... well endowed... talented, beautiful, intelligent, dependable, highly qualified...
+for Alguien que conoces... Una... pelirrosa... bien dotada... talentosa, bella, inteligente, confiable, áltamente calificada...
+#$ mus stop
+mus stop
+#$ dcg spr_cg21b
+dcg spr_cg21b
+#$ sou sou_recordscratch
+sou sou_recordscratch
+#$ cha shi_surprise 
+cha shi_surprise 
+#$ shi (-Wait a minute! I know this voice! This is-)
+shi (¡-Espera un minuto! ¡Conozco esta voz! Esta es-)
+#$ shi CLAUDE!
+shi ¡CLAUDE!
+#$ hid shi
+hid shi
+#$ cla Hiyaaah!
+cla ¡Hiyaaah!
+#$ cha shi_surprise 
+cha shi_surprise 
+#$ shi IT'S YOU!
+shi ¡ERES TÚ!
+#$ hid shi
+hid shi
+#$ mus mus_As_I_Figure
+mus mus_As_I_Figure
+#$ cla Huuuhuuuhuuu... Captain, how could you interrupt poor ol' Claude's fortune telling like that? She was putting everything she got into reading the crystal ball, you know! My eyeballs were plain 'bout to pop straight outta their sockets!
+cla Huuuhuuuhuuu... Capitán, ¿cómo pudiste interrumpir la adivinanza de la pobre Claude de esa forma? ¡Ella estaba poniento tanto esfuerzo en leer la bola de cristal, sabes! ¡Mis ojos estaban a punto de saltarme fuera!
+#$ cha shi_madgroan 
+cha shi_madgroan 
+#$ shi (This woman is absolutely unbelievable... Using my personal information like that to fabricate a fortune... Ugh, to think I almost fell for it too!)
+shi (Esta mujer es absolutamente increíble... Usando mi información personal de esa forma para crear una adivinación... ¡Ugh, y pensar que casi me lo creo también!)
+#$ cha shi_angry 
+cha shi_angry 
+#$ shi J-Jabbing a stick at o-old wounds, all for the sake of a phony fortune! This wasn't fortune telling at all! This was fraud! Just like that medical license of yours!
+shi ¡P-Pisando v-viejas heridas, todo por el bien de una falsa adivinación! ¡Esto no era adivinación en lo absoluto! ¡Esto era un fraude! ¡Al igual que esa licencia médica tuya!
+#$ hid shi
+hid shi
+#$ cla And now you're hurling nothing but baseless accusations at Claude's face! Waaahh! Is this any way to greet your best girl after our long six year break?
+cla ¡Y ahora no estás gritando nada más que acusaciones sin base a la cara de Claude! ¡Waaahh! ¿Es esta alguna forma de saludar a tu mejor chica luego de nuestro descanso de seis años?
+#$ cha shi_angry 
+cha shi_angry 
+#$ shi You highly overrate your position.
+shi Sobrevaloras enormemente tu posición.
+#$ hid shi
+hid shi
+#$ cla I knew you would seek to reunite with little old me again, mon capitaine! Now let us be off on our new mission to stop ancient evil! My bags are already packed!
+cla ¡Sabía que buscarías reunirte conmigo de nuevo, mon capitaine! ¡Ahora partamos en nuestra misión para detener al antiguo mal! ¡Mis bolsas ya están empacadas!
+#$ cha shi_madgroan 
+cha shi_madgroan 
+#$ shi (With her, I might make an exception though...)
+shi (Con ella, podría hacer una excepción sin embargo...)
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi Wait, wait, wait... Not so fast. Do you even know anything about Crow Harbor? Or were you just making up all those fortunes?
+shi Espera, espera, espera... No tan rápido. ¿Sabes siquiera algo acerca de Crow Harbor? ¿O simplemente te estabas inventando todas esas adivinaciones?
+#$ hid shi
+hid shi
+#$ cla Aaah, so that's what you're after here. Yes, I do know a thing or two about that Lost Fleet you're looking for...
+cla Aaah, así que eso es lo que buscas aquí. Sí, sé un par de cosas sobre esa Flota Perdida que estás buscando...
+#$ cha shi_madtalk 
+cha shi_madtalk 
+#$ shi Well? Tell me!
+shi ¿Bueno? ¡Cuéntame!
+#$ hid shi
+hid shi
+#$ cla Ah, ah, ah! Not so fast. I'd lose all my feminine mystique if I were to gab all my secrets all at once... I'll tell you after you've loaded my ryder into your shiny new ship.
+cla ¡Ah, ah, ah! No tan rápido. Perdería todo mi misterio femenino si fuera a contar todos mis secretos de una vez... Te contaré luego de que hayas cargado mi ryder en tu brillante nueva nave.
+#$ cla And between you and me, it looks like you'll be needing my services more than ever. If you ever want those services to go beyond a doctor-patient relationship, I'm more than willing to serve above, below, and in... several other positions, my dear captain. Teehee~
+cla Y entre tú y yo, parece que necesitarás mis servicios más que nunca. Si llegas a querer que esos servicios vayan más allá de la relación doctor-paciente, estoy más que dispuesta a servirte encima, debajo, y en... muchas otras posiciones, mi querido capitán. Teehee~
+#$ cha shi_madgroan 
+cha shi_madgroan 
+#$ shi Ugh... You better know something about the Lost Fleet, Claude...
+shi Ugh... Más te vale saber algo sobre la Flota Perdida, Claude...
+#$ hid shi
+hid shi
+#$ cla Sah yes sah! One hundred percent guarantee no bamboozle!
+cla ¡Señor sí señor! ¡Cien por ciento garantizado no ser un engaño!
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+#$ shi (Wait a minute... This doesn't make sense... Didn't this woman die during the Neutral Rim War?)
+shi (Espera un minuto... Esto no tiene sentido... ¿No murió esta mujer durante la Guerra del Margen Neutral?)
+#$ shi (No... She miraculously survived getting spaced and showed up after the battle completely unharmed... But more than that, there was something about her...)
+shi (No... Ella milagrosamente sobrevivió de ser lanzada al espacio y apareció después de la batalla completamente intacta... Pero más que eso, había algo sobre ella...)
+#$ shi (Ugh... Remember Shields, there was something really crazy about this woman... But somehow... I can't seem to remember... Wasn't she... Ugh, it's at the tip of my tongue, but I can't...)
+shi (Ugh... Recuerda Shields, había algo realmente loco sobre esta mujer... Pero de alguna forma... No logro poder recordar... No era ella... Ugh, está en la punta de mi lengua, pero no puedo...)
+#$ hid shi
+hid shi
+#$ cla Yes... yes... there WAS something special about me, captain...
+cla Sí... sí... HABÍA algo especial sobre mí, capitán...
+#$ cla I was your one true lover! The one who held your hand during all your moments of crisis! The guiding light in your darkest hour! The shining beacon of hope, your beloved old Claude!
+cla ¡Yo era tu verdadero amor! ¡La única que te agarró la mano durante todos tus momentos de crisis! ¡La luz guía en tu hora más oscura! ¡El brillante faro de esperanza, tu querida Claude!
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+#$ shi (Goddamn, I can't seem to recall what was it about this woman that made her so impossible to deal with... What is wrong with my memory lately... I really gotta stop drinking...)
+shi (Maldición, no logro recordar qué había con esta mujer que la hacía tan imposible de tratar... Qué ocurre con mi memoria recientemente... Realmente tengo que dejar de tomar...)
+#$ cha shi_madgroan
+cha shi_madgroan
+#$ shi Ugh... Anyways, I get the feeling that I'm not going to get a choice in whether you tag along for this ride or not...
+shi Ugh... De cualquier forma, tengo la sensación de que no voy a tener opción en si vienes con nosotros o no...
+#$ hid shi
+hid shi
+#$ cla Yay! You won't regret it, captain!
+cla ¡Yay! ¡No te arrepentirás, capitán!
+#$ cha shi_sigh
+cha shi_sigh
+#$ shi (Sigh... I think I'm done here for now. I should acquire what supplies I need for the path ahead then set course out of here.)
+shi (Suspiro... Creo que he terminado aquí por ahora. Deberé adquirir los suministros que necesite para el camino adelante y luego establecer el curso fuera de aquí.)
+#$ hid shi
+hid shi
+#$ dcg hide
+dcg hide
+#$ fade
+fade
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ dbg spr_bg_maraycorridor
+dbg spr_bg_maraycorridor
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ cha lyn_handup_smirk
+cha lyn_handup_smirk
+#$ lyn Heh. You said you were here for the mercenary. But you found the weird pink one too? Not bad, Shields.
+lyn Heh. Dijiste que estabas aquí por la mercenaria. ¿Pero encontraste a la rara rosada también? Nada mal, Shields.
+#$ cha shi_sadgroan
+cha shi_sadgroan
+#$ shi Yeah... Just don't let her trick you during your physical...
+shi Sí... Solo no la dejes que te engañe durante tu examen...
+#$ cha lyn_handup_confuse
+cha lyn_handup_confuse
+#$ lyn Eh? What do you mean?
+lyn ¿Eh? ¿Qué quieres decir?
+#$ cha shi_blank
+cha shi_blank
+#$ shi (Look of horror)
+shi (Mirada de horror)
+#$ cha lyn_handup_focustalk
+cha lyn_handup_focustalk
+#$ lyn Anyways, I've loaded the Phoenix and the Spellcaster onto the hangar. Tch, but seriously. The Spellcaster is one uncool looking ryder. What kind of fool paints their ryder bubblegum pink? That's practically inviting the baddies to shoot at you first...
+lyn De todas formas, he cargado al Phoenix y al Spellcaster al hangar. Tch, pero en serio. El Spellcaster es un ryder de apariencia estúpida. ¿Qué tipo de tonto pinta su ryder de goma de mascar rosada? Eso es prácticamente invitar a los malos a dispararte primero...
+#$ cha shi_sadthink
+cha shi_sadthink
+#$ shi (Not that I can complain. Claude can draw away all the fire she wants...)
+shi (No es como que me pueda quejar. Claude puede atraer todo el fuego que quiera...)
+#$ hid shi
+hid shi
+#$ hid lyn
+hid lyn
+#$ dbg hide
+dbg hide
+#$ fade
+fade
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ ccc ica_uni
+ccc ica_uni
+#$ ccc ava_suit
+ccc ava_suit
+#$ cha ica_handsonhips_focustalk
+cha ica_handsonhips_focustalk
+#$ ica All right cap. I've gone ahead and installed that quantum encryption machine to the comm station. You should be able to reach the commander now without having to worry about PACT listening in. Well, at least presuming PACT didn't physically bug her office too. I can't do anything about physical devices, you know.
+ica Está bien capitán. Me he adelantado e instalé esa máquina de encriptado cuántica en la estación de comunicación. Deberás poder contactar a la comandante ahora sin tener que preocuparte de que el PACT escuche. Bueno, al menos asumiendo que el PACT no pinchó físicamente su oficina también. No puedo hacer nada con dispositivos físicos, sabes.
+#$ cha shi_sadthink
+cha shi_sadthink
+#$ shi I think the commander's too smart for that. Besides, she has a weird habit of throwing out all her furniture every now and then. Nearly gave me a heart attack once when I was a kid... Ugh.
+shi Creo que la comandante es bastante inteligente para eso. Aparte, tiene el mal hábito de botar todos sus adornos de vez en cuando. Casi me dio un ataque al corazón una vez cuando yo era un niño... Ugh.
+#$ cha ica_armscrossed_confused
+cha ica_armscrossed_confused
+#$ ica Huh?
+ica ¿Huh?
+#$ cha shi_sadthink
+cha shi_sadthink
+#$ shi Ahem.
+shi Ahem.
+#$ cha ica_armscrossed_focustalk
+cha ica_armscrossed_focustalk
+#$ ica Anyways, let's patch her through.
+ica De todas formas, comuniquémonos con ella.
+#$ hid ica
+hid ica
+#$ sou sou_holoopen
+sou sou_holoopen
+#$ cha ava_armscrossed_smile
+cha ava_armscrossed_smile
+#$ ava Well done, captain. You've finally managed to contact me through an encrypted channel.
+ava Bien hecho, capitán. Finalmente ha logrado contactarme a través de un canal encriptado.
+#$ cha shi_surprise
+cha shi_surprise
+#$ shi Ava.
+shi Ava.
+#$ shi (Salute)
+shi (Saludo)
+#$ cha ava_salute_focus
+cha ava_salute_focus
+#$ ava (Salute)
+ava (Saludo)
+#$ cha ava_armscrossed_focustalk
+cha ava_armscrossed_focustalk
+#$ ava Welcome back, captain. I see Queen Asaga gave you the privilege of captaining the new flagship of the Ryuvian Kingdom. I imagine something must have happened for you to have come out of exile.
+ava Bienvenido de vuelta, capitán. Veo que la Reina Asaga le dio el privilegio de capitanear la nueva nave insignea del Reino Ryuviano. Imagino que algo debe haber sucedido para que saliera del exilio.
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi I've got dire news. Sola and I were attacked by ancient Ryuvian assassin drones on Tydaria: The same drones used by the ancient Ryuvian war lord Crow Harbor during Sola's time. It could only mean one thing: Crow Harbor and his fleet has somehow traveled in time to our age. 
+shi Tengo malas noticias. Sola y yo fuimos atacados por antiguos drones asesinos en Tydaria: Los mismos drones usados por el antiguo señor de la guerra Ryuviano Crow Harbor durante la época de SOla. Solo puede significar una cosa: Crow Harbor y su flota han viajado de alguna forma en el tiempo hasta nuestra era.
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi This changes everything, Ava. The arrival of a fleet of ancient ships could completely change the balance of power for the galaxy. Not only that, but Crow won't stop until Sola's dead. We've got to stop him.
+shi Esto lo cambia todo, Ava. La llegada de una flota de antiguas naves podría cambiar completamente el balance de poder en la galaxia. No solo eso, sino que Crow no se detendrá hasta que Sola esté muerta. Tenemos que detenerle.
+#$ cha ava_armscrossed_focusthink
+cha ava_armscrossed_focusthink
+#$ ava I see... So it's not PACT this time. A surprise, to be sure.
+ava Ya veo... Así que no es el PACT esta vez. Una sorpresa, ciertamente.
+#$ cha shi_focus
+cha shi_focus
+#$ shi I need a second in command.
+shi Necesito un segundo al mando.
+#$ cha ava_armscrossed_focusthink
+cha ava_armscrossed_focusthink
+#$ ava ... ... ...
+ava ... ... ...
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+#$ ava The situation has changed, captain.
+ava La situación ha cambiado, capitán.
+#$ cha shi_focus
+cha shi_focus
+#$ shi So I hear. You're the Prime Minister of Cera now, huh...
+shi Eso escuché. Eres la Primera Ministra de Cera ahora, huh...
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+#$ ava That's Acting Prime Minister. And my term will come to an end soon with the upcoming election to decide Cera's future.
+ava Primera Ministra Interina. Y mi período llegará a su fin pronto con las próximas elecciones que decidirán el futuro de Cera.
+#$ cha shi_focus
+cha shi_focus
+#$ shi How'd you become Acting Prime Minister? I don't imagine PACT had much of a positive opinion of you.
+shi ¿Cómo te volviste la Primera Ministra Interina? No imagino que el PACT tuviera una opinión muy positiva de tí.
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+#$ ava That might have been part of the reason, actually. PACT's investing quite a bit of political capital in legitimizing the Ceran election. They believe that if they can win here, they can win everywhere else in the Neutral Rim. And considering what they did to Cera City seven years ago, they're right in believing that.
+ava Esa podría haber sido parte de la razón, en realidad. El PACT está invirtiendo bastante capital político en ligitimizar las elecciones Ceranas. Creen que si pueden ganar aquí, pueden ganar en todo el resto del Margen Neutral. Y considerando lo que le hicieron a Ciudad Cera hace siete años, tienen razón al creer eso.
+#$ ava Even after turning our capital to ash, PACT is leading in every opinion poll. You can feel it in the streets. Fontana is a practically a war hero here.
+ava Incluso luego de convertir nuestra capital en cenizas, el PACT está liderando todas las encuestas de opiniones. Se puede sentir en las calles. Fontana es prácticamente un héroe de guerra aquí.
+#$ cha shi_fury
+cha shi_fury
+#$ shi You've got to be kidding me. Cerans?! PACT killed millions of us! Destroyed our capital city!
+shi Tienes que estar bromeando conmigo. ¡¿Ceranos?! ¡El PACT mató a millones de nosotros! ¡Destruyó nuestra ciudad capital!
+#$ cha ava_armscrossed_focusthink
+cha ava_armscrossed_focusthink
+#$ ava That has all been blamed on the Prototypes. Fontana is the hero who saved the galaxy from the Prototype menace and who humbled the arrogance of the Solar Alliance. I'm afraid that in the end, the people vote for the winning horse in elections. And Fontana is winning by every metric.
+ava De todo eso han sido culpados los Prototipos. Fontana es el héroe que salvó a la galaxia de la amenaza de los Prototipos y quien humilló la arrogancia de la Alianza Solar. Me temo que al final, la gente vota por el caballo ganador en las elecciones. Y Fontana está ganando por cada metro.
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+#$ ava PACT appointed me to organize the election, to ensure that it is fair. Their candidate, Miirage Foster, is the front runner right now. The runner up, the pro-Alliance bureaucrat Bill Stivell, is running over fifteen points behind. If the election were to be held today, Foster would win by a landslide.
+ava El PACT me asignó para organizar las elecciones, para asegurarse de que sean justas. Su candidata, Miirage Foster, es la primera corredora ahora. El perseguidor, el burócrata pro-Alianza Bill Stivell, va por más de quince puntos detrás. Si las elecciones fueran a tener lugar hoy, Foster ganaría por una gran diferencia.
+#$ cha shi_angry
+cha shi_angry
+#$ shi If that happened, every single other Neutral Rim world will fall one by one into PACT's hands.
+shi Si eso sucediese, todos los otros mundos del Margen Neutral caerían uno por uno en las manos del PACT.
+#$ cha ava_armscrossed_focusthink
+cha ava_armscrossed_focusthink
+#$ ava ... ... ...
+ava ... ... ...
+#$ cha ava_armscrossed_focustalk
+cha ava_armscrossed_focustalk
+#$ ava I'm afraid I haven't been quite honest. PACT appointed me to ensure that the election will be fair. However...
+ava Me temo que no he sido completamente honesta. El PACT me asignó para asegurarse de que las elecciones sean justas. Sin embargo...
+#$ cha shi_focus
+cha shi_focus
+#$ shi You've been on our side?
+shi ¿Has estado de nuestro lado?
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+#$ ava I've been secretly working with the underground resistance. We've got agents on Cera, Barona, Minerva, and Gerald, and we're working on adding Versta. We believe PACT has no intention of leaving the fate of the Neutral Rim to the will of the people.
+ava He estado trabajando secretamente con la resistencia. Tenemos agentes en Cera, Barona, Minerava, y Gerald, y estamos trabajando en añadir a Versta. Creemos que el PACT no tiene intenciones de dejar el destino del Margen Neutral a la voluntad de las personas.
+#$ ava They speak of democracy and elections while that they're popular... But we know what membership in PACT means. We'd be giving up our freedoms for good, all in the name of the great Veniczar Fontana.
+ava Hablan de democracia y elecciones mientras son populares... Pero sabemos lo que pertenecer al PACT significa. Estaríamos perdiendo nuestras libertades para siempre, todo en nombre del gran Veniczar Fontana.
+#$ ava The day PACT loses the Neutral Rim's favor... I doubt there will be a single election to come after that.
+ava El día en que el PACT pierda el favor del Margen Neutral... Dudo que haya una sola elección luego de eso.
+#$ cha shi_focus
+cha shi_focus
+#$ shi Come on board the ship. I need you, Ava.
+shi Ven a bordo de la nave. Te necesito, Ava.
+#$ cha ava_armscrossed_closedeyessadsmile
+cha ava_armscrossed_closedeyessadsmile
+#$ ava Heh. I am surprised you even managed to get this far. Very well.
+ava Heh. Estoy sorprendida de que lograra siquiera llegar tan lejos. Muy bien.
+#$ cha ava_armup_smile
+cha ava_armup_smile
+#$ ava I have just sent you a set of fabricated diplomatic papers, granting you safe passage to Cera. Please do fill out the paperwork correctly, captain.
+ava Le he enviado un conjunto de papeles diplomáticos falsificados, permitiéndole un pasaje seguro a Cera. Por favor llene el papeleo correctamente, capitán.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+#$ shi I'll fill it out like my life depends on it.
+shi Lo llenaré como si mi vida dependiera de ello.
+#$ cha ava_armup_smile
+cha ava_armup_smile
+#$ ava Meet me at New City Spire, Dock 1. Oh, and captain...
+ava Reúnase conmigo en Nueva Ciudad Spire, Puerto 1. Oh, y capitán...
+#$ cha shi_smile
+cha shi_smile
+#$ shi Yeah?
+shi ¿Sí?
+#$ cha ava_armscrossed_worriedclosedeyes
+cha ava_armscrossed_worriedclosedeyes
+#$ ava Please iron out those wrinkles in your coat before I see you.
+ava Por favor planche esas arrugas en su uniforme antes de que lo vea.
+#$ cha shi_stunned
+cha shi_stunned
+#$ shi ... ... ...
+shi ... ... ...
+#$ shi Ma'am.
+shi Señora.
+#$ cha ava_salute_focus
+cha ava_salute_focus
+#$ ava Ava out.
+ava Ava fuera.
+#$ sou sou_holoclose
+sou sou_holoclose
+#$ hid ava
+hid ava
+#$ cha shi_confusethink
+cha shi_confusethink
+#$ shi (She hasn't changed a bit. Well, at least personality-wise. Physically, she's looking better than ever. Ceran medical technology truly is amazing stuff...)
+shi (Ella no ha cambiado un poco. Bueno, al menos en su personalidad. Físicamente, se ve mejor que nunca. La tecnología médica Cerana ciertamente es sorprendente...)
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+#$ shi (It really is good to be Prime Minister...)
+shi (Realmente es bueno ser la Primera Ministra...)
+#$ shi ... ... ...
+shi ... ... ...
+#$ cha ica_back_mad
+cha ica_back_mad
+#$ ica What? Don't look at me, I'm not ironing your coat! Hmph!
+ica ¿Qué? ¡No me mires a mí, no voy a planchar tu uniforme! ¡Hmph!
+#$ cha shi_sadthink
+cha shi_sadthink
+#$ shi (Meanwhile, being the captain of the Ryuvian flagship doesn't mean jack...)
+shi (Mientras tanto, ser el capitán de la nave insignea Ryuviana no es fácil...)
+#$ var icariclaude_add
+var icariclaude_add
+#$ var unlock_ica1
+var unlock_ica1
+#$ var unlock_cla1
+var unlock_cla1
+#$ var unlock_side_cos1
+var unlock_side_cos1
+#$ hid ica
+hid ica
+#$ hid shi
+hid shi
+#$ dbg hide
+dbg hide
+#$ obj Make your way to Cera
+obj Dirígete a Cera
+#$ map 
+map 
+#$ 
+
+#$ tag chap2_claude_af1
+tag chap2_claude_af1
+#$ mus mus_As_I_Figure
+mus mus_As_I_Figure
+#$ dbg spr_bg_sickbay
+dbg spr_bg_sickbay
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ ccc cla_uni
+ccc cla_uni
+#$ cha lyn_point_angryshout
+cha lyn_point_angryshout
+#$ lyn Gguuuhh...! Get your hands off of me, you lecher! Pervert! Horny ass-breasted monster!
+lyn ¡Gguuuhh...! ¡Saca tus manos de mí, tú lujuriosa! ¡Pervertida! ¡Monstruo de enormes pechos!
+#$ cha cla_pout_surprise
+cha cla_pout_surprise
+#$ cla Oh, captain! Thank goodness you're here! Your defenseless poor Claude was about to become a snack for this evil Prototype! Please save me!
+cla ¡Oh, captain! ¡Gracias a dios que estás aquí! ¡Tu pobre e indefensa Claude estaba a punto de volverse un bocadillo para este malvado Prototipo! ¡Por favor sálvame!
+#$ cha shi_madgroan
+cha shi_madgroan
+#$ shi Sigh... What happened?
+shi Suspiro... ¿Qué sucedió?
+#$ cha lyn_point_angryshout
+cha lyn_point_angryshout
+#$ lyn I was called here to give a DNA sample for the sake of Prototype research... W-When this pervert tried to jam that obviously non-medical... vibrating apparatus into my... my...
+lyn Fui llamada aquí para dar una muestra de ADN por el bien de la investigación Prototipo... C-Cuando esta pervertida intentó introducir ese obviamente no-médico... aparato vibrador en mi... mi...
+#$ cha lyn_point_stunned, shadow
+cha lyn_point_stunned, shadow
+#$ lyn A... a... a... a...
+lyn A... a... a... a...
+#$ hid lyn
+hid lyn
+#$ cha shi_surprise
+cha shi_surprise
+#$ shi (Oh dear... Looks like Lynn's broke.)
+shi (Oh dios... Parece que Lynn se rompió.)
+#$ cha shi_confusethink
+cha shi_confusethink
+#$ shi Is this a medical device regularly used by health care professionals, doctor?
+shi ¿Es este un dispositivo médico regularmente usado por los profesionales de atención médica, doctor?
+#$ cha cla_handsonhips_confidentkitty
+cha cla_handsonhips_confidentkitty
+#$ cla Of course, captain! Of course! In fact, just the other day, I prescribed the same model to help with an old man's back pain! Blew all the wrinkles and knots clear outta his back! Also miraculously cured his impotency too! I'm a full service doctor!
+cla ¡Por supuesto, capitán! ¡Por supuesto! ¡De hecho, justo el otro día, prescribí el mismo modelo para ayudar con el dolor de espalda de un viejo hombre! ¡Limpió todas las arrugas de su espalda! ¡Además curó milagrosamente su impotencia también! ¡Soy una doctora de servicio completo!
+#$ cha shi_angryshout
+cha shi_angryshout
+#$ shi WHAT PART OF THIS DEVICE IS MEDICINAL?!
+shi ¡¿QUÉ PARTE DE ESTE DISPOSITIVO ES MEDICINAL?!
+#$ cha cla_squish_heartkitty
+cha cla_squish_heartkitty
+#$ cla My, my, my, captain... Let's not get too rough... At least contain yourself until I've drawn the curtains~!
+cla Vaya, vaya, vaya, capitán... No nos pongamos así... ¡Al menos contente hasta que haya cerrado las cortinas~!
+#$ cha shi_madgroan
+cha shi_madgroan
+#$ shi You're making me rethink my decision to have you on board, doc...
+shi Me estás haciendo replantear mi decisión de tenerte a bordo, doctor...
+#$ cha cla_pout_sadpout
+cha cla_pout_sadpout
+#$ cla Sniff. Sniff. Don't be like that, captain. In fact, now that you've let me on board, I'll fulfill my end of our bargain and let you privy to what I know about the Lost Fleet...
+cla Sorbido. Sorbido. No seas así, capitán. De hecho, ahora que me has dejado a bordo, cumpliré mi parte de nuestro acuerdo y te contaré lo que sé sobre la Flota Perdida...
+#$ cha shi_madgroan
+cha shi_madgroan
+#$ shi If this is another one of your pranks doctor...
+shi Si esta es otra de tus bromas doctor...
+#$ cha cla_handsonhips_focushappy
+cha cla_handsonhips_focushappy
+#$ cla No bamboozle! Only truth!
+cla ¡Nada de engaños! ¡Solo la verdad!
+#$ cha shi_sigh
+cha shi_sigh
+#$ shi Sigh... Well, get on with it.
+shi Suspiro... Bueno, comienza.
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ cha cla_armscrossed_talk
+cha cla_armscrossed_talk
+#$ cla A while back, I heard something from one of my patients...
+cla Hace un tiempo, escuché algo de uno de mis pacientes...
+#$ cla He came in with disintegration burns the likes of which I've never seen before. When I asked him where he got his wounds, he wouldn't stop talking about a derelict Ryuvian space station he found!
+cla Vino con quemaduras de desintegración del tipo que no había visto nunca antes. ¡Cuando le pregunté dónde se hizo sus heridas, no dejaba de hablar sobre una estación espacial Ryuviana en ruinas que encontró!
+#$ cla He said he saw thousands of data crystals inside, holding all the records of Ryuvia's history. But he was attacked by automated ryders and could only make off with a handful of crystals, which later turned out to hold useless census information from two thousand years ago.
+cla Dijo que vio miles de cristales de datos dentro, guardando todos los registros de la historia de Ryuvia. Pero fue atacado por ryders autómatas y solo pudo huír con un puñado de cristales, que más tarde terminaron teniendo censos de información inútiles de hace dos mil años.
+#$ cha cla_handsonhips_confident
+cha cla_handsonhips_confident
+#$ cla But if the station had information from two thousand years ago... Then it could also have information about Sola's time! Information about Crow Harbor!
+cla Pero si la estación tuviera información de hace dos mil años... ¡Entonces podría también tener información acerca de la época de Sola! ¡Información sobre Crow Harbor!
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi Well, where was this space station?
+shi Bueno, ¿dónde está esta estación espacial?
+#$ cha cla_handsonhips_happy
+cha cla_handsonhips_happy
+#$ cla Deep in the Formotti Expanse. I've got the coordinates right here!
+cla En lo profundo del Formotti Expanse. ¡Tengo las coordenadas aquí mismo!
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+#$ shi (Sigh. Claude's a fool, but this ancient temple could be useful in our coming battle with Crow. If it's guarded by ancient Ryuvian ryders, it's not going to be easy getting in and out. I should gather my old crew first before investigating this temple.)
+shi (Suspiro. Claude es una tonta, pero este antiguo templo podría ser útil en nuestra próxima batalla con Crow. Si está defendido por antiguos ryders Ryuvianos, no va a ser fácil entrar y salir. Debería reunir a mi antigua tripulación primero antes de investigar este templo.)
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi I'll save the coordinates in the navi-computer. Once we're ready, we can see for ourselves what this temple holds.
+shi Guardaré las coordenadas en la nave-computadora. Una vez que estemos listos, podremos ver por nosotros mismos qué contiene este templo.
+#$ hid cla
+hid cla
+#$ cha lyn_point_stunned, shadow
+cha lyn_point_stunned, shadow
+#$ lyn A... a... a... a...
+lyn A... a... a... a...
+#$ cha shi_sadthink
+cha shi_sadthink
+#$ shi (Oh. And Lynn here's still broken. I better just... take her back to engineering.)
+shi (Oh. Y Lynn todavía sigue rota. Mejor... la llevo de vuelta a ingeniería.)
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi For now, finding our old team mates comes first. We'll investigate this ancient Ryuvian temple later.
+shi Por ahora, encontrar a nuestros viejos compañeros viene primero. Investigaremos este antiguo templo Ryuviano luego.
+#$ cha cla_armscrossed_closedeyehappy
+cha cla_armscrossed_closedeyehappy
+#$ cla Sah yes sah, captain~
+cla Señor sí señor, capián~
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi Stay out of trouble, Claude...
+shi Mantente fuera de los problemas, Claude...
+#$ hid lyn
+hid lyn
+#$ hid cla
+hid cla
+#$ fade
+fade
+#$ dbg spr_bg_maraycorridor
+dbg spr_bg_maraycorridor
+#$ cha lyn_point_angryshout
+cha lyn_point_angryshout
+#$ lyn Urk! Lemme go! What happened Shields?! Why are you carrying me?!
+lyn ¡Urk! ¡Suéltame! ¡¿Qué sucedió Shields?! ¡¿Por qué me estás cargando?!
+#$ cha shi_neu
+cha shi_neu
+#$ shi Oh. You're back.
+shi Oh. Estás de vuelta.
+#$ cha lyn_handup_closedeyessad
+cha lyn_handup_closedeyessad
+#$ lyn Ugh... Somehow I feel like I just narrowly avoided something... traumatic.
+lyn Ugh... De alguna forma siento que acabo de evitar por un estrecho margen algo... traumático.
+#$ cha shi_sadthink
+cha shi_sadthink
+#$ shi (You have no idea...)
+shi (No tienes idea...)
+#$ cha lyn_handup_annoyedtalk
+cha lyn_handup_annoyedtalk
+#$ lyn That woman... Why's she here anyways? Just what's her deal?
+lyn Esa mujer... ¿Por qué está aquí de todas formas? ¿Simplemente cuál es su problema?
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi You know, I've asked myself that too. She always shows up out of nowhere, turns everything into an absolute clown show, then out of the blue, ends up pointing us to exactly where we need to be headed...
+shi Sabes, yo mismo me he preguntado eso también. Ella siempre aparece de la nada, convierte todo en un absoluto espectáculo de payasos, y luego de la nada, termina apuntándonos a exactamente donde necesitamos dirigirnos...
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+#$ shi But...
+shi Pero...
+#$ cha lyn_handup_focustalk
+cha lyn_handup_focustalk
+#$ lyn But?
+lyn ¿Pero?
+#$ ccc sol_uni
+ccc sol_uni
+#$ cha shi_confusethink
+cha shi_confusethink
+#$ shi I swear... I'm... forgetting something about her...
+shi Juro... que estoy... olvidando algo sobre ella...
+#$ cha sol_side_neutral
+cha sol_side_neutral
+#$ sol ... ... ...
+sol ... ... ...
+#$ cha shi_neu
+cha shi_neu
+#$ shi Hey, Sola...
+shi Hey, Sola...
+#$ cha sol_front_neutral
+cha sol_front_neutral
+#$ sol Yes?
+sol ¿Sí?
+#$ cha shi_neu
+cha shi_neu
+#$ shi While we were on Tydaria... did you ever tell me something about Claude?
+shi Mientras estábamos en Tydaria... ¿alguna vez me contaste algo sobre Claude?
+#$ cha sol_front_confuse
+cha sol_front_confuse
+#$ sol Hmm? The doctor? Why would we speak of her?
+sol ¿Hmm? ¿La doctora? ¿Por qué hablaríamos de ella?
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+#$ shi (That's what I figured... But... somehow, I feel like Sola once told me something absolutely shocking about Claude... But... no, I can't remember what it was at all.)
+shi (Eso es lo que supuse... Pero... de alguna forma, siento como que Sola una vez me contó algo absolutamente impactante sobre Claude... Pero... no, no puedo recordar qué era en lo absoluto.)
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+#$ shi (Why would Sola know anything about Claude's background in the first place? Sola's an ancient Ryuvian... Claude's a back alley quack doctor. It doesn't make any sense.)
+shi (¿Por qué Sola sabría algo sobre Claude en primer lugar? Sola es una antigua Ryuviana... Claude es una doctora de callejón. No tiene ningún sentido.)
+#$ cha shi_confusetalk
+cha shi_confusetalk
+#$ shi I was just wondering... I must be misremembering something...
+shi Solo me lo estaba preguntando... Debo estar recordando mal algo...
+#$ cha sol_front_confuse
+cha sol_front_confuse
+#$ sol Hmm...
+sol Hmm...
+#$ var cla_aff
+var cla_aff
+#$ cha shi_confusetalk
+cha shi_confusetalk
+#$ shi Claude Trilleo... Our perverted, incompetent doctor...
+shi Claude Trilleo... Nuestra pervertida, e incompetente doctor...
+#$ cha shi_confusethink
+cha shi_confusethink
+#$ shi (Or perhaps someone much, much more...)
+shi (O quizás alguien mucho, mucho más...)
+#$ var done_cla1
+var done_cla1
+#$ hid lyn
+hid lyn
+#$ hid sol
+hid sol
+#$ hid shi
+hid shi
+#$ dbg hide
+dbg hide
+#$ map 
+map 
+#$ 
+
+#$ tag chap2_icari1
+tag chap2_icari1
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ ccc ica_uni
+ccc ica_uni
+#$ dbg spr_bg_cargohold
+dbg spr_bg_cargohold
+#$ voi ica_neu1
+voi ica_neu1
+#$ cha ica_handsonhips_focustalk
+cha ica_handsonhips_focustalk
+#$ ica Hey cap, got a moment?
+ica Hey capitán, ¿tienes un momento?
+#$ cha shi_neu
+cha shi_neu
+#$ shi Sure. Something the matter?
+shi Seguro. ¿Ocurre algo?
+#$ voi ica_neu7
+voi ica_neu7
+#$ cha ica_handsonhips_focustalk
+cha ica_handsonhips_focustalk
+#$ ica Remember how I said I was gonna go search the underworld for help six years ago before I left? Well, I wasn't just pulling your leg when I said that. It's not much, but I've managed to pull together a decent network of clients who might be in need your services.
+ica ¿Recuerdas cómo dije que iba a buscar en los bajos fondos ayuda hace seis años antes de irme? Bueno, no estaba bromeando cuando dije eso. No es mucho, pero he logrado establecer una decente red de clientes que podrían necesitar tus servicios.
+#$ var ica_aff
+var ica_aff
+#$ cha shi_neu
+cha shi_neu
+#$ shi My services?
+shi ¿Mis servicios?
+#$ voi ica_neu4
+voi ica_neu4
+#$ cha ica_handsonhips_focustalk
+cha ica_handsonhips_focustalk
+#$ ica There's a lot of people willing to pay good money for you to dispose of their garbage, so to speak. I'm talking about taking out PACT captains who've built up a lot of hate in the Neutral Rim, along with other similar criminal scum. Basically doing humanity a favor and getting paid for it.
+ica Hay un montón de gente dispuesta a pagar buen dinero por que te deshagas de su basura, por así decirlo. Estoy hablado de eliminar capitanes del PACT que han acumulado un montón de odio en el Margen Neutral, junto con otras escorias criminales similares. Básicamente hacerle un favor a la humanidad y ser pagados por ello.
+#$ cha shi_neu
+cha shi_neu
+#$ shi Bounty hunting, you mean.
+shi Cazarrecompensas, querrás decir.
+#$ cha ica_handsonhips_focustalk
+cha ica_handsonhips_focustalk
+#$ ica You're getting my drift.
+ica Me vas entendiendo.
+#$ 
+
+#$ cc0 chap2_icari1_choice
+cc0 chap2_icari1_choice
+#$ cc1 Are you sure about this? What if we accidentally end up the bad guys ourselves?
+cc1 ¿Estás segura de esto? ¿Y si accidentalmente terminamos siendo los malos nosotros?
+#$ cc2 We could use the creds.
+cc2 Podríamos necesitar los créditos.
+#$ 
+
+#$ tag chap2_icari1_choice_cc1
+tag chap2_icari1_choice_cc1
+#$ voi ica_ang1
+voi ica_ang1
+#$ cha ica_armscrossed_annoyed
+cha ica_armscrossed_annoyed
+#$ ica Tch, give me a little more credit here, cap... I've been in the business for over a decade now. I know which bounties are solid and which ones are sour. All these guys have so much blood on their hands that we'd be practically doing everyone a favor.
+ica Tch, dame un poco más de crédito, capitán... He estado en el negocio durante más de una década. Sé cuáles recompensas son sólidas y cuáles son amargas. Todos estos tipos tienen tanta sangre en sus manos que prácticamente estaríamos haciéndoles a todos un favor.
+#$ jum chap2_icari1_2
+jum chap2_icari1_2
+#$ 
+
+#$ tag chap2_icari1_choice_cc2
+tag chap2_icari1_choice_cc2
+#$ voi ica_hap2
+voi ica_hap2
+#$ cha ica_handsonhips_smirk
+cha ica_handsonhips_smirk
+#$ ica Right? Some honest pay for doing good work. That's what I'm talking about here.
+ica ¿Verdad? Una honesta paga por hacer un buen trabajo. De eso es lo que estoy hablando aquí.
+#$ jum chap2_icari1_2
+jum chap2_icari1_2
+#$ 
+
+#$ tag chap2_icari1_2
+tag chap2_icari1_2
+#$ voi ica_neu3
+voi ica_neu3
+#$ cha ica_handsonhips_focustalk
+cha ica_handsonhips_focustalk
+#$ ica Still, it's your call whether we decide to call it in on a bounty or not. These jobs are all too big for me to handle by myself without the Maray, so I'll let you call the shots. Just hit me up whenever you need the details about a bounty, and I'll let you know what I have.
+ica Aun así, es tu elección si decidimos tomar una recompensa o no. Estos trabajos son todos demasiado grandes para ocuparme de ellos por mi cuenta sin la Maray, así que te dejaré escoger. Simplemente avísame siempre que necesites saber los detalles sobre una recompensa, y te haré saber lo que tengo.
+#$ cha shi_neu
+cha shi_neu
+#$ shi All right. I'll keep it in mind.
+shi Está bien. Lo tendré en mente.
+#$ var done_ica1
+var done_ica1
+#$ var unlock_side_ica1
+var unlock_side_ica1
+#$ hid ica
+hid ica
+#$ hid shi
+hid shi
+#$ dbg hide
+dbg hide
+#$ map 
+map 
+#$ 
+
+#$ ##Side Mission: Ancient Treasure of the Holy Empire
+##Misión Lateral: Antiguo Tesoro del Sagrado Imperio
+#$ //Sola: While I was on Tydaria, I overheard some miners claiming to have dug up an ancient Ryuvian artifact of great power. Intrigued, I shadowed them to an abandoned mine and witnessed the miners sell the artifact to a local pirate brigade. We should go back to Tydaria and restore the lost artifact to Ryuvia's rightful possession before the pirates use it for nefarious ends.
+//Sola: Mientras estuve en Tydaria, escuché a algunos mineros diciendo haber desenterrado un antiguo artefacto Ryuviano de gran poder. Intrigado, los seguí a escondidas hasta una mina abandonada y presencié a los mineros vendiéndoles el artefacto a una brigada pirata local. Deberíamos regresar a Tydaria y recuperar el artefacto perdido para la legítima propiedad de Ryuvia antes de que los piratas lo usen para sus nefastos fines.
+#$ 
+
+#$ tag side_ancienttreasure
+tag side_ancienttreasure
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha shi_focus
+cha shi_focus
+#$ shi The pirates are up ahead. Let's get this artifact back to Ryuvia.
+shi Los piratas están justo enfrente. Llevemos este artefacto de vuelta a Ryuvia.
+#$ stop
+stop
+#$ 
+
+#$ tag side_ancienttreasure_end
+tag side_ancienttreasure_end
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc sol_plugsuit
+ccc sol_plugsuit
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ pir All right, all right! You can have the accursed artifact, it's not like it did us a whole lot of good anyways!
+pir ¡Está bien, está bien! ¡Pueden quedarse el maldito artefacto, no es como si nos hubiera hecho mucho bien de todas formas!
+#$ voi sol_ang1
+voi sol_ang1
+#$ cha sol_front_focustalk
+cha sol_front_focustalk
+#$ sol The lead pirate vessel has jettisoned a cargo container holding the artifact. They are turning tail. Shall we pursue?
+sol La nave pirata líder ha soltado un contenedor de carga conteniendo el artefacto. Se están dando la vuelta. ¿Deberíamos perseguirlos?
+#$ cha shi_focus
+cha shi_focus
+#$ shi We got what we came for. Secure the container. Let's see this ancient artifact for ourselves...
+shi Tenemos lo que vinimos buscando. Aseguren el contenedor. Veamos este antiguo artefacto por nosotros mismos...
+#$ flag
+flag
+#$ stop
+stop
+#$ 
+
+#$ tag side_ancienttreasure_story
+tag side_ancienttreasure_story
+#$ mus mus_colors_main
+mus mus_colors_main
+#$ dbg spr_bg_cargohold
+dbg spr_bg_cargohold
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc sol_plugsuit
+ccc sol_plugsuit
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ voi asa_hap1
+voi asa_hap1
+#$ cha asa_excited_happy
+cha asa_excited_happy
+#$ asa Hey, hey capt'n! We got the artifact right here...
+asa ¡Hey, hey capitán! Tenemos el artefacto justo aquí...
+#$ voi asa_hap3
+voi asa_hap3
+#$ cha asa_armup_kitty
+cha asa_armup_kitty
+#$ asa Ufu. Ya suppose it could be something good? Or is it gonna completely fail to live up to the hype like that Wishall?
+asa Ufu. ¿Crees que podría ser algo bueno? ¿O va a fallar completamente en alcanzar el hype como aquel Wishall?
+#$ cha shi_sadthink
+cha shi_sadthink
+#$ shi Cough, cough... Let's not go digging up ancient history, Asaga...
+shi Tos, tos... Mejor no indaguemos en historia antigua, Asaga...
+#$ voi lyn_neu8
+voi lyn_neu8
+#$ cha lyn_handonhip_focustalk
+cha lyn_handonhip_focustalk
+#$ lyn Hmm... These readings are off the charts, all right. Definitely ancient Ryuvian without a doubt. Heh, you guys might want to stand back. According to my scanner, this thing could generate enough power to run half the ship!
+lyn Hmm... Estas lecturas están fuera de las marcas, de acuerdo. Definitivamente antiguo Ryuviano sin ninguna duda. Heh, quizás quieran retroceder chicos. ¡De acuerdo a mi escáner, esta cosa podría generar suficiente energía para encender la mitad de la nave!
+#$ voi sol_sur3
+voi sol_sur3
+#$ cha sol_surprise_surprise
+cha sol_surprise_surprise
+#$ sol ...This is...!
+sol ¡...Esto es...!
+#$ voi lyn_neu6
+voi lyn_neu6
+#$ cha lyn_handup_confusetalk
+cha lyn_handup_confusetalk
+#$ lyn All I've got to do is figure out how to convert the energy to something we can use... But hmm...? What's this container? Could this be where the excess overflow energy gets pumped to? And... maybe if you orientate it this way, it almost looks like it's meant to be sat on...
+lyn Todo lo que tengo que hacer es averiguar cómo convertir la energía en algo que podamos usar... ¿Pero hmm...? ¿Qué es este contenedor? ¿Podría ser esto por donde el exceso de energía es expulsado? Y... tal vez si lo orientas de esta forma, casi luce como si estuviera hecho para sentarse en él...
+#$ voi sol_sur4
+voi sol_sur4
+#$ cha sol_surprise_surprise
+cha sol_surprise_surprise
+#$ sol Withdraw! This device is--!
+sol ¡Retírense! ¡Este dispositivo es--!
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_handonhip_focustalk
+cha lyn_handonhip_focustalk
+#$ lyn I know what I'm doing! It's not like it's gonna explode or anything. In fact, I'd say this device has no military application at all. Some kind of... civilian fixture... But what could it be?
+lyn ¡Sé lo que estoy haciendo! No es como si fuera a explotar o algo. De hecho, diría que este dispositivo no tiene aplicación militar en lo absoluto. Algún tipo de... decoración civil... ¿Pero qué podría ser?
+#$ cha shi_confusetalk
+cha shi_confusetalk
+#$ shi Sola? Something the matter? You know something about this Lost Technology?
+shi ¿Sola? ¿Ocurre algo? ¿Sabes algo sobre de esta Tecnología Perdida?
+#$ voi sol_sur1
+voi sol_sur1
+#$ cha sol_surprise_uu, blush
+cha sol_surprise_uu, blush
+#$ sol It's an... ancient toilet seat!
+sol ¡Es un... antiguo retrete!
+#$ voi lyn_ang1
+voi lyn_ang1
+#$ cha lyn_armscrossed_shock, shadow
+cha lyn_armscrossed_shock, shadow
+#$ lyn Guuhh.......
+lyn Guuhh.......
+#$ voi sol_sad5
+voi sol_sad5
+#$ cha sol_side_sigh
+cha sol_side_sigh
+#$ sol With sixteen bidet pressure levels, adjustable seat shape, and instant carbonization of waste matter, such models were found throughout the Holy Empire... An indispensable tool of the Holy Empire's health and sanitation regime!
+sol Con dieciséis niveles de presión, forma del asiento ajustable, y carbonización instantánea de materia de desecho, tales modelos se encontraban por todo el Sagrado Imperio... ¡Una herramienta indispensable del régimen sanitario y de salud del Sagrado Imperio!
+#$ voi asa_neu4
+voi asa_neu4
+#$ cha asa_armscrossed_confidentkitty
+cha asa_armscrossed_confidentkitty
+#$ asa Ufufu. We gonna have the cleanest bungholes in da galaxy once we hook this bad boy up.
+asa Ufufu. Tendremos el agujero más limpio en la galaxia cuando instalemos a este chico.
+#$ voi lyn_sad3
+voi lyn_sad3
+#$ cha lyn_armscrossed_bigsigh
+cha lyn_armscrossed_bigsigh
+#$ lyn Sighh... And I suppose it'll be a certain Prototype genius who has to do all the installation work.
+lyn Suspiroo... Y supongo que será cierta genio Prototipo quien tendrá que hacer todo el trabajo de instalación.
+#$ voi sol_sur4
+voi sol_sur4
+#$ cha sol_side_sadclosedeyestalk
+cha sol_side_sadclosedeyestalk
+#$ sol To think this device survived without a scratch all these millennia... Truly a testament to the Holy Empire's workmanship!
+sol Y pensar que este dispositivo sobrevivió sin un rasguño todos estos milenios... ¡Ciertamente un testamento de la manufactura del Sagrado Imperio!
+#$ cha shi_confusetalk
+cha shi_confusetalk
+#$ shi Uh, yeah. Score one for ancient Ryuvia, I guess.
+shi Uh, sí. Punto para la antigua Ryuvia, supongo.
+#$ cha shi_neu
+cha shi_neu
+#$ shi I'll let you get to work on that then, Lynn.
+shi Te dejaré trabajar en eso entonces, Lynn.
+#$ voi lyn_ang1
+voi lyn_ang1
+#$ cha lyn_armscrossed_closedeyespout
+cha lyn_armscrossed_closedeyespout
+#$ lyn Kill me.
+lyn Mátame.
+#$ var sol_aff
+var sol_aff
+#$ hid lyn
+hid lyn
+#$ hid sol
+hid sol
+#$ hid asa
+hid asa
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+#$ shi (Wouldn't mind giving this ancient Ryuvian toilet seat a whirl myself... J-Just out of curiosity...)
+shi (No me importaría darle a este antiguo retrete Ryuviano un intento yo mismo... S-Solo por curiosidad...)
+#$ ccc asa_uni
+ccc asa_uni
+#$ ccc sol_uni
+ccc sol_uni
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ var done_side_sol1
+var done_side_sol1
+#$ hid shi
+hid shi
+#$ map 
+map 
+#$ 
+
+#$ //##Side Mission: The Great Emu War
+//##Misión Lateral: La Gran Guerra Emu
+#$ //Icari: Hey cap. I've got a big contract for you. A contact desperately needs his pack of Lothorian emus transported to the moon of Argasso for the mating season. Hey, don't give me that look, this is serious business! Their eggs are worth a small fortune out here in the Neutral Rim, so you can count on there being trouble on route.
+//Icari: Hey capitán. Tengo un gran contrato para tí. Un contacto necesita desesperadamente que su manada de emus Lothorianos sea transportada a la luna de Argasso para la temporada de apareamiento. ¡Hey, no me mires así, esto es un negocio serio! Sus huevos valen una pequeña fortuna aquí en el Margen Neutral, así que puedes contar con que habrá problemas en el camino.
+#$ 
+
+#$ //Bridge
+//Puente
+#$ tag greatemuwar_start
+tag greatemuwar_start
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ cha shi_neu
+cha shi_neu
+#$ shi We're at the rendezvous point. Do we have the cargo ready for transport?
+shi Estamos en el punto de encuentro. ¿Tenemos la carga lista para transportarla?
+#$ hid shi
+hid shi
+#$ //Chibi CG: The girls are struggling to to calm a bunch of big birds
+//Chibi CG: Las chicas se esfuerzan para calmar un montón de grandes aves
+#$ dcg spr_cg22
+dcg spr_cg22
+#$ voi asa_sur4
+voi asa_sur4
+#$ asa Oooo easy there, big fella... You're so fluffy wuffy...
+asa Oooo tranquilo, gran amigo... Eres tan esponjoso...
+#$ voi sol_hap4
+voi sol_hap4
+#$ sol Unyuuuu...
+sol Unyuuuu...
+#$ voi lyn_sur2
+voi lyn_sur2
+#$ lyn Eh?! What's happening?! I didn't sign up for this, Shields!
+lyn ¡¿Eh?! ¡¿Qué está pasando?! ¡Yo no me inscribí para esto, Shields!
+#$ voi ica_hap2
+voi ica_hap2
+#$ ica Careful there. These emus are in heat for mating season. You wouldn't want to be mistaken for a female.
+ica Tengan cuidado. Estos emus están en calor por la temporada de apareamiento. No querrían ser confundidas por una hembra.
+#$ voi cla_hap4
+voi cla_hap4
+#$ cla Mating season... Oh my~
+cla Temporada de apareamiento... Oh vaya~
+#$ voi lyn_ang1
+voi lyn_ang1
+#$ lyn Come on, let's get this over with!
+lyn ¡Vamos, terminemos con esto!
+#$ dcg hide
+dcg hide
+#$ cha shi_neu
+cha shi_neu
+#$ shi (Sounds like we have the cargo well in hand...)
+shi (Parece que tenemos la carga bien asegurada...)
+#$ shi (Who would have thought the flagship of the Ryuvia kingdom would end up transporting a pack of farm animals?)
+shi (¿Quién habría pensado que la nave insignea del reino de Ryuvia terminaría transportando una bandada de animales de corral?)
+#$ hid shi
+hid shi
+#$ mus mus_drivingtopdown
+mus mus_drivingtopdown
+#$ flag
+flag
+#$ sou sou_warning
+sou sou_warning
+#$ pof Ryuvian vessel. Cut your engines and prepare to be inspected. You are suspected of illegally smuggling exotic wildlife in violation of the People's Legal Code, section 3219.
+pof Nave Ryuviana. Apaguen sus motores y prepárense para ser inspeccionados. Son sospechosos de tráfico ilegal de vida salvaje exótica en violación del Código Legal del PACT, sección 3219.
+#$ flag
+flag
+#$ cha shi_angry
+cha shi_angry
+#$ shi Section 3219?
+shi ¿Sección 3219?
+#$ hid shi
+hid shi
+#$ pof Cut your engines and prepare to be inspected by the Tariff Board.
+pof Apaguen sus motores y prepárense para ser inspeccionados por la Junta de Aranceles.
+#$ cha shi_angry
+cha shi_angry
+#$ shi Afraid I can't do that. You're awfully far from PACT space to be out here collecting duties. I didn't realize PACT now resorts to racketeering.
+shi Me temo que no puedo hacer eso. Ustedes están terriblemente lejos del espacio del PACT para estar aquí realizando su deber. No me había dado cuenta de que el PACT ahora recurre al crímen organizado.
+#$ hid shi
+hid shi
+#$ pof Then pay with your life!
+pof ¡Entonces pagarás con tu vida!
+#$ stop
+stop
+#$ 
+
+#$ //After Battle
+//Tras la Batalla
+#$ #Hanger CG
+#Hanger CG
+#$ tag emuwar_end
+tag emuwar_end
+#$ mus mus_colors_main
+mus mus_colors_main
+#$ dbg spr_bg_cargohold
+dbg spr_bg_cargohold
+#$ dcg spr_cg22
+dcg spr_cg22
+#$ asa Ooo you fluffy wuffy you! It's time for you to get going! Your waifus are waiting for you on the moon!
+asa ¡Ooo tú esponjoso tú! ¡Es hora de que te marches! ¡Tus waifus están esperándote en la luna!
+#$ bir Kaaw!
+bir ¡Kaaw!
+#$ lyn Tch... I can't believe we risked our skins for these stupid creatures! Ugh, not even a ounce of gratitude from 'em! Just a whole bunch of feather dust and droppings! Achoo!
+lyn Tch... ¡No puedo creer que arriesgamos nuestros pellejos por estas estúpidas criaturas! ¡Ugh, ni siquiera una onza de gratitud de ellos! ¡Solo un montón de plumas y excrementos! ¡Achoo!
+#$ bir Kaww?
+bir ¿Kaww?
+#$ lyn Yeah, I'm talkin' to you, you fat chicken!
+lyn ¡Sí, te estoy hablando a tí, tú gallina gorda!
+#$ bir Kawww!
+bir ¡Kawww!
+#$ sol The great bird gives you his gratitude.
+sol La gran ave te da su gratitud.
+#$ lyn Eh? W-Well, how would you even know what it's saying... Like I said, it's just a giant chicken! Hmph!
+lyn ¿Eh? B-Bueno, cómo sabrías siquiera lo que está diciendo... ¡Como dije, es solo una gallina gigante! ¡Hmph!
+#$ var ica_aff
+var ica_aff
+#$ ica Heh, I'd say that's a job well done. Man, those Lothorians sure have a big appetite for their omelets. They really put down a small fortune!
+ica Heh, yo diría que ese es un trabajo bien hecho. Hombre, esos Lothorianos sí que tienen un gran apetito para sus tortillas. ¡Realmente rinden una pequeña fortuna!
+#$ lyn Eh?
+lyn ¿Eh?
+#$ lyn EEEEHHHHHHHHHH?!
+lyn ¡¿EEEEHHHHHHHHHH?!
+#$ dcg hide
+dcg hide
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+#$ shi (So in the end, we risked our lives for some omelets...)
+shi (Así que al final, arriesgamos nuestras vidas por unas tortillas...)
+#$ shi (Well, at least we got paid for our troubles.)
+shi (Bueno, al menos nos pagaron por los problemas.)
+#$ sou sou_cashregister
+sou sou_cashregister
+#$ var done_side_ica1
+var done_side_ica1
+#$ nar (1000 Credits has been added to your account!)
+nar (¡1000 Créditos han sido añadidos a tu cuenta!)
+#$ map 
+map 
+#$ 
+
+#$ //##Side Mission: Scrap Behind the Shed
+//##Misión Lateral: Escaramuza Tras La Fábrica
+#$ //Cosette: You think you're so tough, Shields?! If you're a real man, come face me and my squad at Tydaria where we can settle the score once and for all! And don't even think I'll ever join your pathetic harem! Peh!
+//Cosette: ¡¿Te crees que eres muy fuerte, Shields?! ¡Si eres un verdadero hombre, ven y enfréntate a mí y a mi escuadrón en Tydaria donde arreglaremos las cosas de una vez por todas! ¡Y ni siquiera pienses que me uniré a tu patético harem! ¡Peh!
+#$ 
+
+#$ //Bridge
+//Puente
+#$ tag scrapbehind_start
+tag scrapbehind_start
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha shi_neu
+cha shi_neu
+#$ shi (Here we are at Tydaria... Oh, right on cue, there's an incoming transmission from our pirate friend.)
+shi (Aquí estamos en Tydaria... Oh, justo a tiempo, hay una transmisión entrante de nuestra amiga pirata.)
+#$ cha shi_smirk
+cha shi_smirk
+#$ shi Hello there.
+shi Hola.
+#$ voi cos_hap1
+voi cos_hap1
+#$ cha cos_laugh_crazy
+cha cos_laugh_crazy
+#$ cos Captain Shields! You are a bold one! Heheheh... KILL HIM!
+cos ¡Capitán Shields! ¡Eres atrevido! Heheheh... ¡MÁTENLO!
+#$ stop
+stop
+#$ 
+
+#$ tag scrapbehind_mid
+tag scrapbehind_mid
+#$ voi cos_ang3
+voi cos_ang3
+#$ cha cos_laugh_crazy
+cha cos_laugh_crazy
+#$ cos Back away! I will deal with this imperialist scum myself!
+cos ¡Retirada! ¡Me haré cargo de esta escoria imperialista yo misma!
+#$ cha shi_smirk
+cha shi_smirk
+#$ shi Your move.
+shi Tu turno.
+#$ voi cos_ang5
+voi cos_ang5
+#$ cha cos_fist_angrynarrowclench
+cha cos_fist_angrynarrowclench
+#$ cos You fool! I've been trained in your Ryuvian arts by Admiral Kuushana!
+cos ¡Tonto! ¡He sido entrenada en tus artes Ryuvianas por la Almirante Kuushana!
+#$ cha shi_confusethink
+cha shi_confusethink
+#$ shi (Really?)
+shi (¿En serio?)
+#$ voi cos_ang2
+voi cos_ang2
+#$ cha cos_fist_surpriseangry
+cha cos_fist_surpriseangry
+#$ cos Attack, Shields!
+cos ¡Ataca, Shields!
+#$ stop
+stop
+#$ 
+
+#$ tag scrapbehind_end
+tag scrapbehind_end
+#$ voi cos_sad1
+voi cos_sad1
+#$ cha cos_facepalm_clench
+cha cos_facepalm_clench
+#$ cos Guughh...
+cos Guughh...
+#$ cha shi_confusetalk
+cha shi_confusetalk
+#$ shi Cough, cough... Ugh, for some reason, I'm feeling a little tongue-tied... What was that about?
+shi Tos, tos... Ugh, por alguna razón, siento mi lengua un poco atorada... ¿Qué fue eso?
+#$ cha shi_angryshout
+cha shi_angryshout
+#$ shi Ahem... Anyways, I've won fair and square, Cosette. How about we let bygones be bygones, hmm?
+shi Ahem... De cualquier forma, he ganado limpiamente, Cosette. ¿Qué te parece si dejamos ir el pasado, hmm?
+#$ voi cos_sad3
+voi cos_sad3
+#$ cha cos_fist_crazysneer
+cha cos_fist_crazysneer
+#$ cos Never! B-Besides, I was just testing your power right now! Hmph! Did you really think I'd be taken out so easily? Next time, I'm gonna come at you at full power!
+cos ¡Nunca! ¡A-Aparte, solo estaba probando tu poder ahora mismo! ¡Hmpy! ¿Realmente pensaste que sería derrotada tan fácilmente? ¡La próxima vez, vendré a tí con todo mi poder!
+#$ cha shi_sadthink
+cha shi_sadthink
+#$ shi At this rate, we're gonna be doing this until we're both gray...
+shi A este paso, vamos a estar haciendo esto hasta que ambos seamos viejos...
+#$ voi cos_hap1
+voi cos_hap1
+#$ cha cos_laugh_crazy
+cha cos_laugh_crazy
+#$ cos Not if I see you again, we're not! Because next time, I'm gonna flay you alive! You better be shaking in your boots right now!
+cos ¡No si te veo de nuevo, no lo haremos! ¡Porque la próxima vez, te voy a despellejar vivo! ¡Más te vale estar temblando ahora mismo!
+#$ cha shi_sadgroan
+cha shi_sadgroan
+#$ shi I'm sure I'll shoot outta my bed in cold sweat when you visit me in my nightmares tonight, Cosette.
+shi Ciertamente voy a saltar de mi cama sudando frío cuando me visites en mis pesadillas esta noche, Cosette.
+#$ voi cos_ang3
+voi cos_ang3
+#$ cha cos_facepalm_clench
+cha cos_facepalm_clench
+#$ cos Kuu...! You... seriously piss me off!
+cos ¡Kuu...! ¡Tú... seriamente me molestas!
+#$ hid cos
+hid cos
+#$ cha shi_confusetalk
+cha shi_confusetalk
+#$ shi (Looks like I've taken care of Cosette for now. Wait... Something's happening... My memories are...!)
+shi (Parece que me he hecho cargo de Cosette por ahora. Espera... Algo está sucediendo... ¡Mis memorias están...!)
+#$ //Cosette Affection Lv 2 Gained!: FULL FORWARD order now unlocked!
+//Afecto de Cosette Nv 2 Obtenido!: ¡Orden AVANCE COMPLETO ahora desbloqueada!
+#$ var cos_aff
+var cos_aff
+#$ cha shi_focusthink
+cha shi_focusthink
+#$ shi (That's right... My old command skills are coming back to me...)
+shi (Es cierto... Mis viejas habilidades de comando están regresándome...)
+#$ shi (For every enemy I defeat in battle, I'll be awarded CMD Points. Once I've acquired enough, I can use them to issue powerful orders which can quickly change the tide of battle.)
+shi (Por cada enemigo que derrote en batalla, seré recompensado con Puntos CMD. Una vez que obtenga suficientes, puedo usarlos para emitir poderosas órdenes que pueden rápidamente cambiar la marea de la batalla.)
+#$ shi (The FULL FORWARD order drastically increases the offensive capabilities of all the units under my command. A strong offense is sometimes the best defense!)
+shi (La orden AVANCE COMPLETO aumenta drásticamente las capacidades ofensivas de todas las unidades bajo mis órdenes. ¡Una fuerte ofensiva es algunas veces la mejor defensa!)
+#$ var done_side_cos1
+var done_side_cos1
+#$ flag
+flag
+#$ stop
+stop
+#$ 
+
+#$ //##Main Mission: Reunite with Ava
+//##Misión Principal: Reunirse con Ava
+#$ //I've made contact with Ava and received forged diplomatic papers to sneak past PACT to dock at Cera. This will be the first time meeting my childhood friend and loyal second in command in six years. I... better iron out all the wrinkles in my uniform.
+//He hecho contacto con Ava y recibido papeles diplomáticos falsificados para escabullirme tras el PACT y atracar en Cera. Esta será la primera vez encontrándome con mi leal segunda al mando en seis años. Yo... mejor plancho todas las arrugas en mi uniforme.
+#$ 
+
+#$ //Bridge, arrival at Cera
+//Puente, llegada a Cera
+#$ tag reunite_ava_start
+tag reunite_ava_start
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ ccc ica_uni
+ccc ica_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ voi lyn_sad3
+voi lyn_sad3
+#$ cha lyn_armscrossed_talk
+cha lyn_armscrossed_talk
+#$ lyn So we're on course straight into PACT space, eh...
+lyn Así que estamos en curso directamente al espacio del PACT, eh...
+#$ voi ica_neu4
+voi ica_neu4
+#$ cha ica_armscrossed_focustalk
+cha ica_armscrossed_focustalk
+#$ ica I sure hope you put together your diplomatic paperwork in order, cap. This isn't going to be anything like Ryuvia Prime. Cera's one of the gateway worlds into PACT space. Ever since Fontana grabbed hold of this planet after the Liberation Day Massacre, PACT's fortified this world with multiple starbases and thousands of ships.
+ica Solo espero que pongas tu papeleo diplomático en orden, capitán. Esto no va a ser nada como Ryuvia Prime. Cera es uno de los mundos de entrada al espacio del PACT. Desde que Fontana agarró este planeta tras la Masacre del Día de Liberación, el PACT ha fortificado este mundo con múltiples bases estelares y miles de naves.
+#$ cha shi_sadthink
+cha shi_sadthink
+#$ shi (And that was all because I failed to realize that Chigara was a Prototype...)
+shi (Y todo eso fue porque fallé en darme cuenta de que Chigara era un Prototipo...)
+#$ cha shi_focus
+cha shi_focus
+#$ shi It's fine. Besides, with the commander's skills, I'm sure we'll get through without a hitch.
+shi Está bien. Aparte, con las habilidades de la comandante, estoy seguro de que lograremos pasar sin problemas.
+#$ voi lyn_neu0
+voi lyn_neu0
+#$ cha lyn_handup_focustalk
+cha lyn_handup_focustalk
+#$ lyn We're being hailed by PACT border control.
+lyn Estamos siendo saludados por el control fronterizo del PACT.
+#$ pof Glory to the People's Alliance, Verstan vessel Odysseus. Submit your entry permit and state your destination and cargo.
+pof Gloria a la Alianza de los Pueblos, nave Verstana Odysseus. Muestren su permiso de entrada y establezcan su destino y carga.
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi This is the Odysseus. Destination: Cera. Cargo: Consumer techs and electronics. Transmitting entry permit now.
+shi Aquí el Odysseus. Destino: Cera. Carga: Artículos tecnológicos y electrónicos. Transmitiendo permiso de entrada ahora.
+#$ hid shi
+hid shi
+#$ pof ... ... ...
+pof ... ... ...
+#$ pof Entry granted. The Veniczar bids you safe travels, Odysseus.
+pof Entrada concedida. El Veniczar les desea viajes seguros, Odysseus.
+#$ voi lyn_neu6
+voi lyn_neu6
+#$ cha lyn_handonhip_neutral
+cha lyn_handonhip_neutral
+#$ lyn Transmission cut.
+lyn Transmisión cortada.
+#$ cha shi_smile
+cha shi_smile
+#$ shi See? I told you the commander'll pull through for us.
+shi ¿Ves? Te dije que la comandante lo resolvería por nosotros.
+#$ voi ica_sur5
+voi ica_sur5
+#$ cha ica_armscrossed_mildsurprise
+cha ica_armscrossed_mildsurprise
+#$ ica I'll be damned. You actually filled out the paperwork.
+ica No lo puedo creer. Realmente rellenaste el papeleo.
+#$ cha shi_sadthink
+cha shi_sadthink
+#$ shi (Give your captain some credit, Icari...)
+shi (Dale a tu capitán algo de crédito, Icari...)
+#$ cha shi_focus
+cha shi_focus
+#$ shi I'm setting course for New City Spire, Dock One now. Come on, let's get to work.
+shi Estoy estableciendo ahora el curso a Nueva Ciudad Spire, Puerto Uno. Vamos, pongámonos a trabajar.
+#$ shi (We're here. Ava...)
+shi (Estamos aquí. Ava...)
+#$ shi (I can finally see you.)
+shi (Finalmente podré verte.)
+#$ mus stop
+mus stop
+#$ dbg hide
+dbg hide
+#$ fade
+fade
+#$ dbg spr_bg_cerahangar
+dbg spr_bg_cerahangar
+#$ ccc ava_suit
+ccc ava_suit
+#$ cha shi_smile
+cha shi_smile
+#$ shi ... ... ...
+shi ... ... ...
+#$ shi Not much of a disguise, Prime Minister.
+shi No es un gran disfraz, Primera Ministra.
+#$ mus mus_hino_kageri
+mus mus_hino_kageri
+#$ dcg spr_cg_avameet1
+dcg spr_cg_avameet1
+#$ shi Ava...
+shi Ava...
+#$ ava My...
+ava Vaya...
+#$ shi I've missed you.
+shi Te he extrañado.
+#$ var ava_aff
+var ava_aff
+#$ dcg spr_cg_avameet2
+dcg spr_cg_avameet2
+#$ ava Yes, captain. I know.
+ava Sí, capitán. Lo sé.
+#$ shi I'm sorry. Guess getting my hands on the Prime Minister of Cera is a straight ticket to a court marshal, huh?
+shi Lo siento. Supongo que poner mis manos en la Primera Ministra de Cera es un pasaje directo a la corte marcial, ¿huh?
+#$ ava By now, I've got enough dirt to court marshal you enough times to serve multiple life sentences.
+ava Hasta ahora, tengo suficientes cosas sucias para llevarle a la corte marcial suficientes veces como para servir múltiples sentencias de vida.
+#$ shi I've got a new ship. Come with me. It'll be just like old times again.
+shi Tengo una nueva nave. Ven conmigo. Será justo como en los viejos tiempos otra vez.
+#$ ava ... ... ...
+ava ... ... ...
+#$ ava About that...
+ava Sobre eso...
+#$ ava I have given it a great deal of thought. Listen to me, captain.
+ava Lo he pensado enormemente. Escúcheme, capitán.
+#$ mus stop
+mus stop
+#$ dcg hide
+dcg hide
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+#$ ava With the upcoming election, just vanishing on board a rogue vessel would only serve to bolster PACT's chances in this election.
+ava Con las próximas elecciones, simplemente desaparecer a bordo de una nave independiente solo serviría para reforzar las oportunidades del PACT en estas elecciones.
+#$ cha shi_focus
+cha shi_focus
+#$ shi Ava?
+shi ¿Ava?
+#$ ava I will do what I can to assist you from the shadows. But winning this vote is our only opportunity to liberate Cera from PACT. We can't just abandon it. I best stay here. I'm sorry.
+ava Haré lo que pueda para ayudarle desde las sombras. Pero ganar estas votaciones es nuestra única oportunidad para liberar Cera del PACT. No podemos abandonarla. Mejor me quedo aquí. Lo lamento.
+#$ mus mus_fallen_angel_pt1
+mus mus_fallen_angel_pt1
+#$ cha shi_gasp
+cha shi_gasp
+#$ shi No, Ava... PACT has no intention of letting a fair election happen! Look around us! I passed by an entire PACT armada on my way here! You think they'll just-
+shi No, Ava... ¡El PACT no tiene intenciones de dejar que justas elecciones ocurran! ¡Mira a nuestro alrededor! ¡He atravesado toda una armada del PACT en mi camino aquí! Crees que ellos simplemente-
+#$ ava But what will the people think if I run away, to join you on a mad quest to stop an ancient Ryuvian war lord? I've become the Prime Minister for the sake of Cera. I can't abandon my post. Not yet.
+ava ¿Pero qué pensará la gente si huyo, para unirme a usted en una misión demente para detener a un antiguo señor de la guerra Ryuviano? Me he convertido en la Primera Ministra por el bien de Cera. No puedo abandonar mi puesto. Todavía no.
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi I-It's not a mad quest... It's true...
+shi N-No es una misión demente... Es la verdad...
+#$ ava So it may be. But to the voters -
+ava Podrá serlo. Pero para los votantes -
+#$ cha shi_fury
+cha shi_fury
+#$ shi Listen, I need you on board the ship! I can't... PACT... Fontana'll probably lock you up in chains as soon as he's tricked everyone into voting away all their rights! I can't leave you here!
+shi ¡Escucha, te necesito a bordo de la nave! No puedo... El PACT... ¡Fontana probablemente te encerrará en cadenas tan pronto como engañe a todos para que voten por perder todos sus derechos! ¡No puedo dejarte aquí!
+#$ ccc mir_base
+ccc mir_base
+#$ sou sou_mysteriouspiano
+sou sou_mysteriouspiano
+#$ cha mir_hat_neu
+cha mir_hat_neu
+#$ mir How unfair of you, Captain Shields. To assert such unfounded accusations against the People's Alliance. Especially considering your role Cera's current position.
+mir Qué injusto de tu parte, Capitán Shields. Decir semejantes acusaciones infundadas contra la Alianza de los Pueblos. Especialmente considerando tu rol en la posición actual de Cera.
+#$ cha shi_surprise
+cha shi_surprise
+#$ shi What?
+shi ¿Qué?
+#$ cha ava_armscrossed_madtalk
+cha ava_armscrossed_madtalk
+#$ ava Miirage Foster.
+ava Miirage Foster.
+#$ hid ava
+hid ava
+#$ cha mir_hat_talk
+cha mir_hat_talk
+#$ mir Ah... My apologies. In my passion, I have gotten ahead of myself. I am Miirage Foster. I am the head of the Ceran Worker's Party and a candidate for Prime Minister in the coming election.
+mir Ah... Mis disculpas. En mi pasión, me he adelantado. Mi nombre es Miirage Foster. Soy la líder del Partido de los Trabajadores Cerano y candidata a Primer Ministro en las próximas elecciones.
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi Miirage Foster... So you're the PACT sympathizer.
+shi Miirage Foster... Así que tú eres la simpatizante del PACT.
+#$ cha mir_hat_talk
+cha mir_hat_talk
+#$ mir You speak my name with so much hate, yet we have only just met. The Neutral Rim War is over. The Solar Alliance has retreated back to Far Port. The People's Alliance will establish peace in the Neutral Rim, so that another tragedy like the destruction of Cera City never happens again.
+mir Pronuncias mi nombre con tanto odio, a pesar de que solo nos acabamos de conocer. La Guerra del Margen Neutral se acabó. La Alianza Solar se ha retirado tras Far Port. La Alianza de los Pueblos establecerá la paz en el Margen Neutral, de forma que otra tragedia como la destrucción de Ciudad Cera nunca ocurra de nuevo.
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi Peace? Tell that to the millions who were vaporized!
+shi ¿Paz? ¡Dile eso a los millones que fueron vaporizados!
+#$ cha mir_hat_talk
+cha mir_hat_talk
+#$ mir The work of a mad Prototype, the ilk of which Veniczar Fontana has eradicated from the galaxy. We were all misled by the Prototypes. It was they who masterminded the war; Who orchestrated the Liberation Day Massacre and brought such terrible misery to the galaxy.
+mir La obra de un demente Prototipo, la tinta que Veniczar Fontana ha erradicado de la galaxia. Todos fuimos despistados por los Prototipos. Fueron ellos quienes planearon la guerra; Quienes orquestaron la Masacre del Día de Liberación y trajeron tan terrible miseria a la galaxia.
+#$ mir Veniczar Fontana has promised the people of the Neutral Rim free elections. Of peace. Of equality. For too long has the few elites of Solaris ruled over our world. PACT promises a new world order, where the boon of technology will be distributed to all of us. Where the sick need not worry about money to be treated, and the fortunate help out those who must be raised up.
+mir Veniczar Fontana ha prometido a los pueblos del Margen Neutral libres elecciones. De paz. De igualdad. Durante demasiado tiempo la pequeña élite de Solaris gobernó nuestro mundo. El PACT promete un nuevo orden del mundo, donde la bendición de la tecnología será distribuido a todos nosotros. Donde el enfermo no necesita preocuparse por el dinero para ser tratado, y el afortunado ayuda a aquellos que deben levantarse.
+#$ mir A fair and peaceful society wherein all of us raise each other up. An end to Solaris' ruthless system of greed, where everyone pushes each other down, so that only the few elites may gather wealth so fruitlessly vast most of it will rot before anyone benefits from it.
+mir Una justa y pacífica sociedad en la que todos nosotros nos levantaremos. Un fin al despiadado sistema de codicia de Solaris, donde todos se empujan hacia abajo, para que solo la pequeña élite puedan acumular una riqueza tan infecciosa que la mayor parte se pudrirá antes de que alguien pueda beneficiarse de ella.
+#$ mir If we keep nothing but misbegotten grudges from the war, where will that lead Cera? Where will it lead humanity? Exactly where the Prototypes planned: To our extinction. We must find peace with our enemies. We must find peace within ourselves.
+mir Si no guardamos más que rencores mal engendrados de la guerra, ¿a dónde conducirá eso a Cera? ¿A dónde conducirá a la humanidad? Exactamente a donde los Prototipos planearon: A nuestra extinción. Debemos hallar la paz con nuestros enemigos. Debemos hallar la paz dentro de nosotros mismos.
+#$ mir Cerans are weary of war, Captain Shields. We want peace. Let us join, hand in hand, and work for our common progress. Veniczar Fontana's words do have wisdom behind them.
+mir Los Ceranos están cansados de la guerra, Capitán Shields. Queremos paz. Unámonos, mano a mano, y trabajemos por nuestro progreso común. Las palabras de Veniczar Fontana tienen sabiduría detrás de ellas.
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi No. When I came here, I passed by a whole lot of big red ships, armed to the teeth with equally large anti-matter bombs. Enough to turn entire continents to hellfire, then glass.
+shi No. Cuando vine aquí, atravesé un gran montón de grandes naves rojas, armadas hasta los dientes con igualmente grandes bombas anti-materia. Suficientes para convertir continentes enteros en fuegos infernales, luego en cristal.
+#$ shi This election... It's a sham. Conducted at gunpoint to legitimize a tyrant. And you're a seditionist, collaborating with an occupying foreign power, to gain power equally tyrannical! You talk of equality and bringing people up... But the only person moving up in all of this is Fontana!
+shi Estas elecciones... Son un engaño. Conducidas a punta de cañón para legitimizar a un tirano. ¡Y usted es una sedicionista, colaborando con un poder extranjero usurpador, para ganar poder igualmente tiránico! Habla de igualdad y de levantar a la gente... ¡Pero la única persona moviéndose hacia arriba en todo esto es Fontana!
+#$ cha mir_hat_talk
+cha mir_hat_talk
+#$ mir The People's Armada will only occupy our world until we have recovered from the war. If they were to withdraw now, there would be civil unrest. Crime. Sickness. Hunger. Would you impose that upon your home, when we have already suffered so much?
+mir La Armada del PACT solo ocupará nuestro mundo hasta que nos hayamos recuperado de la guerra. Si fueran a retirarse ahora, habría agitación civil. Crímen. Enfermedad. Hambre. ¿Le impondría eso a su hogar, donde ya hemos sufrido tanto?
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+#$ shi (I remember the Alliance using the same reason to justify their occupation of the Neutral Rim back when they were the occupiers. Fontana sure threw a fit back then, and yet here his crony is, using the exact same line...)
+shi (Recuerdo a la Alianza usando la misma razón para justificar su ocupación del Margen Neutral antes cuando ellos eran los usurpadores. Fontana ciertamente forcejeó en aquel momento, y aun así aquí está su amiga, usando exactamente la misma línea...)
+#$ cha mir_hat_shout
+cha mir_hat_shout
+#$ mir The war is over, Captain Shields. It's time for you to accept it.
+mir La guerra se acabó, Capitán Shields. Es momento de que lo acepte.
+#$ cha shi_fury
+cha shi_fury
+#$ shi No... The war is not over.
+shi No... La guerra no se ha acabado.
+#$ mus mus_fallen_angel_pt3
+mus mus_fallen_angel_pt3
+#$ ccc fon_base
+ccc fon_base
+#$ cha fon_smirk
+cha fon_smirk
+#$ fon It is, Shields.
+fon Se acabó, Shields.
+#$ cha shi_fury
+cha shi_fury
+#$ shi F-FONTANA...!
+shi ¡F-FONTANA...!
+#$ cha fon_talk
+cha fon_talk
+#$ fon When I first heard of your return, I could scarcely believe it. And yet, here you are, a dead man walking.
+fon Cuando escuché por primera vez de tu regreso, apenas podía creerlo. Y sin embargo, aquí estás, un hombre muerto caminante.
+#$ fon Tell me Shields. Why have you come back from the grave? Now, when the war is over? The Solar Alliance has been defeated. The Prototype threat has been neutralized. The People's Alliance will usher in a new age of peace and equality for the Neutral Rim. I have done all of those things for the galaxy, Shields.
+fon Dime Shields. ¿Por qué has regresado de la tumba? ¿Ahora, cuando la guerra se terminó? La Alianza Solar ha sido derrotada. La amenaza de los Prototipos ha sido neutralizada. La Alianza de los Pueblos entrará en una nueva era de paz e igualdad para el Margen Neutral. He hecho todas esas cosas por la galaxia, Shields.
+#$ fon By all accounts, it seems that your role in this story is over. And yet... You have come back. Why?
+fon Desde todos los puntos de vista, parece que tu rol en esta historia se acabó. Y aun así... Has regresado. ¿Por qué?
+#$ cha shi_fury
+cha shi_fury
+#$ shi I'd claw myself out of the deepest abyss of boiling blood in hell to end you! The mines of Tydaria were nothing!
+shi ¡Me arrastraría fuera del abismo más profundo de sangre hirviente en el infierno para acabar contigo! ¡Las minas de Tydaria no fueron nada!
+#$ cha fon_smirk
+cha fon_smirk
+#$ fon You see, Foster? Shields is a dangerous war criminal and a traitor to Cera. He became a Prototype asset and aided and abetted them in carrying out the Liberation Day Massacre. Even before that, he and the Solar Alliance perpetrated war crimes at Ongess, including the wanton killings of children.
+fon ¿Lo ves, Foster? Shields es un peligroso criminal de guerra y un traidor a Cera. Se volvió un objeto de los Prototipos y los apoyó y ayudó a llevar a cabo la Masacre del Día de Liberación. Incluso antes de eso, él y la Alianza Solar perpetraron crímenes de guerra en Ongess, incluyendo los asesinatos de niños sin sentido.
+#$ cha shi_fury
+cha shi_fury
+#$ shi Fontana! Y-You liar! You were there!
+shi ¡Fontana! ¡M-Mentiroso! ¡Tú estabas ahí!
+#$ cha fon_shout
+cha fon_shout
+#$ fon You are a fool for ever showing your face again. Arrest this man! You are to stand trial for your crimes!
+fon Eres un tonto al mostrar tu rostro de nuevo. ¡Arresten a este hombre! ¡Serás llevado a juicio por tus crímenes!
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ por ica_back_annoyed
+por ica_back_annoyed
+#$ ica Sigh... I was afraid this would happen. Mind your head, cap.
+ica Suspiro... Temía que esto sucediera. Agacha tu cabeza, capitán.
+#$ hid ica
+hid ica
+#$ mus mus_drivingtopdown
+mus mus_drivingtopdown
+#$ nar (Gas canister)
+nar (Granada de gas)
+#$ sou sou_gasgrenade
+sou sou_gasgrenade
+#$ flag
+flag
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi Get down!
+shi ¡Agáchense!
+#$ cha fon_angryshout
+cha fon_angryshout
+#$ fon Ugh! Get him! Shut down all outbound traffic and alert the fleet!
+fon ¡Ugh! ¡Atrápenlo! ¡Cierren todo el tráfico de salida y alerten a la flota!
+#$ hid fon
+hid fon
+#$ hid mir
+hid mir
+#$ roo roo_chap2_story7
+roo roo_chap2_story7
+#$ 
+
+#$ tag chap2_backatmaray
+tag chap2_backatmaray
+#$ dbg spr_bg_maraycorridor
+dbg spr_bg_maraycorridor
+#$ cha ica_back_annoyed
+cha ica_back_annoyed
+#$ ica Whew, that got hairy. Good thing we were prepared, huh?
+ica Whew, eso se volvió descabellado. Qué bueno que estábamos preparados, ¿huh?
+#$ cha shi_focus
+cha shi_focus
+#$ shi Thanks for having our backs. And Ava... uhh... looks like you're coming with us in the end.
+shi Gracias por cubrir nuestras espaldas. Y Ava... uhh... parece que vendrás con nosotros al final.
+#$ cha ava_armscrossed_annoyed
+cha ava_armscrossed_annoyed
+#$ ava Yes, captain. It amply appears that way.
+ava Sí, capitán. Parece ampliamente ser así.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+#$ shi Sorry...
+shi Lo siento...
+#$ cha ava_armscrossed_focustalk
+cha ava_armscrossed_focustalk
+#$ ava Sigh... In reality, I imagine the blame lies with me. Most likely, PACT had already figured out my connections to the Resistance and was using me to lure you into a trap. It seems there is nothing further I can accomplish as Acting Prime Minister at this stage, in any matter.
+ava Suspiro... En realidad, creo que la culpa descansa conmigo. Lo más probable, es que el PACT ya hubiera averiguado mis coneciones con la Resistencia y estuviera usándome para atraerlo a una trampa. Parece que no hay nada más que pueda lograr como Primera Ministra Interina a estas alturas, de cualquier forma.
+#$ por lyn_handup_focustalk
+por lyn_handup_focustalk
+#$ lyn Oy, I'd hate to interrupt your reunion, but we've got PACT ships closing in on us from every direction! We gotta get the hell outta here!
+lyn ¡Oy, odio interrumpir la reunión, pero tenemos naves del PACT acercándose desde todas direcciones! ¡Tenemos que salir de aquí!
+#$ hid lyn
+hid lyn
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi Right. Get us out here. Shoot the docking clamps out if you have to. Well commander, I could sure use your help on the bridge.
+shi Cierto. Sácanos de aquí. Dispara a los cables de atracamiento si tienes que hacerlo. Bueno comandante, ciertamente podría necesitar tu ayuda en el puente.
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+#$ ava Understood, captain.
+ava Entendido, capitán.
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ por lyn_handup_focustalk
+por lyn_handup_focustalk
+#$ lyn I've got the Twin Drives up to 99.7 percent capacity! Get us the hell out of here or else you won't even be able to pat me on the back for that new record!
+lyn ¡Tengo los Controladores Duales al 99.7 por ciento de su capacidad! ¡Sácanos de aquí o de lo contrario no serás capaz de palmearme la espalda de nuevo!
+#$ hid lyn
+hid lyn
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi I hear you.
+shi Te escuché.
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+#$ ava PACT ships, coming in. Hundreds of them.
+ava Naves del PACT, entrando. Cientos de ellas.
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi Don't worry, we can still out run them. Helm, get us out of Cera's gravity well. Redirect everything we've got to the engines. Don't worry about fighting them. Lynn, think you can get us a little more juice?
+shi No te preocupes, todavía podemos pasarles de largo. Timonel, sácanos del campo de gravedad de Cera. Redirije todo lo que tenemos a los motores. No te preocupes por luchar con ellos. Lynn, ¿crees que puedas darnos un poco más de jugo?
+#$ por lyn_armsonhips_madtalk
+por lyn_armsonhips_madtalk
+#$ lyn What do you think I'm already trying to do here?!
+lyn ¡¿Qué crees que ya estoy intentando hacer aquí?!
+#$ hid lyn
+hid lyn
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+#$ ava ETA 3 minutes until contact with forward PACT ships.
+ava ETA 3 minutos para el contacto con naves del PACT.
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+#$ shi You know, the old chief would have been able to figure something out by now...
+shi Sabes, la antigua jefa sería capaz de lograr algo a estas alturas...
+#$ por lyn_point_angryshout
+por lyn_point_angryshout
+#$ lyn Shut up, Shields! I've got output up to 105 percent!
+lyn ¡Cállate, Shields! ¡Tengo la salida al 105 por ciento!
+#$ hid lyn
+hid lyn
+#$ cha shi_shout
+cha shi_shout
+#$ shi I'll take it. Full power!
+shi Lo tomaré. ¡Máximo poder!
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+#$ ava Closest PACT ships are 60 seconds away!
+ava ¡Las naves del PACT más cercanas están a 60 segundos!
+#$ sou sou_warpfail
+sou sou_warpfail
+#$ cha shi_shout
+cha shi_shout
+#$ shi Not fast enough. Jump to warp!
+shi No somos lo suficientemente rápidos. ¡Comiencen el salto!
+#$ shi ... ... ...
+shi ... ... ...
+#$ shi I said, engage warp!
+shi ¡Dije, comiencen el salto!
+#$ cha ava_armup_shout
+cha ava_armup_shout
+#$ ava The warp drive is not activating! We are now within enemy weapons range!
+ava ¡El dispositivo de salto no se está activando! ¡Estamos dentro del rango de las armas enemigas!
+#$ cha shi_gasp
+cha shi_gasp
+#$ shi We're in trouble! What's going on down there, Lynn?!
+shi ¡Estamos en problemas! ¡¿Qué está sucediendo ahí abajo, Lynn?!
+#$ por lyn_handup_yell
+por lyn_handup_yell
+#$ lyn I swear, it's not me! Everything's totally--
+lyn ¡Te lo juro, no soy yo! Todo está completamente--
+#$ lyn Shit! I'm reading gravity fluctuations, coming back from Cera. It's PACT! They've built a gravity well fluctuator in orbit around the planet! As long as it's active, nothing's warping out!
+lyn ¡Diablos! Estoy leyendo fluctuaciones de gravedad, viniendo de Cera. ¡Es el PACT! ¡Han construido un fluctuador de campo de gravedad en órbita alrededor del planeta! ¡Mientras siga activo, nada saltará fuera!
+#$ hid lyn
+hid lyn
+#$ hsh 15
+hsh 15
+#$ sou sou_explosion1
+sou sou_explosion1
+#$ cha ava_armup_shout
+cha ava_armup_shout
+#$ ava We are under attack!
+ava ¡Estamos bajo ataque!
+#$ cha shi_fury
+cha shi_fury
+#$ shi Find a way to shut it off, or--
+shi Encuentra una forma de apagarlo, o--
+#$ ccc lyn_nude
+ccc lyn_nude
+#$ por lyn_point_angryshout
+por lyn_point_angryshout
+#$ lyn Cut the camera for fuck's sake! I'm changing into my plugsuit!
+lyn ¡Corta la cámara por el amor de dios! ¡Me estoy cambiando!
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ por asa_fist_focushappy
+por asa_fist_focushappy
+#$ asa All right ladies! We've got baddies all around us! But I'm sure the capt'n has a plan to get us outta this one! Let's hold 'em off until the Maray can warp outta here!
+asa ¡De acuerdo señoritas! ¡Tenemos malos a todo nuestro alrededor! ¡Pero estoy segura de que el capitán tiene un plan para sacarnos de esta! ¡Contengámoslos hasta que la Maray pueda saltar fuera de aquí!
+#$ hid asa
+hid asa
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+#$ shi (Right, a plan...)
+shi (Cierto, un plan...)
+#$ shi (Shit.)
+shi (Demonios.)
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+#$ ava Captain, take a look at this. I've got the technical specifications of that gravity fluctuator right here.
+ava Capitán, échele un vistazo a esto. Tengo las especificaciones técnicas de ese fluctuador de gravedad justo aquí.
+#$ cha shi_focus
+cha shi_focus
+#$ shi Good save, commander. Lynn, can you hack into it and turn it off?
+shi Bien hecho, comandante. Lynn, ¿puedes hackearlo y apagarlo?
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ por lyn_armscrossed_focustalk
+por lyn_armscrossed_focustalk
+#$ lyn Not gonna be easy. Give me a moment!
+lyn No va a ser fácil. ¡Dame un momento!
+#$ hid lyn
+hid lyn
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi You've got ten minutes!
+shi ¡Tienes diez minutos!
+#$ flag
+flag
+#$ bat roo_chap2_battle3
+bat roo_chap2_battle3
+#$ 
+
+#$ //If contacted Ava first without scrambler
+//Si contactaste a Ava primero sin codificador
+#$ tag chap2_cerabattle_reinforcements
+tag chap2_cerabattle_reinforcements
+#$ ccc ava_suit
+ccc ava_suit
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi (Shit! The entire Crimson Fleet's coming up on our ass! I really should have been more careful when I contacted Ava!)
+shi (¡Demonios! ¡Toda la Flota Carmesí está detrás de nuestro trasero!) ¡Realmente debía haber sido más cuidadoso cuando contacté a Ava!
+#$ stop
+stop
+#$ 
+
+#$ tag chap2_cerabattlestart
+tag chap2_cerabattlestart
+#$ obj Hold off the PACT fleet for ten turns.
+obj Contén a la flota del PACT durante diez turnos.
+#$ flag
+flag
+#$ stop
+stop
+#$ 
+
+#$ tag chap2_cerabattle_2
+tag chap2_cerabattle_2
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc jem_plugsuit
+ccc jem_plugsuit
+#$ ccc kuu_plugsuit
+ccc kuu_plugsuit
+#$ ccc ava_suit
+ccc ava_suit
+#$ ccc sol_plugsuit
+ccc sol_plugsuit
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi There's no end to them! Lynn...?!
+shi ¡No tienen fin! ¡¿Lynn...?!
+#$ cha lyn_point_angryshout
+cha lyn_point_angryshout
+#$ lyn I'm multi-tasking here!!
+lyn ¡¡Estoy multi-tareas aquí!!
+#$ hid lyn
+hid lyn
+#$ cha ava_armup_shout
+cha ava_armup_shout
+#$ ava Alert! Incoming new ID signatures! New PACT ryders... unlike anything we've encountered before.
+ava ¡Alerta! ¡Nuevas señales ID entrantes! Nuevos ryders del PACT... diferentes de cualquier cosa que hayamos encontrado antes.
+#$ cha shi_gasp
+cha shi_gasp
+#$ shi What?
+shi ¿Qué?
+#$ hid ava
+hid ava
+#$ cha asa_bendover_madshout
+cha asa_bendover_madshout
+#$ asa I see 'em up ahead! Aww crappers, I know that emblem! It's-
+asa ¡Los veo justo enfrente! ¡Aww maldición, conozco ese emblema! Es-
+#$ flag
+flag
+#$ cha kuu_neu
+cha kuu_neu
+#$ kuu Heh. So you're the Sharr of Ryuvia. Along with the Devil of Far Port...
+kuu Heh. Así que tú eres la Sharr de Ryuvia. Junto con el Demonio de Far Port...
+#$ cha asa_bendover_madshout
+cha asa_bendover_madshout
+#$ asa It's the Crimson Wolf! What's she doing here?!
+asa ¡Es el Lobo Carmesí! ¡¿Qué está haciendo aquí?!
+#$ hid asa
+hid asa
+#$ cha kuu_shout
+cha kuu_shout
+#$ kuu Wolf Brigade! On me!
+kuu ¡Brigada Lobo! ¡A mí!
+#$ cha jem_neu
+cha jem_neu
+#$ jem Copy.
+jem Copiado.
+#$ hid kuu
+hid kuu
+#$ hid jem
+hid jem
+#$ cha sol_front_focustalk
+cha sol_front_focustalk
+#$ sol Five ryders, coming in fast.
+sol Cinco ryders, entrando rápidamente.
+#$ cha shi_focusthink
+cha shi_focusthink
+#$ shi (A fair fight. Strange, considering PACT has the overwhelming numerical superiority... So this is the High Admiral of PACT...)
+shi (Una justa pelea. Extraño, considerando que el PACT tiene la abrumadora superioridad numérica... Así que esta es la Gran Almirante del PACT...)
+#$ cha ica_handsonhips_focustalk
+cha ica_handsonhips_focustalk
+#$ ica I've lost them on scan- Wait. I see 'em. Here they come!
+ica Los he perdido en los escá- Espera. Los veo. ¡Aquí vienen!
+#$ hid ica
+hid ica
+#$ cha kuu_neu
+cha kuu_neu
+#$ kuu Disappointing. I imagined more from the Devil of Far Port himself.
+kuu Decepcionante. Esperé más del Demonio de Far Port en persona.
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi High Admiral Kuushana... I didn't expect for you to take to the field.
+shi Gran Almirante Kuushana... No esperaba que tomaras el campo.
+#$ cha kuu_shout
+cha kuu_shout
+#$ kuu Shields. I hope you are a better man than your reputation leads me to expect. Wolf Brigade, clean them up!
+kuu Shields. Espero que seas mejor hombre de lo que tu reputación me lleva a creer. ¡Brigada Lobo, aniquílenlos!
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi All wings, defend the Maray until we've disabled the gravity well fluctuator!
+shi ¡A todas las unidades, defiendan a la Maray hasta que desactivemos el fluctuador de campo de gravedad!
+#$ obj Hold off the PACT fleet for ten turns or defeat Kuushana.
+obj Contén a la flota del PACT durante diez turnos o derrota a Kuushana.
+#$ stop
+stop
+#$ 
+
+#$ tag chap2_battleatcera_3
+tag chap2_battleatcera_3
+#$ cha kuu_shout
+cha kuu_shout
+#$ kuu Jem'hyre, support! Eyes on the Sharr.
+kuu ¡Jem'hyre, apoyo! Ojos en la Sharr.
+#$ cha jem_neu
+cha jem_neu
+#$ jem Copy.
+jem Copiado.
+#$ hid kuu
+hid kuu
+#$ hid jem
+hid jem
+#$ cha asa_bendover_madshout
+cha asa_bendover_madshout
+#$ asa They're on me! That sniper's causing trouble. Sola!
+asa ¡Están sobre mí! Esa francotiradora está causando problemas. ¡Sola!
+#$ cha sol_front_focustalk
+cha sol_front_focustalk
+#$ sol Understood.
+sol Entendido.
+#$ cha jem_smirk
+cha jem_smirk
+#$ jem Another star seer. Interesting.
+jem Otra observadora de estrellas. Interesante.
+#$ cha sol_front_focustalk 
+cha sol_front_focustalk 
+#$ sol But you are only human.
+sol Pero tú solo eres humana.
+#$ cha kuu_shout
+cha kuu_shout
+#$ kuu You've got quite the followers, Shields.
+kuu Tienes raros seguidores, Shields.
+#$ cha shi_focus
+cha shi_focus
+#$ shi I appreciate the compliment, High Admiral.
+shi Aprecio el cumplido, Gran Almirante.
+#$ kuu But you are still nothing!
+kuu ¡Pero aun así no eres nada!
+#$ flag
+flag
+#$ stop
+stop
+#$ 
+
+#$ tag chap2_battleatcera_end
+tag chap2_battleatcera_end
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc ava_suit
+ccc ava_suit
+#$ ccc kuu_plugsuit
+ccc kuu_plugsuit
+#$ cha lyn_armsonhips_slygrin
+cha lyn_armsonhips_slygrin
+#$ lyn Hell yeah! I hacked through the gravity fluctuator's firewall! I can get you 0.0001 second of control!
+lyn ¡Sí demonios! ¡Hackeé el firewall del fluctuador de gravedad! ¡Puedo darte 0.0001 segundos de control!
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi Input the next T-minus 20 seconds G value to the navi-computer and schedule a crash warp to that input! All ryders, fall back to the Maray's warp bubble and prepare for crash jump! Commander, begin spooling the drive!
+shi ¡Ingresen el siguiente valor G en T-minus 20 segundos a la nave-computadora y programen un salto de emergencia en ese momento! ¡A todos los ryders, retírense a la burbuja de salto de la Maray y prepárense para el salto de emergencia! ¡Comandante, comienza a encender el dispositivo!
+#$ cha asa_fist_focusshout
+cha asa_fist_focusshout
+#$ asa All positions confirmed!
+asa ¡Todas las posiciones confirmadas!
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+#$ ava Warp drive spooled!
+ava ¡Dispositivo de salto encendido!
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi WARP!
+shi ¡SALTEN!
+#$ hid asa
+hid asa
+#$ hid lyn
+hid lyn
+#$ hid ava
+hid ava
+#$ hid shi
+hid shi
+#$ flag
+flag
+#$ stop
+stop
+#$ tag chap2_end
+tag chap2_end
+#$ cha kuu_neu
+cha kuu_neu
+#$ kuu Perhaps I have underestimated you, Shields.
+kuu Quizás te he subestimado, Shields.
+#$ cha kuu_shout
+cha kuu_shout
+#$ kuu Your skills... I shall recognize!
+kuu Tus habilidades... ¡Las reconoceré!
+#$ flag
+flag
+#$ stop
+stop

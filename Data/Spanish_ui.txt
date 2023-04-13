@@ -1,0 +1,1638 @@
+#$ DISPLAY
+VIDEO
+#$ AUDIO
+AUDIO
+#$ DIFFICULTY
+DIFICULTAD
+#$ LANGUAGE
+IDIOMA
+#$ KEY BINDINGS
+CONTROLES
+#$ CLOSE OPTIONS
+CERRAR OPCIONES
+#$ DISPLAY SETTINGS
+CONFIGURACIONES DE VIDEO
+#$ Windowed
+Ventana
+#$ Full Screen
+Pantalla Completa
+#$ Story Text Speed
+Velocidad del Texto
+#$ Story Auto Speed
+Velocidad del Modo Auto
+#$ Wait until voicing is finished
+Esperar hasta que termine la voz
+#$ Skip Speed
+Velocidad de Salto
+#$ AUDIO SETTINGS
+CONFIGURACIONES DE AUDIO
+#$ SFX Volume
+Volumen SFX
+#$ UI Volume
+Volumen IU
+#$ Music Volume
+Volumen Música
+#$ Voice Volume
+Volumen Voz
+#$ SET BATTLE DIFFICULTY
+ESTABLECER DIFICULTAD DE BATALLA
+#$ STORY MODE
+MODO HISTORIA
+#$ EASY
+FÁCIL
+#$ NORMAL
+NORMAL
+#$ CAPTAIN
+CAPITÁN
+#$ BRUTAL
+BRUTAL
+#$ SPACE WHALE
+BALLENA ESPACIAL
+#$ CUSTOMIZE
+PERSONALIZAR
+#$ For those who want to trivialize the gameplay difficulty to focus on the story.
+Para aquellos que quieren trivializar la dificultad de la jugabilidad para concentrarse en la historia.
+#$ For those who want a laid back gameplay experience.
+Para aquellos que buscan una experiencia de jugabilidad relajada.
+#$ The introductory difficulty level for most players.
+El nivel de dificultad introductorio para la mayoría de los jugadores.
+#$ A challenging difficulty level accurately reflecting your lone struggle against intergalactic nations and ancient evil.
+Un desafiante nivel de dificultad reflejando con precisión tu lucha contra naciones intergalácticas y un antiguo mal.
+#$ For strategy experts who don't need to save scum to win. Survival is not guaranteed.
+Para expertos en la estrategia que no necesitan guardar nada para ganar. La supervivencia no está garantizada.
+#$ Death is assured. Why would you do this to yourself?
+La muerte está asegurada. ¿Por qué te harías esto a tí mismo?
+#$ Fine tune the difficulty setting with gameplay modifiers for a custom tailored and unique experience.
+Ajusta las configuraciones de dificultad con modificadores de jugabilidad para una experiencia acomodada y única.
+#$ CUSTOMIZE DIFFICULTY
+PERSONALIZAR DIFICULTAD
+#$ ENEMY ATTACK POWER
+PODER DE ATAQUE ENEMIGO
+#$ ASSIST MODS
+MODIFICADORES DE AYUDA
+#$ CHALLENGE MODS
+MODIFICADORES DE RETO
+#$ INSANE MODS
+MODIFICADORES DEMENTES
+#$ RETURN
+REGRESAR
+#$ Reduced HP enemies
+HP de enemigos reducido
+#$ HP regeneration
+Regeneración de HP
+#$ Additional money
+Dinero adicional
+#$ Unlimited ammo
+Municiones ilimitadas
+#$ Unarmored enemies
+Enemigos sin armadura
+#$ Big Maray Laser
+Gran Láser Maray
+#$ More CMD Points
+Más Puntos CMD
+#$ Aimbot
+Precibot
+#$ Increase move speed
+Aumentar velocidad de mov
+#$ Free repairs
+Reparaciones gratis
+#$ Maray invincible
+Maray invencible
+#$ No ryder death cost
+Sin costo de ryders muertos
+#$ No move take backs
+Sin deshacer movimientos
+#$ Weapon Recoil
+Retroceso de Armas
+#$ No momentum
+Sin momentum
+#$ Iron man Mode
+Modo Iron man
+#$ Instakill Torpedoes
+Torpedos Letales
+#$ Space Whale Preservation Tax
+Impuesto de Ballena Espacial
+#$ Deathly collisions
+Colisiones letales
+#$ SET LANGUAGE
+ESTABLECER IDIOMA
+#$ Display Text
+Texto Mostrado
+#$ ENGLISH
+ESPAÑOL
+#$ Battle Subtitles
+Subtítulos de Batallas
+#$ KEY BINDINGS
+ESTABLECER CONTROLES
+#$ Pan Camera Up
+Mover Cámara Arriba
+#$ Pan Camera Down
+Mover Cámara Abajo
+#$ Pan Camera Left
+Mover Cámara Izquierda
+#$ Pan Camera Right
+Mover Cámara Derecha
+#$ Zoom In
+Acercar
+#$ Zoom Out
+Alejar
+#$ Fire Weapon 1
+Disparar Arma 1
+#$ Fire Weapon 2
+Disparar Arma 2
+#$ Fire Weapon 3
+Disparar Arma 3
+#$ Fire Weapon 4
+Disparar Arma 4
+#$ Fire Weapon 5
+Disparar Arma 5
+#$ Fire Weapon 6
+Disparar Arma 6
+#$ Fire Weapon 7
+Disparar Arma 7
+#$ Fire Weapon 8
+Disparar Arma 8
+#$ Fire Weapon 9
+Disparar Arma 9
+#$ Select Next Unit
+Seleccionar Unidad Siguiente
+#$ Advance Text
+Avanzar Texto
+#$ Skip
+Saltar
+#$ Toggle Auto
+Encender/Apagar Modo Auto
+#$ Quick Save
+Guardado Rápido
+#$ Quick Load
+Cargado Rápido
+#$ See Log
+Ver Registro
+#$ Pause
+Pausar
+#$ Select Mothership
+Seleccionar Nave Nodriza
+#$ Select Unit 1
+Seleccionar Unidad 1
+#$ Select Unit 2
+Seleccionar Unidad 2
+#$ Select Unit 3
+Seleccionar Unidad 3
+#$ Select Unit 4
+Seleccionar Unidad 4
+#$ Select Unit 5
+Seleccionar Unidad 5
+#$ Select Unit 6
+Seleccionar Unidad 6
+#$ Select Unit 7
+Seleccionar Unidad 7
+#$ Open Commands
+Abrir Comandos
+#$ Stop voice on click
+Detener voz al hacer click
+#$ SAVE
+GUARDAR
+#$ LOAD
+CARGAR
+#$ Autosave
+Autoguardado
+#$ Previous
+Anterior
+#$ Next
+Siguiente
+#$ File Name:
+Nombre:
+#$ Date:
+Fecha:
+#$ Time:
+Hora:
+#$ Chapter:
+Capítulo:
+#$ Close
+Cerrar
+#$ Are you sure want to quit? All unsaved progress will be lost.
+¿Seguro que desea salir? Todo el progreso no guardado se perderá.
+#$ YES
+SÍ
+#$ NO
+NO
+#$ SKIP CUTSCENE?
+¿SALTAR ESCENA?
+#$ LORE DATABASE
+BASE DE DATOS DEL LORE
+#$ BACK
+ATRÁS
+#$ You are Captain Kayto Shields, the former captain of the assault carrier Sunrider. You hail from the Neutral Rim World of Cera, which was brutally conquered by PACT seven years ago. Since then, you have fought a one ship war against PACT, and gathered allies across the galaxy to liberate your home world.>>>>Your heroic deeds appeared to have paid off, and with the aid of the Solar Alliance, you liberated Cera from the PACT fleet. Unfortunately, your girlfriend, Chigara Ashada, turned out to be a Prototype sleeper agent, who betrayed you at the celebration ceremony to assassinate Admiral Grey of the Solar Alliance. This event, called the Liberation Day Massacre, only escalated the war between the Solar Alliance and PACT, and led to the destruction of the Sunrider.>>>>Now assumed dead, you live in exile on the dusty mining world of Tydaria, a shell of your former self...
+Eres el Capitán Kayto Shields, el antiguo capitán del carguero de asalto Sunrider. Provienes del Mundo Cera del Margen Neutral, el cual fue brutalmente conquistado por el PACT hace siete años. Desde entonces, has luchado una guerra con una sola nave contra el PACT, y reunido aliados por la galaxia para liberar tu mundo hogar.>>>>Tus actos heróicos parecían haber dado frutos, y con la ayuda de la Alianza Solar, liberaste Cera de la flota del PACT. Desafortunadamente, tu novia, Chigara Ashada, demostró ser un agente durmiente Prototipo, quien te traicionó en la ceremonia de celebración para asesinar al Almirante Grey de la Alianza Solar. Este evento, llamado la Masacre del Día de Liberación, solo intensificó la guerra entre la Alianza Solar y el PACT, y llevó a la destrucción del Sunrider.>>>>Ahora asumido como muerto, vives en el exilio en el polvoriento mundo minero de Tydaria, como una cáscara de tu antiguo yo...
+#$ The Story So Far
+La Historia Hasta Ahora
+#$ People
+Personas
+#$ Factions/Places
+Facciones/Lugares
+#$ History
+Historia
+#$ Mechanical
+Mecánicos
+#$ Skip only read
+Saltar solo leído
+#$ PAUSE
+PAUSA
+#$ SAVE
+GUARDAR
+#$ LOAD
+CARGAR
+#$ OPTIONS
+OPCIONES
+#$ RESTART BATTLE
+REINICIAR BATALLA
+#$ RESUME
+RESUMIR
+#$ QUIT
+SALIR
+#$ Are you sure you want to return to the main menu? Unsaved progress will be lost.
+¿Seguro que quieres volver al menú principal? El progreso no guardado se perderá.
+#$ QUICK SAVED
+GUARDADO RÁPIDO
+#$ CREATE NEW SAVE
+CREAR NUEVA GUARDADO
+#$ OVERWRITE SAVE
+SOBREESCRIBIR GUARDADO
+#$ Are you sure you want to overwrite this save file? The previous data will be deleted.
+¿Seguro que quieres sobreescribir este archivo? Los datos anteriores serán eliminados.
+#$ Are you sure you want to delete this save file?
+¿Seguro que quieres eliminar este archivo?
+#$ CLOSE
+CERRAR
+#$ Error. A save file of this name already exists.
+Error. Un archivo con este nombre ya existe.
+#$ CAMERA
+CÁMARA
+#$ CAMERA SETTINGS
+CONFIGURACIONES DE CÁMARA
+#$ Battle Camera Move Speed
+Velocidad de Movimiento de la Cámara en Batalla
+#$ Battle Camera Zoom Speed
+Velocidad de Zoom de la Cámara en Batalla
+#$ Invert Zoom
+Invertir Zoom
+#$ Edge Scroll
+Desplazamiento por el Borde
+#$ Middle Mouse to Scroll
+Botón Central de Ratón para Desplazamiento
+#$ Edge Scroll Speed
+Velocidad de Desplazamiento por el Borde
+#$ Drag Scroll Speed
+Velocidad de Desplazamiento por Arrastre
+#$ MOVE
+MOVER
+#$ KINETIC
+KINÉTICO
+#$ ASSAULT
+ASALTO
+#$ LASER
+LÁSER
+#$ PULSE
+PULSO
+#$ TORPEDO
+TORPEDO
+#$ MISSILE
+MISIL
+#$ MELEE
+MELEE
+#$ AWAKEN
+DESPERTAR
+#$ EN COST
+COSTO DE EN
+#$ SHOTS
+DISP
+#$ DMG
+DAÑO
+#$ TO HIT
+PREC
+#$ EST DMG
+DAÑO ESTIMADO
+#$ FRONT ARMOR
+ARMADURA FRON
+#$ REAR ARMOR
+ARMADURA TRAS
+#$ RIGHT ARMOR
+ARMADURA DER
+#$ LEFT ARMOR
+ARMADURA IZQ
+#$ HP
+HP
+#$ EN
+EN
+#$ SHIELD
+ESCUDO
+#$ EVASION
+EVASIÓN
+#$ STATUS
+ESTADO
+#$ Restore EN for 
+Restaurar EN por 
+#$ Select Previous Unit
+Seleccionar Unidad Anterior
+#$ Maintain Heading
+Mantener Dirección
+#$ Maray
+Maray
+#$ High Roller
+High Roller
+#$ Dominator
+Dominator
+#$ Archangel
+Archangel
+#$ Phoenix Mk II
+Phoenix Mk II
+#$ Spell Caster
+Spell Caster
+#$ Paladin
+Paladin
+#$ Calamity
+Calamity
+#$ Pirate Grunt
+Grunt Pirata
+#$ Pirate Cruiser
+Crucero Pirata
+#$ Pirate Tug Boat
+Remolcador Pirata
+#$ END TURN
+TERMINAR TURNO
+#$ ROTATE
+ROTAR
+#$ Get past the PACT check point. (Left click on people and objects to advance the story.)
+Atravesar el punto de control del PACT. (Click izquierdo en personas y objetos para avanzar la historia.)
+#$ SIX YEARS LATER
+SEIS AÑOS DESPUÉS
+#$ THE MINING WORLD OF TYDARIA
+EL MUNDO MINERO DE TYDARIA
+#$ Cross the bridge. (Left click on the right side of the map.)
+Cruza el puente. (Click izquierdo en el lado derecho del mapa.)
+#$ Report to work.
+Repórtate al trabajo.
+#$ Leave the mine and rendezvous with Sola.
+Deja la mina y reúnete con Sola.
+#$ Pick up your gun.
+Recoge tu arma.
+#$ Leave the cabin and reach the Seraphim.
+Deja la cabina y alcanza el Seraphim.
+#$ Watch Fontana's address.
+Observa el anuncio de Fontana.
+#$ CANNOT SAVE HERE
+NO SE PUEDE GUARDAR AQUÍ
+#$ New lore entry
+Nueva entrada de lore
+#$ Ore Freighter
+Carguero de Mineral
+#$ COLLISION WARNING: One of your units is on a collision course! Change its heading or it will incur an EN penalty by performing evasive maneuvers.
+ADVERTENCIA DE COLISIÓN: ¡Una de tus unidades está en un curso de colisión! Cambia su dirección u ocurrirá una penalización de EN para realizar maniobras evasivas.
+#$ !MOVE WARNING!
+!ADVERTENCIA DE MOVIMIENTO!
+#$ MISSILE
+MISIL
+#$ TORPEDO
+TORPEDO
+#$ WARNING: This unit is on course to RETREAT from battle! Change its heading or it will incur an EN penalty by performing evasive maneuvers.
+ADVERTENCIA: ¡Esta unidad está en curso de RETIRADA de la batalla! Cambia su dirección u ocurrirá una penalización de EN para realizar maniobras evasivas.
+#$ FLIER DRONES
+DRONES VOL
+#$ DISABLE
+DESACTIVAR
+#$ TARGET LOCK
+APUNTAR
+#$ OVERLOAD
+SOBRECARGA
+#$ Deal pulse DMG in an area centered on target.
+Provoca DAÑO de pulso en un área centrada en el objetivo.
+#$ Increase enemy's weapon EN cost.
+Aumenta el coste de EN de las armas del enemigo.
+#$ Increase TOHIT chance on target.
+Aumenta la PREC contra el objetivo.
+#$ Disable target's shield generator.
+Desactiva el generador de escudo del objetivo.
+#$ LOADING PLEASE WAIT...
+CARGANDO POR FAVOR ESPERA...
+#$ BOUNTIES COLLECTED
+RECOMPENSAS OBTENIDAS
+#$ REPAIR COSTS
+COSTOS DE REPARACIÓN
+#$ AWARD
+RECOMPENSA
+#$ CREDS
+CRÉDITOS
+#$ PENALTY
+PENALIZACIÓN
+#$ BONUS
+BONUS
+#$ MOVE TAKE BACK
+DESHACER MOVIMIENTO
+#$ TURN TAKE BACK
+DESHACER TURNO
+#$ WARNING: Cannot save right now
+ADVERTENCIA: No se puede guardar ahora mismo
+#$ You are defeated
+Fuiste derrotado
+#$ REWIND TURN
+REBOBINAR TURNO
+#$ RESTART BATTLE
+REINICIAR BATALLA
+#$ LOAD
+CARGAR
+#$ Move Cost
+Coste de Mov
+#$ Turn Cost
+Coste de Giro
+#$ GENERAL
+GENERAL
+#$ ARMOR
+ARMADURA
+#$ TITAN
+TITÁN
+#$ BALANCE
+BALANCE
+#$ F/SD Armor
+F/LAT Armadura
+#$ Move/Turn
+Mover/Girar
+#$ ROGUE
+PÍCARO
+#$ Accuracy
+Precisión
+#$ Ammo
+Munición
+#$ Speed
+Velocidad
+#$ HP/SPD
+HP/VEL
+#$ RTN2SNDR
+RTN2SNDR
+#$ Target a missile to send it back to its owner.
+Envía un misil de vuelta a su propietario.
+#$ Effect
+Efecto
+#$ Skip Armor
+Saltar Armadura
+#$ SHIELD
+ESCUDO
+#$ TREBUCHET
+CATAPULTA
+#$ ASSASSIN
+ASESINO
+#$ Awaken EN
+Despertar EN
+#$ Awaken DMG
+Despertar DAÑO
+#$ HEAVY
+PESADA
+#$ LIGHT
+LIGERA
+#$ REAR
+TRASERA
+#$ Front
+Frontal
+#$ FNT/SD
+FNT/LAT
+#$ FULL AUTO
+TODO AUTO
+#$ BURST
+EXPLOSIVO
+#$ INCINERATE
+INCINERAR
+#$ DISRUPTOR
+INTERRUPTOR
+#$ Melt Armor
+Derretir Armadura
+#$ Drain EN
+Drenar EN
+#$ PRECISION
+PRECISIÓN
+#$ SWARM
+ENJAMBRE
+#$ Range
+Rango
+#$ Unit becomes immobile for offensive boost.
+La unidad se vuelve inmóvil para una mejora ofensiva.
+#$ SHIELD RANGE
+RANGO ESCUDO
+#$ Side Armor
+Armadura Lat
+#$ Shield
+Escudo
+#$ Shield Range
+Rango Escudo
+#$ Front Armor
+Armadura Front
+#$ Rear Armor
+Armadura Tras
+#$ Evasion
+Evasión
+#$ Shots
+Disparos
+#$ SPD/EVA
+VEL/EVA
+#$ FOCUS
+ENFOQUE
+#$ BROADSIDE
+COSTADO
+#$ ACCURACY
+PRECISIÓN
+#$ EN Cost
+Coste EN
+#$ FLIER DRONES
+DRONES VOL
+#$ TARGET LOCK
+APUNTAR
+#$  DMG x10 in area
+ DAÑO x10 en área
+#$  EV for 
+ EV por 
+#$  turn(s)
+ turno/s
+#$  Weapon EN on target
+ EN con Armas en objetivo
+#$ Disable shield for 
+Desactivar escudo por 
+#$ Duration
+Duración
+#$ Reduced mobility, +
+Movibilidad reducida, +
+#$ RESEARCH AND DEVELOPMENT
+INVESTIGACIÓN Y DESARROLLO
+#$ THE PEOPLE'S ALLIANCE
+ALIANZA DE LAS PERSONAS
+#$ THE SOLAR ALLIANCE
+ALIANZA SOLAR
+#$ THE DENARI EXPANSE
+DENARI EXPANSE
+#$ FERROS
+FERROS
+#$ NEW EDEN
+NEW EDEN
+#$ TETHRA
+TETHRA
+#$ CERA
+CERA
+#$ RYUVIA PRIME
+RYUVIA PRIME
+#$ FAR PORT
+FAR PORT
+#$ SOLARIS
+SOLARIS
+#$ ARGASSO
+ARGASSO
+#$ CLASS 14 HABITABLE WORLD>>POPULATION: 14 billion>>NUMBER OF MOONS: 23>>>>Once the capital world of the Holy Ryuvian Empire, the modern day Ryuvia Prime is a largely forgotten world sitting on the periphery of the Neutral Rim.>>>>It is noted for its unnaturally numerous moons, many of which geologists theorize were created artificially many millenia ago by the Holy Empire. These mammoth engineering super structures are now nothing but derelict monuments to the former glory of the Holy Empire.>>>>Ruled by a hereditary monarchy, Queen Asaga di Ryuvia ascended to the throne upon the murder of her father by the Prototypes. Despite her reluctance to rule, her powers have styled her the new Sharr of Ryuvia - an ancient messiah figure in Ryuvia's history.
+CLASE 14 MUNDO HABITABLE>>POBLACIÓN: 14 mil millones>>NÚMERO DE LUNAS: 23>>>>Una vez la capital del Sagrado Imperio Ryuviano, la Ryuvia Prime del día de hoy es un mundo enormemente olvidado situado en la periferia del Margen Neutral.>>>>Resalta por su antinatural número de lunas, muchas de las cuales los geólogos teorizan que fueron creadas artificialmente hace muchos milenios por el Sagrado Imperio.>>>>Gobernados por una jerarquía monárquica, la Reina Asaga di Ryuvia ascendió al trono tras el asesinado de su padre por los Prototipos. A pesar de su rechazo a gobernar, sus poderes la han convertido en la nueva Sharr de Ryuvia - una antigua figura mesías en la historia de Ryuvia.
+#$ MISSIONS
+MISIONES
+#$ DESTROY PACT STATION
+DESTRUIR ESTACIÓN DEL PACT
+#$ Cosette and her pirate goons have been hired by PACT to prey on our merchant marine. Destroying the PACT outpost in orbit around Ryuvia should send them packing!
+Cosette y sus rufianes piratas han sido contratados por el PACT para atacar nuestra marina mercante. ¡Destruir la estación del PACT en órbita alrededor de Ryuvia los debería mandar de vuelta en paquete!
+#$ THE NEUTRAL RIM
+MARGEN NEUTRAL
+#$ PACT Outpost
+Estación del PACT
+#$ BRIDGE
+PUENTE
+#$ CAPTAIN'S QUARTERS
+CUARTO DEL CAPITÁN
+#$ MESS HALL
+COMEDOR
+#$ CREW QUARTERS
+CUARTOS DE LA TRIPULACIÓN
+#$ SICK BAY
+BAHÍA MÉDICA
+#$ HALLWAY
+CORREDOR
+#$ CARGO HOLD
+BAHÍA DE CARGA
+#$ FLIGHT DECK
+PLATAFORMA DE VUELO
+#$ ENGINEERING
+INGENIERÍA
+#$ ASAGA DI RYUVIA
+ASAGA DI RYUVIA
+#$ QUEEN OF RYUVIA, SHARR (SELF PROCLAIMED)
+REINA DE RYUVIA, SHARR (AUTO PROCLAMADA)
+#$ LYNN
+LYNN
+#$ PROTOTYPE COLLABORATOR
+COLABORADOR PROTOTIPO
+#$ SOLA DI RYUVIA
+SOLA DI RYUVIA
+#$ ANCIENT SHARR OF RYUVIA
+ANTIGUA SHARR DE RYUVIA
+#$ ICARI ISIDOLDE
+ICARI ISIDOLDE
+#$ MERCENARY EXTRAORDINAIRE
+MERCENARIA EXTRAORDINARIA
+#$ CLAUDE TRILLEO
+CLAUDE TRILLEO
+#$ BOMBSHELL OF MYSTERIOUS ORIGINS
+BOMBA DE ORÍGENES MISTERIOSOS
+#$ AVA CRESCENTIA
+AVA CRESCENTIA
+#$ EXECUTIVE OFFICER, CHILDHOOD FRIEND
+OFICIAL EJECUTIVA, AMIGA DE LA INFANCIA
+#$ COSETTE COSMOS
+COSETTE COSMOS
+#$ SWORN ENEMY, TERROR OF THE STARS
+ENEMIGA JURADA, EL TERROR DE LAS ESTRELLAS
+#$ SPUNK: Move further on the first turn
+CORAJE: Moverse más lejos en el primer turno
+#$ ROYAL DECREE: Use CMD Points to offset repair costs
+DECRETO REAL: Usa Puntos CMD para reducir los costos de reparaciones
+#$ ANCIENT POWER: Awakening deals 25% less damage to self
+ANTIGUO PODER: Despertar provoca 25% menos daño a uno mismo
+#$ GENKI: +20 EN for the first 3 turns
+GENKI: +20 EN durante los primeros 3 turnos
+#$ MYTHOLOGICAL POWER: First Awakening is free
+PODER MITOLÓGICO: El primer Despertar es libre
+#$ FINAL STAND: Chance of dealing double damage when below 25% HP
+POSTURA FINAL: Posibilidad de provocar el doble de daño por debajo de 25% HP
+#$ QUEEN'S GUARD: Summon Lancer order unlocked
+GUARDIA DE LA REINA: Desbloqueada orden Invocar Lancer
+#$ FURY: Awakening damages all nearby enemies
+FURIA: Despertar daña a todas las unidades enemigas cercanas
+#$ THE HERO: Restores all HP upon death once per battle
+EL HÉROE: Restaura todo el HP tras morir una vez por batalla
+#$ ACES: Secret Ending Unlocked
+ACES: Final Secreto Desbloqueado
+#$ CHIEF ENGINEER: Lynn's trust grows
+INGENIERA JEFA: La confianza de Lynn crece
+#$ WORKING RELATIONSHIP: Target Lock is now an AOE ability
+RELACIÓN DE TRABAJO: Apuntar es ahora una habilidad en área
+#$ TWIN DRIVE RESEARCH I: Short Range Warp order unlocked
+INVESTIGACIÓN DEL NÚCLEO DUAL I: Desbloqueada orden Salto de Corto Rango
+#$ ECM HACKER: Return to Sender can now be used on torpedoes
+HACKER ECM: RTN2SNDR puede usarse ahora en torpedos
+#$ BUDDING LOYALTY: Chance to use abilities for half EN when near Maray
+NACIENTE LEALTAD: Posibilidad de usar habilidades por la mitad de EN cerca de la Maray
+#$ PROTOTYPE GENIUS: Disable deals damage equivalent to Lynn's max EN
+GENIO PROTOTIPO: Desactivar provoca daño equivalente a la EN máxima de Lynn
+#$ Q-JAMMER CALIBRATIONS: AOE for Flier Drones increased
+CALIBRACIONES DEL Q-JAMMER: Área de Drones Volantes aumentada
+#$ TWIN DRIVE RESEARCH II: Overdrive order unlocked
+INVESTIGACIÓN DEL NÚCLEO DUAL II: Desbloqueada orden Sobremarcha
+#$ PROTOTYPE MASTERY: Flier Drones simultaneously attack enemies and heal allies
+MAESTRÍA PROTOTIPO: Los Drones Volantes atacan a enemigos y curan a aliados simultáneamente
+#$ INFINITY: Secret Ending Unlocked
+INFINIDAD: Final Secreto Desbloqueado
+#$ LOST TECHNOLOGY: Sola asks you to find ancient tech
+TECNOLOGÍA PERDIDA: Sola te pide que encuentres tecnología antigua
+#$ PROTECTOR: Chance for Sola to always hit her target when near the Maray.
+PROTECTOR: Posibilidad de que Sola siempre golpee su objetivo cerca de la Maray
+#$ ARMOR PENETRATION: Sola's weapon ignores armor
+PENETRACIÓN DE ARMADURA: El arma de Sola ignora armadura
+#$ REACTOR SHOT: Hit enemies in the rear to damage their EN
+DISPARO AL REACTOR: Golpea enemigos en la parte posterior para dañar su EN
+#$ SECOND SHOT: Chance of firing another shot if the first shot misses
+SEGUNDO DISPARO: Posibilidad de lanzar otro disparo si el primero falla
+#$ ARMOR DISINTEGRATION: Chance for Sola's weapon to destroy ryder armor
+DESINTEGRAR ARMADURA: Posibilidad del arma de Sola de destruir armaduras de ryders
+#$ INNER PEACE: Awakening is free when at full EN
+PAZ INTERIOR: Despertar es libre teniendo EN completa
+#$ RAPID RELOAD: Increases likelihood of a second shot
+RECARGA RÁPIDA: Aumenta la probabilidad de un segundo disparo
+#$ THE MARK OF THE SHARR: Sola hits enemies behind her target for half DMG.
+LA MARCA DE LA SHARR: Golpea enemigos detrás del objetivo por la mitad del DAÑO
+#$ LEGEND: Secret Ending Unlocked
+LEYENDA: Final Secreto Desbloqueado
+#$ BOUNTY HUNTER: Icari asks you to help collect bounties
+CAZADOR DE RECOMPENSAS: Icari te pide que la ayudes a conseguir recompensas
+#$ AFTER MARKET: Post-battle repair costs reduced by 15 percent.
+MERCADO POSTERIOR: Costes de reparaciones luego de batallas reducidos en 15%
+#$ RASENZAN I: Consecutive melee attacks deal 50% more damage
+RASENZAN I: Ataques melee consecutivos provocan 50% más daño
+#$ RASENZAN II: Move again after chaining two or more melee attacks
+RASENZAN II: Moverse de nuevo tras encadenar dos o más ataques melee
+#$ RASENZAN III: Chance to use chain melee without using an afterburner slot
+RASENZAN III: Posibilidad de encadenar melee sin usar un espacio de postcombustión
+#$ BEHIND FRIENDLY ARMOR: All damage is reduced 25% when near Paladin
+TRAS ARMADURA ALIADA: Todo el daño es reducido un 25% estando cerca del Paladin
+#$ MILITARY SURPLUS: Replace destroyed ryders for half cost
+EXCEDENTE MILITAR: Reemplaza ryders destruidos por la mitad del coste
+#$ EVASIVE MANEUVERS: Chance to evade attacks when afterburner slot is full
+MANIOBRAS EVASIVAS: Posibilidad de evadir ataques con postcombustión lleno
+#$ REBORN, FROM THE ASHES: Chance to come back to full HP upon death
+RENACER, DE LAS CENIZAS: Posibilidad de volver con todo el HP al morir
+#$ MERCENARY: Secret Ending Unlocked
+MERCENARIA: Final Secreto Desbloqueado
+#$ NOT HER AGAIN: Claude gives you advice at Bad Ends
+NO ELLA DE NUEVO: Claude te da consejos en Bad Ends
+#$ FAN SERVICE: Distract is now an AOE ability
+FAN SERVICE: Distraer es ahora una habilidad en área
+#$ PERK UP: Restore ability unlocked
+REACCIONAR: Desbloqueada habilidad Restaurar
+#$ FULL POWER: The Gravity Gun can now be used on ships
+PODER COMPLETO: El Cañón de Gravedad puede usarse ahora en naves
+#$ OWN PETARD: The Gravity Gun can now be used on missiles and torpedoes
+PETARDO PROPIO: El Cañón de Gravedad puede usarse ahora en misiles y torpedos
+#$ SECRETS OF THE UNIVERSE: Divine Prayer order unlocked
+SECRETOS DEL UNIVERSO: Desbloqueada orden Rezo Divino
+#$ BIG HONKING BOMBERS: Chance for torpedoes to deal 50% more damage
+GRANDES BOMBARDEROS: Posibilidad de que los torpedos provoquen 50% más daño
+#$ LUCKY DAY: The Maray may survive a fatal attack if the Spell Caster is nearby
+DÍA AFORTUNADO: La Maray puede sobrevivir un ataque fatal si el Spell Caster está cerca
+#$ GUARDIAN ANGEL: Chance that when the Maray is sunk, the Spell Caster blows up instead
+ÁNGEL GUARDIÁN: Posibilidad de al hundirse la Maray, el Spell Caster explote en cambio
+#$ CANON: Secret Ending Unlocked
+CANON: Final Secreto Desbloqueado
+#$ JUST LIKE OLD TIMES: Reunited at last
+JUSTO COMO EN LOS VIEJOS TIEMPOS: Reunidos al fin
+#$ VIVA LA RESISTANCE I: Summon Gunship order unlocked
+VIVA LA RESISTENCIA I: Desbloqueada orden Invocar Cañonero
+#$ COMBAT RESUPPLY: Refit order unlocked
+RESUMINISTROS DE COMBATE: Desbloqueada orden Reabastecer
+#$ SHIP CLEAN UP I: Chance to fire missiles without expending ammo
+LIMPIEZA DE NAVE I: Posibilidad de disparar misiles sin gastar munición
+#$ LETTERS OF MARQUE: Bonus to bounty awards
+CARTAS DE MARCA: Bonus a las recompensas
+#$ NAVIGATIONAL ERROR: Summon Cruiser order unlocked
+ERROR DE NAVEGACIÓN: Desbloqueada orden Invocar Crucero
+#$ SHIP CLEAN UP II: Chance to fire torpedoes without expending ammo
+LIMPIEZA DE NAVE II: Posibilidad de disparar torpedos sin gastar munición
+#$ VIVA LA RESISTANCE II: Summon Gunship order is free when there are no gunships
+VIVA LA RESISTENCIA II: La orden Invocar Cañonero es libre cuando no hay cañoneros
+#$ EXECUTIVE ORDER: Unlock All Hands on Deck order
+ORDEN EJECUTIVA: Desbloqueada orden Todos En La Cubierta
+#$ VICTORY: Secret Ending Unlocked
+VICTORIA: Final Secreto Desbloqueado
+#$ ETERNAL FOE: Defeat Cosette to unlock new orders
+ENEMIGA ETERNA: Derrota a Cosette para desbloquear nuevas órdenes
+#$ ALL OUT ATTACK: Full Forward order unlocked
+ATAQUE COMPLETO: Desbloqueada orden Avance Completo
+#$ DEFENSIVE TACTICS: All Guard order unlocked
+TÁCTICAS DEFENSIVAS: Desbloqueada orden Defensa Total
+#$ LIGHTNING TACTICS: All Power to Engines order unlocked
+TÁCTICAS RÁPIDAS: Desbloqueada orden Máximo Poder a los Motores
+#$ DAMAGE CONTROL: Repair Drones order unlocked
+CONTROL DE DAÑOS: Desbloqueada orden Drones Reparadores
+#$ YOU SHALL NOT PASS: Flak Burst order unlocked
+NO PASARÁS: Desbloqueada orden Explosión Antiaérea
+#$ RAPID REPAIRS: Resurrection order unlocked
+REPARACIONES RÁPIDAS: Desbloqueada orden Resurrección
+#$ POWER UP: Reactor Charge order unlocked
+MÁS PODER: Desbloqueada orden Carga del Reactor
+#$ LITTLE SHIP, BIG BITE: Finest Hour order unlocked
+PEQUEÑA NAVE, GRAN MORDIDA: Desbloqueada orden La Mejor Hora
+#$ ???: Secret Ending Unlocked
+???: Final Secreto Desbloqueado
+#$ AFFECTION RATING INCREASED!
+¡CANTIDAD DE AFECTO AUMENTADA!
+#$ LOCKED
+BLOQUEADO
+#$ CLASS 0 GAS GIANT WORLD>>POPULATION: <300 SQUATTERS>>>>An uninhabited gas giant world unclaimed by any galactic power, the Lothorian Mafia has made Argasso a hub for their booming black market operations. Built around a hollowed-out asteroid caught in Argasso's gravity well, New Kowloon Station is cobbled together from various aftermarket components and copious amounts of duct tape. For the desperate denizens of the war torn Neutral Rim, New Kowloon Station is a crucial source of goods which are otherwise heavily rationed due to the Neutral Rim War.>>>>Operating outside the bounds of the law, New Kowloon Station attracts pirates, mercenaries, and the galaxy's scum and villainy in general. If you need a hired gun without questions asked, the station's canteen should be your first pit stop. Just be careful not to be scammed by the conmen on your way there.
+CLASE 0 MUNDO GIGANTE GASEOSO>>POBLACIÓN: <300 OCUPANTES ILEGALES>>>>Un inhabitado mundo gigante gaseoso que no ha sido reclamado por ningún poder galáctico, la Mafia Lothariana ha hecho de Argasso un centro para sus crecientes operaciones de mercado negro. Construida alrededor de un asteroide ahuecado atrapado en el campo de gravedad de Argasso, la Nueva Estación Kowloon está repleta de varios componentes del mercado trasero y sospechosas cantidades de cinta adhesiva. Para los desesperados habitantes de la guerra que desgarró al Margen Neutral, la Nueva Estación Kowloon es una fuente crucial de suministros que de otra forma serían enormemente racionados debido a la Guerra del Margen Neutral.>>>>Operando fuera de los límites de la ley, la Nueva Estación Kowloon atrae a piratas, mercenarios, y a la escoria y villanos de la galaxia en general. Si necesitas un arma contratada sin que hagan preguntas, el comedor de la estación sería tu primera parada. Solo ten cuidado de no ser estafado por los estafadores en tu camino allí.
+#$ RECRUIT ICARI
+RECLUTAR A ICARI
+#$ If I'm going to contact Ava on Cera, I'm going to need a security expert to scramble our transmission so that we don't tip off PACT's Intelligence Department. My old friend Icari Isidolde should fit the bill. According to talk on the Holonet, she is a regular at New Kowloon Station in orbit around Argasso.
+Si voy a contactar a Ava en Cera, necesitaré un experto en seguridad para codificar nuestra transmisión de forma que no alertemos al Departamento de Inteligencia del PACT. Mi vieja amiga Icari Isidolde sería la indicada. De acuerdo con los rumores en la Holonet, ella es una cliente habitual en la Nueva Estación Kowloon en órbita alrededor de Argasso.
+#$ CORE
+NÚCLEO
+#$ BATTERY
+BATERÍA
+#$ REACTOR
+REACTOR
+#$ BOOST
+ACELERACIÓN
+#$ Assault Hits
+Disp Asalto
+#$ Torp HP
+HP Torp
+#$ Boost
+Aceleración
+#$ Speed/Ev
+Vel/Ev
+#$ SHD EMITTER
+EMISOR ESC
+#$ NEURAL ASSIST
+ASIST NEURAL
+#$ DISTRACT
+DISTRAER
+#$ GRAVITY GUN
+GRAVEDAD
+#$  SHD for friendly units for 
+ ESC para aliados por 
+#$  buff to weapon DMG for 
+ mejora al DAÑO de armas por 
+#$  penalty to enemy weapon accuracy 
+ penalización a la precisión enemiga 
+#$ Relocate an enemy ryder, 
+Recolocar un ryder enemigo, 
+#$ CLOAK
+CAMUFLAJE
+#$ Extend melee combo
+Extender combo melee
+#$ Reduce hate by 
+Reducir odio en 
+#$  radius
+ radio
+#$  range
+ rango
+#$ Area
+Área
+#$ ATTACK
+ATAQUE
+#$ REPAIR
+REPARACIÓN
+#$  HP x10 in area
+ HP x10 en área
+#$ Repair all friendlies in targeted area
+Repara todas las unidades amigas en el área objetivo
+#$ Reduce chance of being noticed by enemies
+Reduce la probabilidad de ser notado por enemigos
+#$ New Kowloon Station
+Nueva Estación Kowloon
+#$ Find the Fortune Teller
+Encuentra a la Adivina
+#$ When I recruited Icari, she told me about a mysterious fortune teller who seemed to know a suspicious amount of information about Crow Harbor's return. Not being a believer in mystics, I think she has information regarding the Lost Fleet which we need to stop Crow Harbor.
+Cuando recluté a Icari, me contó acerca de una misteriosa adivina que parece conocer una sospechosa cantidad de información acerca del regreso de Crow Harbor. Aunque no soy un creyente de lo místico, creo que ella tiene información respecto a la Flota Perdida que necesitamos para detener a Crow Harbor.
+#$ Side: Treasure of the Holy Empire
+LAT: Tesoro del Sagrado Imperio
+#$ While I was on Tydaria, I overheard some miners claiming to have dug up an ancient Ryuvian artifact of great power. Intrigued, I shadowed them to an abandoned mine and witnessed the miners sell the artifact to a local pirate brigade. We should go back to Tydaria and restore the lost artifact to Ryuvia's rightful possession before the pirates use it for nefarious ends.
+Mientras estuve en Tydaria, escuché a algunos mineros diciendo haber desenterrado un antiguo artefacto Ryuviano de gran poder. Intrigado, los seguí a escondidas hasta una mina abandonada y presencié a los mineros vendiéndoles el artefacto a una brigada pirata local. Deberíamos regresar a Tydaria y recuperar el artefacto perdido para la legítima propiedad de Ryuvia antes de que los piratas lo usen para sus nefastos fines.
+#$ Side: The Great Emu War
+LAT: La Gran Guerra Emu
+#$ Hey cap. I've got a big contract for you. A contact desperately needs his pack of Lothorian emus transported to the moon of Argasso for the mating season. Hey, don't give me that look, this is serious business! Their eggs are worth a small fortune out here in the Neutral Rim, so you can count on there being trouble on route.
+Hey capitán. Tengo un gran contrato para tí. Un contacto necesita desesperadamente que su manada de emus Lotharianos sea transportada a la luna de Argasso para la temporada de apareamiento. ¡Hey, no me mires así, esto es un negocio serio! Sus huevos valen una pequeña fortuna aquí en el Margen Neutral, así que puedes contar con que habrá problemas en el camino.
+#$ CERA
+CERA
+#$ CLASS 11 HABITABLE WORLD>>POPULATION: 4.5 billion>>UNDER PACT OCCUPATION>>>>A highly developed world in the Neutral Rim, Cera is a regional technological and industrial powerhouse. Prior to the Neutral Rim War, living standards on Cera were comparable to the Solar Alliance core worlds, minus the rampant overpopulation, making it one of the jewels of the Neutral Rim.>>>>Following the tragic destruction of its capital city in the early days of the Neutral Rim War, Veniczar Fontana has funneled trillions of credits into reconstruction efforts, slowly gaining a measure of trust in Cera as a reformer. Today, New Cera City is a modern and revitalized core of technology and manufacturing thanks to the hard work of Cerans.>>>>Cera is the site of the infamous Liberation Day Massacre, where the Prototype Chigara assassinated Admiral Grey of the Solar Alliance, plunging humanity into a period of great bloodshed.
+CLASE 11 MUNDO HABITABLE>>POBLACIÓN: 450 mil millones>>BAJO OCUPACIÓN DEL PACT>>>>Un enormemente desarrollado mundo en el Margen Neutral, Cera es un motor industrial y tecnológico regional. Anterior a la Guerra del Margen Neutral, los estándares de vida en Cera eran comparables a los de los mundos interiores de la Alianza Solar, menos la desenfrenada sobrepoblación, haciéndola una de las joyas del Margen Neutral.>>>>Tras la trágica destrucción de su ciudad capital en los tempranos días de la Guerra del Margen Neutral, Veniczar Fontana ha gastado billones de créditos en los esfuerzos de reconstrucción, ganándose lentamente una medida de confianza en Cera como reformador. Hoy, la Nueva Ciudad Cera es un moderno y revitalizado núcleo de tecnología y manufacturas gracias al duro trabajo de los Ceranos.>>>>Cera es el lugar de la infame Masacre del Día de Liberación, donde el Prototipo Chigara asesinó al Almirante Grey de la Alianza Solar, sumiendo a la humanidad en un período de grandes derramamientos de sangre.
+#$ TYDARIA
+TYDARIA
+#$ CLASS 3 ARID WORLD>>POPULATION: 3 million>>>>Dry and scarce of creature comforts, the Neutral Rim planet of Tydaria would be omitted from most star maps if not for its rich gray iron deposits. Most Tydarians are related to the mining industry in some form. Tydarians are as rugged as the rocks which line the surface of Tydaria and possess a straightforward and humorless attitude. Tydarians are fierce merchants and will pinch every penny out of a deal.>>>>Following the Solar Alliance's rout from the Neutral Rim, PACT has established de jure control of this world. However, due to its remote and underdeveloped status, not much has changed for its inhabitants, aside for the placement of some token PACT military personnel and propaganda speakers.
+CLASE 3 MUNDO ÁRIDO>>POBLACIÓN: 3 millones>>>>Seco y carente de conformidades para las criaturas, el planeta del Margen Neutral de Tydaria sería omitido de la mayoría de los mapas estelares si no fuera por sus ricos depósitos de hierro gris. La mayoría de los Tydarianos están relacionados a la industria minera de alguna forma. Los Tydarianos son robustos como las rocas que recubren la superficie de Tydaria y poseen una actitud directa y sin humor. Los Tydarianos son fieros mercaderes y sacarán hasta el último centavo de un negocio.>>>>Tras la huída de la Alianza Solar del Margen Neutral, el PACT ha establecido un control de derecho en este mundo. Sin embargo, debido a su estado remoto y subdesarrollado, no ha cambiado mucho para sus habitantes, aparte de la colocación de algún personal militar del PACT y bocinas con propaganda.
+#$ Side: Scrap Behind the Shed
+LAT: Escaramuza Tras La Fábrica
+#$ You think you're so tough, Shields?! If you're a real man, come face me and my squad at Tydaria where we can settle the score once and for all! And don't even think I'll ever join your pathetic harem! Peh!
+¡¿Te crees que eres muy fuerte, Shields?! ¡Si eres un verdadero hombre, ven y enfréntate a mí y a mi escuadrón en Tydaria donde arreglaremos las cosas de una vez por todas! ¡Y ni siquiera pienses que me uniré a tu patético harem! ¡Peh!
+#$ Reunite with Ava
+Reunirse con Ava
+#$ I've made contact with Ava and received forged diplomatic papers to sneak past PACT to dock at Cera. This will be the first time meeting my childhood friend and loyal second in command in six years. I... better iron out all the wrinkles in my uniform.
+He hecho contacto con Ava y recibido papeles diplomáticos falsificados para escabullirme tras el PACT y atracar en Cera. Esta será la primera vez encontrándome con mi leal segunda al mando en seis años. Yo... mejor plancho todas las arrugas en mi uniforme.
+#$ ORDER
+ORDEN
+#$ FULL FORWARD
+AVANCE COMPLETO
+#$ Bonus to DMG for 3 turns
+Bonus al DAÑO por 3 turnos
+#$ Provide shield cover within targeted area
+Provee cobertura de escudo en el área objetivo
+#$ Buff to target's weapon DMG
+Bonus al DAÑO del objetivo
+#$ Penalty to target's weapon accuracy
+Penalización a la precisión del objetivo
+#$ Move target ryder
+Mover un ryder objetivo
+#$ PROTECTOR
+PROTECTOR
+#$ PACT Fast Carrier
+Carguero Rápido del PACT
+#$ PACT Mook
+Mook del PACT
+#$ Wolf 1
+Lobo 1
+#$ Wolf 2
+Lobo 2
+#$ PACT Wolf Brigade
+Brigada Lobo del PACT
+#$ RYUVIA CANAL
+CANAL DE RYUVIA
+#$ RELIC OF THE ANCIENT AGE>>>>The last operational warp gate of the former Ryuvian Empire, the Ryuvia Canal connects Ryuvia Prime to the Solar Alliance world of Ferros, nearly halfway across the galaxy. The economic and military importance of the Ryuvia Canal is minimal, as it connects the Neutral Rim to the Denari Expanse, a region of space devoid of natural resources. The Canal is largely used by adventurous traders who deliver goods from the Denari Expanse to the Neutral Rim.>>>>However, with the Solar Alliance's heavy military presence at the gateway world of Far Port, the Ryuvia Canal has seen increased traffic from traders seeking to enter Alliance space, providing Ryuvia with an unexpected revenue source from the toll collections.
+RELIQUIA DE LA ERA ANTIGUA>>>>La última puerta de salto operativa del antiguo Imperio Ryuviano, el Canal de Ryuvia conecta Ryuvia Prime con el mundo de Ferros de la Alianza Solar, casi a mitad de camino a través de la galaxia. La importancia económica y militar del Canal de Ryuvia es mínima, y conecta al Margen Neutral con el Denari Expanse, una region de espacio desprovista de recursos naturales. El Canal es mayormente usado por comerciantes aventureros que envían bienes desde el Denari Expanse al Margen Neutral.>>>>Sin embargo, con la presencia del gran ejército de la Alianza Solar en el mundo entrada de Far Port, el Canal de Ryuvia ha visto un incremento del tráfico de mercaderes que buscan entral al espacio de la Alianza, proveyendo a Ryuvia con una inesperada fuente de ingresos de los peajes.
+#$ The
+El
+#$ WARP TO FERROS
+SALTAR A FERROS
+#$ FERROS
+FERROS
+#$ CLASS 5 HUB WORLD OF THE DENARI EXPANSE>>POPULATION: 1 BILLION>>>>Connected to the Neutral Rim via the Ryuvian Canal, the Alliance world of Ferros serves as a bustling trade hub in the Denari Expanse. Populated mostly by the Denari, Ferros is the economic and political center of the Expanse.>>>>During the Alliance-Imperial War, Ferros supplied the Solar Alliance with vast amounts of grey iron, which was used in the construction of the Emerald Fleet. However, those grey iron deposits have now been mined dry, and the citizens of Ferros find themselves without jobs and under-appreciated in the Alliance.
+CLASE 5 MUNDO PRINCIPAL DEL DENARI EXPANSE>>POBLACIÓN: 1000 MILLONES>>>>Conectado al Margen Neutral a través del Canal Ryuviano, el mundo de la Alianza de Ferros sirve como un bullicioso centro comercial en el Denari Expanse. Poblado principalmente por los Denari, Ferros es el centro económico y político de todo el Expanse.>>>>Durante la Guerra Alianza-Imperial, Ferros suministró a la Alianza con enormes cantidades de hierro gris, el cual fue usado en la construcción de la Flota Esmeralda. Sin embargo, esos depósitos de hierro gris se han agotado ahora, y los ciudadanos de Ferros se encuentran sin trabajo y subestimados en la Alianza.
+#$ Conn
+Conn
+#$ PURSUE THE 13TH FLEET
+PERSEGUIR A LA 13RA FLOTA
+#$ KOR'ATH
+KOR'ATH
+#$ CLASS 0 UNINHABITED WORLD>>>>Kor'ath is a sulfuric world with no strategic resources. No human settlements are present on this useless rock.
+CLASE 0 MUNDO INHABITADO>>>>Kor'ath es un mundo sulfúrico sin recursos estratégicos. No hay asentamientos humanos presentes en esta roca inútil.
+#$ Kor'ath is a sulfuric world with no strategic resources. No human settlements are present on this useless rock.
+Kor'ath es un mundo sulfúrico sin recursos estratégicos. No hay asentamientos humanos presentes en esta roca inútil.
+#$ INVESTIGATE KOR'ATH
+INVESTIGAR KOR'ATH
+#$ RENTOS
+RENTOS
+#$ CLASS 2 UNINHABITED WORLD>>>>POPULATION: <100>>>>After Rentos was mined dry of grey iron, it was abandoned by the Solar Alliance's corporations several decades ago. Now it is a largely uninhabited world, save for small pockets of criminals and squatters.
+CLASE 2 MUNDO INHABITADO>>>>POBLACIÓN: <100>>>>Después de que Rentos fue minado completamente de hierro gris, fue abandonado por las corporaciones de la Alianza Solar hace muchas décadas. Ahora es un enormemente deshabitado, salvo por las pequeñas bandas de criminales y ocupantes ilegales.
+#$ After Rentos was mined dry of grey iron, it was abandoned by the Solar Alliance's corporations several decades ago. Now it is a largely uninhabited world, save for small pockets of criminals and squatters.
+Después de que Rentos fue minado completamente de hierro gris, fue abandonado por las corporaciones de la Alianza Solar hace muchas décadas. Ahora es un enormemente deshabitado, salvo por las pequeñas bandas de criminales y ocupantes ilegales.
+#$ INVESTIGATE RENTOS
+INVESTIGAR RENTOS
+#$ AINUR
+AINUR
+#$ CLASS 0 UNINHABITED WORLD>>>>The predominant life form on Ainur is a fungi, the spores of which are toxic to humans. Due to a lack of any strategic resources, no effort has been made to terraform Ainur into a world palpable to human life.
+CLASE 0 MUNDO INHABITADO>>>>La forma de vida predominante en Ainur es un hongo, cuyas esporas son tóxicas para los humanos. Debido a la ausencia de cualquier recurso estratégico, no se han hecho esfuerzos para terraformar Ainur en un mundo palpable para la vida humana.
+#$ The predominant life form on Ainur is a fungi, the spores of which are toxic to humans. Due to a lack of any strategic resources, no effort has been made to terraform Ainur into a world palpable to human life.
+La forma de vida predominante en Ainur es un hongo, cuyas esporas son tóxicas para los humanos. Debido a la ausencia de cualquier recurso estratégico, no se han hecho esfuerzos para terraformar Ainur en un mundo palpable para la vida humana.
+#$ CONFRONT THE PALADIN
+CONFRONTAR AL PALADIN
+#$ DOOMED WORLD
+MUNDO CONDENADO
+#$ DESTROYED>>>>The greed of humanity has doomed this world to ruin. The fires of destruction will burn for millennia to come.
+DESTRUIDO>>>>La codicia de la humanidad ha condenado a este mundo a la ruina. Los fuegos de la destrucción arderán por los milenios que vengan.
+#$ The greed of humanity has doomed this world to ruin. The fires of destruction will burn for millennia to come.
+La codicia de la humanidad ha condenado a este mundo a la ruina. Los fuegos de la destrucción arderán por los milenios que vengan.
+#$ REFIT
+REABASTECER
+#$ Restore HP and Ammo of nearby units
+Restaura el HP y la Munición de las unidades cercanas
+#$ REMATCH WITH COSETTE
+LAT: Revancha con Cosette
+#$ I let you off easy last time, but now it's going to be a fight to the death! Only one of us is going to walk away from this, so I can totally understand if you wuss out. But if you've actually got balls, come meet me at Versta and we can settle this once and for all! PS: Come with just your ship and none of your hired goons! We're settling this one-on-one, Shields!
+¡Te dejé ir fácil la última vez, pero ahora va a ser una lucha a muerte! Solo uno de nosotros va a salir de esta, así que entiendo totalmente si te escabulles. ¡Pero si realmente tienes pelotas, ven y encuéntrate conmigo en Versta y podremos decidir esto de una vez por todas! PD: ¡Ven solo con tu nave y ninguno de tus mercenarios contratados! ¡Decidiremos esto en un uno-contra-uno, Shields!
+#$ VERSTA
+VERSTA
+#$ CLASS 7 HABITABLE WORLD>>>>POPULATION: 8 MILLION>>>>Versta was a former planet of the Ryuvian Empire. Following Ryuvia's decline, Versta was ravaged by decades of civil unrest. Following many tragic deaths, President Zefiris was elected to office, promising planetary reconciliation. Zefiris revitalized the fledgling economy and began democratic reforms which restored peace to Versta.>>>>Unfortunately, Versta was conquered by PACT during the Neutral Rim War and President Zefiris was jailed as a political dissident. With the Crimson Fleet spread thin in the Neutral Rim, Versta's economy has collapsed and little semblance of civil order remains.
+CLASE 7 MUNDO HABITABLE>>>>POBLACIÓN: 8 MILLONES>>>>Versta fue un antiguo planeta del Imperio Ryuviano. Tras el declive de Ryuvia, Versta fue destrozada por décadas de agitación civil. Tras muchas trágicas muertes, el Presidente Zefiris fue electo a la presidencia, prometiendo reconciliación planetaria. Zefiris revitalizó la naciente economía y comenzó reformas democráticas para restaurar la paz en Versta.>>>>Desafortunadamente, Versta fue conquistada por el PACT durante la Guerra del Margen Neutral y el Presidente Zefiris fue encarcelado como un disidente político. Con la Flota Carmesí esparciéndose por todo el Margen Neutral, la economía de Versta ha colapsado y queda poca apariencia de orden civil.
+#$ NEXT
+SIGUIENTE
+#$ TRAVEL TO THE DENARI EXPANSE
+VIAJAR AL DENARI EXPANSE
+#$ With Asaga's blessing, we can now use the Ryuvian Canal to travel to the Denari world of Ferros. The gateway world to the Denari Expanse, Ferros is the seat of Denari power, where traders first arrive on their trek to the Alliance core worlds. We should contact the locals here to track down the whereabouts of Kryska's new alter ego, the "Paladin."
+Con el permiso de Asaga, ahora podemos usar el Canal Ryuviano para viajar al mundo Ferros de Denari. El mundo entrada al Denari Expanse, Ferros es el centro de poder de los Denari, a donde los mercaderes llegan en sus viajes hacia los mundos interiores de la Alianza. Deberíamos contactar a los habitantes de aquí para rastrear el paradero del nuevo alter ego de Kryska, la "Paladin". 
+#$ INVESTIGATE THE ALLIANCE FLEET
+INVESTIGAR LA FLOTA DE LA ALIANZA
+#$ According to Mar'qui Johan, a mysterious Alliance fleet was last spotted at the uninhabited world of Kor'ath, their intentions unknown. Could this mysterious fleet be the infamous 13th Fleet led by Captain Paladin?
+De acuerdo con Mar'qui Johan, una misteriosa flota de la Alianza ha sido avistada en el mundo inhabitado de Kor'ath, desconociéndose sus intenciones. ¿Podría esta misteriosa flota ser la infame 13ra Flota liderada por la Capitán Paladin?
+#$ CONSULT THE CREW
+CONSULTAR A LA TRIPULACIÓN
+#$ MOMENTS PRIOR...
+MOMENTOS ANTES...
+#$ RETURN TO FERROS
+REGRESAR A FERROS
+#$ We arrived on Kor'ath, where the Paladin was last seen, only to discover the entire planet had been mysteriously destroyed. What's more, Ongessite crystals were found in the planet's debris field, along with a Mining Union operation. We should return to Ferros to investigate the permit the Mining Union received from the Solaris Interior Department.
+Llegamos a Kor'ath, donde la Paladin fue vista por última vez, solo para descubrir que el planeta entero había sido misteriosamente destruido. Y lo que es más, cristales de Ongessita fueron encontrados en todo el campo de escombros del planeta, junto a una operación de la Unión Minera. Deberíamos regresar a Ferros para investigar el permiso que la Unión Minera recibió del Departamento Interior de Solaris.
+#$ Investigate Rentos
+Investigar Rentos
+#$ The Mining Union and the 13th Fleet appear to have detonated a second Tactical Paradox Core at the uninhabited world of Rentos. We should investigate Rentos immediately - perhaps we might still be able to catch the perpetrators.
+La Unión Minera y la 13ra Flota parecen haber detonado un segundo Tactical Paradox Core en el mundo inhabitado de Rentos. Deberíamos investigar Rentos inmediatamente - quizás todavía podríamos ser capaces de atrapar a los perpetradores.
+#$ CONFRONT THE PALADIN
+CONFRONTAR A LA PALADIN
+#$ The Paladin has challenged us to a showdown at the Denari world of Ainur. I hope you are ready for this, captain. This is all but certain to be a trap.
+La Paladin le ha retado a un enfrentamiento en el mundo Ainur de Denari. Espero que esté listo para esto, capitán. Esto definitivamente ha de ser una trampa.
+#$ DENARI POCKET CARRIER
+PEQUEÑO CARGUERO DE DENARI
+#$ DENARI INFANTRY
+INFANTERÍA DE DENARI
+#$ DRAGOON
+DRAGOON
+#$ ALLIANCE INFANTRY
+INFANTERÍA DE LA ALLIANCE
+#$ ALLIANCE AT. CARRIER
+CARGUERO AT. DE LA ALLIANCE
+#$ ALLIANCE CRUISER
+CRUCERO DE LA ALIANZA
+#$ PALADIN
+PALADIN
+#$ ALL GUARD
+DEFENSA TOTAL
+#$ Increase armor for 3 turns
+Aumenta la armadura por 3 turnos
+#$ REFIT
+REABASTECER
+#$ Restore 50% HP and all missile and 1 torp ammo to ryders near the Maray
+Restaura 50% HP, todos los misiles y 1 torpedo a ryders cerca de la Maray
+#$ COLLISION WARNING
+ADVERTENCIA DE COLISIÓN
+#$ RETREAT WARNING
+ADVERTENCIA DE RETIRADA
+#$ SOLARIS
+SOLARIS
+#$ CAPITAL OF THE SOLAR ALLIANCE>>>>POPULATION: 42 billion + 2 billion in orbit>>>>CLASS 14 WORLD>>>>The financial, cultural, and political hub of the Solar Alliance (arguably of humanity itself) Solaris is a highly developed world renown throughout the galaxy for its wealth and entertainment industry. However, Solaris' glitzy exterior hides an uncomfortable dark side: Most of its inhabitants barely get by on a day to day basis due to the high costs of living and the relocation of most unskilled jobs off world. With the planet barely able to support its inhabitants, many find themselves trapped in a cycle of barely having enough money to survive.>>>>In spite of its issues, the Solari are a proud people with an unshakable belief in the Solaris Dream: To strike it big with a bold new business venture and transform both the nature of human existence and one's own life.
+CAPITAL DE LA ALIANZA SOLAR>>>>POBLACIÓN: 42 mil millones + 2 mil millones en órbita>>>>CLASE 14 MUNDO>>>>El centro financiero, cultural y político de la Alianza Solar (posiblemente de la humanidad misma) Solaris es un áltamente desarrollado mundo reconocido por toda la galaxia por su riqueza e industria del entretenimiento. Sin embargo, el glamoroso exterior de Solaris oculta un desagradable lado oscuro: La mayoría de sus habitantes apenas logran vivir el día a día debido a los altos costos de vida y el desplazamiento de la mayoría de los trabajos no especializados fuera del mundo. Con el planeta apenas capaz de aguantar a todos sus habitantes, muchos se encuentran atrapados en un ciclo de apenas tener dinero suficiente para sobrevivir.>>>>A pesar de sus problemas, los Solari son gente orgullosa y con una inquebrantable fe en el Sueño de Solaris: Llegar a ser grande con una atrevida aventura en un nuevo negocio y transformar tanto a la naturaleza de la existencia humana como a la vida de uno mismo.
+#$ SIDE: Shadows of the Future
+LAT: Sombras del Futuro
+#$ Captain Shields: I am sending this message in the hopes that you can assist the Denari people once more. Following the Paladin Incident, I was assigned to investigate the Iron Brotherhood criminal syndicate. My investigation has led me to the location of their kingpin. However, I am embarrassed to admit that I find myself outgunned against these scum. I know together, we will be able to topple this criminal enterprise for good.
+Capitán Shields: Le estoy enviando este mensaje con la esperanza de que puead ayudar a la gente de Denari una vez más. Tras el Incidente de la Paladin, fui asignado a investigar al sindicato criminal de la Hermandad de Hierro. Mi investigación me ha llevado a la ubicación de su jefe. Sin embargo, me avergüenza admitir que me encuentro superado por esta escoria. Sé que juntos, podremos acabar con esta compañia criminal de una vez por todas.
+#$ SIDE: Human Costs
+LAT: Costos Humanos
+#$ Greetings, Captain Shields. While I bid you farewell from our space not long ago, I am humbled by the reality that I am in need of your assistance once more. With the Mining Union's cooperation, we have expanded the scope of our Ongessite fracking operations. Unfortunately, we have lost contact with one of our mines and every team we have sent to investigate has gone silent. We could offer you a handsome reward if you uncover what has happened...
+Saludos, Capitán Shields. Aunque le despedí de nuestro espacio no hace mucho, me avergüenzo de necesitar de su ayuda una vez más. Con la cooperación de la Unión Minera, hemos expandido el alcance de nuestras operaciones de extracción de Ongessita. Desafortunadamente, perdimos contacto con una de nuestras minas y cada equipo que enviamos a investigar desapareció. Podríamos ofrecerle una hermosa recompensa si descubre qué ha sucedido...
+#$ ONWARD TO SOLARIS
+HACIA SOLARIS
+#$ Following our confrontation with the Paladin, she and the 13th Fleet left the Denari Expanse for Solaris. We suspect they will use the credits they acquired from the sale of the Ongessite fracking techonology to fund a coup d'etat of the Solar Alliance government at Solaris. We should set course for Solaris and contact Captain Grey of the Alliance Fleet to find a way to stop the Paladin's plot.
+Tras la confrontación con la Paladin, ella y la 13ra Flota dejaron el Denari Expanse hacia Solaris. Sospechamos que hayan usado los créditos que adquirieron de la venta de tecnología de minería de Ongessita para financiar un golpe de estado al gobierno de la Alianza Solar en Solaris. Deberíamos establecer el curso hacia Solaris y contactar al Capitán Grey de la Flota de la Alianza para encontrar una forma de detener el plan de la Paladin.
+#$ Some changes will not take effect until battle restart
+Algunos cambios no tomarán efecto hasta reiniciar la batalla
+#$ MISHIMA
+MISHIMA
+#$ GUARD
+DEFENSA
+#$ Drastically boost armor and draw in enemies
+Mejora drásticamente la armadura y atrae a los enemigos
+#$ % Armor for 
+% Armadura por 
+#$  turn(s)
+ turno/s
+#$  hate
+ odio
+#$ Left
+Izquierda
+#$ Right
+Derecha
+#$ Draw Fire
+Atraer Fuego
+#$ Armor Up
+Armadura +
+#$ ONGESS
+ONGESS
+#$ CLASS 7 ROCKY WORLD>>>>POPULATION: 38 BILLION>>>>Ongess is a filthy world with a long history of colonial exploitation. Ongessite ore can be refined into liquid Ongessite, a valuable commodity used in the construction of high-grade fusion reactors. First conquered by the Holy Ryuvian Empire during the ancient era, then by the New Empire, then most recently caught between the Solar Alliance and PACT in the Neutral Rim War, the citizens of Ongess have essentially been slaves to one galactic power or another for most of its history. Veniczar Fontana has ordered the nationalization of the entire Ongessite industry and promised trillions of credits to fund environmental cleanup and social services. However, corruption throughout the People's Alliance bureaucracy and the more pressing Fleet Modernization Project has only made PACT into Ongess's newest imperial master.
+CLASE 7 MUNDO ROCOSO>>>>POBLACIÓN: 38 MIL MILLONES>>>>Ongess es un asqueroso mundo con una larga historia de explotación colonial. El mineral de Ongessita puede ser refinado en líquido de Ongessita, una valuable mercancía usada en la construcción de reactores de fusión de alto-grado. Primero conquistados por el Sagrado Imperio Ryuvia durante la era antigua, luego por el Nuevo Imperio, después atrapado muy recientemente entre la Alianza y el PACT en la Guerra del Margen Neutral, los ciudadanos de Ongess han sido esencialmente esclavos de un poder galáctico a otro por la mayor parte de su historia. Veniczar Fontana ha ordenado la nacionalización de toda la industria de Ongessita y prometió billones de créditos para financiar la limpieza ambiental y los servicios sociales. Sin embargo, la corrupción por toda la burocracia de la Alianza de las Personas y el más urgente Proyecto de Modernización de la Flota solo han hecho al PACT el nuevo amo imperial de Ongess.
+#$ FORMOTTI
+FORMOTTI
+#$ UNCHARTED>>>>An uncharted nebula of little note, the Formotti Nebula is seldom visited by travelers. A large number of asteroids, ice meteors, and space garbage orbit the protostar at the center of the nebula, caught in its gravitational field.
+INEXPLORADO>>>>Una inexplorada nebulosa de poca importancia, la Formotti Nebula es raramente visitada por viajeros. Un gran número de asteroides, meteoros congelados, y basura espacial orbitan la protoestrella en el centro de la nebulosa, atrapada en su campo gravitacional.
+#$ KRYSKA STARES
+KRYSKA STARES
+#$ PATRIOT OF THE SWOL-AR ALLIANCE
+PATRIOTA DE LA ALIANZA SWOL-AR
+#$ EXTREMIST REFORMED: Kryska abandons both her helm and political extremism
+EXTREMISTA REFORMADA: Kryska abandona tanto su casco y su extremismo político
+#$ IRON FURY I: Chance to fire additional kinetic shot when HP is under 50%
+FURIA DE HIERRO I: Posibilidad de lanzar otro disparo kinético con HP bajo el 50%
+#$ SECOND WIND: The Paladin restores 50% of its HP upon death
+SEGUNDO VIENTO: El Paladin recupera 50% de su HP tras morir
+#$ MIGHT OF THE ALLIANCE: Fatal attacks will leave 1 HP when Guard is active
+PODER DE LA ALIANZA: Ataques fatales dejan 1 HP cuando Defensa está activa
+#$ AUTO ECM: Chance to send missiles and torpedoes back to owners upon casting Guard
+AUTO ECM: Posibilidad de lanzar misiles y torpedos a sus propietarios al usar Defensa
+#$ IRON FURY II: Chance to fire another additional kinetic shot when HP is under 25%
+FURIA DE HIERRO II: Posibilidad de lanzar otro disparo kinético con HP bajo el 25%
+#$ SHIELD WALL: Boost to armor when under 25% HP
+MURO DE ESCUDO: Aumenta la armadura con HP bajo el 25%
+#$ SPEEDY FRIEND: Chance to evade attacks when near Phoenix
+VELOZ AMIGA: Posibilidad de evadir ataques cerca del Phoenix
+#$ SHOCK AND AWE: Weapons deal double damage when at 1 HP
+IMPACTO Y ASOMBRO: Armas provocan doble de daño teniendo 1 HP
+#$ SOLARIS DREAM: Secret Ending Unlocked
+EL SUEÑO DE SOLARIS: Final Secreto Desbloqueado
+#$ BLACK IRON HEIST
+ROBO DE HIERRO NEGRO
+#$ In order to rebuild the Paladin from scratch, we will need a substantial amount of Black Iron. The PACT Processing Facility in orbit around Ongess' sun currently holds an ancient Ryuvian monolith which was stolen from Ryuvia Prime during PACT's occupation of the planet. We should strike the facility and steal the monolith before PACT has time to bring in reinforcements.
+Con el objetivo de reconstruir al Paladin desde cero, necesitaremos una enorme cantidad de Hierro Negro. La Instalación de Procesamiento del PACT en órbita alrededor del sol de Ongess actualmente contiene un monolito Ryuviano que fue robado de Ryuvia Prime durante la ocupación del PACT del planeta. Deberíamos atacar la instalación y robar el monolito antes de que el PACT tenga tiempo para traer refuerzos.
+#$ INVESTIGATE TEMPLE
+INVESTIGAR TEMPLO
+#$ While treating a patient for mysterious energy burns while I was moonlighting as a medic at New Kowloon Station, I heard from him that he discovered an Ancient Ryuvian Temple somewhere within the Formotti Nebula. This Temple might hold information about Crow Harbor's war against Sola - information we need if we're going to find his current whereabouts.
+Mientras trataba a un paciente por misteriosas quemaduras de energía cuando estaba actuando como médico en la Nueva Estación Kowloon, oí de él que había descubierto un Antiguo Templo Ryuviano en algún lugar dentro de la Formotti Nebula. Este Templo podría contener información acerca de la guerra de Crow Harbor contra Sola - información que necesitamos si vamos a encontrar su paradero actual.
+#$ FAR PORT
+FAR PORT
+#$ CLASS 5 OCEANIC WORLD>>>>POPULATION: <1000>>>>Due to the location of several black holes in this sector, all of the warp lanes connecting the Solar Alliance to the Neutral Rim converge at Far Port, making it a strategic choke point. Case in point, it was here that the first large scale battle of the Neutral Rim War took place. Captain Kayto Shields held the world against an overwhelmingly more powerful PACT invasion fleet commanded by Veniczar Cullen until relief forces could arrive from the Solar Alliance. The Battle of Far Port ended PACT's hope for an invasion of Alliance space and instead began a bloody seven year long war in the Neutral Rim.>>>>On a more personal note, Sola was born on this planet several hundreds of years ago to a peasant mother, her royal bloodline kept secret.
+CLASE 5 MUNDO OCEÁNICO>>>>POBLACIÓN: <1000>>>>Debido a la ubicación de múltiples agujeros negros en este sector, todas las líneas de salto que conectan a la Alianza Solar al Margen Neutral convergen en Far Port, haciéndolo un cuello de botella estratégico. Por ejemplo, fue aquí donde la primera batalla de gran escala de la Guerra del Margen Neutral tomó lugar. El Capitán Kayto Shields defendió el mundo contra una abrumadoramente más poderosa flota de invasión del PACT comandada por Veniczar Cullen hasta que fuerzas de respaldo llegaran desde la Alianza Solar. La Batalla de Far Port terminó con la esperanza del PACT de una invasión al espacio de la Alianza y en su lugar comenzó una sangrienta guerra de siete años en el Margen Neutral.>>>>Como una nota más personal, Sola nació en este planeta hace varios cientos de años de una madre plebeya, con su ascendencia real mantenida en secreto.
+#$ HUNTRESS
+HUNTRESS
+#$ Open doors by moving to the door podium
+Abre puertas moviéndota al podio de la puerta
+#$ Use gravity gun to charge power connections
+Usa en cañón de gravedad para cargar conecciones de energía
+#$ Can hold open doors
+Puede mantener puertas abiertas
+#$ Fast scout unit
+Veloz unidad de exploración
+#$ Use to collect data crystals
+Usada para recolectar cristales de datos
+#$ ANCIENT RYDER
+ANTIGUO RYDER
+#$ URDOT SECTOR
+SECTOR URDOT
+#$ Coordinates: 10527.923 32981.921 41202.109>>>>These coordinates lead to nothing but a patch of empty space. Is this truly the location of Crow Harbor's lair?
+Coordenadas: 10527.923 32981.921 41202.109>>>>Estas coordenadas conducen a nada más que una parcela de espacio vacío. ¿Es esta realmente la ubicación de la guarida de Crow Harbor?
+#$ THE LAIR OF CROW HARBOR
+LA GUARIDA DE CROW HARBOR
+#$ Thanks to the final data crystal we recovered from the Ryuvian temple, we've managed to discover the coordinates of Crow Harbor's secret lair. Just head over to the marked position in the galaxy map and we can investigate.
+Gracias al último cristal de datos que recuperamos del templo Ryuviano, hemos logrado descubrir las coordenadas de la guarida secreta de Crow Harbor. Simplemente diríjete a la posición marcada en el mapa de la galaxia y podremos investigar.
+#$ PACT Bomber
+Bombardero del PACT
+#$ PACT Support
+Soporte del PACT
+#$ SIDE: Simulacra and Simulation
+LAT: Simulacro y Simulación
+#$ I've got a contract from Wei-Ren Shipping to take out a rogue ex-employee. Let's jack into the Holonet and take care of this digitally.
+Conseguí un contrato con Correos Wei-Ren para extraer a un ex-empleado. Metámonos en la Holonet y hagámonos cargo de esto digitalmente.
+#$ SIDE: Sports Day
+LAT: Día del Deporte
+#$ Captain Alan Grey has invited us to participate in a training exercise at Far Port. What say we teach the Solar Alliance some of our tricks?
+El Capitán Alan Grey nos ha invitado a participar en un ejercicio de entrenamiento en Far Port. ¿Qué dices si le enseñamos a la Alianza Solar algunos de nuestros trucos?
+#$ SIDE: Who is this sassy, lost child?
+LAT: ¿Quién es esta atrevida>>chica perdida?
+#$ Where the fuck are you, Shields?! I heard that your sorry hide was spotted in the Denari Expanse so I had to pay the toll to pass through the Ryuvian Canal, only to find no trace of you once I got here! Ugh, you better fly back here right now!
+¡¿Dónde demonios estás, Shields?! ¡Escuché que tu lamentable escodite fue avistado en el Denari Expanse así que tuve que pagar el peaje para pasar a través del Canal Ryuviano, solo para no encontrar ningún rastro de tí cuando llegué aquí! ¡Ugh, mejor vuelas de vuelta aquí ahora mismo!
+#$ SIDE: Save the Whales
+LAT: Salvar a las Ballenas
+#$ Hey capt'n! I've been getting reports of pirates engaged in illegal space whaling operations near Ryuvia Prime. Now that's not OK in my book! We should return home and knock their lights out!
+¡Hey capitán! He estado recibiendo reportes de piratas metiéndose en operaciones ilegales con ballenas espaciales cerca de Ryuvia Prime. ¡Eso no me parece bien! ¡Deberíamos regresar a casa y apagarles las luces!
+#$ SIDE: Viva la Resistance
+LAT: Viva la Resistencia
+#$ Resistance forces are in need of our help in Tydaria. We should lend assistance...
+Fuerzas de la Resistencia necesitan nuestra ayuda en Tydaria. Deberíamos prestarles apoyo...
+#$ SIDE: Brain Teaser
+LAT: Rompecabezas
+#$ Our seach of the Ryuvian temple was cut short due to Admiral Kuushana's appearance. We should return and see what other Lost Technology can be found.
+Nuestra búsqueda del templo Ryuviano fue interrumpida debido a la aparición de la Almirante Kuushana. Deberíamos regresar y ver qué otra Tecnología Perdida podemos encontrar.
+#$ SIDE: Sola's Memories
+LAT: Los Recuerdos de Sola
+#$ Through my study of the sacred texts, I have found the location of an ancient holy site near Versta's moon. We should investigate further.
+Gracias a mi estudio de los textos sagrados, encontré la ubicación de un antiguo lugar sagrado cerca de la luna de Versta. Deberíamos investigar más.
+#$ SIDE: Ryuvian Intervention
+LAT: Intervención Ryuviana
+#$ Versta has descended into political chaos after it voted to reject membership in PACT. We've got to get there to save democracy!
+Versta ha caído en el caos político luego de que votó rechazar la membresía del PACT. ¡Tenemos que ir allí para salvar la democracia!
+#$ SIDE: The Empress' New Clothes
+LAT: Las Nuevas Ropas de la Emperatriz
+#$ The Neutral Rim is in need of our help. Let's secure Tydaria so that everyone can stay warm during the winter!
+El Margen Neutral necesita nuestra ayuda. ¡Aseguremos Tydaria para que todos puedan mantenerse calientes durante el invierno!
+#$ SIDE: The Scar
+LAT: La Cicatriz
+#$ Something feels wrong, Shields. That distress signal might be our only lead to figuring out what's been bothering me.
+Algo se siente mal, Shields. Esa señal de auxilio podría ser nuestra única pista a averiguar lo que me ha estado molestando.
+#$ SIDE: Mysteries of the Deep Holonet
+LAT: Misterios de la Holonet Profunda
+#$ Hey cap, according to some very credible holonet rumors, the legendary Package is supposed to be passing through Ongess. We've got to get in there and see for ourselves just what's inside!
+Hey capitán, de acuerdo a algunos muy increíbles rumores de la holonet, el legendario Paquete se supone que pase por Ongess. ¡Tenemos que ir allí y ver por nosotros mismos lo que hay dentro!
+#$ Autosaved
+Autoguardado
+#$ WE HAD IT ALL ALONG
+LO TUVIMOS TODO EL TIEMPO
+#$ To think that all we needed to track down Crow Harbor was under our noses all this time. We must return to the Star Palace and recover the Talbur at once!
+Y pensar que todo lo que necesitamos para rastrear a Crow Harbor estuvo bajo nuestras narices todo este tiempo. ¡Debemos regresar al Palacio Estelar y recuperar el Talbur de inmediato!
+#$ THE WORLD FOUNTAIN
+LA FUENTE DEL MUNDO
+#$ Uncharted space anomaly>>>>Far outside the limits of our galaxy lies the mysterious World Fountain - a colossal artifice built by the Holy Ryuvian Empire around a pulsar star. Through means beyond our understanding, the pulsar appears to be emitting Lillium, an element not found in our universe.
+Anomalía espacial inexplorada>>>>Lejos de los límites de nuestra galaxia descansa la misteriosa Fuente del Mundo - un colosal artificio construido por el Sagrado Imperio Ryuviano alrededor de una estrella púlsar. A través de medios más allá de nuestra comprensión, el púlsar parece estar emitiendo Lillium, un elemento que no se encuentra en nuestro universo.
+#$ DEFEAT CROW HARBOR
+DERROTAR A CROW HARBOR
+#$ Finally, we have found the location of Crow Harbor himself. The Lost Fleet is moored at the World Fountain, a refueling station of the ancient age. This may be our toughest mission yet: You best finish all other open missions before embarking on this battle.
+Finalmente, hemos encontrado la ubicación del mismísimo Crow Harbor. La Flota Perdida está atracada en la Fuente del Mundo, una estación de reabastecimiento de combustible de la era antigua. Esta podría ser nuestra misión más difícil hasta ahora: Mejor termine todas las demás misiones abiertas antes de embarcarse en esta batalla.
+#$ Ryuvian Lancer
+Lancero Ryuviano
+#$ Ancient Ryder
+Antiguo Ryder
+#$ Imperium
+Imperium
+#$ Explore the World Fountain
+Explorar la Fuente del Mundo
+#$ It all comes down to this. I've arrived at Crow Harbor's final location and reached the climax of my mission. My next step is to delve deeper into this mysterious sector and stop Crow Harbor once and for all.
+Todo termina aquí. He llegado a la ubicación final de Crow Harbor y alcanzado el clímax de mi misión. Mi próxima parada es investigar en lo profundo de este misterioso sector y detener a Crow Harbor de una vez por todas.
+#$ COMMAND DECISION: HELL no.
+DECISIÓN DE COMANDO: DEMONIOS no.
+#$ An Ode to a Loli Space Pirate
+Una Oda a una Loli Pirata Espacial
+#$ So you managed to spring yourself out of that PACT prison! Big whoop, I got out before you and I didn't need to rely on my Prototype ex-girlfriend to make it happen! You know what this means: We're finally gonna settle things once and for all! Who's stronger, me or you? Come to Tydaria, where we first met, and we can finally have our death match!
+¡Así que lograste escaparte de esa prisión del PACT! ¡Alardeas demasiado, yo me escapé antes que tú y no necesité apoyarme en mi ex-novia Prototipo para lograrlo! Sabes lo que significa esto: ¡Finalmente vamos a resolver las cosas de una vez por todas! ¿Quién es más fuerte, yo o tú? ¡Ven a Tydaria, donde nos encontramos por primera vez, y podremos finalmente tener nuestro duelo a muerte!
+#$ PROTOTYPE RYDER
+RYDER PROTOTIPO
+#$ WIDOW
+WIDOW
+#$ DESTROY THE CRIMSON FLEET
+DESTRUIR LA FLOTA CARMESÍ
+#$ It all comes down to this: With the entire Crimson Fleet gathered at the World Fountain, we either detonate the graviton torpedo and destroy all of PACT's ships or Veniczar Fontana gains access to Crow Harbor's Lost Technology. This will be our most difficult battle YET. I trust that you understand the stakes - the fate of humanity hangs in the balance.
+Todo se resuelve aquí: Con toda la Flota Carmesí reunida en la Fuente del Mundo, o detonamos el torpedo gravitón y destruimos todas las naves del PACT o Veniczar Fontana obtiene acceso a la Tecnología Perdida de Crow Harbor. Esta será nuestra batalla más difícil hasta AHORA. Confío en que comprenderá los peligros - el destino de la humanidad cuelga en la balanza.
+#$ RESEARCH
+INVESTIGAR
+#$ QUICK SAVE
+GUARDAR RÁPIDO
+#$ DIFFICULTY
+DIFICULTAD
+#$ ENGAGE
+COMENZAR
+#$ Become mobile again
+Volverse móvil de nuevo
+#$ AWAKEN ON
+DESPERTAR ON
+#$ AWAKEN OFF
+DESPERTAR OFF
+#$ ROYAL DECREE
+DECRETO REAL
+#$ COST: 
+COSTE: 
+#$ SUMMON LANCER
+INVOCAR LANCERO
+#$ SHORT RANGE WARP
+SALTO DE CORTO RANGO
+#$ OVERDRIVE
+SOBREMARCHA
+#$ ALL POWER TO ENGINES
+MÁXIMO PODER A LOS MOTORES
+#$ REPAIR DRONES
+DRONES REPARADORES
+#$ FLAK BURST
+EXPLOSIÓN ANTIAÉREA
+#$ RESURRECT
+RESUCITAR
+#$ REFIT II
+REABASTECER II
+#$ FINEST HOUR
+LA MEJOR HORA
+#$ DIVINE PRAYER
+REZO DIVINO
+#$ SUMMON GUNBOAT
+INVOCAR CAÑONERO
+#$ SUMMON CRUISER
+INVOCAR CRUCERO
+#$ Warp in a Ryuvian Lancer cruiser
+Invoca un crucero Lancero Ryuviano
+#$ Instantly relocate the Maray
+Reposiciona instantáneamente a la Maray
+#$ Fully restore the Maray's EN
+Recupera completamente la EN de la Maray
+#$ Boost the move range of all units
+Mejora el rango de movimiento de todas las unidades
+#$ Restore 50% of the Maray's HP
+Recupera el 50% del HP de la Maray
+#$ Destroy all missiles and torpedoes in an area around the Maray
+Destruye todos los misiles y torpedos en un área alrededor de la Maray
+#$ Return a fallen ryder back to the field
+Regresa a un ryder caído de vuelta al campo
+#$ Fully restore the HP and ammo of all units around the Maray
+Recupera completamente el HP y munición de todas las unidades alrededor de la Maray
+#$ The Maray gains invulnerability to regular attacks for 3 turns
+La Maray obtiene invulnerabilidad a ataques regulares durante 3 turnos
+#$ Bring forth a random effect of great boon or doom
+Trae adelante un efecto aleatorio de gran fortuna o desgracia
+#$ Summon a Resistance gunboat
+Invoca un cañonero de la Resistencia
+#$ An Alliance Cruiser suffers a navigational mishap and warps to your position
+Un Crucero de la Alianza sufre un fallo de navegación y salta a tu posición
+#$ ALL HANDS ON DECK
+TODOS EN LA CUBIERTA
+#$ Fully restores the Maray's HP, EN, and ammo
+Recupera completamente el HP, la EN y la munición de la Maray
+#$ SURGICAL STRIKE
+GOLPE QUIRÚRGICO
+#$ Move all missiles and torpedoes in the field to their targets
+Mueve todos los misiles y torpedos en el campo a sus objetivos
+#$ All enemies receive random damage!
+¡Todos los enemigos reciben daño aleatorio!
+#$ Full Forward is cast instead!
+¡Avance Completo es lanzado en su lugar!
+#$ All bounties are doubled!
+¡Todas las recompensas se duplican!
+#$ All units regain all EN!
+¡Todas las unidades recuperan toda la EN!
+#$ Claude regains all ammo!
+¡Claude recupera toda la munición!
+#$ Claude's torpedoes deal double damage!
+¡Los torpedos de Claude provocan el doble de daño!
+#$ Claude loses all ammo!
+¡Claude pierde toda la munición!
+#$ Claude blows up!
+¡Claude estalla!
+#$ Nothing happens...
+No ocurre nada...
+#$ All your units take random damage!
+¡Todas tus unidades reciben daño aleatorio!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ When commanding your unit to move, consider what your new heading will do to your future movement path.
+Cuando ordenes a tu unidad moverse, considera qué le hará tu nuevo rumbo a tu futura ruta de movimiento.
+#$ Almost all units have no armor in the rear. Sending a cluster of missiles down a ship's engines is a sure way to deal lots of damage!
+Casi ninguna unidad tiene armadura en la retaguardia. ¡Enviar un enjambre de misiles a los motores de una nave es una forma segura de provocar montones de daño!
+#$ If you hold down the shift key, you can see which of your units that the enemy is currently gunning for!
+¡Si dejas presionada la tecla shift, puedes ver a cuáles de tus unidades el enemigo está actualmente apuntando!
+#$ Got lots of enemy missiles coming your way? Hold down the shift key while targeting a weapon to lock on to only missiles and torpedoes.
+¿Tienes montones de misiles enemigos en camino? Deja presionada la tecla shift mientras apuntas un arma para apuntar solo a misiles y torpedos.
+#$ Don't forget to upgrade your units!
+¡No te olvides de mejorar tus unidades!
+#$ When you need to be defensive, suddenly changing your unit's heading will grant it a buff to evasion.
+Cuando necesites ser defensivo, cambiar repentinamente el rumbo de tu unidad le proveerá una mejora a la evasión.
+#$ Rank up your affection rating with your crew to unlock new abilities and perks!
+¡Mejora tu afecto con tu tripulación para desbloquear nuevas habilidades y características!
+#$ You can use my gravity gun any time to line up shots more effectively, captain.
+Puedes usar mi cañón de gravedad en cualquier momento para alinear disparos más efectivamente, capitán.
+#$ Be careful! The damage you take from using Asaga's awaken increases per use!
+¡Ten cuidado! ¡El daño que recibes por usar el despertar de Asaga aumenta por cada uso!
+#$ Pay attention to your mission objectives. Sometimes, you don't need to clear the map of enemies to win.
+Presta atención a los objetivos de tu misión. Algunas veces, no necesitas eliminar a los enemigos del mapa para ganar.
+#$ Be sure to manage each of your units' aggro carefully. If one unit is dishing out a lot of pain, then more enemies will be drawn to it.
+Asegúrate de manejar el odio de cada una de tus unidades cuidadosamente. Si una unidad está provocando un montón de daño, más serán los enemigos arrastrados a ella.
+#$ Be careful not to put your units into a collision path! They will have to expend EN to take evasive maneuvers.
+¡Ten cuidado de no poner a tus unidades en un curso de colisión! Tendrán que gastar EN para tomar maniobras evasivas.
+#$ Don't worry: Your missiles and torpedoes will be refilled for free at the end of each mission.
+No te preocupes: Tus misiles y torpedos serán reabastecidos libre de costo al final de cada misión.
+#$ If you're stuck on a mission, there are always special difficulty mods in the custom difficulty mode to spice up the gameplay experience.
+Si estás atascado en una misión, siempre hay modificadores de dificultad especiales en el modo de dificultad personalizada para moldear la experiencia de jugabilidad.
+#$ Reduce the damage you take from laser attacks by putting your units inside shield cover.
+Reduce el daño que recibes de ataques láser poniendo a tus unidades dentro de una cobertura de escudo.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ CERA GUNBOAT
+CAÑONERO DE CERA
+#$ FLAK NET
+RED DE FUEGO ANTIAÉREO
+#$ 25 hits to all nearby missiles and torpedoes
+25 golpes a todos los misiles y torpedos cercanos
+#$ PROLOGUE
+PRÓLOGO
+#$ 6 Years Later...
+6 Años Después...
+#$ CHAPTER 1
+CAPÍTULO 1
+#$ The Queen of Ryuvia
+La Reina de Ryuvia
+#$ CHAPTER 2
+CAPÍTULO 2
+#$ The Prime Minister
+La Primera Ministra
+#$ CHAPTER 3
+CAPÍTULO 3
+#$ The Paladin
+La Paladin
+#$ CHAPTER 4
+CAPÍTULO 4
+#$ Coup d'Etat
+Golpe de Estado
+#$ CHAPTER 5
+CAPÍTULO 5
+#$ Spectre
+Espectro
+#$ CHAPTER 6
+CAPÍTULO 6
+#$ The Lair of Crow Harbor
+La Guarida de Crow Harbor
+#$ CHAPTER 7
+CAPÍTULO 7
+#$ The World Fountain
+La Fuente del Mundo
+#$ CHAPTER 8
+CAPÍTULO 8
+#$ The Death of a Captain
+La Muerte de un Capitán
+#$ CHAPTER 9
+CAPÍTULO 9
+#$ The Abyss
+El Abismo
+#$ CHAPTER 10
+CAPÍTULO 10
+#$ The Captain's Return
+El Regreso del Capitán
+#$ RESTORE
+RESTAURAR
+#$ Remove all debuffs from target
+Remueve todos los debuffs del objetivo
+#$ Show collision warning
+Mostrar advertencia de colisión
+#$ Move Asaga or Sola to a gate to open it.
+Mueve a Asaga o a Sola a una puerta para abrirla.
+#$ Move Lynn to a crystal to collect it.
+Mueve a Lynn a un cristal para recogerlo.
+#$ Use Claude's gravity gun on a power switch to unlock doors.
+Usa el cañón de gravedad de Claude en un interruptor de energía para desbloquear puertas.
+#$ Move Kryska to a door and she will hold it open.
+Mueve a Kryska a una puerta y ella la mantendrá abierta.
+#$ Once the exit has been discovered, move a ryder to the warp entrance to teleport it to the exit.
+Una vez que la salida haya sido descubierta, mueve a un ryder a la entrada de salto para teletransportarlo a la salida.
+#$ Unpowered doors cannot be opened until power is restored.
+Puertas sin energía no pueden ser abiertas hasta que se restaure la energía.
+#$ Move Cosette to a destructible door to destroy it
+Mueve a Cosette a una puerta destruible para destruirla.
+#$ Move a ryder to the door to move to the next room
+Mueve a un ryder a la puerta para moverlo a la próxima habitación.
+#$ AOE buff to target's weapon DMG and accuracy
+Bonus AOE al DAÑO y precisión del arma del objetivo
+#$ OVERCHARGE
+SOBRECARGA
+#$ Buff to own shields
+Bonus a los escudos propios
+#$ Immobilize target for 
+Inmoviliza al objetivo por 
+#$  turns
+ turnos
+#$ Immobilize target
+Inmoviliza al objetivo
+#$ Civilian Liner
+Transbordador Civil
+#$ AWAKENED SHOTS
+DISPAROS DE DESPERTAR
+#$ INCENDIARY ROUNDS
+RONDAS INCENDIARIAS
+#$ PACT Carrier
+Carguero del PACT
+#$ MASS OVERLOAD
+SOBRECARGA EN MASA
+#$ Disable all enemies shields for current turn
+Desactiva todos los escudos enemigos durante el turno actual
+#$ Pirate Base
+Base Pirata
+#$ SECOND WIND
+SEGUNDO VIENTO
+#$ CLSTR MSLS
+GRUPO DE MISILES
+#$ IMMUNITY
+INMUNIDAD
+#$ MASS AWAKEN
+DESPERTAR EN MASA
+#$ CONTROLLER
+CONTROLADOR
+#$ CONTROLLER SETTINGS
+CONFIGURACIONES DEL CONTROLADOR
+#$ Use Controller
+Usar Controlador
+#$ Controller Sensitivity
+Sensibilidad del Controlador
+#$ Controller Slot
+Espacio del Controlador
+#$ VANGUARD, FIRE
+VANGUARD, FUEGO
+#$ NANOMACHINES, BITCH
+NANOMÁQUINAS, PERRA
+#$ WARP
+SALTO
+#$ DIRECTED BY>>SAM YANG
+DIRIGIDO POR>>SAM YANG
+#$ 2D ART BY>>ASHTON WILSON>>CHYI MING LEE>>HAKU SAKURAI>>DERVAL CHAMBERS>>TOGEKK0>>ADVARCHER
+ARTE 2D POR>>ASHTON WILSON>>CHYI MING LEE>>HAKU SAKURAI>>DERVAL CHAMBERS>>TOGEKK0>>ADVARCHER
+#$ 3D ART BY>>SAM YANG>>DMYTRO GANNOTSKY  
+ARTE 3D POR>>SAM YANG>>DMYTRO GANNOTSKY  
+#$ AVA CRESCENTIA>>HIMARI
+AVA CRESCENTIA>>HIMARI
+#$ ASAGA DI RYUVIA>>SAKURA MATSURI
+ASAGA DI RYUVIA>>SAKURA MATSURI
+#$ SOLA DI RYUVIA>>YAHIRO MAMI
+SOLA DI RYUVIA>>YAHIRO MAMI
+#$ LYNN >> YOMOGI KASUMI
+LYNN >> YOMOGI KASUMI
+#$ CLAUDE TRILLEO>>AYANE MAKO
+CLAUDE TRILLEO>>AYANE MAKO
+#$ ICARI ISIDOLDE>>HARUNA REN
+ICARI ISIDOLDE>>HARUNA REN
+#$ KRYSKA STARES>>YUMENO USAGI
+KRYSKA STARES>>YUMENO USAGI
+#$ COSETTE COSMOS>>HAYASE YAYOI
+COSETTE COSMOS>>HAYASE YAYOI
+#$ VICTORY IS NEXT
+LA VICTORIA ESTÁ PRÓXIMA
+#$ LOVE IN SPACE, (C) 2023
+LOVE IN SPACE, (C) 2023
+#$ DIRECTED BY>>SAM YANG
+DIRIGIDO POR>>SAM YANG
+#$ CAST
+ELENCO
+#$ HIMARI as AVA CRESCENTIA
+HIMARI como AVA CRESCENTIA
+#$ SAKURA MATSURI as ASAGA DI RYUVIA
+SAKURA MATSURI como ASAGA DI RYUVIA
+#$ YAHIRO MAMI as SOLA DI RYUVIA
+YAHIRO MAMI como SOLA DI RYUVIA
+#$ YOMOGI KASUMI as LYNN, CHIGARA, OMEGA, and PROTOTYPES
+YOMOGI KASUMI como LYNN, CHIGARA, OMEGA, y PROTOTIPOS
+#$ AYANE MAKO as CLAUDE TRILLEO
+AYANE MAKO como CLAUDE TRILLEO
+#$ HARUNA REN as ICARI ISIDOLDE
+HARUNA REN como ICARI ISIDOLDE
+#$ YUMENO USAGI as KRYSKA STARES
+YUMENO USAGI como KRYSKA STARES
+#$ HAYASE YAYOI as COSETTE COSMOS
+HAYASE YAYOI como COSETTE COSMOS
+#$ NAKASE HINA as EMIL KUUSHANA, QISAH, OTHERS
+NAKASE HINA como EMIL KUUSHANA, QISAH, OTROS
+#$ OSHITA KOTA as VENICZAR FONTANA, OTHERS
+OSHITA KOTA como VENICZAR FONTANA, OTROS
+#$ MITAKA RIN as JEM'HYRE, MIIRAGE FOSTER, OTHERS
+MITAKA RIN como JEM'HYRE, MIIRAGE FOSTER, OTROS
+#$ SHIMIZU TATSUNORI as ALAN GREY, OTHERS
+SHIMIZU TATSUNORI como ALAN GREY, OTROS
+#$ KOBA YOSHIYUKI as CROW HARBOR, STORN, JOHANNA, OTHERS
+KOBA YOSHIYUKI como CROW HARBOR, STORN, JOHANNA, OTROS
+#$ VOICE RECORDING ENGINEER>>TAKANASHI KEITA
+INGENIERO DE GRABACIÓN DE VOZ>>TAKANASHI KEITA
+#$ RECORDED AT>>SUNSET STUDIO, SOUNDUNO STUDIO
+GRABADO EN>>SUNSET STUDIO, SOUNDUNO STUDIO
+#$ VOICE MANIPULATION>>JEFFREY TAYLOR
+MANIPULACIÓN DE VOZ>>JEFFREY TAYLOR
+#$ CHARACTER ILLUSTRATION>>ASHTON WILSON>>CHYI MING LEE
+ILUSTRACIÓN DE PERSONAJES>>ASHTON WILSON>>CHYI MING LEE
+#$ ADDITIONAL ILLUSTRATION>>HAKU SAKURAI>>DERVAL CHAMBERS>>TOGEKK0>>ADVARCHER
+ILUSTRACIÓN ADICIONAL>>HAKU SAKURAI>>DERVAL CHAMBERS>>TOGEKK0>>ADVARCHER
+#$ MECHANICAL ART>>SAM YANG>>DMYTRO GANNOTSKY
+ARTE MECÁNICO>>SAM YANG>>DMYTRO GANNOTSKY
+#$ GAME ENGINE>>YOYO GAMES
+MOTOR DEL JUEGO>>YOYO GAMES
+#$ PROGRAMMER>>SAM YANG
+PROGRAMADOR>>SAM YANG
+#$ SCRIPT CODER>>BEN JENNINGS
+CODIFICADOR DE SCRIPTS>>BEN JENNINGS
+#$ WRITER>>SAM YANG
+ESCRITOR>>SAM YANG
+#$ JAPANESE TRANSLATION>>MINH HIEU NGUYEN (Sekai Project)
+TRADUCCIÓN AL JAPONÉS>>MINH HIEU NGUYEN (Sekai Project)
+#$ SOUND EFFECTS>>Licensed from POND5 and AUDIOSTOCK
+EFECTOS DE SONIDO>>Licenciado por POND5 y AUDIOSTOCK
+#$ TEXTURES>>Licensed from TEXTURES.COM
+TEXTURAS>>Licenciado por TEXTURES.COM
+#$ QUALITY ASSURANCE>>BEN JENNINGS>>SATSUNYAN>>RENRENCHON>>STATIVEG
+ASEGURAMIENTO DE CALIDAD>>BEN JENNINGS>>SATSUNYAN>>RENRENCHON>>STATIVEG
+#$ COMMUNITY RELATIONS>>BEN JENNINGS
+RELACIONES COMUNITARIAS>>BEN JENNINGS
+#$ MUSIC>>Licensed from JAMENDO
+MÚSICA>>Licenciado por JAMENDO
+#$ MUSIC by>>AKASHIC RECORDS>>MARC TEICHERT>>ADRIAN BERENGUER>>STUDIOKOLOMNA>>XCENTRIC NOIZZ
+MÚSICA por>>AKASHIC RECORDS>>MARC TEICHERT>>ADRIAN BERENGUER>>STUDIOKOLOMNA>>XCENTRIC NOIZZ
+#$ ADDITIONAL MUSIC>>NICOLAS WOHLLEBEN>>BENJAMIN GROENKE>>CELESTIAL AEON PROJECT>>ROGER SUBIRANA MATA>>ARNAUD CONDE
+MÚSICA ADICIONAL>>NICOLAS WOHLLEBEN>>BENJAMIN GROENKE>>CELESTIAL AEON PROJECT>>ROGER SUBIRANA MATA>>ARNAUD CONDE
+#$ ADDITIONAL MUSIC>>SEYCARA THE ANIME ORCHESTRA, POND5
+MÚSICA ADICIONAL>>SEYCARA THE ANIME ORCHESTRA, POND5
+#$ FLASHLIGHT>>COMPOSER: TAKANASHI KEITA >>ARRANGEMENT: TAKANASHI KEITA>>LYRICS: KAZUKI RAN>>VOCALS: NODA MARIA
+FLASHLIGHT>>COMPOSITOR: TAKANASHI KEITA >>ARREGLO: TAKANASHI KEITA>>LETRAS: KAZUKI RAN>>VOZ: NODA MARIA
+#$ SORA NO REQUIEM>>COMPOSER: TAKANASHI KEITA>>ARRANGEMENT: ICED BLADE>>LYRICS: KAZUKI RAN>>VOCALS: FAYLAN
+SORA NO REQUIEM>>COMPOSITOR: TAKANASHI KEITA>>ARREGLO: ICED BLADE>>LETRAS: KAZUKI RAN>>VOCALS: FAYLAN
+#$ PUBLISHER>>SEKAI PROJECT
+DISTRIBUIDOR>>SEKAI PROJECT
+#$ No space whales were harmed during the making of this game
+Ninguna ballena espacial fue herida durante el desarrollo de este juego
+#$ This game is a work of fiction. Any similarities between the contents of this game and any real world individuals, brands, or events are not intended and purely coincidental. The statements and opinions expressed in this game do not necessarily reflect the opinions of Love in Space, Sekai Project, or any of its agents.
+Este juego es una obra de ficción. Cualquier similitud entre los contenidos de este juego y cualquier individuo, marca o evento del mundo real no fueron planeados y son pura coincidencia. Las declaraciones y opiniones expresadas en este juego no necesariamente reflejan las opiniones de Love in Space, Sekai Project, o alguno de sus agentes.
+#$ (C) Love in Space Inc., 2023
+(C) Love in Space Inc., 2023
+#$ VICTORY IS NEXT
+LA VICTORIA ESTÁ PRÓXIMA
+#$ Love in Space thanks the following Patreons
+Love in Space agradece a los siguientes Patrocinadores
+#$ Lio, Michael Connell, Jager_75, Jean Cornejo, Starky, Sullivan Heise, rob cathcart, DarkNightMike, Joshua Gonzales, Yeshwa, VisitableLoki61, exoten, Lancelot50, Stuff War, Christian Pennanen, Crbnet, Austin Van Ysseldyk, Andrew Grant, David, Joshua Van Der Sluys, Nico B, Ryan Eirls, Kyakan, skullkid1479, L ,Christopher Oates, James Tighe
+Lio, Michael Connell, Jager_75, Jean Cornejo, Starky, Sullivan Heise, rob cathcart, DarkNightMike, Joshua Gonzales, Yeshwa, VisitableLoki61, exoten, Lancelot50, Stuff War, Christian Pennanen, Crbnet, Austin Van Ysseldyk, Andrew Grant, David, Joshua Van Der Sluys, Nico B, Ryan Eirls, Kyakan, skullkid1479, L ,Christopher Oates, James Tighe
+#$ PICTURE PATREONS HERE
+PATROCINADORES CON IMAGEN AQUÍ
+#$ And all our other Patreons who help us bring our ideas to life. Thank you.
+Y todos nuestros otros Patrocinadores que nos ayudaron a llevar nuestras ideas a la vida. Gracias.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Liberation Day save data detected. Welcome back, loyal Sunrider fan! In light of your previous decisions, you have earned the following bonuses:
+Datos guardados de Liberation Day detectados. ¡Bienvenido de vuelta, leal fan de Sunrider! En vista de tus anteriores decisiones, te has ganado los siguientes bonus:
+#$ 500 creds
+500 créditos
+#$ Affection Point
+Punto de Afecto
+#$ 1000 creds
+1000 créditos
+#$ 1500 creds
+1500 créditos
+#$ WARNING: New language detected. The game must be restarted for changes to apply.
+ADVERTENCIA: Nuevo idioma detectado. El juego debe reiniciarse para aplicar los cambios.
+#$ Bring Shields here to collect crystal
+Trae a Shields aquí para recolectar el cristal
+#$ DRIFT
+VAGAR
+#$ Use a move to drift to the current move point for 0 EN.
+Moverse al punto actual de movimiento por 0 EN.
+#$ Fast Move
+Movimiento Rápido
+#$ Button Style A
+Botón Estilo A
+#$ Button Style B
+Botón Estilo B

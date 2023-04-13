@@ -1,0 +1,328 @@
+#$ What do you want, Shields?
+¿Qué quieres, Shields?
+#$ Don't expect me to fawn over you!
+¡No esperes que te adule!
+#$ Get to it!
+¡Manos a la obra!
+#$ Need a fixer upper?
+¿Necesitas un arreglo?
+#$ In the rear, with the gear!
+¡Por detrás, con el equipo!
+#$ Dominator, reporting!
+¡Dominator, reportándose!
+#$ Yeah?
+¿Sí?
+#$ Don't call me Snarkadius!
+¡No me llames Snarkadius!
+#$ Standing by.
+En posición.
+#$ I hear you, Shields.
+Te escucho, Shields.
+#$ Underway!
+¡En camino!
+#$ Hitting thrusters!
+¡Activando aceleradores!
+#$ Understood! Heading to coordinates!
+¡Entendido! ¡Dirigiéndome a las coordenadas!
+#$ Acknowledged!
+¡Recibido!
+#$ Moving to coordinate!
+¡Moviéndome a la coordenada!
+#$ All right, I've got you!
+¡Está bien, te entendí!
+#$ Full speed ahead!
+¡Adelante a toda velocidad!
+#$ I hope you know what you're doing!
+¡Espero que sepas lo que estás haciendo!
+#$ I got it!
+¡Lo tengo!
+#$ I'm heading out!
+¡Me pongo en marcha!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Tail fliers! Launch!
+¡Volantes de cola! ¡Lanzados!
+#$ Commencing suppressive fire!
+¡Comenzando fuego represivo!
+#$ I'll take out these small fry!
+¡Derribaré a estos pequeños peces!
+#$ Launching butt fliers! Ugh, you made me say it!!
+¡Lanzando volantes traseros! ¡¡Ugh, me hiciste decirlo!!
+#$ Hahahaha! Die!
+¡Hahahaha! ¡Muere!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Deploying repair drones!
+¡Desplegando drones reparadores!
+#$ Ugh, don't get us so damaged next time, Shields!
+¡Ugh, no hagas que nos dañen tanto la próxima vez, Shields!
+#$ Repairs initiated!
+¡Reparaciones iniciadas!
+#$ Enhancing systems!
+¡Mejorando sistemas!
+#$ Buffing friendlies!
+¡Potenciando aliados!
+#$ Here! This'll boost your systems!
+¡Ten! ¡Esto potenciará tus sistemas!
+#$ Locking down enemy!
+¡Apuntando al enemigo!
+#$ Now's the chance! Get them, Shields!
+¡Esta es la oportunidad! ¡Acábalos, Shields!
+#$ I've disabled the enemy's capabilities!
+¡He desactivado las capacidades del enemigo!
+#$ Lights off!
+¡Luces fuera!
+#$ They're flying blind! Nail them!
+¡Están volando a ciegas! ¡Atrápalos!
+#$ Heh, I've hacked their electronics!
+¡Heh, he hackeado sus electrónicos!
+#$ Their electronics are smoldering!
+¡Sus electrónicos están ardiendo!
+#$ Their systems have been disabled!
+¡Sus sistemas han sido desactivados!
+#$ Don't send a human to do a prototype's work!
+¡No envíes a un humano a hacer trabajo de prototipo!
+#$ Hostile neutralized!
+¡Hostil neutralizado!
+#$ Enemy down!
+¡Enemigo derribado!
+#$ Fool!
+¡Tonto!
+#$ Hahahaha!
+¡Hahahaha!
+#$ He thought he had a chance! What an idiot!
+¡Creyó que tenía una oportunidad! ¡Qué idiota!
+#$ Tch, that hit me, but it's not too bad.
+Tch, eso me golpeó, pero no fue muy malo.
+#$ Light damage!
+¡Daño ligero!
+#$ I've been grazed! Damage isn't too bad.
+¡He sido golpeada! El daño no es muy malo.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Ack! Be more careful, Shields!
+¡Ack! ¡Ten más cuidado, Shields!
+#$ I'm not immortal any more, you know! Watch what you're doing!
+¡Ya no soy más inmortal, sabes! ¡Mira lo que estás haciendo!
+#$ My hull's beginning to fracture!
+¡Mi casco se está comenzando a fracturar!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Damnit Shields, what are you doing?!
+¡Maldición Shields, ¿qué estás haciendo?!
+#$ I've been damaged! Damn you Shields!
+¡He sido dañada! ¡Te maldigo Shields!
+#$ I can't take much more of this!
+¡No puedo soportar mucho más de esto!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Tch! I'm falling back!
+¡Tch! ¡Me estoy retirando!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ The enemy's missed.
+El enemigo falló.
+#$ Hey, don't count on being so lucky all the time!
+¡Hey, no cuentes con ser tan afortunado todo el tiempo!
+#$ Dominator, no damage to report.
+Dominator, sin daños que reportar.
+#$ I managed to evade in time.
+Logré esquivarlo a tiempo.
+#$ Evasive maneuvers successful.
+Maniobras evasivas exitosas.
+#$ Ah shit, I've been hacked!
+¡Ah diablos, he sido hackeada!
+#$ The enemy's hitting my systems!
+¡El enemigo está atacando mis sistemas!
+#$ I got careless! My electronics are being fried!
+¡Me descuidé! ¡Mis electrónicos están ardiendo!
+#$ All right, you rats! Get this ship running double time!
+¡Está bien, ratas! ¡Pongan a funcionar esta nave a paso doble!
+#$ Leave engineering to me!
+¡Déjame la ingeniería a mí!
+#$ I'm rerouting power through auxillary lines!
+¡Estoy redireccionando energía por las líneas auxiliares!
+#$ Yeah, yeah, I'm working on it!
+¡Sí, sí, estoy trabajando en eso!
+#$ I'm working on it!
+¡Estoy trabajando en ello!
+#$ I don't have enough energy for that!
+¡No tengo suficiente energía para eso!
+#$ My ryder's out of energy!
+¡A mi ryder se le acabó la energía!
+#$ Negative, reactors are dry!
+¡Negativo, los reactores están secos!
+#$ What?
+¿Qué?
+#$ You want something, Shields?
+¿Quieres algo, Shields?
+#$ Keep talking...
+Sigue hablando...
+#$ Hey, listen...
+Hey, escucha...
+#$ So, about that...
+Así que, sobre eso...
+#$ Mmm...
+Mmm...
+#$ Shields.
+Shields.
+#$ I gotta say...
+Necesito decir...
+#$ Hey...
+Hey...
+#$ Huh...
+Huh...
+#$ Heh...
+Heh...
+#$ Not bad, Shields.
+Nada mal, Shields.
+#$ Impressive.
+Impresionante.
+#$ Hahaha!
+¡Hahaha!
+#$ What a fool!
+¡Qué tonto!
+#$ Uggghh...
+Uggghh...
+#$ You're wasting my time...
+Estás malgastando mi tiempo...
+#$ This is dumb.
+Esto es tonto.
+#$ Sigh...
+Suspiro...
+#$ Whatever.
+Lo que sea.
+#$ That's not good.
+Eso no es bueno.
+#$ Listen...
+Escucha...
+#$ Ugh...
+Ugh...
+#$ I've got bad news.
+Tengo malas noticias.
+#$ This isn't good...
+Esto no es bueno...
+#$ Huh?!
+¡¿Huh?!
+#$ S-S-Shields!
+¡S-S-Shields!
+#$ What the?!
+¡¿Pero qué?!
+#$ No way!
+¡No puede ser!
+#$ Ack!
+¡Ack!
+#$ Welcome to research and development
+Bienvenido a investigación y desarrollo
+#$ I got it. I'll get to it right away.
+Lo tengo. Me pondré en marcha ahora mismo.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000

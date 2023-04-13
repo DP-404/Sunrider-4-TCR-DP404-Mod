@@ -1,0 +1,358 @@
+#$ Spellcaster, sah!
+¡Spellcaster, señor!
+#$ Ready to serve, captain!
+¡Lista para servir, capitán!
+#$ Oh... You were watching me?
+Oh... ¿Me estabas observando?
+#$ Reporting for duty, sah!
+¡Reportándome para el deber, señor!
+#$ It's my lucky day!
+¡Es mi día de suerte!
+#$ The doctor is in!
+¡La doctora está dentro!
+#$ It's little old me, Claude!
+¡Soy yo, Claude!
+#$ Did you miss me, captain?
+¿Me extrañaste, capitán?
+#$ Let's mash some buttons!
+¡Aplastemos algunos botones!
+#$ Oh, command me, captain!
+¡Oh, ordéname, capitán!
+#$ Giving her juice!
+¡Dándole jugo!
+#$ I'm on the move!
+¡Estoy en movimiento!
+#$ Alrighty!
+¡Afirmativo!
+#$ Okie dokie!
+¡Oki doki!
+#$ Going that a way!
+¡Yendo en esa dirección!
+#$ Oops! Almost accidentally pushed the self destruct button...
+¡Oops! Casi accidentalmente presiono el botón de autodestrucción...
+#$ Pressing the ludicrous speed button!
+¡Presionando el ridículo botón de velocidad!
+#$ Eep! Cancel, cancel, cancel! Whew... Had a close call with the ejector seat there.
+¡Eep! ¡Cancelar, cancelar, cancelar! Whew... Estuve cerca con el eyector del asiento.
+#$ What's this button do?
+¿Qué hace este botón?
+#$ Oops! Not that button, that's to open the canopy!
+¡Oops! ¡No ese botón, ese es para abrir la cabina!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Dang it captain, I'm a doctor, not a space marine!
+¡Diablos capitán, soy doctor, no un marine espacial!
+#$ This might sting a little!
+¡Esto podría picar un poco!
+#$ It's punishment time!
+¡Es hora del castigo!
+#$ Kapow!
+¡Kapow!
+#$ Don't mess!
+¡No juegues!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Boob Torpedoes, fire!
+¡Torpedos de Pecho, fuego!
+#$ Firing Boob Torpedoes!
+¡Disparando Torpedos de Pecho!
+#$ BOOB TORPEDOES!
+¡TORPEDOS DE PECHO!
+#$ Feel the power of my breasts!
+¡Siente el poder de mis pechos!
+#$ Turn the tide! Boob torpedoes!
+¡Vuelvan la marea! ¡Torpedos de pecho!
+#$ Y-You already sucked these milkers dry, captain...
+Y-Ya dejaste secos de chupar estos, capitán...
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Uploading cat girl app! That'll distract them!
+¡Subiendo app de chica gato! ¡Eso los distraerá!
+#$ I accidentally downloaded his entire porn collection!
+¡Accidentalmente descargué toda su colección de porno!
+#$ Uploading bunny girl virus! That one's a classic!
+¡Subiendo chica conejito virus! ¡Ese es un clásico!
+#$ I'll just blare anisongs through their comms until they give up!
+¡Reproduciré ruido por sus comunicadores hasta que se cansen!
+#$ I replaced their targeting recticle with my selfie!
+¡Reemplacé su retícula de apuntar con mi selfie!
+#$ Triggering the enemy's emergency plugsuit evacuation program!
+¡Activando programa de evacuación del traje de combate de emergencia enemigo!
+#$ Charging tractor beam!
+¡Cargando rayo tractor!
+#$ I've got the enemy trapped!
+¡Tengo al enemigo atrapado!
+#$ I've 'em in my tractor beam!
+¡Lo tengo en mi rayo tractor!
+#$ Oh no! You're not going anywhere!
+¡Oh no! ¡No te vas a ningún lado!
+#$ Enhancing friendlies!
+¡Mejorando aliados!
+#$ Administrating stimulants!
+¡Administrando estimulantes!
+#$ Don't worry, I'm a doctor!
+¡No te preocupes, soy doctor!
+#$ Delivering stims!
+¡Suministrando estimulantes!
+#$ The medic is here!
+¡El médico está aquí!
+#$ Eh? I got 'em?
+¿Eh? ¿Lo derribé?
+#$ Enemy down! Yay me!
+¡Enemigo derribado! ¡Yay yo!
+#$ I got 'em! Praise me captain!
+¡Lo derribé! ¡Elógiame capitán!
+#$ The enemy's all sparking and smoldering!
+¡El enemigo está todo chispeande y ardiente!
+#$ I think I got 'em!
+¡Creo que lo acabé!
+#$ Ack!
+¡Ack!
+#$ Ow ow ow!
+¡Ow ow ow!
+#$ I've got a baddie on my tail!
+¡Tengo a un malo detrás de mí!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Heeek!!
+¡¡Heeek!!
+#$ Oh captain, save me!
+¡Oh capitán, sálvame!
+#$ Please tell me you're not doing on purpose just to see my plugsuit get ripped!
+¡Por favor dime que no lo estás haciendo a propósito solo para ver mi traje desgarrarse!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ I need a vacation!!!
+¡¡¡Necesito unas vacaciones!!!
+#$ I've got more error messages on my screen than the time I opened that email from the Denari Prince!
+¡Tengo más mensajes de error en mi pantalla que la vez que abrí aquel correo del Príncipe Denari!
+#$ I'm getting turned to swiss cheese here!!!
+¡¡¡Estoy comenzando a volverme queso rallado aquí!!!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Huuhuhuuu... Please make me feel better, captain...
+Huuhuhuuu... Por favor hazme sentir mejor, capitán...
+#$ I got him! Yeah!
+¡Lo tengo! ¡Sí!
+#$ That's what ya get for messin' with my man!
+¡Eso es lo que recibes por meterte con mi hombre!
+#$ Don't underestimate me!
+¡No me subestimes!
+#$ Oopsie.
+Oopsie.
+#$ Dangit, how do I reduce the control sensitivity...
+Diablos, cómo reduzco el control de sensibilidad...
+#$ I'll get you next time!
+¡Te atraparé la próxima vez!
+#$ Hyaa-! O-oh. He missed?
+¡Hyaa-! O-oh. ¿Falló?
+#$ Perhaps Mr. Enemy needs new glasses...
+Quizás el Sr. Enemigo necesita nuevas gafas...
+#$ I have dodged the enemy attack!
+¡He evadido el ataque enemigo!
+#$ Spell Caster, no damage!
+¡Spell Caster, sin daños!
+#$ It's only natural for Mr. Enemy to be distracted...
+Es natural que Sr. Enemigo esté distraído...
+#$ Ack! My controls just inverted!
+¡Ack! ¡Mis controles se acaban de invertir!
+#$ All my monitors just turned off!
+¡Todos mis monitores se acaban de apagar!
+#$ My ryder's moving all on its own and I can't stop it!!!
+¡¡¡Mi ryder se está moviendo por su cuenta y no lo puedo detener!!!
+#$ The sickbay is up and running!
+¡La bahí médica está abierta y activa!
+#$ Oh dear... I think I'll have to operate!
+Oh vaya... ¡Creo que tendré que operar!
+#$ 3...2...1... Clear!
+3...2...1... ¡Listo!
+#$ He's dead, captain.
+Está muerto, capitán.
+#$ State the nature of the medical emergency!
+¡Establezca la naturaleza de la emergencia médica!
+#$ You've worked me dry, captain...
+Me has secado, capitán...
+#$ I can't keep this up, captain!
+¡No puedo seguir con esto, capitán!
+#$ The spellcaster's all out of spunk!
+¡El Spellcaster está sin vapor!
+#$ Yes, captain?
+¿Sí, capitán?
+#$ Sah, yes sah!
+¡Señor, sí señor!
+#$ Aye aye, captain~
+Afirmativo afirmativo, capitán~
+#$ Nyuufufu...
+Nyuufufu...
+#$ I wonder...
+Me pregunto...
+#$ Listen!
+¡Escucha!
+#$ I've got something very important to tell you...
+Tengo algo muy importante que contarte...
+#$ Now, now captain...
+Calma, calma capitán...
+#$ Iyaaa~
+Iyaaa~
+#$ Ding ding ding~
+Ding ding ding~
+#$ Nyoohoho!
+¡Nyoohoho!
+#$ Yatta!
+¡Yatta!
+#$ Yosha!
+¡Yosha!
+#$ My...
+Vaya...
+#$ Why, I cannot fantom such a thing!
+¡Vaya, no puedo hacer tal cosa!
+#$ Hnnrggmm...!
+¡Hnnrggmm...!
+#$ You cannot blame everything on me, captain!
+¡No me puedes culpar por todo, capitán!
+#$ Unfair, captain!
+¡Injusto, capitán!
+#$ Not listening...
+No estoy escuchando...
+#$ Hmph!
+¡Hmph!
+#$ Sigh...
+Suspiro...
+#$ I can't comprehend you...
+No te puedo comprender...
+#$ Buubuu...
+Buubuu...
+#$ Stingy!
+¡Picadura!
+#$ Treating poor old Claude like this...
+Tratando a la pobre Claude así...
+#$ Anything for you, captain!
+¡Cualquier cosa por tí, capitán!
+#$ Hufufufu... Captain...
+Hufufufu... Capitán...
+#$ Heeeek!!!
+¡¡¡Heeeek!!!
+#$ Hyaaaak!!
+¡¡Hyaaaak!!
+#$ Gaaaakkk!!!
+¡¡¡Gaaaakkk!!!
+#$ Pause!
+¡Pausa!
+#$ Saving game!
+¡Guardando juego!
+#$ Loading game!
+¡Cargando juego!
+#$ Opening preferences!
+¡Abriendo preferencias!
+#$ Are you sure you want to quit, captain?
+¿Estás segurio de que quieres salir, capitán?
+#$ All right, let's snap a pic!
+¡De acuerdo, hagámonos una foto!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ When commanding your unit to move, consider what your new heading will do to your future movement path.
+Cuando ordenes a tu unidad moverse, considera qué le hará tu nuevo rumbo a tu futura ruta de movimiento.
+#$ Almost all units have no armor in the rear. Sending a cluster of missiles down a ship's engines is a sure way to deal lots of damage!
+Casi ninguna unidad tiene armadura en la retaguardia. ¡Enviar un enjambre de misiles a los motores de una nave es una forma segura de provocar montones de daño!
+#$ If you hold down the shift key, you can see which of your units that the enemy is currently gunning for!
+¡Si dejas presionada la tecla shift, puedes ver a cuáles de tus unidades el enemigo está actualmente apuntando!
+#$ Got lots of enemy missiles coming your way? Hold down the shift key while targeting a weapon to lock on to only missiles and torpedoes.
+¿Tienes montones de misiles enemigos en camino? Deja presionada la tecla shift mientras apuntas un arma para apuntar solo a misiles y torpedos.
+#$ Don't forget to upgrade your units!
+¡No te olvides de mejorar tus unidades!
+#$ When you need to be defensive, suddenly changing your unit's heading will grant it a buff to evasion.
+Cuando necesites ser defensivo, cambiar repentinamente el rumbo de tu unidad le proveerá una mejora a la evasión.
+#$ Rank up your affection rating with your crew to unlock new abilities and perks!
+¡Mejora tu afecto con tu tripulación para desbloquear nuevas habilidades y características!
+#$ You can use my gravity gun any time to line up shots more effectively, captain.
+Puedes usar mi cañón de gravedad en cualquier momento para alinear disparos más efectivamente, capitán.
+#$ Be careful! The damage you take from using Asaga's awaken increases per use!
+¡Ten cuidado! ¡El daño que recibes por usar el despertar de Asaga aumenta por cada uso!
+#$ Pay attention to your mission objectives. Sometimes, you don't need to clear the map of enemies to win.
+Presta atención a los objetivos de tu misión. Algunas veces, no necesitas eliminar a los enemigos del mapa para ganar.
+#$ Be sure to manage each of your units' aggro carefully. If one unit is dishing out a lot of pain, then more enemies will be drawn to it.
+Asegúrate de manejar el odio de cada una de tus unidades cuidadosamente. Si una unidad está provocando un montón de daño, más serán los enemigos arrastrados a ella.
+#$ Be careful not to put your units into a collision path! They will have to expend EN to take evasive maneuvers.
+¡Ten cuidado de no poner a tus unidades en un curso de colisión! Tendrán que gastar EN para tomar maniobras evasivas.
+#$ Don’t worry: Your missiles and torpedoes will be refilled for free at the end of each mission.
+No te preocupes: Tus misiles y torpedos serán reabastecidos libre de costo al final de cada misión.
+#$ If you're stuck on a mission, there are always special difficulty mods in the custom difficulty mode to spice up the gameplay experience.
+Si estás atascado en una misión, siempre hay modificadores de dificultad especiales en el modo de dificultad personalizada para moldear la experiencia de jugabilidad.
+#$ Reduce the damage you take from laser attacks by putting your units inside shield cover.
+Reduce el daño que recibes de ataques láser poniendo a tus unidades dentro de una cobertura de escudo.

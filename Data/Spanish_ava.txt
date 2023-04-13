@@ -1,0 +1,328 @@
+#$ At your command.
+A sus órdenes.
+#$ Maray, awaiting orders.
+Maray, esperando órdenes.
+#$ Do try not to crash this ship too, captain.
+No intente estrellar esta nave también, capitán.
+#$ Yes, captain?
+¿Sí, capitán?
+#$ Your orders, captain?
+¿Sus órdenes, capitán?
+#$ Standing by.
+En posición.
+#$ She's all yours, captain.
+Ella es toda suya, capitán.
+#$ Maray, at the ready.
+Maray, preparada.
+#$ Twin drives are nominal.
+Controladores duales están normales.
+#$ Awaiting orders.
+Esperando órdenes.
+#$ All ahead full.
+Completamente adelante.
+#$ Heading out.
+Dirigiéndonos adelante.
+#$ Powering up sub-light engines.
+Encendiendo motores menores.
+#$ Full impulse.
+Impulso completo.
+#$ Steady as she goes.
+Avanza firme.
+#$ Heading to target.
+Dirigiéndonos al objetivo.
+#$ Understood, captain.
+Entendido, capitán.
+#$ Inputting course.
+Ingresando curso.
+#$ Coordinates laid in.
+Coordenadas establecidas.
+#$ Underway.
+En camino.
+#$ Flak, full burst!
+¡Fuego antiaéreo, fuego total!
+#$ Fire point defense guns!
+¡Disparen cañones de defensa!
+#$ Fire! Don't let a single one get through!
+¡Fuego! ¡No dejen que pase uno solo!
+#$ Acquire targets! Fire flak!
+¡Adquiriendo objetivos! ¡Disparen fuego antiaéreo!
+#$ Establish flak net! Fire!
+¡Estableciendo red de fuego antiaérea! ¡Fuego!
+#$ Full salvo! Fire!
+¡Reserva completa! ¡Fuego!
+#$ Full broadside! Fire!
+¡Andanada completa! ¡Fuego!
+#$ Broadside!
+¡Andanada!
+#$ Main guns, fire!
+¡Cañones principales, fuego!
+#$ Target acquired! Main guns, fire!
+¡Objetivo adquirido! ¡Cañones principales, fuego!
+#$ Lancers, fire!
+¡Lásers, fuego!
+#$ Commence laser attack!
+¡Comiencen ataque láser!
+#$ Light them up! Fire lasers!
+¡Enciéndalos! ¡Disparen los láseres!
+#$ Power to lasers! Fire!
+¡Enciendan los láseres! ¡Fuego!
+#$ Commence long distance laser attack!
+¡Comiencen ataque láser de larga distancia!
+#$ Charge pulse guns! Fire!
+¡Carguen cañones de pulso! ¡Fuego!
+#$ Power to pulsars! Fire!
+¡Enciendan los pulsadores! ¡Fuego!
+#$ Fire pulsars!
+¡Disparen los pulsadores!
+#$ Let's show off her fangs. Pulsars, fire!
+Mostrémosles sus dientes. ¡Pulsadores, fuego!
+#$ All pulsars, fire!
+¡Todos los pulsadores, fuego!
+#$ Fire all missiles!
+¡Disparen todos los misiles!
+#$ Lock on target! Fire missiles!
+¡Apunten al objetivo! ¡Disparen misiles!
+#$ Sparrows, fire!
+¡Cuervos, fuego!
+#$ Launch all missiles!
+¡Lancen todos los misiles!
+#$ Commence missile barrage!
+¡Comiencen bombardeo de misiles!
+#$ Our missiles are dry!
+¡Nuestros misiles están sedientos!
+#$ Torpedo locked. Fire!
+Torpedo apuntado. ¡Fuego!
+#$ Launch torpedo!
+¡Lancen torpedo!
+#$ Quantum torpedo, fire!
+¡Torpedo cuántico, fuego!
+#$ Torpedo away!
+¡Torpedo lanzado!
+#$ Target in sight. Launch!
+Objetivo a la vista. ¡Lancen!
+#$ We have no more torpedoes to launch, captain.
+No tenemos más torpedos para lanzar, capitán.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Field resupply initiated!
+¡Reabastecimiento de campo iniciado!
+#$ Ryders, RTB for resupply!
+¡Ryders, regresen a la base para reabastecerse!
+#$ Beginning rapid resupply!
+¡Comenzando rápido reabastecimiento!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Enemy sunk!
+¡Enemigo hundido!
+#$ Target down!
+¡Objetivo derribado!
+#$ They're sinking, captain!
+¡Se están hundiendo, capitán!
+#$ Enemy down! We've done it!
+¡Enemigo derribado! ¡Lo hemos logrado!
+#$ One more enemy sunk!
+¡Un enemigo más hundido!
+#$ Initiate damage control!
+¡Inicien control de daños!
+#$ Light damage. All systems still green.
+Daño ligero. Todos los sistemas todavía en verde.
+#$ Minor hull damage reported.
+Daños menores al casco reportados.
+#$ Hull fractures reported! She can still keep on fighting.
+¡Fracturas del casco reportadas! Todavía puede seguir luchando.
+#$ Just a graze, captain. No major damage to report.
+Solo un razguño, capitán. No hay graves daños que reportar.
+#$ Repair teams, to section C!
+¡Equipos de reparación, a la sección C!
+#$ Damage reported! Rerouting power through auxiliary lines!
+¡Daños reportados! ¡Volviendo a enrutar la energía por las líneas auxiliares!
+#$ Hull breaches reported in sections A through C!
+¡Brechas al casco reportadas en las secciones de la A a la C!
+#$ Impact! We are venting plasma!
+¡Impacto! ¡Estamos expulsando plasma!
+#$ She's taken a hit! Damage control, to deck two!
+¡Ha recibido un disparo! ¡Control de daños, a la cubierta dos!
+#$ How many times must I repeat myself!? Our systems are failing one by one!
+¿¡Cuántas veces más debo repetirlo!? ¡Nuestros sistemas están cayendo uno por uno!
+#$ Heavy damage! I recommend we retreat!
+¡Daños graves! ¡Recomiendo retirarnos!
+#$ She can't take more of this!
+¡No puede aguantar más de esto!
+#$ Power failures across the board! Twin drives are losing function!
+¡Fallos de energía por toda la nave! ¡Los controladores duales están dejando de funcionar!
+#$ Multiple hull breaches reported! We must fall back, captain!
+¡Múltiples brechas del casco reportadas! ¡Debemos retirarnos, capitán!
+#$ Twin drives have gone critical! All hands, abandon ship!
+¡Controladores duales en estado crítico! ¡A toda la tripulación, abandonen la nave!
+#$ Hit confirmed!
+¡Golpe confirmado!
+#$ Target hit!
+¡Objetivo golpeado!
+#$ The enemy has taken damage!
+¡El enemigo ha recibido daño!
+#$ We have missed the target!
+¡Hemos fallado en golpear al objetivo!
+#$ The attack has failed to connect!
+¡El ataque ha fallado en conectar!
+#$ No contact! Attack failed!
+¡No hubo contacto! ¡Ataque fallido!
+#$ Evasive maneuvers successful.
+Maniobras evasivas exitosas.
+#$ No contact. The enemy has missed.
+No hubo contacto. El enemigo ha fallado.
+#$ No damage to report, captain.
+No hay daños que reportar, capitán.
+#$ We have evaded the enemy attack.
+Hemos evadido el ataque enemigo.
+#$ It appears luck is still on your side, captain.
+Parece que la suerte sigue de su lado, capitán.
+#$ Our electronics are being hacked, captain!
+¡Nuestros electrónicos están siendo hackeados, capitán!
+#$ The enemy has sabotaged our systems!
+¡El enemigo ha saboteado nuestros sistemas!
+#$ Enemy ECM detected!
+¡ECM enemiga detectada!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ The ship does not have enough power!
+¡La nave no tiene suficiente energía!
+#$ Energy banks empty!
+¡Los bancos de energía están vacíos!
+#$ Negative. We lack the necessary power.
+Negativo. Carecemos de la energía necesaria.
+#$ Captain?
+¿Capitán?
+#$ Sir!
+¡Señor!
+#$ Listen to me.
+Escúcheme.
+#$ I have prepared the report.
+He preparado el reporte.
+#$ Aye captain.
+Afirmativo capitán.
+#$ I wonder...
+Me pregunto...
+#$ Is that so?
+¿Es así?
+#$ Did you need something?
+¿Necesitaba algo?
+#$ I have recommendations.
+Tengo recomendaciones.
+#$ Is the paperwork finished?
+¿Está el papeleo terminado?
+#$ Good work, captain.
+Buen trabajo, capitán.
+#$ Impressive.
+Impresionante.
+#$ The paperwork seems to be in order.
+El papeleo parece estar en orden.
+#$ This is fine work.
+Esto es un buen trabajo.
+#$ Not bad.
+Nada mal.
+#$ Sigh...
+Suspiro...
+#$ Unbelievable...
+Increíble...
+#$ Captain. Please take this seriously.
+Capitán. Por favor tómese esto en serio.
+#$ I was afraid of this...
+Me temía esto...
+#$ This isn't a joke!
+¡Esto no es una broma!
+#$ Kayto...
+Kayto...
+#$ Do you need help?
+¿Necesita ayuda?
+#$ I'm sorry.
+Lo siento.
+#$ I regret to inform you...
+Lamento informarle...
+#$ Unfortunate.
+Desafortunado.
+#$ H-Huh?!
+¡¿H-Huh?!
+#$ Captain, this is highly irregular!
+¡Capitán, esto es áltamente irregular!
+#$ My!
+¡Vaya!
+#$ Mother of god!
+¡Madre de dios!
+#$ This is-!
+¡Esto es-!
+#$ Captain on deck!
+¡Capitán en la cubierta!
+#$ Welcome aboard, captain.
+Bienvenido a bordo, capitán.
+#$ She's all yours, captain.
+Es toda suya, capitán.
+#$ Destination set. Spool up twin drives. Engage!
+Destino establecido. Encendiendo controladores duales. ¡Adelante!
+#$ Where to, captain?
+¿Hacia dónde, capitán?
+#$ Warp signals detected! Enemy reinforcements!
+¡Señales de salto detectadas! ¡Refuerzos enemigos!
+#$ More enemies have dropped out of warp!
+¡Más enemigos han salido del salto!
+#$ The enemy has warped in reinforcements!
+¡El enemigo ha traído refuerzos!
+#$ Be careful! The enemy has brought in reinforcements!
+¡Tenga cuidado! ¡El enemigo ha traído refuerzos!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000

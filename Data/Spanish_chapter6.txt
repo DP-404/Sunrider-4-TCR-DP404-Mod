@@ -1,0 +1,4618 @@
+#$ //Bridge
+//Bridge
+#$ tag chap6_start
+tag chap6_start
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc ica_uni
+ccc ica_uni
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ ccc asa_uni
+ccc asa_uni
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ voi ava_ang1
+voi ava_ang1
+#$ cha ava_armscrossed_worriedclosedeyes
+cha ava_armscrossed_worriedclosedeyes
+# ava Warp successful, captain. The Huntress should have lost our tracks by now...
+ava Warp successful, captain. The Huntress should have lost our tracks by now...
+#$ voi ica_ang1
+voi ica_ang1
+#$ cha ica_back_angrytalk
+cha ica_back_angrytalk
+# ica We might have shaken the Huntress, but that doesn't change the fact that Kuushana managed to snatch the final data crystal right from under our noses!
+ica We might have shaken the Huntress, but that doesn't change the fact that Kuushana managed to snatch the final data crystal right from under our noses!
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_handonhip_closedeyessadtalk
+cha lyn_handonhip_closedeyessadtalk
+# lyn Sigh. Not quite. I was worried something like this would happen, so I scanned the data crystal's molecular structure onto the Dominator's memory. It'll take some time, but I can use the Maray's matter replicator to reprint the crystal...
+lyn Sigh. Not quite. I was worried something like this would happen, so I scanned the data crystal's molecular structure onto the Dominator's memory. It'll take some time, but I can use the Maray's matter replicator to reprint the crystal...
+#$ cha ava_armcrossed_shocked
+cha ava_armcrossed_shocked
+#$ cha ica_armscrossed_mildsurprise
+cha ica_armscrossed_mildsurprise
+#$ voi asa_hap1
+voi asa_hap1
+#$ cha asa_fist_focushappy
+cha asa_fist_focushappy
+# asa Oh! Good goin' Lynn! Ya really saved our skins!
+asa Oh! Good goin' Lynn! Ya really saved our skins!
+#$ voi lyn_sad4
+voi lyn_sad4
+#$ cha lyn_handtoface_explanation
+cha lyn_handtoface_explanation
+# lyn Still, it doesn't change the fact that Kuushana got her hands on the same information! And I still have to figure out a way to get past the encryption once the crystal's been replicated.
+lyn Still, it doesn't change the fact that Kuushana got her hands on the same information! And I still have to figure out a way to get past the encryption once the crystal's been replicated.
+#$ cha asa_fist_focusconfident
+cha asa_fist_focusconfident
+#$ cha ava_armcrossed_neutral
+cha ava_armcrossed_neutral
+#$ cha ica_armscrossed_smirk
+cha ica_armscrossed_smirk
+#$ cha shi_focus
+cha shi_focus
+# shi For now, let's regroup. We also have the other data crystal with the historical information too. Let's work through what's in that while the matter replicator's printing out the final crystal...
+shi For now, let's regroup. We also have the other data crystal with the historical information too. Let's work through what's in that while the matter replicator's printing out the final crystal...
+#$ hid shi
+hid shi
+#$ hid ica
+hid ica
+#$ hid ava
+hid ava
+#$ hid asa
+hid asa
+#$ hid lyn
+hid lyn
+#$ dbg hide
+dbg hide
+#$ fade
+fade
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ voi ava_neu1
+voi ava_neu1
+#$ cha ava_armup_neutral
+cha ava_armup_neutral
+# ava The others have gone to Engineering to hear what Lynn has to say about the data crystal. You should head down there too.
+ava The others have gone to Engineering to hear what Lynn has to say about the data crystal. You should head down there too.
+#$ cha shi_smile
+cha shi_smile
+# shi All right. Hold the fort on the bridge while I'm down there.
+shi All right. Hold the fort on the bridge while I'm down there.
+#$ voi ava_neu2
+voi ava_neu2
+#$ cha ava_salute_focus
+cha ava_salute_focus
+# ava Captain.
+ava Captain.
+#$ hid ava
+hid ava
+#$ dbg hide
+dbg hide
+#$ map
+map
+#$ 
+
+#$ //Engineering
+//Engineering
+#$ tag chap6_start_engineering
+tag chap6_start_engineering
+#$ dbg spr_bg_marayengineering
+dbg spr_bg_marayengineering
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ ccc sol_uni
+ccc sol_uni
+#$ ccc asa_uni
+ccc asa_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ voi lyn_neu8
+voi lyn_neu8
+#$ cha lyn_handup_talk
+cha lyn_handup_talk
+# lyn All right, all right. I've managed to restore most of the corrupted data... to the best of my abilities, anyways.
+lyn All right, all right. I've managed to restore most of the corrupted data... to the best of my abilities, anyways.
+#$ cha lyn_handup_smirk
+cha lyn_handup_smirk
+# lyn Now, let's see just what's inside this little crystal...
+lyn Now, let's see just what's inside this little crystal...
+#$ hid lyn
+hid lyn
+#$ mus mus_ruinsoftime
+mus mus_ruinsoftime
+# cry Sola di Ryuvia: A History of the Ryuvian Civil War
+cry Sola di Ryuvia: A History of the Ryuvian Civil War
+# cry ...The origins of Sola di Ryuvia's claim appear to be as elusive as her father's. She was but an illegitimate child of an equally illegitimate line...
+cry ...The origins of Sola di Ryuvia's claim appear to be as elusive as her father's. She was but an illegitimate child of an equally illegitimate line...
+# cry ...Her father, Rayvin di Ryuvia, was the second child of Emperor Tera di Ryuvia, mothered by the Farari Empress..."
+cry ...Her father, Rayvin di Ryuvia, was the second child of Emperor Tera di Ryuvia, mothered by the Farari Empress..."
+#$ voi sol_neu4
+voi sol_neu4
+#$ cha sol_back_sadlookaway
+cha sol_back_sadlookaway
+# sol There it is again... The Farari...
+sol There it is again... The Farari...
+#$ cha sol_side_focustalk
+cha sol_side_focustalk
+# sol Tell me, what secrets do the crystal hold in regard to the Farari?
+sol Tell me, what secrets do the crystal hold in regard to the Farari?
+# cry ...The Farari: A kingdom of fierce light haired and fair skinned nomads who inhabited the Northern quadrant of the galaxy. Overconfident of its own military prowess, the Ryuvian Empire began a subjugation campaign against the Farari, but faced greater than anticipated resistance.
+cry ...The Farari: A kingdom of fierce light haired and fair skinned nomads who inhabited the Northern quadrant of the galaxy. Overconfident of its own military prowess, the Ryuvian Empire began a subjugation campaign against the Farari, but faced greater than anticipated resistance.
+# cry ...Rather than face a humiliating defeat against the Northern barbarians, Emperor Tera di Ryuvia accepted the Farari Princess Olan Farr as his bride. She proved a fertile Empress and graced the Emperor with two sons, Crown Prince Olgar and Prince Rayvin.
+cry ...Rather than face a humiliating defeat against the Northern barbarians, Emperor Tera di Ryuvia accepted the Farari Princess Olan Farr as his bride. She proved a fertile Empress and graced the Emperor with two sons, Crown Prince Olgar and Prince Rayvin.
+# cry ...Yet Emperor Tera di Ryuvia also did lay with the true heiress of Ryuvia: Countess Tella Harbor, his original bride so promised. From her sprang Crow Harbor, the true legitimate Emperor, of pure Ryuvian blood.
+cry ...Yet Emperor Tera di Ryuvia also did lay with the true heiress of Ryuvia: Countess Tella Harbor, his original bride so promised. From her sprang Crow Harbor, the true legitimate Emperor, of pure Ryuvian blood.
+# cry ...The traitorous Rayvin and his cronies in the Imperial Court concocted a plan, wherein he assassinated his father and elder brother, and laid the blame upon the innocent Crow Harbor. And thus began the Ryuvian Civil War, between the parricidal Rayvin di Ryuvia and his common blooded daughter Sola di Ryuvia, and Crow Harbor and the loyalists of the Holy Ryuvian Empire.
+cry ...The traitorous Rayvin and his cronies in the Imperial Court concocted a plan, wherein he assassinated his father and elder brother, and laid the blame upon the innocent Crow Harbor. And thus began the Ryuvian Civil War, between the parricidal Rayvin di Ryuvia and his common blooded daughter Sola di Ryuvia, and Crow Harbor and the loyalists of the Holy Ryuvian Empire.
+# cry ...His illegitimate daughter, Sola di Ryuvia, born of common blood, falsely declared herself the Sharr and commandeered the holy vessel, Sharr'Lac against the rightful forces of the Holy Ryuvian Empire.
+cry ...His illegitimate daughter, Sola di Ryuvia, born of common blood, falsely declared herself the Sharr and commandeered the holy vessel, Sharr'Lac against the rightful forces of the Holy Ryuvian Empire.
+# cry ...While Crow Harbor fell in battle against the pretender Sola di Ryuvia, his progeny did rid Ryuvia of the Farari, and restored the noble bloodline to the Holy Empire...
+cry ...While Crow Harbor fell in battle against the pretender Sola di Ryuvia, his progeny did rid Ryuvia of the Farari, and restored the noble bloodline to the Holy Empire...
+#$ voi sol_sur3
+voi sol_sur3
+#$ cha sol_front_scared
+cha sol_front_scared
+# sol Impossible... No... This cannot be!
+sol Impossible... No... This cannot be!
+#$ voi asa_sur4
+voi asa_sur4
+#$ cha asa_fist_focusshout
+cha asa_fist_focusshout
+# asa Eeh?! So this crystal's basically sayin'... I'm Crow Harbor's descendant?!
+asa Eeh?! So this crystal's basically sayin'... I'm Crow Harbor's descendant?!
+#$ voi asa_ang1
+voi asa_ang1
+#$ cha asa_armup_sad
+cha asa_armup_sad
+# asa And Sola's... not even a Sharr?!
+asa And Sola's... not even a Sharr?!
+#$ voi sol_ang4
+voi sol_ang4
+#$ mus mus_tozasaretamado
+mus mus_tozasaretamado
+#$ cha sol_front_scared,tears
+cha sol_front_scared,tears
+# sol No...!
+sol No...!
+#$ voi asa_sur5
+voi asa_sur5
+#$ cha asa_fist_recoil
+cha asa_fist_recoil
+# asa Ah, wait, Sola! I didn't mean to say you weren't the Sharr! The history books are always full of bias, you know! You gotta take everything with a grain of salt!
+asa Ah, wait, Sola! I didn't mean to say you weren't the Sharr! The history books are always full of bias, you know! You gotta take everything with a grain of salt!
+#$ voi sol_ang1
+voi sol_ang1
+#$ cha sol_back_scared,tears
+cha sol_back_scared,tears
+# sol I... No...! Lies...! None of this can be true!
+sol I... No...! Lies...! None of this can be true!
+#$ sou sou_dirtrun
+sou sou_dirtrun
+#$ hid sol
+hid sol
+#$ voi asa_sad3
+voi asa_sad3
+#$ cha lyn_armscrossed_sad
+cha lyn_armscrossed_sad
+#$ cha asa_armup_sadthink
+cha asa_armup_sadthink
+# asa Ahh... She ran away...
+asa Ahh... She ran away...
+#$ cha shi_sadthinkexpressive
+cha shi_sadthinkexpressive
+# shi Sola...
+shi Sola...
+#$ voi asa_hap2
+voi asa_hap2
+#$ cha asa_bendover_madshout
+cha asa_bendover_madshout
+# asa Well, what are you waiting for, captain! You gotta chase after her!
+asa Well, what are you waiting for, captain! You gotta chase after her!
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi Yeah... I'll... try talking to her...
+shi Yeah... I'll... try talking to her...
+#$ var unlock_sol7
+var unlock_sol7
+#$ hid lyn
+hid lyn
+#$ hid shi
+hid shi
+#$ hid asa
+hid asa
+#$ dbg hide
+dbg hide
+#$ map
+map
+#$ 
+
+#$ tag chap6_start_crewquarters
+tag chap6_start_crewquarters
+#$ dbg spr_bg_crewquarter_windows
+dbg spr_bg_crewquarter_windows
+#$ mus mus_akaifuusen
+mus mus_akaifuusen
+#$ ccc sol_uni
+ccc sol_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi Sola...
+shi Sola...
+#$ cha sol_back_sadslight
+cha sol_back_sadslight
+# sol The stars have always given me peace... Yet now...
+sol The stars have always given me peace... Yet now...
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi I know it's cold comfort...
+shi I know it's cold comfort...
+#$ cha shi_sadthink
+cha shi_sadthink
+# shi But all of that about the Ryuvian war for succession and the bloodline... It's all just ancient history now. Asaga's our queen. And the Ryuvia of today is nothing like what it was in the past.
+shi But all of that about the Ryuvian war for succession and the bloodline... It's all just ancient history now. Asaga's our queen. And the Ryuvia of today is nothing like what it was in the past.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi Nobody's judging you for what happened. None of it matters any more.
+shi Nobody's judging you for what happened. None of it matters any more.
+#$ hid shi
+hid shi
+#$ cha sol_side_scared
+cha sol_side_scared
+# sol I was ever the fool!
+sol I was ever the fool!
+# sol Deceived by my father into believing Crow Harbor was a jealous bastard, when his own claim to the throne was completely fabricated!
+sol Deceived by my father into believing Crow Harbor was a jealous bastard, when his own claim to the throne was completely fabricated!
+# sol When I activated the Final Tear, I believed I had saved the Holy Empire. That the evil darkling had perished and the rightful rulers of Ryuvia had won. But to think I sacrificed my life, all for a lie!
+sol When I activated the Final Tear, I believed I had saved the Holy Empire. That the evil darkling had perished and the rightful rulers of Ryuvia had won. But to think I sacrificed my life, all for a lie!
+# sol My entire life... has been a lie!
+sol My entire life... has been a lie!
+#$ cha sol_back_shout,tears
+cha sol_back_shout,tears
+# sol This torment in my heart... I cannot bear it... Spare me of this misery! Tear it out now!
+sol This torment in my heart... I cannot bear it... Spare me of this misery! Tear it out now!
+#$ cha shi_sigh
+cha shi_sigh
+# shi Listen, Sola. In war... these things are complicated.
+shi Listen, Sola. In war... these things are complicated.
+# shi You think your side's fighting for all the right causes, and the other side are all inhumane monsters... but... but...
+shi You think your side's fighting for all the right causes, and the other side are all inhumane monsters... but... but...
+# shi It's... It's not so simple... It's... complicated. There's no right answers. To anything.
+shi It's... It's not so simple... It's... complicated. There's no right answers. To anything.
+#$ cha shi_sadthink
+cha shi_sadthink
+# shi I know... I'm not in any position to be saying this.
+shi I know... I'm not in any position to be saying this.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi But I want to make this right for you. We'll get to Crow Harbor and put all of this to rest. I promise you that.
+shi But I want to make this right for you. We'll get to Crow Harbor and put all of this to rest. I promise you that.
+#$ hid shi
+hid shi
+#$ cha sol_side_annoyed
+cha sol_side_annoyed
+# sol To think that man still walks this galaxy...
+sol To think that man still walks this galaxy...
+# sol I now know the truth... but he still reviles me so. I was told by everyone he was a dark lord, incestuous, craven, beyond all redemption.
+sol I now know the truth... but he still reviles me so. I was told by everyone he was a dark lord, incestuous, craven, beyond all redemption.
+#$ cha sol_side_lookawaysad
+cha sol_side_lookawaysad
+# sol Now I am afraid. Afraid to know what other dark truth awaits us at the end of this journey. What else must I suffer, until all of this is finished? Has fate doomed my life to be nothing but torment?
+sol Now I am afraid. Afraid to know what other dark truth awaits us at the end of this journey. What else must I suffer, until all of this is finished? Has fate doomed my life to be nothing but torment?
+#$ cha shi_surprise
+cha shi_surprise
+# shi No! No... I swear, Sola, I won't let anything else hurt you. Not ever again!
+shi No! No... I swear, Sola, I won't let anything else hurt you. Not ever again!
+#$ cha shi_rattled
+cha shi_rattled
+# shi I-I... I'll protect you. This ship will protect you!
+shi I-I... I'll protect you. This ship will protect you!
+#$ cha shi_shout
+cha shi_shout
+# shi I swear it! I swear!
+shi I swear it! I swear!
+#$ hid shi
+hid shi
+#$ cha sol_side_lookawayfrown
+cha sol_side_lookawayfrown
+# sol ... ... ...
+sol ... ... ...
+#$ cha sol_front_closedeyestalk
+cha sol_front_closedeyestalk
+# sol Will you, Captain Kayto Shields? You?
+sol Will you, Captain Kayto Shields? You?
+#$ cha shi_shout
+cha shi_shout
+# shi Yes! Me, I swear! I'll take you to Crow Harbor! And you can finish him off with your own bullet!
+shi Yes! Me, I swear! I'll take you to Crow Harbor! And you can finish him off with your own bullet!
+#$ hid shi
+hid shi
+#$ cha sol_front_closedeyesslight
+cha sol_front_closedeyesslight
+# sol Then...
+sol Then...
+#$ cha sol_side_sadsmile
+cha sol_side_sadsmile
+# sol I will hold you to that promise.
+sol I will hold you to that promise.
+#$ var sol_aff
+var sol_aff
+#$ cha sol_side_neutral
+cha sol_side_neutral
+# sol ... ... ...
+sol ... ... ...
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi I... I just don't want you to be sad anymore, Sola. I'm... tired of it.
+shi I... I just don't want you to be sad anymore, Sola. I'm... tired of it.
+#$ hid shi
+hid shi
+#$ cha sol_back_talk
+cha sol_back_talk
+# sol In the darkest corner of my soul, I had always suspected... My father, Rayvin di Ryuvia, he had nothing but greed in his heart.
+sol In the darkest corner of my soul, I had always suspected... My father, Rayvin di Ryuvia, he had nothing but greed in his heart.
+#$ cha sol_back_sadlookaway
+cha sol_back_sadlookaway
+# sol He was evil incarnate. My terror. I did not initially accept my destiny to die as the Sharr. How could I? He coerced it.
+sol He was evil incarnate. My terror. I did not initially accept my destiny to die as the Sharr. How could I? He coerced it.
+#$ cha shi_blank
+cha shi_blank
+# shi What did he do to you?
+shi What did he do to you?
+#$ hid shi
+hid shi
+#$ cha sol_back_sadslight
+cha sol_back_sadslight
+# sol Violence. And to many others. That was his way.
+sol Violence. And to many others. That was his way.
+#$ cha sol_side_sadsmile
+cha sol_side_sadsmile
+# sol Hahaha... That was the man my mother loved. A monster.
+sol Hahaha... That was the man my mother loved. A monster.
+#$ cha shi_curious
+cha shi_curious
+# shi Your mother?
+shi Your mother?
+#$ hid shi
+hid shi
+#$ cha sol_front_sad
+cha sol_front_sad
+# sol She was but a poor fisherman's girl who lived on the remote world of Far Port. And just like the fish she cleaned and gutted every day, she was hooked by the young Ryuvian prince to be his plaything of the night, then tossed back into the big black ocean.
+sol She was but a poor fisherman's girl who lived on the remote world of Far Port. And just like the fish she cleaned and gutted every day, she was hooked by the young Ryuvian prince to be his plaything of the night, then tossed back into the big black ocean.
+#$ cha sol_side_slight
+cha sol_side_slight
+# sol When I was a little girl, she spoke of his valor. Of his heroic exploits. Of how he would one day return and make her into a princess. Hah! Such a fool, she was! A fool!
+sol When I was a little girl, she spoke of his valor. Of his heroic exploits. Of how he would one day return and make her into a princess. Hah! Such a fool, she was! A fool!
+#$ cha sol_side_concernclosedeyesfrown
+cha sol_side_concernclosedeyesfrown
+# sol She wasted away, always looking far, far away into the heavens... her eyes forever searching for where Ryuvia Prime would be in the black night. She would never find it.
+sol She wasted away, always looking far, far away into the heavens... her eyes forever searching for where Ryuvia Prime would be in the black night. She would never find it.
+#$ cha sol_side_lookawaysad
+cha sol_side_lookawaysad
+# sol My only memories of childhood were watching her... She waited... and waited... I never once saw her smile - never to care about anything but her prince. And she finally passed on, still staring into the black night sky.
+sol My only memories of childhood were watching her... She waited... and waited... I never once saw her smile - never to care about anything but her prince. And she finally passed on, still staring into the black night sky.
+# sol Her final words to me were "Your father shall return for you."
+sol Her final words to me were "Your father shall return for you."
+#$ cha sol_front_sad,tears
+cha sol_front_sad,tears
+# sol And he did return. Although not quite in the way my mother had expected, no?
+sol And he did return. Although not quite in the way my mother had expected, no?
+#$ cha shi_sadthinkexpressive
+cha shi_sadthinkexpressive
+# shi Sola...
+shi Sola...
+#$ hid shi
+hid shi
+#$ cha sol_side_shout,tears
+cha sol_side_shout,tears
+# sol We were all disposable tools for that man in his mad quest for power. Me. Crow. The Holy Empire. We were all used...
+sol We were all disposable tools for that man in his mad quest for power. Me. Crow. The Holy Empire. We were all used...
+# sol I knew all along. The war was a lie. Concocted by my father in his mad quest to become the Emperor. And in the end, the war destroyed all of us.
+sol I knew all along. The war was a lie. Concocted by my father in his mad quest to become the Emperor. And in the end, the war destroyed all of us.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi No. You're still here, aren't you? And so is Crow Harbor.
+shi No. You're still here, aren't you? And so is Crow Harbor.
+#$ cha sol_front_sadtalk,tears
+cha sol_front_sadtalk,tears
+# sol Perhaps his physical manifestation. But he is now nothing but a destroyed husk, simulating a man, but long ruined. A ghost.
+sol Perhaps his physical manifestation. But he is now nothing but a destroyed husk, simulating a man, but long ruined. A ghost.
+#$ cha shi_smile
+cha shi_smile
+# shi Sola?
+shi Sola?
+# sol It is nothing.
+sol It is nothing.
+#$ cha sol_front_focustalk
+cha sol_front_focustalk
+# sol I must settle this matter. Bring me to him.
+sol I must settle this matter. Bring me to him.
+# sol That must be why I was sent here, to this world. To tie up all the loose ends.
+sol That must be why I was sent here, to this world. To tie up all the loose ends.
+#$ cha sol_front_focustalk
+cha sol_front_focustalk
+# sol We do not belong here. The time has come to resolve the mistakes of the past.
+sol We do not belong here. The time has come to resolve the mistakes of the past.
+#$ cha shi_closedeyes
+cha shi_closedeyes
+# shi Sola...
+shi Sola...
+#$ cha sol_front_neutral
+cha sol_front_neutral
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi All right. I'll take you to Crow Harbor. I promise.
+shi All right. I'll take you to Crow Harbor. I promise.
+# shi But we're all here for you, all right? You don't have to deal with this by yourself.
+shi But we're all here for you, all right? You don't have to deal with this by yourself.
+#$ cha sol_front_relief
+cha sol_front_relief
+# sol Is that so?
+sol Is that so?
+#$ cha sol_side_lookawayfrown
+cha sol_side_lookawayfrown
+# sol I... must take my leave. I'm sorry. I didn't mean to show such an unsightly side to myself.
+sol I... must take my leave. I'm sorry. I didn't mean to show such an unsightly side to myself.
+#$ cha shi_smile
+cha shi_smile
+# shi It's all right. Makes us a little bit more even.
+shi It's all right. Makes us a little bit more even.
+#$ cha sol_side_neutral
+cha sol_side_neutral
+# sol Good bye, captain.
+sol Good bye, captain.
+#$ hid sol
+hid sol
+#$ dbg hide
+dbg hide
+#$ var done_sol7
+var done_sol7
+#$ var unlock_lyn6
+var unlock_lyn6
+#$ map
+map
+#$ 
+
+#$ tag chap6_reviewfindings_captainquarter
+tag chap6_reviewfindings_captainquarter
+#$ dbg spr_bg_captainsquarter
+dbg spr_bg_captainsquarter
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ cha lyn_handonhip_focustalk
+cha lyn_handonhip_focustalk
+# lyn I've managed to restore the data inside the crystal and recover a huge amount of historical information about ancient Ryuvia.
+lyn I've managed to restore the data inside the crystal and recover a huge amount of historical information about ancient Ryuvia.
+#$ cha lyn_armsonhips_slygrin
+cha lyn_armsonhips_slygrin
+# lyn Heh, it'd take you quite a bit of time to read it all if you're not a Prototype like me, so I've went ahead and summarized the juicy bits, as well as filled in the gaps in the historical records using our own findings.
+lyn Heh, it'd take you quite a bit of time to read it all if you're not a Prototype like me, so I've went ahead and summarized the juicy bits, as well as filled in the gaps in the historical records using our own findings.
+#$ var lyn_aff
+var lyn_aff
+#$ cha lyn_armscrossed_sigh
+cha lyn_armscrossed_sigh
+# lyn Yeah, no need to thank me, your handy little magical girl who can do all this for you. Anyways, why don't you have a gander? It's all pretty interesting stuff...
+lyn Yeah, no need to thank me, your handy little magical girl who can do all this for you. Anyways, why don't you have a gander? It's all pretty interesting stuff...
+#$ flag
+flag
+#$ hid lyn
+hid lyn
+#$ dbg hide
+dbg hide
+#$ var done_lyn6
+var done_lyn6
+#$ var unlock_cla3
+var unlock_cla3
+#$ var unlock_ica3
+var unlock_ica3
+#$ var unlock_ava3
+var unlock_ava3
+#$ var unlock_sol2
+var unlock_sol2
+#$ var unlock_kry1
+var unlock_kry1
+#$ var unlock_lynm1
+var unlock_lynm1
+#$ var unlock_shipmap
+var unlock_shipmap
+#$ map
+map
+#$ 
+
+#$ tag chap6_claudetalk_bamboozled
+tag chap6_claudetalk_bamboozled
+#$ ///Sickbay
+///Sickbay
+#$ dbg spr_bg_sickbay
+dbg spr_bg_sickbay
+#$ mus mus_As_I_Figure
+mus mus_As_I_Figure
+#$ ccc cla_nurse
+ccc cla_nurse
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha shi_curious
+cha shi_curious
+# shi Claude?
+shi Claude?
+#$ voi cla_neu1
+voi cla_neu1
+#$ cha cla_armscrossed_talk
+cha cla_armscrossed_talk
+# cla Welcome to the sickbay, captain. Is something the matter?
+cla Welcome to the sickbay, captain. Is something the matter?
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi I've been thinking about what we talked about last time...
+shi I've been thinking about what we talked about last time...
+# shi Honestly, I was a little worried when we entered that Ryuvian temple. Thought it would be another death trap. And heh, I guess it was. But we still managed to get the coordinates of Crow Harbor's lair out of there.
+shi Honestly, I was a little worried when we entered that Ryuvian temple. Thought it would be another death trap. And heh, I guess it was. But we still managed to get the coordinates of Crow Harbor's lair out of there.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi So I guess you were right about the temple in the end.
+shi So I guess you were right about the temple in the end.
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi Sigh.
+shi Sigh.
+#$ voi cla_sad3
+voi cla_sad3
+#$ cha cla_pout_funnyregret
+cha cla_pout_funnyregret
+# cla But judging from that sigh, I imagine that you still do not fully trust me, captain?
+cla But judging from that sigh, I imagine that you still do not fully trust me, captain?
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi Listen Claude. After all we've been through together, don't you think you should open up to me a little? I still basically know nothing about you.
+shi Listen Claude. After all we've been through together, don't you think you should open up to me a little? I still basically know nothing about you.
+#$ voi cla_neu4
+voi cla_neu4
+#$ cha cla_armscrossed_closedeyehappy
+cha cla_armscrossed_closedeyehappy
+# cla Well captain, you should have only asked sooner. My three sizes are-
+cla Well captain, you should have only asked sooner. My three sizes are-
+#$ cha shi_focus
+cha shi_focus
+# shi No more jokes, Claude! Tell me what you're really after!
+shi No more jokes, Claude! Tell me what you're really after!
+#$ voi cla_sad1
+voi cla_sad1
+#$ cha cla_pout_sadpout
+cha cla_pout_sadpout
+# cla Sigh... All right captain. I'll tell you the truth.
+cla Sigh... All right captain. I'll tell you the truth.
+#$ cha cla_pout_sadtalk
+cha cla_pout_sadtalk
+# cla The truth is...
+cla The truth is...
+#$ voi cla_hap1
+voi cla_hap1
+#$ cha cla_pout_surprise
+cha cla_pout_surprise
+# cla What I've been saying from the very beginning! All I want is you!
+cla What I've been saying from the very beginning! All I want is you!
+#$ voi cla_hap4
+voi cla_hap4
+#$ cha cla_squish_heartkitty
+cha cla_squish_heartkitty
+# cla From the moment I laid eyes on you, I knew that you would be Mr. Right! My heroic, dashing space captain! Here to sweep me off my feet, into your strong manly arms! Oohohoho, I've seem 'em arms, all right. Ripping biceps of pure beef.
+cla From the moment I laid eyes on you, I knew that you would be Mr. Right! My heroic, dashing space captain! Here to sweep me off my feet, into your strong manly arms! Oohohoho, I've seem 'em arms, all right. Ripping biceps of pure beef.
+#$ voi cla_sur1
+voi cla_sur1
+#$ cha cla_armscrossed_imagination
+cha cla_armscrossed_imagination
+# cla Oh captain, you can do whatever you want with me! I am at your command!
+cla Oh captain, you can do whatever you want with me! I am at your command!
+#$ cha shi_resigned
+cha shi_resigned
+# shi Ugh, you're just saying that, aren't you?
+shi Ugh, you're just saying that, aren't you?
+#$ voi cla_neu9
+voi cla_neu9
+#$ cha cla_handsonhips_sadtalk
+cha cla_handsonhips_sadtalk
+# cla Oh, don't be so down on yourself, captain. Sure, your last relationship... kind of went down in a blazing fireball. But where you see pain, I see opportunity!
+cla Oh, don't be so down on yourself, captain. Sure, your last relationship... kind of went down in a blazing fireball. But where you see pain, I see opportunity!
+#$ cha cla_handsonhips_confidentkitty
+cha cla_handsonhips_confidentkitty
+# cla Oh, simply give the word and I can lock the doors, shut off the lights, and turn this sickbay into our personal nest of love!
+cla Oh, simply give the word and I can lock the doors, shut off the lights, and turn this sickbay into our personal nest of love!
+#$ cha cla_handsonhips_impliedgrin
+cha cla_handsonhips_impliedgrin
+# cla After all, wasn't it lonely? Spending all that time in Tydaria, by your lonesome...
+cla After all, wasn't it lonely? Spending all that time in Tydaria, by your lonesome...
+# cla I can give you everything that you've wanted...
+cla I can give you everything that you've wanted...
+#$ cha shi_frown
+cha shi_frown
+# shi Claude...
+shi Claude...
+#$ voi cla_sur2
+voi cla_sur2
+#$ cha cla_handsonhips_focushappy
+cha cla_handsonhips_focushappy
+# cla I know what you want... A voice, telling you that you're right. A voice to affirm all your decisions. A voice to tell you that all your mistakes were due to the shortcomings of others and not your own. I can whisper into your ears all night how you're my mighty captain, strong and righteous.
+cla I know what you want... A voice, telling you that you're right. A voice to affirm all your decisions. A voice to tell you that all your mistakes were due to the shortcomings of others and not your own. I can whisper into your ears all night how you're my mighty captain, strong and righteous.
+#$ cha cla_squish_happythink
+cha cla_squish_happythink
+# cla Hold me right now and I can be yours...
+cla Hold me right now and I can be yours...
+# cla And if you wish, I can pleasure you however way you want...
+cla And if you wish, I can pleasure you however way you want...
+#$ voi cla_hap4
+voi cla_hap4
+#$ cha cla_squish_confidentkitty
+cha cla_squish_confidentkitty
+# cla All the positions you can dream of. I can do them all, if it's with you, captain. Just come to me... and I will make you happy.
+cla All the positions you can dream of. I can do them all, if it's with you, captain. Just come to me... and I will make you happy.
+#$ cha shi_focusthink
+cha shi_focusthink
+# shi I...
+shi I...
+#$ cha cla_armscrossed_kitty
+cha cla_armscrossed_kitty
+# cla Don't you want to be happy, captain? Aren't you tired of being... so... limp?
+cla Don't you want to be happy, captain? Aren't you tired of being... so... limp?
+#$ cha shi_closedeyes
+cha shi_closedeyes
+# shi ... ... ...
+shi ... ... ...
+#$ var done_cla3
+var done_cla3
+#$ sou sou_doorclose
+sou sou_doorclose
+#$ dbg spr_bg_maraycorridor
+dbg spr_bg_maraycorridor
+#$ cha shi_rattled
+cha shi_rattled
+# shi (Shit...! That was close.)
+shi (Shit...! That was close.)
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi (To think that I actually got tempted by Claude of all people...)
+shi (To think that I actually got tempted by Claude of all people...)
+# shi (In the end, she's got one bombshell of a body and always knows all the right words to speak to me... and ugh, it's been so long since I've seen a woman...!)
+shi (In the end, she's got one bombshell of a body and always knows all the right words to speak to me... and ugh, it's been so long since I've seen a woman...!)
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi (But I've got a job to do here. I can't get distracted by the first hot piece of eye candy to bat her eyelashes at me. After all, if I hadn't been so easily tricked the first time around, I wouldn't be in this situation in the first place...)
+shi (But I've got a job to do here. I can't get distracted by the first hot piece of eye candy to bat her eyelashes at me. After all, if I hadn't been so easily tricked the first time around, I wouldn't be in this situation in the first place...)
+#$ cha shi_focus
+cha shi_focus
+# shi (Focus, Shields! Focus! You're the captain! You can screw everything up this time around!)
+shi (Focus, Shields! Focus! You're the captain! You can screw everything up this time around!)
+#$ cha shi_closedeyes
+cha shi_closedeyes
+# shi ... ... ...
+shi ... ... ...
+# shi ... ...
+shi ... ...
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+# shi ...
+shi ...
+#$ cha shi_stunned
+cha shi_stunned
+# shi (Fuuuuck! I can't believe I actually walked away from that deal!)
+shi (Fuuuuck! I can't believe I actually walked away from that deal!)
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ hid cla
+hid cla
+#$ dbg hide
+dbg hide
+#$ map
+map
+#$ 
+
+#$ 
+
+#$ tag chap6_claudetalk_truth
+tag chap6_claudetalk_truth
+#$ ///Sickbay
+///Sickbay
+#$ dbg spr_bg_sickbay
+dbg spr_bg_sickbay
+#$ mus mus_As_I_Figure
+mus mus_As_I_Figure
+#$ ccc cla_nurse
+ccc cla_nurse
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha shi_curious
+cha shi_curious
+# shi Claude?
+shi Claude?
+#$ voi cla_neu1
+voi cla_neu1
+#$ cha cla_armscrossed_talk
+cha cla_armscrossed_talk
+# cla Welcome to the sickbay, captain. Is something the matter?
+cla Welcome to the sickbay, captain. Is something the matter?
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi I've been thinking about what we talked about last time...
+shi I've been thinking about what we talked about last time...
+# shi Honestly, I was a little worried when we entered that Ryuvian temple. Thought it would be another death trap. And heh, I guess it was. But we still managed to get the coordinates of Crow Harbor's lair out of there.
+shi Honestly, I was a little worried when we entered that Ryuvian temple. Thought it would be another death trap. And heh, I guess it was. But we still managed to get the coordinates of Crow Harbor's lair out of there.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi So I guess you were right about the temple in the end.
+shi So I guess you were right about the temple in the end.
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi Sigh.
+shi Sigh.
+#$ voi cla_sad1
+voi cla_sad1
+#$ cha cla_pout_funnyregret
+cha cla_pout_funnyregret
+# cla But judging from that sigh, I imagine that you still do not fully trust me, captain?
+cla But judging from that sigh, I imagine that you still do not fully trust me, captain?
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi Listen Claude. After all we've been through together, don't you think you should open up to me a little? I still basically know nothing about you.
+shi Listen Claude. After all we've been through together, don't you think you should open up to me a little? I still basically know nothing about you.
+#$ voi cla_neu4
+voi cla_neu4
+#$ cha cla_armscrossed_closedeyehappy
+cha cla_armscrossed_closedeyehappy
+# cla Well captain, you should have only asked sooner. My three sizes are-
+cla Well captain, you should have only asked sooner. My three sizes are-
+#$ cha shi_focus
+cha shi_focus
+# shi No more jokes, Claude! Tell me what you're really after!
+shi No more jokes, Claude! Tell me what you're really after!
+#$ voi cla_sad1
+voi cla_sad1
+#$ cha cla_pout_sadpout
+cha cla_pout_sadpout
+# cla Sigh... All right captain. I'll tell you the truth.
+cla Sigh... All right captain. I'll tell you the truth.
+#$ cha cla_pout_sadtalk
+cha cla_pout_sadtalk
+# cla The truth is...
+cla The truth is...
+#$ voi cla_hap1
+voi cla_hap1
+#$ cha cla_pout_surprise
+cha cla_pout_surprise
+# cla What I've been saying from the very beginning! All I want is you!
+cla What I've been saying from the very beginning! All I want is you!
+#$ voi cla_neu9
+voi cla_neu9
+#$ cha cla_squish_heartkitty
+cha cla_squish_heartkitty
+# cla From the moment I laid eyes on you, I knew that you would be Mr. Right! My heroic, dashing space captain! Here to sweep me off my feet, into your strong manly arms! Oohohoho, I've seem 'em arms, all right. Ripping biceps of pure beef.
+cla From the moment I laid eyes on you, I knew that you would be Mr. Right! My heroic, dashing space captain! Here to sweep me off my feet, into your strong manly arms! Oohohoho, I've seem 'em arms, all right. Ripping biceps of pure beef.
+#$ voi cla_sur1
+voi cla_sur1
+#$ cha cla_armscrossed_imagination
+cha cla_armscrossed_imagination
+# cla Oh captain, you can do whatever you want with me! I am at your command!
+cla Oh captain, you can do whatever you want with me! I am at your command!
+#$ cha shi_resigned
+cha shi_resigned
+# shi Ugh, you're just saying that, aren't you?
+shi Ugh, you're just saying that, aren't you?
+#$ voi cla_neu4
+voi cla_neu4
+#$ cha cla_handsonhips_sadtalk
+cha cla_handsonhips_sadtalk
+# cla Oh, don't be so down on yourself, captain. Sure, your last relationship... kind of went down in a blazing fireball. But where you see pain, I see opportunity!
+cla Oh, don't be so down on yourself, captain. Sure, your last relationship... kind of went down in a blazing fireball. But where you see pain, I see opportunity!
+#$ voi cla_hap4
+voi cla_hap4
+#$ cha cla_handsonhips_confidentkitty
+cha cla_handsonhips_confidentkitty
+# cla Oh, simply give the word and I can lock the doors, shut off the lights, and turn this sickbay into our personal nest of love!
+cla Oh, simply give the word and I can lock the doors, shut off the lights, and turn this sickbay into our personal nest of love!
+#$ cha cla_handsonhips_impliedgrin
+cha cla_handsonhips_impliedgrin
+# cla After all, wasn't it lonely? Spending all that time in Tydaria, by your lonesome...
+cla After all, wasn't it lonely? Spending all that time in Tydaria, by your lonesome...
+# cla I can give you everything that you've wanted...
+cla I can give you everything that you've wanted...
+#$ cha shi_frown
+cha shi_frown
+# shi Claude...
+shi Claude...
+#$ voi cla_sur2
+voi cla_sur2
+#$ cha cla_handsonhips_focushappy
+cha cla_handsonhips_focushappy
+# cla I know what you want... A voice, telling you that you're right. A voice to affirm all your decisions. A voice to tell you that all your mistakes were due to the shortcomings of others and not your own. I can whisper into your ears all night how you're my mighty captain, strong and righteous.
+cla I know what you want... A voice, telling you that you're right. A voice to affirm all your decisions. A voice to tell you that all your mistakes were due to the shortcomings of others and not your own. I can whisper into your ears all night how you're my mighty captain, strong and righteous.
+#$ cha cla_squish_happythink
+cha cla_squish_happythink
+# cla Hold me right now and I can be yours...
+cla Hold me right now and I can be yours...
+# cla And if you wish, I can pleasure you however way you want...
+cla And if you wish, I can pleasure you however way you want...
+#$ voi cla_hap4
+voi cla_hap4
+#$ cha cla_squish_confidentkitty
+cha cla_squish_confidentkitty
+# cla All the positions you can dream of. I can do them all, if it's with you, captain. Just come to me... and I will make you happy.
+cla All the positions you can dream of. I can do them all, if it's with you, captain. Just come to me... and I will make you happy.
+#$ cha shi_focusthink
+cha shi_focusthink
+# shi I...
+shi I...
+#$ cha cla_armscrossed_kitty
+cha cla_armscrossed_kitty
+# cla Don't you want to be happy, captain? Aren't you tired of being... so... limp?
+cla Don't you want to be happy, captain? Aren't you tired of being... so... limp?
+#$ cha shi_closedeyes
+cha shi_closedeyes
+# shi ... ... ...
+shi ... ... ...
+#$ var done_cla3
+var done_cla3
+#$ mus mus_destinys_path
+mus mus_destinys_path
+#$ cha shi_angry
+cha shi_angry
+# shi I'm not biting, Claude. You were working for the Prototypes, just like Chigara. You know, there's a saying about situations like this... Fool me once, shame on-
+shi I'm not biting, Claude. You were working for the Prototypes, just like Chigara. You know, there's a saying about situations like this... Fool me once, shame on-
+#$ voi cla_sad1
+voi cla_sad1
+#$ cha cla_pout_funnysigh
+cha cla_pout_funnysigh
+# cla Siigghh. You're really walking away, captain? From the deal of a lifetime?
+cla Siigghh. You're really walking away, captain? From the deal of a lifetime?
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi I'm not going to be tricked. Not twice!
+shi I'm not going to be tricked. Not twice!
+#$ voi cla_neu8
+voi cla_neu8
+#$ cha cla_handsonhips_surprised
+cha cla_handsonhips_surprised
+# cla Well, perhaps the captain is more clever than ol' Claude gave him credit for. After all, that's why Claude holds him in such high respect. But listen to me for once. I'm not the evil succubus you think I am.
+cla Well, perhaps the captain is more clever than ol' Claude gave him credit for. After all, that's why Claude holds him in such high respect. But listen to me for once. I'm not the evil succubus you think I am.
+#$ voi cla_neu6
+voi cla_neu6
+#$ cha cla_pout_surprise
+cha cla_pout_surprise
+# cla From the bottom of Claude's heart, I want to restore the captain's smile to his face. Just like his younger days.
+cla From the bottom of Claude's heart, I want to restore the captain's smile to his face. Just like his younger days.
+#$ var cla_aff
+var cla_aff
+#$ voi cla_sad1
+voi cla_sad1
+#$ cha cla_armscrossed_talk
+cha cla_armscrossed_talk
+# cla It truly is a shame that past events have left you such an distrustful, paranoid individual. But rest assured, my role on this ship is to nurse your mental health back to form. I am the ship doctor, you know.
+cla It truly is a shame that past events have left you such an distrustful, paranoid individual. But rest assured, my role on this ship is to nurse your mental health back to form. I am the ship doctor, you know.
+#$ voi cla_neu4
+voi cla_neu4
+#$ cha cla_armscrossed_sadtalk
+cha cla_armscrossed_sadtalk
+# cla Perhaps once all of this is over, you can once again start believing in me. I truly look forward to that day...
+cla Perhaps once all of this is over, you can once again start believing in me. I truly look forward to that day...
+#$ cha shi_sigh
+cha shi_sigh
+# shi Y-You know...
+shi Y-You know...
+# shi It's not like I can't stand you, doctor. You've been an invaluable part of the crew. Without you, we would never have even recovered that data crystal from the Ryuvian temple...
+shi It's not like I can't stand you, doctor. You've been an invaluable part of the crew. Without you, we would never have even recovered that data crystal from the Ryuvian temple...
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi Look, half of the crew has checkered backgrounds. I'm not proud of the things I've done in the past either. So I can't hate you for what you've done.
+shi Look, half of the crew has checkered backgrounds. I'm not proud of the things I've done in the past either. So I can't hate you for what you've done.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi It's just... I don't know how to handle you. You're... just too big for me.
+shi It's just... I don't know how to handle you. You're... just too big for me.
+#$ voi cla_sur3
+voi cla_sur3
+#$ cha cla_pout_sadpout
+cha cla_pout_sadpout
+# cla Eeeeh?! Are you implying that I should go on a diet, captain?!
+cla Eeeeh?! Are you implying that I should go on a diet, captain?!
+#$ cha shi_shout
+cha shi_shout
+# shi I didn't mean that, you idiot!
+shi I didn't mean that, you idiot!
+#$ cha shi_madgroan
+cha shi_madgroan
+# shi Nevermind. I... don't have anything more to add.
+shi Nevermind. I... don't have anything more to add.
+# shi Attend to your duties. As you were, doctor.
+shi Attend to your duties. As you were, doctor.
+#$ voi cla_neu2
+voi cla_neu2
+#$ cha cla_armscrossed_laugh
+cha cla_armscrossed_laugh
+# cla Sah yes sah, captain! As you command!
+cla Sah yes sah, captain! As you command!
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ hid cla
+hid cla
+#$ dbg hide
+dbg hide
+#$ map
+map
+#$ 
+
+#$ tag chap6_ica_side2_start
+tag chap6_ica_side2_start
+#$ //Cargo hold
+//Cargo hold
+#$ dbg spr_bg_cargohold
+dbg spr_bg_cargohold
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc ica_uni
+ccc ica_uni
+#$ voi ica_neu1
+voi ica_neu1
+#$ cha ica_handsonhips_smirk
+cha ica_handsonhips_smirk
+# ica Hey cap. Wanna hear something cool?
+ica Hey cap. Wanna hear something cool?
+#$ cha shi_curious
+cha shi_curious
+# shi Cool? You've got my attention.
+shi Cool? You've got my attention.
+#$ voi ica_neu3
+voi ica_neu3
+#$ cha ica_handsonhips_talk
+cha ica_handsonhips_talk
+# ica I just got a ping on the holonet that the Package is going to pass through Ongess on a unregistered transport along with a squad of paid guns. We could swoop in, take the paid goons out, and nab the Package for ourselves...
+ica I just got a ping on the holonet that the Package is going to pass through Ongess on a unregistered transport along with a squad of paid guns. We could swoop in, take the paid goons out, and nab the Package for ourselves...
+#$ cha shi_surprise
+cha shi_surprise
+# shi Back up, Icari. The Package? What even is the Package?
+shi Back up, Icari. The Package? What even is the Package?
+#$ voi ica_sur4
+voi ica_sur4
+#$ cha ica_armscrossed_mildsurprise
+cha ica_armscrossed_mildsurprise
+# ica You mean you don't know about the Package? The super secret cargo of holonet legend?
+ica You mean you don't know about the Package? The super secret cargo of holonet legend?
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi Ugh, don't tell me we're chasing after holonet legends now...
+shi Ugh, don't tell me we're chasing after holonet legends now...
+#$ voi ica_sad1
+voi ica_sad1
+#$ cha ica_armscrossed_confused
+cha ica_armscrossed_confused
+# ica The Package is real. That much I'm sure of. And whatever it is, it could change our galaxy forever. Hey, this could be as big as Crow Harbor's Lost Fleet, and you don't see me doubting whether that exists, do you?
+ica The Package is real. That much I'm sure of. And whatever it is, it could change our galaxy forever. Hey, this could be as big as Crow Harbor's Lost Fleet, and you don't see me doubting whether that exists, do you?
+#$ cha shi_smirk
+cha shi_smirk
+# shi ...Touche.
+shi ...Touche.
+# shi So what's in the Package, exactly? Lost Technology?
+shi So what's in the Package, exactly? Lost Technology?
+#$ voi neu_ang4
+voi neu_ang4
+#$ cha ica_back_talk
+cha ica_back_talk
+# ica Whatever it is, this is our best shot at finding out. Who knows, we could make off like Ongessite barons if we sell whatever we find!
+ica Whatever it is, this is our best shot at finding out. Who knows, we could make off like Ongessite barons if we sell whatever we find!
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+# shi (So in the end, you have no idea what's in the Package, Icari?)
+shi (So in the end, you have no idea what's in the Package, Icari?)
+#$ cha ica_armcrossed_neutral
+cha ica_armcrossed_neutral
+#$ 
+
+#$ cc0 chap6_icaside2
+cc0 chap6_icaside2
+#$ cc1 Let's get our hands on it and see for ourselves.
+cc1 Let's get our hands on it and see for ourselves.
+#$ cc2 It's not worth the risk.
+cc2 It's not worth the risk.
+#$ 
+
+#$ tag chap6_icaside2_cc1
+tag chap6_icaside2_cc1
+#$ var ica_aff
+var ica_aff
+#$ voi ica_hap1
+voi ica_hap1
+#$ cha ica_back_smirk
+cha ica_back_smirk
+# ica Heh, I knew you were the right man for this job. All right, I've marked the position of the transport convoy on the navi-computer. Once you're ready, we can warp to Ongess and get this mission started.
+ica Heh, I knew you were the right man for this job. All right, I've marked the position of the transport convoy on the navi-computer. Once you're ready, we can warp to Ongess and get this mission started.
+#$ hid ica
+hid ica
+#$ dbg hide
+dbg hide
+#$ var done_ica3
+var done_ica3
+#$ var unlock_side_ica3
+var unlock_side_ica3
+#$ map
+map
+#$ 
+
+#$ tag chap6_icaside2_cc2
+tag chap6_icaside2_cc2
+#$ voi ica_sad1
+voi ica_sad1
+#$ cha ica_back_annoyed
+cha ica_back_annoyed
+# ica Sigh, suit yourself then. I guess I can read up some more threads on the holonet, see what everyone else is saying about what's in the Package...
+ica Sigh, suit yourself then. I guess I can read up some more threads on the holonet, see what everyone else is saying about what's in the Package...
+#$ hid ica
+hid ica
+#$ dbg hide
+dbg hide
+#$ map
+map
+#$ 
+
+#$ tag chap6_icaside2_start
+tag chap6_icaside2_start
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ voi ica_hap1
+voi ica_hap1
+#$ cha ica_handsonhips_focustalk
+cha ica_handsonhips_focustalk
+# ica There's the transport right there, surrounded by local mercenaries and Iron Brotherhood soldiers.
+ica There's the transport right there, surrounded by local mercenaries and Iron Brotherhood soldiers.
+#$ voi ica_ang1
+voi ica_ang1
+#$ cha ica_point_angrytalk
+cha ica_point_angrytalk
+# ica Wait, shit! The transport's running away! Come on - let's take out its friends before it gets away!
+ica Wait, shit! The transport's running away! Come on - let's take out its friends before it gets away!
+#$ hid ica
+hid ica
+# obj Defeat all enemies before the transport escapes!
+obj Defeat all enemies before the transport escapes!
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_icaside2_end
+tag chap6_icaside2_end
+#$ //Cargo hold
+//Cargo hold
+#$ dbg spr_bg_cargohold
+dbg spr_bg_cargohold
+#$ mus mus_colors_main
+mus mus_colors_main
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc sol_plugsuit
+ccc sol_plugsuit
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ ccc cla_plugsuit
+ccc cla_plugsuit
+#$ voi ava_neu1
+voi ava_neu1
+#$ cha ava_armup_shocked
+cha ava_armup_shocked
+# ava Captain, we have secured the cargo container. Could this truly be the fabled Package?
+ava Captain, we have secured the cargo container. Could this truly be the fabled Package?
+#$ hid ava
+hid ava
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi Icari sure thinks so. Lynn, have you finished your scans?
+shi Icari sure thinks so. Lynn, have you finished your scans?
+#$ voi lyn_neu6
+voi lyn_neu6
+#$ cha lyn_handup_focustalk
+cha lyn_handup_focustalk
+# lyn I'm not reading any traps or dangerous substances inside. It should be safe to open.
+lyn I'm not reading any traps or dangerous substances inside. It should be safe to open.
+#$ voi asa_neu4
+voi asa_neu4
+#$ cha lyn_armscrossed_neutral
+cha lyn_armscrossed_neutral
+#$ cha asa_armup_confusedhappy
+cha asa_armup_confusedhappy
+# asa You suppose there'll be a space whale embryo inside...?
+asa You suppose there'll be a space whale embryo inside...?
+#$ voi sol_neu7
+voi sol_neu7
+#$ cha sol_side_focustalk
+cha sol_side_focustalk
+# sol Surely it must be another piece of our nation's Lost Technology...
+sol Surely it must be another piece of our nation's Lost Technology...
+#$ cha asa_armscrossed_neutral
+cha asa_armscrossed_neutral
+#$ cha sol_side_neutral
+cha sol_side_neutral
+#$ voi ica_hap1
+voi ica_hap1
+#$ cha ica_surprise_happy
+cha ica_surprise_happy
+# ica The moment of truth... Open sesame!
+ica The moment of truth... Open sesame!
+#$ cha shi_closedeyes
+cha shi_closedeyes
+# shi ... ... ...
+shi ... ... ...
+#$ mus stop
+mus stop
+#$ sou sou_recordscratch
+sou sou_recordscratch
+#$ cha lyn_armscrossed_sigh
+cha lyn_armscrossed_sigh
+#$ cha asa_armup_stunned
+cha asa_armup_stunned
+#$ cha sol_side_lookawaysad
+cha sol_side_lookawaysad
+#$ cha shi_blank
+cha shi_blank
+# shi Nothing. There's nothing inside.
+shi Nothing. There's nothing inside.
+#$ mus mus_As_I_Figure
+mus mus_As_I_Figure
+#$ voi ica_sur5
+voi ica_sur5
+#$ cha ica_surprise_madugh
+cha ica_surprise_madugh
+# ica W-What...?! This must all be a mistake! I was sure this was the Package!
+ica W-What...?! This must all be a mistake! I was sure this was the Package!
+#$ voi ica_ang1
+voi ica_ang1
+#$ cha ica_surprise_realisation
+cha ica_surprise_realisation
+# ica Wait a minute... could this have been a false flag operation? Maybe the Package was on another transport all this time! Shit!
+ica Wait a minute... could this have been a false flag operation? Maybe the Package was on another transport all this time! Shit!
+#$ voi asa_sad2
+voi asa_sad2
+#$ cha asa_shrug_catlaugh
+cha asa_shrug_catlaugh
+# asa All that effort for nothing, eh...
+asa All that effort for nothing, eh...
+#$ voi cla_neu5
+voi cla_neu5
+#$ cha cla_pout_regret
+cha cla_pout_regret
+# cla Perhaps the true treasure is the experience we have gained from this mission.
+cla Perhaps the true treasure is the experience we have gained from this mission.
+#$ cha shi_sigh
+cha shi_sigh
+# shi Yeah. The experience of rising anticipation, followed by mild disappointment.
+shi Yeah. The experience of rising anticipation, followed by mild disappointment.
+#$ hid cla
+hid cla
+#$ hid sol
+hid sol
+#$ hid asa
+hid asa
+#$ hid lyn
+hid lyn
+#$ var ica_aff
+var ica_aff
+#$ voi ica_ang1
+voi ica_ang1
+#$ cha ica_armcrossed_concern
+cha ica_armcrossed_concern
+# ica Shit...! I'm gonna have to dive deeper into the holonet now... I've got to find out what's in the Package for real! Uggh, or else I'm not gonna get any sleep at all...
+ica Shit...! I'm gonna have to dive deeper into the holonet now... I've got to find out what's in the Package for real! Uggh, or else I'm not gonna get any sleep at all...
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi (Some holonet myths will always remain myths, Icari...)
+shi (Some holonet myths will always remain myths, Icari...)
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ hid ica
+hid ica
+#$ hid shi
+hid shi
+#$ dbg hide
+dbg hide
+#$ var done_side_ica3
+var done_side_ica3
+#$ map
+map
+#$ 
+
+#$ tag chap6_avaside2_start
+tag chap6_avaside2_start
+#$ //Captain's Office
+//Captain's Office
+#$ dbg spr_bg_captainsquarter
+dbg spr_bg_captainsquarter
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ voi ava_neu1
+voi ava_neu1
+#$ cha ava_armcrossed_shout
+cha ava_armcrossed_shout
+# ava Captain, we have a situation.
+ava Captain, we have a situation.
+#$ cha shi_neu
+cha shi_neu
+# shi Report.
+shi Report.
+#$ voi ava_neu4
+voi ava_neu4
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+# ava PACT has discovered the location of the Ceran Resistance Movement's secret base on Tydaria and are moving in to eradicate it. My contacts within the Resistance need the Maray to divert course to Tydaria to distract the PACT fleet while they make their getaway.
+ava PACT has discovered the location of the Ceran Resistance Movement's secret base on Tydaria and are moving in to eradicate it. My contacts within the Resistance need the Maray to divert course to Tydaria to distract the PACT fleet while they make their getaway.
+#$ cha ava_armup_happytalk
+cha ava_armup_happytalk
+# ava If this mission is successful, the Resistance has pledged to increase their support for our mission to find Crow Harbor's Lost Fleet. This could be our chance to win their backing as well as ensure that the Resistance continues to be a thorn in PACT's side.
+ava If this mission is successful, the Resistance has pledged to increase their support for our mission to find Crow Harbor's Lost Fleet. This could be our chance to win their backing as well as ensure that the Resistance continues to be a thorn in PACT's side.
+#$ cc0 chap6_avaside2_choice
+cc0 chap6_avaside2_choice
+#$ cc1 Let's do it.
+cc1 Let's do it.
+#$ cc2 Our priorities are elsewhere.
+cc2 Our priorities are elsewhere.
+#$ 
+
+#$ tag chap6_avaside2_choice_cc1
+tag chap6_avaside2_choice_cc1
+#$ var ava_aff
+var ava_aff
+#$ voi ava_hap2
+voi ava_hap2
+#$ cha ava_armup_agreesmile
+cha ava_armup_agreesmile
+# ava Understood, captain. I have inputted the coordinates into the navi-computer. Let us make haste to Tydaria.
+ava Understood, captain. I have inputted the coordinates into the navi-computer. Let us make haste to Tydaria.
+#$ hid ava
+hid ava
+#$ dbg hide
+dbg hide
+#$ var unlock_side_ava2
+var unlock_side_ava2
+#$ var done_ava3
+var done_ava3
+#$ map
+map
+#$ 
+
+#$ tag chap6_avaside2_choice_cc2
+tag chap6_avaside2_choice_cc2
+#$ voi ava_ang1
+voi ava_ang1
+#$ cha ava_facepalm_troubled
+cha ava_facepalm_troubled
+# ava Is this truly wise, captain? The Resistance requires our help. If we are not there to distract the PACT fleet, then their numbers will be decimated.
+ava Is this truly wise, captain? The Resistance requires our help. If we are not there to distract the PACT fleet, then their numbers will be decimated.
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi It's a tough call. But we're fighting against time in our search for the Lost Fleet and Admiral Kuushana is hot on our heels. Now is not the time to take additional risks.
+shi It's a tough call. But we're fighting against time in our search for the Lost Fleet and Admiral Kuushana is hot on our heels. Now is not the time to take additional risks.
+#$ voi ava_neu2
+voi ava_neu2
+#$ cha ava_facepalm_worriedclosedeyes
+cha ava_facepalm_worriedclosedeyes
+# ava Very well, captain.
+ava Very well, captain.
+#$ hid ava
+hid ava
+#$ dbg hide
+dbg hide
+#$ map
+map
+#$ 
+
+#$ tag chap6_avaside2_mission
+tag chap6_avaside2_mission
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ voi ava_neu2
+voi ava_neu2
+#$ cha ava_armscrossed_focustalk
+cha ava_armscrossed_focustalk
+# ava The PACT fleet is ahead. We must attract their attention while the Resistance agents escape!
+ava The PACT fleet is ahead. We must attract their attention while the Resistance agents escape!
+#$ hid ava
+hid ava
+# obj Hold out against the PACT fleet for 8 turns.
+obj Hold out against the PACT fleet for 8 turns.
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_avaside2_end
+tag chap6_avaside2_end
+#$ voi ava_hap1
+voi ava_hap1
+#$ cha ava_armscrossed_smile
+cha ava_armscrossed_smile
+# ava The last of the Resistance's agents have successfully escaped the planet. The mission is a success!
+ava The last of the Resistance's agents have successfully escaped the planet. The mission is a success!
+#$ var ava_aff
+var ava_aff
+#$ cha shi_shout
+cha shi_shout
+# shi All wings, RTB. Let's get the hell out of here ourselves before the PACT fleet punches any more holes into our hull.
+shi All wings, RTB. Let's get the hell out of here ourselves before the PACT fleet punches any more holes into our hull.
+#$ var done_side_ava2
+var done_side_ava2
+#$ hid shi
+hid shi
+#$ hid ava
+hid ava
+#$ flag
+flag
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_solside1_start
+tag chap6_solside1_start
+#$ //crew quarters, windows
+//crew quarters, windows
+#$ dbg spr_bg_maraymesshall
+dbg spr_bg_maraymesshall
+#$ mus mus_akaifuusen
+mus mus_akaifuusen
+#$ ccc sol_uni
+ccc sol_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ voi sol_neu1
+voi sol_neu1
+#$ cha sol_side_slight
+cha sol_side_slight
+# sol Captain?
+sol Captain?
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi Is something the matter, Sola?
+shi Is something the matter, Sola?
+#$ voi sol_neu4
+voi sol_neu4
+#$ cha sol_side_sadtalk
+cha sol_side_sadtalk
+# sol Nothing. I merely wished to say...
+sol Nothing. I merely wished to say...
+#$ cha sol_side_sadsmile
+cha sol_side_sadsmile
+# sol Now that we have escaped immediate danger and Chief Engineer Lynn has gained control over the temple guardians, we could benefit by returning to the Formotti Nebula and further exploring the temple.
+sol Now that we have escaped immediate danger and Chief Engineer Lynn has gained control over the temple guardians, we could benefit by returning to the Formotti Nebula and further exploring the temple.
+#$ cha sol_front_sadtalk
+cha sol_front_sadtalk
+# sol Our time inside was cut short by the appearance of Admiral Kuushana and the temple guardians. While we have discovered enough crystals to track down the Lost Fleet, who knows what other secrets of the Holy Empire still rest within the temple.
+sol Our time inside was cut short by the appearance of Admiral Kuushana and the temple guardians. While we have discovered enough crystals to track down the Lost Fleet, who knows what other secrets of the Holy Empire still rest within the temple.
+#$ cha sol_front_neutral
+cha sol_front_neutral
+#$ cc0 chap6_solside1_choice
+cc0 chap6_solside1_choice
+#$ cc1 That's a good point. We should return to the temple to investigate it further.
+cc1 That's a good point. We should return to the temple to investigate it further.
+#$ cc2 You all nearly got killed the last time we went in there. It's too dangerous.
+cc2 You all nearly got killed the last time we went in there. It's too dangerous.
+#$ 
+
+#$ tag chap6_solside1_choice_cc1
+tag chap6_solside1_choice_cc1
+#$ var sol_aff
+var sol_aff
+#$ voi sol_neu7
+voi sol_neu7
+#$ cha sol_side_smile
+cha sol_side_smile
+# sol I have marked the temple in the galaxy map. Let us make haste, before PACT decides to return and takes the crystals within.
+sol I have marked the temple in the galaxy map. Let us make haste, before PACT decides to return and takes the crystals within.
+#$ var done_sol2
+var done_sol2
+#$ var unlock_side_sol2
+var unlock_side_sol2
+#$ hid sol
+hid sol
+#$ dbg hide
+dbg hide
+#$ map
+map
+#$ 
+
+#$ tag chap6_solside1_choice_cc2
+tag chap6_solside1_choice_cc2
+#$ voi sol_sad5
+voi sol_sad5
+#$ cha sol_side_lookawaysad
+cha sol_side_lookawaysad
+# sol Very well. I merely wished to be helpful...
+sol Very well. I merely wished to be helpful...
+#$ hid sol
+hid sol
+#$ dbg hide
+dbg hide
+#$ map
+map
+#$ 
+
+#$ tag chap6_solside1_mission
+tag chap6_solside1_mission
+#$ ccc sol_plugsuit
+ccc sol_plugsuit
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ ccc cla_plugsuit
+ccc cla_plugsuit
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ ccc pal_zerosuit
+ccc pal_zerosuit
+#$ voi sol_neu0
+voi sol_neu0
+#$ cha sol_front_confuse
+cha sol_front_confuse
+# sol We have re-entered the temple. This is the last remaining sector we have yet to explore. Perhaps one final data crystal remains here, awaiting discovery.
+sol We have re-entered the temple. This is the last remaining sector we have yet to explore. Perhaps one final data crystal remains here, awaiting discovery.
+#$ voi ica_sad1
+voi ica_sad1
+#$ cha ica_handsonhips_frustrated
+cha ica_handsonhips_frustrated
+# ica Or this could all have been a big waste of time. Ugh, these temple challenges seriously hurt my brain...
+ica Or this could all have been a big waste of time. Ugh, these temple challenges seriously hurt my brain...
+#$ voi kry_ang5
+voi kry_ang5
+#$ cha pal_pain
+cha pal_pain
+# kry We should be out there fighting! These puzzles are an exercise in tedium, nothing more!
+kry We should be out there fighting! These puzzles are an exercise in tedium, nothing more!
+#$ cha pal_shocked
+cha pal_shocked
+#$ cha sol_surprise_surprise
+cha sol_surprise_surprise
+#$ cha ica_surprise_realisation
+cha ica_surprise_realisation
+#$ voi cla_neu9
+voi cla_neu9
+#$ cha cla_handsonhips_closedeyesmirk
+cha cla_handsonhips_closedeyesmirk
+# cla I wouldn't be too sure. My, wouldn't it be something if the next data crystal lets us strap on a Vanguard Cannon to the Maray? Then the captain would be able to show us the power of his manhood once more.
+cla I wouldn't be too sure. My, wouldn't it be something if the next data crystal lets us strap on a Vanguard Cannon to the Maray? Then the captain would be able to show us the power of his manhood once more.
+#$ hid sol
+hid sol
+#$ hid ica
+hid ica
+#$ hid pal
+hid pal
+#$ hid cla
+hid cla
+#$ voi lyn_ang3
+voi lyn_ang3
+#$ cha lyn_point_stunned
+cha lyn_point_stunned
+# lyn There's no way something like that would be possible!
+lyn There's no way something like that would be possible!
+#$ voi asa_hap3
+voi asa_hap3
+#$ cha asa_excited_happy
+cha asa_excited_happy
+# asa It's too soon to give up yet. Come on, let's keep exploring the temple. Maybe we'll find something good in here. Ufufu, like a special Wishall that'll open up our secret routes.
+asa It's too soon to give up yet. Come on, let's keep exploring the temple. Maybe we'll find something good in here. Ufufu, like a special Wishall that'll open up our secret routes.
+#$ cha lyn_armscrossed_sigh
+cha lyn_armscrossed_sigh
+# lyn Siigh, here we go again...
+lyn Siigh, here we go again...
+#$ hid asa
+hid asa
+#$ hid lyn
+hid lyn
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_solside1_end
+tag chap6_solside1_end
+#$ voi lyn_hap1
+voi lyn_hap1
+#$ cha lyn_armscrossed_confidentsly
+cha lyn_armscrossed_confidentsly
+# lyn Final crystal secured. With this, we've explored every part of this temple.
+lyn Final crystal secured. With this, we've explored every part of this temple.
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_handonhip_closedeyessadtalk
+cha lyn_handonhip_closedeyessadtalk
+# lyn Scanning... It's a swing... and a miss.
+lyn Scanning... It's a swing... and a miss.
+#$ voi lyn_ang1
+voi lyn_ang1
+#$ cha lyn_armscrossed_sad
+cha lyn_armscrossed_sad
+# lyn There's nothing in this crystal of value. Just centuries old religious texts.
+lyn There's nothing in this crystal of value. Just centuries old religious texts.
+#$ voi asa_sad2
+voi asa_sad2
+#$ cha asa_shrug_laugh
+cha asa_shrug_laugh
+# asa Aww shucks. So much for secret character routes...
+asa Aww shucks. So much for secret character routes...
+#$ voi cla_sad3
+voi cla_sad3
+#$ cha cla_pout_sadpout
+cha cla_pout_sadpout
+# cla I wanted to see the captain's Vanguard Cannon again...
+cla I wanted to see the captain's Vanguard Cannon again...
+#$ voi ica_sad1
+voi ica_sad1
+#$ cha ica_armscrossed_annoyed
+cha ica_armscrossed_annoyed
+# ica Sigh. What did I tell you?
+ica Sigh. What did I tell you?
+#$ voi sol_neu0
+voi sol_neu0
+#$ cha sol_side_focustalk
+cha sol_side_focustalk
+# sol Stay thy thought. In my time, religious texts could hold deep metaphysical secrets. Transfer what you have found to me and I will attempt to decipher it.
+sol Stay thy thought. In my time, religious texts could hold deep metaphysical secrets. Transfer what you have found to me and I will attempt to decipher it.
+#$ voi lyn_neu6
+voi lyn_neu6
+#$ cha lyn_handup_confuse
+cha lyn_handup_confuse
+# lyn Be my guest. It's not like I would be able to understand what any of it means.
+lyn Be my guest. It's not like I would be able to understand what any of it means.
+#$ voi kry_neu8
+voi kry_neu8
+#$ cha pal_fistup_legacytriumph
+cha pal_fistup_legacytriumph
+# kry Now, let us be out of this temple and resume our fight against PACT!
+kry Now, let us be out of this temple and resume our fight against PACT!
+#$ var done_side_sol2
+var done_side_sol2
+#$ var unlock_sol3
+var unlock_sol3
+#$ hid sol
+hid sol
+#$ hid ica
+hid ica
+#$ hid pal
+hid pal
+#$ hid cla
+hid cla
+#$ hid asa
+hid asa
+#$ hid lyn
+hid lyn
+#$ flag
+flag
+#$ fade
+fade
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_solside1_talk
+tag chap6_solside1_talk
+#$ //Mess hall
+//Mess hall
+#$ dbg spr_bg_maraymesshall
+dbg spr_bg_maraymesshall
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ ccc sol_uni
+ccc sol_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha shi_curious
+cha shi_curious
+# shi Hey Sola. Any luck understanding that text we got from the temple?
+shi Hey Sola. Any luck understanding that text we got from the temple?
+#$ voi sol_hap5
+voi sol_hap5
+#$ cha sol_front_closedeyesslight
+cha sol_front_closedeyesslight
+# sol ... ... ...
+sol ... ... ...
+# sol ZzZz...
+sol ZzZz...
+#$ cha shi_stunned
+cha shi_stunned
+# shi ...Sola?
+shi ...Sola?
+#$ voi sol_hap5
+voi sol_hap5
+#$ cha sol_front_closedeyesslight
+cha sol_front_closedeyesslight
+# sol ZzZzZz...
+sol ZzZzZz...
+#$ voi sol_neu3
+voi sol_neu3
+#$ cha sol_front_slightneutral
+cha sol_front_slightneutral
+# sol Mmm...
+sol Mmm...
+#$ voi sol_sur3
+voi sol_sur3
+#$ cha sol_surprise_surprise
+cha sol_surprise_surprise
+# sol H-Heek! C-Captain?! H-How...
+sol H-Heek! C-Captain?! H-How...
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi Sorry to interrupt your nap. I didn't realize...
+shi Sorry to interrupt your nap. I didn't realize...
+#$ voi sol_sad2
+voi sol_sad2
+#$ cha sol_front_closedeyestalk
+cha sol_front_closedeyestalk
+# sol No... it is merely that ever since we retrieved this crystal, I have been up all night attempting to understand its mysteries...
+sol No... it is merely that ever since we retrieved this crystal, I have been up all night attempting to understand its mysteries...
+#$ mus mus_akaifuusen
+mus mus_akaifuusen
+#$ voi sol_ang5
+voi sol_ang5
+#$ cha sol_front_closedeyessigh
+cha sol_front_closedeyessigh
+# sol The texts of the Church of Ryuvia always speak in riddles and metaphors. And with over twenty thousand named heralds, priestesses, and Sharrs in the holy canon, it becomes difficult to even understand who is speaking at times.
+sol The texts of the Church of Ryuvia always speak in riddles and metaphors. And with over twenty thousand named heralds, priestesses, and Sharrs in the holy canon, it becomes difficult to even understand who is speaking at times.
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi You know, maybe you're overdoing this. We don't even know if these ancient texts contain anything of value. You don't need to exhaust yourself trying to understand them, Sola.
+shi You know, maybe you're overdoing this. We don't even know if these ancient texts contain anything of value. You don't need to exhaust yourself trying to understand them, Sola.
+#$ voi sol_neu0
+voi sol_neu0
+#$ cha sol_side_annoyed
+cha sol_side_annoyed
+# sol No. You mustn't speak such thoughts. Each and every word of the holy scripture holds value.
+sol No. You mustn't speak such thoughts. Each and every word of the holy scripture holds value.
+#$ voi sol_neu7
+voi sol_neu7
+#$ cha sol_side_lookawayfrown
+cha sol_side_lookawayfrown
+# sol So much of our history has been lost. I have heard from Asaga that the majority of Ryuvians are no longer adherents to the Church. The lights of the Sky Temple have gone dark and Asaga has not even seen fit to even appoint a high priestess of the Order. It is now a tourist attraction, where gawkers from across the galaxy pay five credits to tour whilst merchants peddle souvenirs made off-world, in worship of Solaris credits rather than the Infinite Emperor.
+sol So much of our history has been lost. I have heard from Asaga that the majority of Ryuvians are no longer adherents to the Church. The lights of the Sky Temple have gone dark and Asaga has not even seen fit to even appoint a high priestess of the Order. It is now a tourist attraction, where gawkers from across the galaxy pay five credits to tour whilst merchants peddle souvenirs made off-world, in worship of Solaris credits rather than the Infinite Emperor.
+# sol This text is of utmost value. Regardless of whether it leads to Lost Technology or confers some tactical benefit, it is the wisdom of the Infinite Emperor contained within that is the true treasure.
+sol This text is of utmost value. Regardless of whether it leads to Lost Technology or confers some tactical benefit, it is the wisdom of the Infinite Emperor contained within that is the true treasure.
+#$ voi sol_neu2
+voi sol_neu2
+#$ cha sol_side_lookawaysad
+cha sol_side_lookawaysad
+# sol For that, and that alone, it was worth returning to the temple once more.
+sol For that, and that alone, it was worth returning to the temple once more.
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi I... see.
+shi I... see.
+#$ cha shi_smile
+cha shi_smile
+# shi Even though I'm not an adherent to the Church of Ryuvia, I went with Maray and Ava to a nearby shrine for the Winter Festival every year. I guess if you had been there too, you'd be knowledgeable enough to have been a shrine maiden.
+shi Even though I'm not an adherent to the Church of Ryuvia, I went with Maray and Ava to a nearby shrine for the Winter Festival every year. I guess if you had been there too, you'd be knowledgeable enough to have been a shrine maiden.
+#$ cha sol_front_slightneutral
+cha sol_front_slightneutral
+# sol ... ... ...
+sol ... ... ...
+#$ voi sol_ang2
+voi sol_ang2
+#$ cha sol_side_focustalk,blush
+cha sol_side_focustalk,blush
+# sol Dummy.
+sol Dummy.
+#$ cha shi_surprise
+cha shi_surprise
+# shi Wait, I'm not imagining you in a shrine maiden outfit right now! W-Well, I'm sure you'd look nice in one, but that's not what I meant-
+shi Wait, I'm not imagining you in a shrine maiden outfit right now! W-Well, I'm sure you'd look nice in one, but that's not what I meant-
+#$ var sol_aff
+var sol_aff
+#$ cha sol_side_sigh,blush
+cha sol_side_sigh,blush
+# sol ... ... ...
+sol ... ... ...
+#$ voi sol_hap1
+voi sol_hap1
+#$ cha sol_surprise_laugh
+cha sol_surprise_laugh
+# sol I speak of religion and history and all you have in your head are shrine maidens. Alas...
+sol I speak of religion and history and all you have in your head are shrine maidens. Alas...
+#$ cha shi_resigned
+cha shi_resigned
+# shi Heh... Sorry.
+shi Heh... Sorry.
+#$ voi sol_neu4
+voi sol_neu4
+#$ cha sol_back_happy
+cha sol_back_happy
+# sol In any matter, I will continue my study of this text. Sigh... Perhaps it will contain a cure for your foolishness.
+sol In any matter, I will continue my study of this text. Sigh... Perhaps it will contain a cure for your foolishness.
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi Keep me posted, Sola.
+shi Keep me posted, Sola.
+#$ voi sol_ang5
+voi sol_ang5
+#$ cha sol_back_sadlookaway
+cha sol_back_sadlookaway
+# sol Now, where in my holo did I store that Olde Ryuvian to Modern Common Dictionary...?
+sol Now, where in my holo did I store that Olde Ryuvian to Modern Common Dictionary...?
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ var done_sol3
+var done_sol3
+#$ hid sol
+hid sol
+#$ dbg hide
+dbg hide
+#$ map
+map
+#$ 
+
+#$ tag chap6_kryska_talk1
+tag chap6_kryska_talk1
+#$ //Hallway
+//Hallway
+#$ dbg spr_bg_maraycorridor
+dbg spr_bg_maraycorridor
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ ccc pal_zerosuit
+ccc pal_zerosuit
+#$ ccc shi_uni
+ccc shi_uni
+#$ voi kry_neu2
+voi kry_neu2
+#$ cha pal_shoutclosed
+cha pal_shoutclosed
+# kry Captain! Atten-hut!
+kry Captain! Atten-hut!
+#$ cha shi_smile
+cha shi_smile
+# shi At ease, Kryska. You know, you don't have to do that every time we happen to run into each other in the hallway...
+shi At ease, Kryska. You know, you don't have to do that every time we happen to run into each other in the hallway...
+#$ voi kry_neu2
+voi kry_neu2
+#$ cha pal_neu_smile
+cha pal_neu_smile
+# kry But it is a matter of duty. But I digress. There was a matter I wished to discuss with you, if your time permits...
+kry But it is a matter of duty. But I digress. There was a matter I wished to discuss with you, if your time permits...
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi Any time. Is something the matter?
+shi Any time. Is something the matter?
+#$ cha pal_focusthink
+cha pal_focusthink
+# kry Ahem...
+kry Ahem...
+# kry The matter is of a personal nature...
+kry The matter is of a personal nature...
+#$ voi kry_sad2
+voi kry_sad2
+#$ cha pal_regret
+cha pal_regret
+# kry As I would certainly have met my doom had not Icari pulled my cockpit orb out of the wreckage of the Paladin following the attempted coup d'etat, I found it natural to repay my debt to her...
+kry As I would certainly have met my doom had not Icari pulled my cockpit orb out of the wreckage of the Paladin following the attempted coup d'etat, I found it natural to repay my debt to her...
+# kry But when I relayed my gratitude, I only found myself rebuffed by her. On several occasions, in fact.
+kry But when I relayed my gratitude, I only found myself rebuffed by her. On several occasions, in fact.
+#$ cha pal_confused
+cha pal_confused
+# kry She would always respond with, "It's not like I saved you because I like you or anything!" Or something to that effect.
+kry She would always respond with, "It's not like I saved you because I like you or anything!" Or something to that effect.
+#$ cha pal_fistup_focustalk
+cha pal_fistup_focustalk
+# kry Given her numerous retorts at my attempts to relay my gratitude, I found myself thinking...
+kry Given her numerous retorts at my attempts to relay my gratitude, I found myself thinking...
+#$ voi kry_sad3
+voi kry_sad3
+# kry What if she believes that what I did was truly unforgivable. In fact, it is only natural, is it not?
+kry What if she believes that what I did was truly unforgivable. In fact, it is only natural, is it not?
+#$ cha pal_regret
+cha pal_regret
+# kry I was deluded by my emotions into believing that the murder of millions of innocents was the only path to stopping the PACT threat. It... is despicable, is it not? No doubt, Icari will never forgive me for my actions...
+kry I was deluded by my emotions into believing that the murder of millions of innocents was the only path to stopping the PACT threat. It... is despicable, is it not? No doubt, Icari will never forgive me for my actions...
+#$ cha pal_sad
+cha pal_sad
+# kry It is an unfortunate state of affairs... but perhaps one which I must accept, if I am to bear the consequences of my actions...
+kry It is an unfortunate state of affairs... but perhaps one which I must accept, if I am to bear the consequences of my actions...
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi Actually... I get the feeling that's not the issue at all...
+shi Actually... I get the feeling that's not the issue at all...
+# shi Icari... She's just... kind of like that. It's her defining character trait.
+shi Icari... She's just... kind of like that. It's her defining character trait.
+# shi With her, actions speak louder than words. After everything she's been through, it takes more than just kind words to win her trust.
+shi With her, actions speak louder than words. After everything she's been through, it takes more than just kind words to win her trust.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi Instead of trying to speak to her, why not use your actions instead? I'm sure she'd appreciate that more.
+shi Instead of trying to speak to her, why not use your actions instead? I'm sure she'd appreciate that more.
+#$ voi kry_neu6
+voi kry_neu6
+#$ cha pal_neu_widetalk
+cha pal_neu_widetalk
+# kry I... see...!
+kry I... see...!
+#$ voi kry_hap1
+voi kry_hap1
+#$ cha pal_laugh
+cha pal_laugh
+# kry Of course, why did I not see that before?
+kry Of course, why did I not see that before?
+#$ var pal_aff
+var pal_aff
+#$ voi kry_neu8
+voi kry_neu8
+#$ cha pal_armout_realize
+cha pal_armout_realize
+# kry Words are cheap compared to actions, after all! That may be the key to finally repaying my debt to her!
+kry Words are cheap compared to actions, after all! That may be the key to finally repaying my debt to her!
+#$ voi kry_hap4
+voi kry_hap4
+#$ cha pal_playfultalk
+cha pal_playfultalk
+# kry I thank you, captain. Hah! I know precisely how to restore Icari's trust! I knew I could count on you, captain.
+kry I thank you, captain. Hah! I know precisely how to restore Icari's trust! I knew I could count on you, captain.
+#$ voi kry_hap1
+voi kry_hap1
+#$ cha pal_armout_shout
+cha pal_armout_shout
+# kry I must act right away! There is not a moment to lose!
+kry I must act right away! There is not a moment to lose!
+#$ cha shi_stunned
+cha shi_stunned
+# shi Uh... Right. Good luck, Kryska.
+shi Uh... Right. Good luck, Kryska.
+#$ voi kry_neu1
+voi kry_neu1
+#$ cha pal_shoutclosed
+cha pal_shoutclosed
+# kry Sir, yes sir!
+kry Sir, yes sir!
+#$ hid pal
+hid pal
+#$ dbg hide
+dbg hide
+#$ var done_kry1
+var done_kry1
+#$ var unlock_kry2
+var unlock_kry2
+#$ map
+map
+#$ 
+
+#$ tag chap6_kryside2_gym
+tag chap6_kryside2_gym
+#$ dbg spr_bg_cargohold
+dbg spr_bg_cargohold
+#$ mus stop
+mus stop
+#$ ccc pal_zerosuit
+ccc pal_zerosuit
+#$ ccc ica_uni
+ccc ica_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha shi_curious
+cha shi_curious
+# shi (Come to think of it, I wonder what ended up happening between Icari and Kryska...)
+shi (Come to think of it, I wonder what ended up happening between Icari and Kryska...)
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+# shi (I hope the two of them managed to reconcile... Despite Icari's coldness, I think she really does consider Kryska a comrade in arms, deep down.)
+shi (I hope the two of them managed to reconcile... Despite Icari's coldness, I think she really does consider Kryska a comrade in arms, deep down.)
+#$ mus mus_As_I_Figure
+mus mus_As_I_Figure
+# ica Mgnngh...!
+ica Mgnngh...!
+# kry Aahh...!
+kry Aahh...!
+# ica Nyaa...!
+ica Nyaa...!
+# kry Harder...!
+kry Harder...!
+# ica I can't... take much more...!
+ica I can't... take much more...!
+# kry You must! This is only the beginning!!!
+kry You must! This is only the beginning!!!
+# ica No...! This is my limit... Uyaahh!!!
+ica No...! This is my limit... Uyaahh!!!
+#$ cha shi_stunned
+cha shi_stunned
+# shi !!!
+shi !!!
+# shi (What's happening...?!)
+shi (What's happening...?!)
+# shi (Could my advice have... WORKED TOO WELL?!)
+shi (Could my advice have... WORKED TOO WELL?!)
+#$ cha shi_gasp
+cha shi_gasp
+# shi (I've got to investigate, right away!)
+shi (I've got to investigate, right away!)
+#$ mus mus_suisougakubunonatsu
+mus mus_suisougakubunonatsu
+#$ dcg spr_cg_chap6_chibi1
+dcg spr_cg_chap6_chibi1
+# kry Ah, captain! It would be my pleasure if you could join us!
+kry Ah, captain! It would be my pleasure if you could join us!
+# ica Ugh... Fuck! Why don't you try lifting these weights, cap?! They're no joke!
+ica Ugh... Fuck! Why don't you try lifting these weights, cap?! They're no joke!
+# kry Hah! Hah! Hah! Graviton generating dumbbells! Despite their compact design, they are four times as heavy as standard issue equipment! Another unbeatable piece of Solaris technology!
+kry Hah! Hah! Hah! Graviton generating dumbbells! Despite their compact design, they are four times as heavy as standard issue equipment! Another unbeatable piece of Solaris technology!
+#$ cha shi_stunned
+cha shi_stunned
+# shi (Wait... They were only... weight lifting?)
+shi (Wait... They were only... weight lifting?)
+#$ cha shi_resigned
+cha shi_resigned
+# shi (Of course they were. What were you imagining, Kayto. For real...)
+shi (Of course they were. What were you imagining, Kayto. For real...)
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi Right. I'm uhh... glad you two managed to reconcile in the end.
+shi Right. I'm uhh... glad you two managed to reconcile in the end.
+# ica Eh? What... What are you talking about?!
+ica Eh? What... What are you talking about?!
+# ica Soldier Boy here was really insisted on training right away! Ugh...!
+ica Soldier Boy here was really insisted on training right away! Ugh...!
+# ica "It'll take more than those skinny arms to defeat PACT!" That's what she kept saying! And the next thing I knew, she pulled out a whole bunch of dumbbells and I was neck deep in muscle town!
+ica "It'll take more than those skinny arms to defeat PACT!" That's what she kept saying! And the next thing I knew, she pulled out a whole bunch of dumbbells and I was neck deep in muscle town!
+# kry Peak physical condition is a must for a soldier! After we're finished here, let us head to the mess hall for protein shakes!
+kry Peak physical condition is a must for a soldier! After we're finished here, let us head to the mess hall for protein shakes!
+# ica Ugh... If I'm stuck in this hell, you're coming along for the ride too. Come on cap. Get down and show me what you've got!
+ica Ugh... If I'm stuck in this hell, you're coming along for the ride too. Come on cap. Get down and show me what you've got!
+# shi M-Me too?
+shi M-Me too?
+# kry Of course! Let us all sweat out our negative energies!
+kry Of course! Let us all sweat out our negative energies!
+# kry Increasing artificial gravity! Let's do ten sets of one hundred push ups!
+kry Increasing artificial gravity! Let's do ten sets of one hundred push ups!
+# shi U-Urk...!
+shi U-Urk...!
+# kry All together now! One! Two! Three!
+kry All together now! One! Two! Three!
+# shi (Kryska Stares...)
+shi (Kryska Stares...)
+# shi (She really is... a patriot of the Swol-ar Alliance!)
+shi (She really is... a patriot of the Swol-ar Alliance!)
+#$ dcg hide
+dcg hide
+#$ var pal_aff
+var pal_aff
+#$ mus mus_colors_main
+mus mus_colors_main
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi (Sigh... I'm beat after all that exercise...)
+shi (Sigh... I'm beat after all that exercise...)
+#$ cha ica_back_funnytsun
+cha ica_back_funnytsun
+# ica Ugh... My arms feel like noodles...
+ica Ugh... My arms feel like noodles...
+#$ cha pal_laugh
+cha pal_laugh
+# kry Hah! Hah! Hah! Nothing like a workout to deepen our bonds!
+kry Hah! Hah! Hah! Nothing like a workout to deepen our bonds!
+#$ cha pal_playfultalk
+cha pal_playfultalk
+# kry Now, let us hit the showers! With this new exfoliating scrub, I can make your body as good as new!
+kry Now, let us hit the showers! With this new exfoliating scrub, I can make your body as good as new!
+# kry With three different sonic power levels, it'll plow through dead skin and take your body to a new pinnacle of health! Just another example of the Solar Alliance's superior technology! Hah! Hah! Hah!
+kry With three different sonic power levels, it'll plow through dead skin and take your body to a new pinnacle of health! Just another example of the Solar Alliance's superior technology! Hah! Hah! Hah!
+#$ cha ica_surprise_realisation
+cha ica_surprise_realisation
+# ica Wait - What now?
+ica Wait - What now?
+#$ cha pal_fistup_smile
+cha pal_fistup_smile
+# kry There is no need to be shy! All of this is for the sake of defeating PACT!
+kry There is no need to be shy! All of this is for the sake of defeating PACT!
+#$ cha pal_armout_laugh
+cha pal_armout_laugh
+# kry Let us be on our way! Hah! Hah! Hah!
+kry Let us be on our way! Hah! Hah! Hah!
+#$ cha ica_armcrossed_challenge
+cha ica_armcrossed_challenge
+# ica Hold on just a minute - there's no way I'm gonna let you rub that hard stone all over my body... Hey --
+ica Hold on just a minute - there's no way I'm gonna let you rub that hard stone all over my body... Hey --
+#$ cha pal_armout_smile
+cha pal_armout_smile
+# kry I will see you in the mess hall, captain!
+kry I will see you in the mess hall, captain!
+#$ hid pal
+hid pal
+#$ hid ica
+hid ica
+#$ cha shi_smirk
+cha shi_smirk
+# shi (I'm sorry, Icari. But it's time for your exfoliating session...)
+shi (I'm sorry, Icari. But it's time for your exfoliating session...)
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi (But to think... the two of them... in the shower together...)
+shi (But to think... the two of them... in the shower together...)
+# shi (...Icari, screaming in agony, as Kryska rubs off the top layer of her skin.)
+shi (...Icari, screaming in agony, as Kryska rubs off the top layer of her skin.)
+#$ cha shi_closedeyes
+cha shi_closedeyes
+# shi (Some things are better left unseen and unheard. Kayto Shields, signing out.)
+shi (Some things are better left unseen and unheard. Kayto Shields, signing out.)
+#$ var done_kry2
+var done_kry2
+#$ hid shi
+hid shi
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ map
+map
+#$ 
+
+#$ tag chap6_lyn_side2
+tag chap6_lyn_side2
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ ccc ava_uni
+ccc ava_uni
+#$ dbg spr_bg_marayengineering
+dbg spr_bg_marayengineering
+#$ mus mus_fallen_angel_pt1
+mus mus_fallen_angel_pt1
+#$ voi lyn_ang1
+voi lyn_ang1
+#$ cha lyn_armcrossed_pained
+cha lyn_armcrossed_pained
+# lyn Uggh...
+lyn Uggh...
+#$ cha shi_curious
+cha shi_curious
+# shi Chief?
+shi Chief?
+#$ voi lyn_sad3
+voi lyn_sad3
+# lyn I don't feel...
+lyn I don't feel...
+#$ cha shi_surprise
+cha shi_surprise
+# shi Chief!
+shi Chief!
+#$ voi lyn_ang1
+voi lyn_ang1
+#$ cha lyn_handtoface_weak
+cha lyn_handtoface_weak
+# lyn Ugghh...
+lyn Ugghh...
+#$ cha shi_surprise
+cha shi_surprise
+# shi Something wrong? Should I call the doctor?
+shi Something wrong? Should I call the doctor?
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_armscrossed_sad
+cha lyn_armscrossed_sad
+# lyn It's not that... I've been getting hardly any sleep lately.
+lyn It's not that... I've been getting hardly any sleep lately.
+#$ cha shi_curious
+cha shi_curious
+# shi Insomnia? You know, you could get something from the sickbay for that.
+shi Insomnia? You know, you could get something from the sickbay for that.
+#$ voi lyn_sad5
+voi lyn_sad5
+#$ cha lyn_handtoface_weak
+cha lyn_handtoface_weak
+# lyn If only it was that simple. I keep... feeling something... like a signal, calling out to me. But ugh, that's impossible. I've run diagnostic after diagnostic and the Q-Jammer's still working perfectly.
+lyn If only it was that simple. I keep... feeling something... like a signal, calling out to me. But ugh, that's impossible. I've run diagnostic after diagnostic and the Q-Jammer's still working perfectly.
+#$ cc0 chap6_lyntalk1
+cc0 chap6_lyntalk1
+#$ cc1 You should take it easy.
+cc1 You should take it easy.
+#$ cc2 This is a major security issue.
+cc2 This is a major security issue.
+#$ 
+
+#$ tag chap6_lyntalk1_cc1
+tag chap6_lyntalk1_cc1
+#$ var lyn_aff
+var lyn_aff
+#$ voi lyn_sad2
+voi lyn_sad2
+# lyn Ugh... If only it was that simple...
+lyn Ugh... If only it was that simple...
+#$ jum chap6_lyntalk1_cc2
+jum chap6_lyntalk1_cc2
+#$ 
+
+#$ tag chap6_lyntalk1_cc2
+tag chap6_lyntalk1_cc2
+#$ voi lyn_sad2
+voi lyn_sad2
+#$ cha lyn_armscrossed_sad
+cha lyn_armscrossed_sad
+# lyn It can't be the Prototypes calling out to me through the Mindstream... But... something's definitely been trying to reach out to me. And it's getting stronger.
+lyn It can't be the Prototypes calling out to me through the Mindstream... But... something's definitely been trying to reach out to me. And it's getting stronger.
+# lyn Something's about to happen...
+lyn Something's about to happen...
+#$ sou sou_doorbell
+sou sou_doorbell
+#$ voi ava_neu3
+voi ava_neu3
+#$ por ava_armscrossed_talk
+por ava_armscrossed_talk
+# ava Captain to the bridge.
+ava Captain to the bridge.
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi Shit. You might be onto something. Come on, let's go.
+shi Shit. You might be onto something. Come on, let's go.
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ mus mus_drivingtopdown
+mus mus_drivingtopdown
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi Report!
+shi Report!
+#$ voi ava_neu2
+voi ava_neu2
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+# ava We have received an urgent distress call from a civilian liner. They are under attack by PACT forces and need immediate assistance.
+ava We have received an urgent distress call from a civilian liner. They are under attack by PACT forces and need immediate assistance.
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+# shi PACT's just attacking random civilian liners now? Hmm. Can't be that simple. Not even they would just randomly open fire on civilian traffic.
+shi PACT's just attacking random civilian liners now? Hmm. Can't be that simple. Not even they would just randomly open fire on civilian traffic.
+#$ voi ava_neu6
+voi ava_neu6
+# ava Perhaps there were Resistance members on board. Or they were smuggling weapons. There could be hundreds of reasons why PACT may engage a civilian vessel.
+ava Perhaps there were Resistance members on board. Or they were smuggling weapons. There could be hundreds of reasons why PACT may engage a civilian vessel.
+#$ voi lyn_sad3
+voi lyn_sad3
+#$ cha lyn_armcrossed_pained
+cha lyn_armcrossed_pained
+# lyn Wait... Ugh...
+lyn Wait... Ugh...
+#$ voi lyn_sur1
+voi lyn_sur1
+#$ cha lyn_armcrossed_pain
+cha lyn_armcrossed_pain
+# lyn The signal... I can feel it. It's... coming from that ship!
+lyn The signal... I can feel it. It's... coming from that ship!
+#$ voi ava_neu1
+voi ava_neu1
+#$ cha ava_armcrossed_distantworry
+cha ava_armcrossed_distantworry
+# ava Captain?
+ava Captain?
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi Lynn's been feeling someone calling out to her. And it can't be one of the Prototypes. Not when the Q-Jammer's active.
+shi Lynn's been feeling someone calling out to her. And it can't be one of the Prototypes. Not when the Q-Jammer's active.
+# shi That civilian ship... It could be worth investigating. Divert course and hail them. We're answering the distress call.
+shi That civilian ship... It could be worth investigating. Divert course and hail them. We're answering the distress call.
+#$ sou sou_marayredalert
+sou sou_marayredalert
+#$ voi ava_neu2
+voi ava_neu2
+#$ cha ava_salute_focus
+cha ava_salute_focus
+# ava Understood, captain. I have marked the civilian vessel in the galaxy map.
+ava Understood, captain. I have marked the civilian vessel in the galaxy map.
+#$ var done_lyn3
+var done_lyn3
+#$ var unlock_side_lyn1
+var unlock_side_lyn1
+#$ mus mus_crackingthecode
+mus mus_crackingthecode
+#$ map
+map
+#$ 
+
+#$ //Battle Start
+//Battle Start
+#$ tag lyn_side1_start
+tag lyn_side1_start
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc shi_uni
+ccc shi_uni
+# civ Thank god you're here, Ryuvia One. They opened fire on us without warning! Most of us managed to get out on escape pods, but my daughter's still on board the ship!
+civ Thank god you're here, Ryuvia One. They opened fire on us without warning! Most of us managed to get out on escape pods, but my daughter's still on board the ship!
+# civ Please, you've got to save her! She's all I have! You've got to take them out before they blow the ship!
+civ Please, you've got to save her! She's all I have! You've got to take them out before they blow the ship!
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi Copy, civilian vessel. All units: Engage the PACT ships! Take their attention away from the civilian liner!
+shi Copy, civilian vessel. All units: Engage the PACT ships! Take their attention away from the civilian liner!
+#$ cha asa_fist_focushappy
+cha asa_fist_focushappy
+# asa Copy!
+asa Copy!
+# obj Sink all enemies. The civilian vessel must survive!
+obj Sink all enemies. The civilian vessel must survive!
+#$ stop
+stop
+#$ 
+
+#$ //After battle
+//After battle
+#$ tag lyn_side1_end
+tag lyn_side1_end
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ ccc pal_zerosuit
+ccc pal_zerosuit
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc cla_plugsuit
+ccc cla_plugsuit
+#$ ccc chi_dark
+ccc chi_dark
+#$ mus mus_colors_main
+mus mus_colors_main
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ cha ava_armup_smile
+cha ava_armup_smile
+#$ var done_side_lyn1
+var done_side_lyn1
+#$ voi ava_neu2
+voi ava_neu2
+# ava All PACT units neutralized.
+ava All PACT units neutralized.
+#$ mus mus_colors_main
+mus mus_colors_main
+#$ cha shi_smile
+cha shi_smile
+# shi Good work. Icari, Kryska, get on board the civilian vessel and begin rescue operations on the remaining survivors.
+shi Good work. Icari, Kryska, get on board the civilian vessel and begin rescue operations on the remaining survivors.
+#$ hid ava
+hid ava
+#$ sou sou_holoopen
+sou sou_holoopen
+#$ voi kry_neu1
+voi kry_neu1
+#$ cha pal_fistup_legacytriumph
+cha pal_fistup_legacytriumph
+# kry Sir!
+kry Sir!
+#$ sou sou_holoclose
+sou sou_holoclose
+#$ hid pal
+hid pal
+#$ voi ica_hap1
+voi ica_hap1
+#$ cha ica_back_funnytsun
+cha ica_back_funnytsun
+# ica Another add-on service to itemize on the bill, huh...
+ica Another add-on service to itemize on the bill, huh...
+#$ sou sou_holoclose
+sou sou_holoclose
+#$ hid ica
+hid ica
+#$ voi ava_neu5
+voi ava_neu5
+#$ cha ava_armup_neutral
+cha ava_armup_neutral
+# ava The Phoenix and Paladin have made contact. Rescue is underway...
+ava The Phoenix and Paladin have made contact. Rescue is underway...
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi Doc, get back here and prep the sickbay.
+shi Doc, get back here and prep the sickbay.
+#$ hid ava
+hid ava
+#$ sou sou_holoopen
+sou sou_holoopen
+#$ voi cla_neu2
+voi cla_neu2
+#$ cha cla_handsonhips_confidentkitty
+cha cla_handsonhips_confidentkitty
+# cla Sah!
+cla Sah!
+#$ sou sou_holoclose
+sou sou_holoclose
+#$ hid cla
+hid cla
+#$ mus stop
+mus stop
+#$ voi lyn_sad3
+voi lyn_sad3
+#$ cha lyn_handtoface_weak
+cha lyn_handtoface_weak
+# lyn Ugh... wait...
+lyn Ugh... wait...
+# lyn The signal... I feel it...!
+lyn The signal... I feel it...!
+#$ voi lyn_sur3
+voi lyn_sur3
+#$ cha lyn_handtoface_shock
+cha lyn_handtoface_shock
+# lyn No... it's impossible...! The Q-Jammer should have-
+lyn No... it's impossible...! The Q-Jammer should have-
+#$ sou sou_warning
+sou sou_warning
+#$ voi ica_sur5
+voi ica_sur5
+#$ cha ica_surprise_focusyell
+cha ica_surprise_focusyell
+# ica Cap, we've got a situation in here! Look!
+ica Cap, we've got a situation in here! Look!
+#$ cha shi_surprise
+cha shi_surprise
+# shi Report!
+shi Report!
+#$ hid shi
+hid shi
+#$ hid ica
+hid ica
+#$ hid lyn
+hid lyn
+#$ hid ava
+hid ava
+#$ sou mus_HorrorReveal
+sou mus_HorrorReveal
+#$ cha chi_dark
+cha chi_dark
+# chi ... ... ...
+chi ... ... ...
+# civ Thank god you managed to save her...!
+civ Thank god you managed to save her...!
+# civ That's... my daughter!
+civ That's... my daughter!
+#$ dbg hide
+dbg hide
+#$ fade
+fade
+#$ dbg spr_bg_captainsquarter
+dbg spr_bg_captainsquarter
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ mus mus_fallen_angel_pt1
+mus mus_fallen_angel_pt1
+#$ voi ava_neu4
+voi ava_neu4
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+# ava ...According to the man who claims to be this Prototype's "father," he and his wife found her on the verge of death under a collapsed building six years ago. Having recently lost their daughter in the war, the two decided to adopt the injured girl and nursed her back to health.
+ava ...According to the man who claims to be this Prototype's "father," he and his wife found her on the verge of death under a collapsed building six years ago. Having recently lost their daughter in the war, the two decided to adopt the injured girl and nursed her back to health.
+# ava Chief Engineer Lynn and Claude have performed a full medical scan of the Prototype woman. It appears that due to the injuries she sustained six years ago, her Quantum brain waves have ceased to function like the other Prototypes.
+ava Chief Engineer Lynn and Claude have performed a full medical scan of the Prototype woman. It appears that due to the injuries she sustained six years ago, her Quantum brain waves have ceased to function like the other Prototypes.
+# ava Had it not been the Q-Jammer blocking out the brain waves of the other Prototypes, Lynn would most likely never have heard her brain waves - like a faint whisper lost in the chorus of the other Prototypes' thoughts. Based on the scans, we have concluded that this Prototype has no way of communicating within the Mindstream.
+ava Had it not been the Q-Jammer blocking out the brain waves of the other Prototypes, Lynn would most likely never have heard her brain waves - like a faint whisper lost in the chorus of the other Prototypes' thoughts. Based on the scans, we have concluded that this Prototype has no way of communicating within the Mindstream.
+# ava What's more, she has sustained considerable damage to both her body and mind. She's barely capable of communicating through spoken words and has only one functioning leg. Without the support of her adoptive parents, she would certainly be doomed to the fate of an infirm woman during times of war.
+ava What's more, she has sustained considerable damage to both her body and mind. She's barely capable of communicating through spoken words and has only one functioning leg. Without the support of her adoptive parents, she would certainly be doomed to the fate of an infirm woman during times of war.
+# ava The PACT ships probably attacked them on sight as soon as they detected a Prototype on board. However, given the scope of this particular Prototype's injuries, I see no harm in allowing her to go about her journey with her adoptive parents.
+ava The PACT ships probably attacked them on sight as soon as they detected a Prototype on board. However, given the scope of this particular Prototype's injuries, I see no harm in allowing her to go about her journey with her adoptive parents.
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_handonhip_closedeyessadtalk
+cha lyn_handonhip_closedeyessadtalk
+# lyn Basically, we've got a mute, special needs Prototype with a bum leg. Sigh... She's not going to do any harm. Not in her condition.
+lyn Basically, we've got a mute, special needs Prototype with a bum leg. Sigh... She's not going to do any harm. Not in her condition.
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+# shi ... ... ...
+shi ... ... ...
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi They once brought doom to the galaxy. Is it certain that she poses no threat?
+shi They once brought doom to the galaxy. Is it certain that she poses no threat?
+# shi Injuries can be healed. How can we be certain that she will not one day activate and betray all those around her?
+shi Injuries can be healed. How can we be certain that she will not one day activate and betray all those around her?
+#$ voi lyn_sur2
+voi lyn_sur2
+#$ cha lyn_handup_yell
+cha lyn_handup_yell
+# lyn Listen Shields. It's not like we choose to be born a Prototype!
+lyn Listen Shields. It's not like we choose to be born a Prototype!
+#$ cha shi_fury
+cha shi_fury
+# shi They're... they're... not like us. They're genetically different. They can be taken over at any time through the Mindstream. Then they become mindless drones, capable of committing unthinkable atrocities, without a moment's hesitation.
+shi They're... they're... not like us. They're genetically different. They can be taken over at any time through the Mindstream. Then they become mindless drones, capable of committing unthinkable atrocities, without a moment's hesitation.
+#$ voi ava_neu9
+voi ava_neu9
+#$ cha ava_armscrossed_focustalk
+cha ava_armscrossed_focustalk
+# ava There is a way to prevent that from happening. The doctor has proposed surgically embedding a Q-Jammer in the Prototype's brain, which cannot be removed without also killing her. Then we would have a guarantee that she cannot ever be controlled through the Mindstream again.
+ava There is a way to prevent that from happening. The doctor has proposed surgically embedding a Q-Jammer in the Prototype's brain, which cannot be removed without also killing her. Then we would have a guarantee that she cannot ever be controlled through the Mindstream again.
+#$ voi lyn_ang3
+voi lyn_ang3
+#$ cha lyn_handup_yell
+cha lyn_handup_yell
+# lyn Wait, you want to force this disabled woman to have an involuntary medical procedure? Just for a remote "what-if?" Are we seriously gonna start committing war crimes now?
+lyn Wait, you want to force this disabled woman to have an involuntary medical procedure? Just for a remote "what-if?" Are we seriously gonna start committing war crimes now?
+#$ voi ava_ang1
+voi ava_ang1
+#$ cha ava_armscrossed_focustalk
+cha ava_armscrossed_focustalk
+# ava No. All laws relating to the rules of war-.
+ava No. All laws relating to the rules of war-.
+#$ voi lyn_ang2
+voi lyn_ang2
+#$ cha lyn_armscrossed_bigsigh
+cha lyn_armscrossed_bigsigh
+# lyn -Apply only to humans. Yeah, I know.
+lyn -Apply only to humans. Yeah, I know.
+#$ voi lyn_ang3
+voi lyn_ang3
+#$ cha lyn_handup_focustalk
+cha lyn_handup_focustalk
+# lyn Shields, this is unnecessary. Half of that poor girl's body has already been destroyed. You don't need to cripple her any more. You saved her from PACT for a reason.
+lyn Shields, this is unnecessary. Half of that poor girl's body has already been destroyed. You don't need to cripple her any more. You saved her from PACT for a reason.
+#$ voi ava_neu1
+voi ava_neu1
+#$ cha ava_armscrossed_focustalk
+cha ava_armscrossed_focustalk
+# ava It's your call, captain.
+ava It's your call, captain.
+#$ cc0 chap6_lynside2_surgery
+cc0 chap6_lynside2_surgery
+#$ cc1 Embed the Q-Jammer in her.
+cc1 Embed the Q-Jammer in her.
+#$ cc2 Return her to her parents unharmed.
+cc2 Return her to her parents unharmed.
+#$ 
+
+#$ tag chap6_lynside2_surgery_cc1
+tag chap6_lynside2_surgery_cc1
+#$ voi ava_neu2
+voi ava_neu2
+#$ cha ava_salute_focus
+cha ava_salute_focus
+# ava Understood, captain. I will instruct the doctor to prepare the surgery right away.
+ava Understood, captain. I will instruct the doctor to prepare the surgery right away.
+#$ hid ava
+hid ava
+#$ voi lyn_ang5
+voi lyn_ang5
+#$ cha lyn_armsonhips_madtalk
+cha lyn_armsonhips_madtalk
+# lyn I can't believe you, Shields. And you called us the monsters.
+lyn I can't believe you, Shields. And you called us the monsters.
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi You don't know what could happen in the future. The risk of her one day re-establishing contact with the Prototypes is too great. One day, she could unknowingly summon the entire hive mind to a civilian center. This is for her own good and for the safety of her new family.
+shi You don't know what could happen in the future. The risk of her one day re-establishing contact with the Prototypes is too great. One day, she could unknowingly summon the entire hive mind to a civilian center. This is for her own good and for the safety of her new family.
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_handonhip_closedeyessadtalk
+cha lyn_handonhip_closedeyessadtalk
+# lyn Or maybe a certain somebody just has old wounds he can't get over.
+lyn Or maybe a certain somebody just has old wounds he can't get over.
+#$ cha shi_madgroan
+cha shi_madgroan
+# shi Lynn-
+shi Lynn-
+#$ voi ava_ang1
+voi ava_ang1
+#$ cha ava_armscrossed_madtalk
+cha ava_armscrossed_madtalk
+# ava Chief, you're getting out of line.
+ava Chief, you're getting out of line.
+#$ cha lyn_handtoface_weak
+cha lyn_handtoface_weak
+# lyn ... ... ...
+lyn ... ... ...
+#$ voi lyn_sad3
+voi lyn_sad3
+#$ cha lyn_armscrossed_sad
+cha lyn_armscrossed_sad
+# lyn Right. Stupid of me.
+lyn Right. Stupid of me.
+#$ cha lyn_handup_closedeyessad
+cha lyn_handup_closedeyessad
+# lyn I forgot. I'm just a prisoner here too, aren't I? Your handy little Prototype collaborator who can make miracles happen.
+lyn I forgot. I'm just a prisoner here too, aren't I? Your handy little Prototype collaborator who can make miracles happen.
+# lyn I'm getting back to Engineering. I'd rather be with machinery than people.
+lyn I'm getting back to Engineering. I'd rather be with machinery than people.
+#$ cha shi_sadthink
+cha shi_sadthink
+# shi No. You're not a prisoner.
+shi No. You're not a prisoner.
+#$ cha lyn_armscrossed_sad
+cha lyn_armscrossed_sad
+# lyn ... ... ...
+lyn ... ... ...
+#$ voi lyn_ang4
+voi lyn_ang4
+#$ cha lyn_handtoface_sadtalk
+cha lyn_handtoface_sadtalk
+# lyn Stupid. Sure doesn't seem that way...
+lyn Stupid. Sure doesn't seem that way...
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi (I'm sorry. But it's best to be safe than sorry where Prototypes are concerned...)
+shi (I'm sorry. But it's best to be safe than sorry where Prototypes are concerned...)
+#$ map
+map
+#$ 
+
+#$ tag chap6_lynside2_surgery_cc2
+tag chap6_lynside2_surgery_cc2
+#$ mus mus_colors_chigara
+mus mus_colors_chigara
+#$ voi ava_neu2
+voi ava_neu2
+#$ cha ava_salute_focus
+cha ava_salute_focus
+# ava Understood captain. I will inform the doctor to release the Prototype woman to her adoptive parents right away.
+ava Understood captain. I will inform the doctor to release the Prototype woman to her adoptive parents right away.
+#$ hid ava
+hid ava
+#$ voi lyn_neu6
+voi lyn_neu6
+#$ cha lyn_armscrossed_sigh
+cha lyn_armscrossed_sigh
+# lyn Whew...
+lyn Whew...
+#$ cha lyn_handtoface_sadtalk
+cha lyn_handtoface_sadtalk
+# lyn You know Shields, for a moment there, I thought...
+lyn You know Shields, for a moment there, I thought...
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+# shi The Prototypes brought unspeakable horror to humankind. But... even among them, I know there is good.
+shi The Prototypes brought unspeakable horror to humankind. But... even among them, I know there is good.
+# shi I know now, they were not a monolith. In the end, it was the monstrous actions of their leadership which caused of all the tragedies of the war.
+shi I know now, they were not a monolith. In the end, it was the monstrous actions of their leadership which caused of all the tragedies of the war.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi At least, I know for sure that every Prototype is different, after having spent time with you.
+shi At least, I know for sure that every Prototype is different, after having spent time with you.
+#$ cha shi_smile
+cha shi_smile
+# shi Besides, it would be poor form to harm the girl right after rescuing her from PACT. Wouldn't look good for us or for Ryuvia.
+shi Besides, it would be poor form to harm the girl right after rescuing her from PACT. Wouldn't look good for us or for Ryuvia.
+#$ var lyn_aff
+var lyn_aff
+#$ voi lyn_hap1
+voi lyn_hap1
+#$ cha lyn_armcrossed_closedeyesrelief
+cha lyn_armcrossed_closedeyesrelief
+# lyn You've made the right call, Shields. Uuuh, thanks. Ahem...
+lyn You've made the right call, Shields. Uuuh, thanks. Ahem...
+#$ voi lyn_hap2
+voi lyn_hap2
+#$ cha lyn_armscrossed_eyebrowraise
+cha lyn_armscrossed_eyebrowraise
+# lyn Maybe I was wrong about you. You're... not such a bad guy.
+lyn Maybe I was wrong about you. You're... not such a bad guy.
+#$ voi lyn_sur2
+voi lyn_sur2
+#$ cha lyn_handup_annoyed, blush
+cha lyn_handup_annoyed, blush
+# lyn A-Anyways, I better head back to engineering. S-See ya!
+lyn A-Anyways, I better head back to engineering. S-See ya!
+#$ sou sou_footsteps_metal
+sou sou_footsteps_metal
+#$ hid lyn
+hid lyn
+#$ cha shi_surprise
+cha shi_surprise
+# shi Huh? What was that about?
+shi Huh? What was that about?
+#$ voi ava_ang4
+voi ava_ang4
+#$ cha ava_armscrossed_annoyed
+cha ava_armscrossed_annoyed
+# ava Captain...
+ava Captain...
+#$ cha shi_smile
+cha shi_smile
+# shi Heh. They look alike. But that's all the two of them will ever have in common.
+shi Heh. They look alike. But that's all the two of them will ever have in common.
+# shi Don't worry, Ava. I've got everything under control here.
+shi Don't worry, Ava. I've got everything under control here.
+#$ voi ava_neu5
+voi ava_neu5
+#$ cha ava_armup_smile
+cha ava_armup_smile
+# ava Very well. I will file my report of this incident within the hour and make a note that your decision was not influenced in any way by your growing feelings of sympathy for our chief engineer.
+ava Very well. I will file my report of this incident within the hour and make a note that your decision was not influenced in any way by your growing feelings of sympathy for our chief engineer.
+#$ cha shi_confusethink
+cha shi_confusethink
+# shi Ava... Come on. Me? And her?
+shi Ava... Come on. Me? And her?
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+# shi I'm not even gonna. No.
+shi I'm not even gonna. No.
+#$ voi ava_hap5
+voi ava_hap5
+#$ cha ava_armscrossed_playfultalk
+cha ava_armscrossed_playfultalk
+# ava Then I will make my report a short one, captain.
+ava Then I will make my report a short one, captain.
+#$ cha shi_smile
+cha shi_smile
+# shi Much appreciated, commander.
+shi Much appreciated, commander.
+#$ map
+map
+#$ 
+
+#$ //Engineering
+//Engineering
+#$ tag chap6_reviewfindings_engineering
+tag chap6_reviewfindings_engineering
+#$ dbg spr_bg_marayengineering
+dbg spr_bg_marayengineering
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ mus mus_destinys_path
+mus mus_destinys_path
+#$ voi lyn_neu9
+voi lyn_neu9
+#$ cha lyn_armscrossed_talk
+cha lyn_armscrossed_talk
+# lyn You're right on time. I've just about finished cracking through the second, bigger crystal's encryption...
+lyn You're right on time. I've just about finished cracking through the second, bigger crystal's encryption...
+#$ voi lyn_hap1
+voi lyn_hap1
+#$ cha lyn_handup_smirk
+cha lyn_handup_smirk
+# lyn And... open sesame. Hah.
+lyn And... open sesame. Hah.
+#$ cha shi_surprise
+cha shi_surprise
+# shi So? What's in it?
+shi So? What's in it?
+#$ voi lyn_neu6
+voi lyn_neu6
+#$ cha lyn_armscrossed_sigh
+cha lyn_armscrossed_sigh
+# lyn Calm your horses, Shields. Let's see...
+lyn Calm your horses, Shields. Let's see...
+#$ voi lyn_neu4
+voi lyn_neu4
+#$ cha lyn_handup_focustalk
+cha lyn_handup_focustalk
+# lyn I see a lot of military records... sensitive information about troop placements... the locations of military installations... Ah, bingo, here it is:
+lyn I see a lot of military records... sensitive information about troop placements... the locations of military installations... Ah, bingo, here it is:
+#$ voi lyn_hap1
+voi lyn_hap1
+#$ cha lyn_handtoface_explanation
+cha lyn_handtoface_explanation
+# lyn The coordinates of Crow Harbor's main base of operations. It's deep inside the Urdot Sector.
+lyn The coordinates of Crow Harbor's main base of operations. It's deep inside the Urdot Sector.
+#$ cha shi_frown
+cha shi_frown
+# shi Even if thousands of years had passed, the most likely place Crow would have returned to after arriving in our timeline would have been his base. Looks like we've got a lead.
+shi Even if thousands of years had passed, the most likely place Crow would have returned to after arriving in our timeline would have been his base. Looks like we've got a lead.
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi Lynn, input the coordinates to the navicomputer.
+shi Lynn, input the coordinates to the navicomputer.
+#$ var lyn_aff
+var lyn_aff
+#$ voi lyn_hap4
+voi lyn_hap4
+#$ cha lyn_armscrossed_confidentgrin
+cha lyn_armscrossed_confidentgrin
+# lyn All right, all right. I'll be sure to pack my new anti-ancient Ryuvian warlord cannon too.
+lyn All right, all right. I'll be sure to pack my new anti-ancient Ryuvian warlord cannon too.
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi ... ... ...
+shi ... ... ...
+#$ cha lyn_point_angryshout
+cha lyn_point_angryshout
+# lyn What?
+lyn What?
+#$ voi lyn_ang5
+voi lyn_ang5
+#$ cha lyn_armscrossed_surprisepout
+cha lyn_armscrossed_surprisepout
+# lyn I was trying to be funny!
+lyn I was trying to be funny!
+#$ var unlock_side_main0
+var unlock_side_main0
+#$ var done_lynm1
+var done_lynm1
+#$ var unlock_lyn3
+var unlock_lyn3
+#$ flag
+flag
+#$ hid lyn
+hid lyn
+#$ dbg hide
+dbg hide
+#$ map
+map
+#$ 
+
+#$ //Bridge
+//Bridge
+#$ //THE LAIR OF CROW HARBOR
+//THE LAIR OF CROW HARBOR
+#$ //Lynn: Thanks to the final data crystal we recovered from the Ryuvian temple, we've managed to discover the coordinates of Crow Harbor's secret lair. Just head over to the marked position in the galaxy map and we can investigate.
+//Lynn: Thanks to the final data crystal we recovered from the Ryuvian temple, we've managed to discover the coordinates of Crow Harbor's secret lair. Just head over to the marked position in the galaxy map and we can investigate.
+#$ tag chap6_crowcoordinates
+tag chap6_crowcoordinates
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ ccc sol_plugsuit
+ccc sol_plugsuit
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc fon_base
+ccc fon_base
+#$ ccc kuu_plugsuit
+ccc kuu_plugsuit
+#$ 
+
+#$ cha ava_armscrossed_sadtalk
+cha ava_armscrossed_sadtalk
+#$ mus mus_destinys_path
+mus mus_destinys_path
+#$ voi ava_neu1
+voi ava_neu1
+# ava The coordinates to Crow Harbor's base have been inputted. When we arrive, there's no telling what will happen. Are you sure about this, captain?
+ava The coordinates to Crow Harbor's base have been inputted. When we arrive, there's no telling what will happen. Are you sure about this, captain?
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi We're going in.
+shi We're going in.
+#$ voi ava_oth4
+voi ava_oth4
+#$ cha ava_armscrossed_focustalk
+cha ava_armscrossed_focustalk
+# ava Aye captain. Spooling up warp drive...
+ava Aye captain. Spooling up warp drive...
+#$ var done_side_main0
+var done_side_main0
+#$ dbg hide
+dbg hide
+#$ flag
+flag
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_urdotarrive
+tag chap6_urdotarrive
+#$ por ava_armcrossed_distantworry
+por ava_armcrossed_distantworry
+#$ voi ava_oth3
+voi ava_oth3
+# ava We have arrived at our destination.
+ava We have arrived at our destination.
+#$ voi ava_neu6
+voi ava_neu6
+#$ por ava_armcrossed_shocked
+por ava_armcrossed_shocked
+# ava Sensors... do not pick up anything of note.
+ava Sensors... do not pick up anything of note.
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi Lynn? You said this was the location of Crow's secret base!
+shi Lynn? You said this was the location of Crow's secret base!
+#$ voi lyn_hap1
+voi lyn_hap1
+#$ por lyn_handup_annoyedtalk
+por lyn_handup_annoyedtalk
+# lyn What's the point of a secret base if anyone can just find it? Head to these coordinates and try not to gasp.
+lyn What's the point of a secret base if anyone can just find it? Head to these coordinates and try not to gasp.
+#$ hid lyn
+hid lyn
+#$ hid ava
+hid ava
+#$ dbg hide
+dbg hide
+#$ flag
+flag
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_discoverbase
+tag chap6_discoverbase
+#$ cha shi_stunned
+cha shi_stunned
+# shi What the...
+shi What the...
+#$ voi ava_sur3
+voi ava_sur3
+#$ por ava_armup_shocked
+por ava_armup_shocked
+# ava Incredible...
+ava Incredible...
+#$ voi lyn_hap1
+voi lyn_hap1
+#$ por lyn_handup_focustalk
+por lyn_handup_focustalk
+# lyn See what I told you? Crow hid his base inside a pocket dimension.
+lyn See what I told you? Crow hid his base inside a pocket dimension.
+#$ por lyn_handup_confuse
+por lyn_handup_confuse
+# lyn Pretty advanced stuff, centuries ahead of our current  technology. Or centuries behind, depending on your point of view.
+lyn Pretty advanced stuff, centuries ahead of our current  technology. Or centuries behind, depending on your point of view.
+#$ por lyn_handtoface_confidentsly
+por lyn_handtoface_confidentsly
+# lyn Thanks to this pocket dimension, most of his base is still intact, even after nearly two thousand years...
+lyn Thanks to this pocket dimension, most of his base is still intact, even after nearly two thousand years...
+#$ voi ava_neu4
+voi ava_neu4
+#$ por ava_armup_madtalk
+por ava_armup_madtalk
+# ava You're going to find this hard to believe, but I am detecting atmosphere out there. In fact, our instruments indicate that we are currently within a habitable environment - although I would still wear a normal suit before stepping outside.
+ava You're going to find this hard to believe, but I am detecting atmosphere out there. In fact, our instruments indicate that we are currently within a habitable environment - although I would still wear a normal suit before stepping outside.
+# ava Further, the strange characteristics of this pocket dimension are interfering with our scanners. We will have to rely solely on our optics and acoustics to explore this base.
+ava Further, the strange characteristics of this pocket dimension are interfering with our scanners. We will have to rely solely on our optics and acoustics to explore this base.
+#$ cha shi_stunned
+cha shi_stunned
+# shi Might as well... Scanners don't really do this place justice...
+shi Might as well... Scanners don't really do this place justice...
+#$ voi ava_neu3
+voi ava_neu3
+#$ por ava_armscrossed_focustalk
+por ava_armscrossed_focustalk
+# ava If I were to theorize, the closest analogy to this place might be a balloon filled with atmosphere floating in the void of space.
+ava If I were to theorize, the closest analogy to this place might be a balloon filled with atmosphere floating in the void of space.
+#$ hid ava
+hid ava
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ voi ava_sur5
+voi ava_sur5
+#$ cha ava_facepalm_focustalk
+cha ava_facepalm_focustalk
+# ava This is beyond imagination... To think such a facility could be constructed...
+ava This is beyond imagination... To think such a facility could be constructed...
+#$ cha shi_curious
+cha shi_curious
+# shi Almost feels like paradise...
+shi Almost feels like paradise...
+#$ cha ava_armcrossed_neutral
+cha ava_armcrossed_neutral
+#$ voi sol_ang1
+voi sol_ang1
+#$ cha sol_front_focusedsurprise
+cha sol_front_focusedsurprise
+# sol Paradise or not, Crow Harbor will prove a deadly foe. We best remain on our guard.
+sol Paradise or not, Crow Harbor will prove a deadly foe. We best remain on our guard.
+#$ voi ica_sur5
+voi ica_sur5
+#$ cha ica_armcrossed_concern
+cha ica_armcrossed_concern
+# ica Hell, going off of the level of technology he must possess to have built this place, we might not even register as a threat to him!
+ica Hell, going off of the level of technology he must possess to have built this place, we might not even register as a threat to him!
+#$ voi sol_ang1
+voi sol_ang1
+#$ cha sol_side_focustalk
+cha sol_side_focustalk
+# sol Perhaps so. But this base has run out of supplies hundreds of years ago. The fuel and munitions of this era are incompatible with my era's military technology.
+sol Perhaps so. But this base has run out of supplies hundreds of years ago. The fuel and munitions of this era are incompatible with my era's military technology.
+#$ cha ica_armcrossed_neutral
+cha ica_armcrossed_neutral
+#$ cha sol_side_lookawayfrown
+cha sol_side_lookawayfrown
+# sol Let us hope that Crow's lack of familiarity with this era's political, economic, and technological situation will limit his tactical options.
+sol Let us hope that Crow's lack of familiarity with this era's political, economic, and technological situation will limit his tactical options.
+#$ cha shi_shout
+cha shi_shout
+# shi Wait- All stop!
+shi Wait- All stop!
+#$ hid shi
+hid shi
+#$ hid sol
+hid sol
+#$ hid ica
+hid ica
+#$ hid ava
+hid ava
+#$ sou sou_warning
+sou sou_warning
+#$ mus mus_fallen_angel_pt3
+mus mus_fallen_angel_pt3
+#$ dcg spr_cg_crowharborlair_huntress
+dcg spr_cg_crowharborlair_huntress
+#$ cha shi_frown
+cha shi_frown
+# shi Shit. Kuushana... She beat us here.
+shi Shit. Kuushana... She beat us here.
+#$ voi ava_neu6
+voi ava_neu6
+#$ por ava_armup_shocked
+por ava_armup_shocked
+# ava I have spotted her on optics... She is outside her ship, near the base...
+ava I have spotted her on optics... She is outside her ship, near the base...
+#$ por ava_armcrossed_neutral
+por ava_armcrossed_neutral
+# ava She's talking... Increasing audio...
+ava She's talking... Increasing audio...
+#$ por kuu_sigh
+por kuu_sigh
+# kuu ...We have turned this base inside out for clues as to the lost fleet's whereabouts, but my men have turned up nothing!
+kuu ...We have turned this base inside out for clues as to the lost fleet's whereabouts, but my men have turned up nothing!
+#$ hid kuu
+hid kuu
+#$ por fon_annoyed
+por fon_annoyed
+# fon You mean the data crystal was a dead end?!
+fon You mean the data crystal was a dead end?!
+#$ hid fon
+hid fon
+#$ por kuu_focustalk
+por kuu_focustalk
+# kuu We have other leads... Perhaps this base was merely one more piece of the puzzle...
+kuu We have other leads... Perhaps this base was merely one more piece of the puzzle...
+#$ hid kuu
+hid kuu
+#$ por fon_shout
+por fon_shout
+# fon I want this Lost Fleet found, Admiral. With its Lost Technology, we will crush the Alliance's Absolute Defensive Line at Far Port and end the capitalist menace once and for all!
+fon I want this Lost Fleet found, Admiral. With its Lost Technology, we will crush the Alliance's Absolute Defensive Line at Far Port and end the capitalist menace once and for all!
+#$ hid fon
+hid fon
+#$ por kuu_focustalkclosed
+por kuu_focustalkclosed
+# kuu Yes, my Veniczar!
+kuu Yes, my Veniczar!
+#$ hid kuu
+hid kuu
+#$ dcg hide
+dcg hide
+#$ cha shi_fury
+cha shi_fury
+# shi Fontana...! He's here!
+shi Fontana...! He's here!
+#$ voi ava_neu3
+voi ava_neu3
+#$ cha ava_armscrossed_focusthink
+cha ava_armscrossed_focusthink
+# ava They are returning back to the Huntress. We should hold position until they've left.
+ava They are returning back to the Huntress. We should hold position until they've left.
+# nar ... ... ...
+nar ... ... ...
+#$ sou sou_warpout
+sou sou_warpout
+#$ voi ava_neu6
+voi ava_neu6
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+# ava The Huntress has left the pocket dimension.
+ava The Huntress has left the pocket dimension.
+#$ cha shi_sigh
+cha shi_sigh
+# shi Damn. Looks like PACT's managed to get here before us.
+shi Damn. Looks like PACT's managed to get here before us.
+#$ voi asa_neu3
+voi asa_neu3
+#$ cha asa_armup_confused
+cha asa_armup_confused
+# asa What are we gonna do now, capt'n?
+asa What are we gonna do now, capt'n?
+#$ voi asa_sad2
+voi asa_sad2
+#$ cha asa_shrug_catlaugh
+cha asa_shrug_catlaugh
+# asa You heard the red lady - PACT's already turned this place inside out and couldn't find anything...
+asa You heard the red lady - PACT's already turned this place inside out and couldn't find anything...
+#$ voi sol_ang5
+voi sol_ang5
+#$ cha sol_front_focustalk
+cha sol_front_focustalk
+# sol There is still the possibility they missed something.
+sol There is still the possibility they missed something.
+#$ cha asa_armscrossed_neutral
+cha asa_armscrossed_neutral
+#$ cha sol_front_sadtalk
+cha sol_front_sadtalk
+# sol Doubtlessly, this base holds many secrets accessible only to members of the Ryuvian nobility, just like the temple.
+sol Doubtlessly, this base holds many secrets accessible only to members of the Ryuvian nobility, just like the temple.
+#$ cha shi_focusthink
+cha shi_focusthink
+# shi Sola's got a point. Besides, we just got here. Let's keep looking for clues...
+shi Sola's got a point. Besides, we just got here. Let's keep looking for clues...
+#$ voi ava_neu3
+voi ava_neu3
+#$ cha ava_armup_sadsmile
+cha ava_armup_sadsmile
+# ava Captain. That docking gate appears to be the entrance to the facility.
+ava Captain. That docking gate appears to be the entrance to the facility.
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi Well then, looks like it's time to investigate this base for ourselves.
+shi Well then, looks like it's time to investigate this base for ourselves.
+#$ voi ava_neu3
+voi ava_neu3
+#$ cha ava_armup_interrupted
+cha ava_armup_interrupted
+# ava You should remain here and oversee the search from the bridge, captain.
+ava You should remain here and oversee the search from the bridge, captain.
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi No. Not this time, Ava. I want to search this base personally.
+shi No. Not this time, Ava. I want to search this base personally.
+#$ voi ava_ang1
+voi ava_ang1
+#$ cha ava_armscrossed_annoyed
+cha ava_armscrossed_annoyed
+# ava Sigh... I was afraid you were going to say that.
+ava Sigh... I was afraid you were going to say that.
+#$ voi ava_ang4
+voi ava_ang4
+#$ cha ava_armscrossed_playfultalk
+cha ava_armscrossed_playfultalk
+# ava Very well. Let us go and see this ancient Ryuvian base for ourselves.
+ava Very well. Let us go and see this ancient Ryuvian base for ourselves.
+#$ bat roo_chap6_puzzle1
+bat roo_chap6_puzzle1
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_lair_entrance
+tag chap6_lair_entrance
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc shi_uni
+ccc shi_uni
+#$ voi asa_hap2
+voi asa_hap2
+#$ cha asa_armscrossed_focustalk
+cha asa_armscrossed_focustalk
+# asa Hang tight, capt'n! The air in here's breathable and there's no gravity, so you don't have to worry about falling off, but it's gonna get pretty windy out there.
+asa Hang tight, capt'n! The air in here's breathable and there's no gravity, so you don't have to worry about falling off, but it's gonna get pretty windy out there.
+#$ cha shi_smile
+cha shi_smile
+# shi Yeah. You don't have to worry about me.
+shi Yeah. You don't have to worry about me.
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+# shi (My icon indicates where I am on the tactical map. I can be carried by any ryder simply by moving it over me.)
+shi (My icon indicates where I am on the tactical map. I can be carried by any ryder simply by moving it over me.)
+# shi (I can disembark a ryder by clicking on my icon. However, I can only disembark where it is safe to do so on platforms.)
+shi (I can disembark a ryder by clicking on my icon. However, I can only disembark where it is safe to do so on platforms.)
+# obj Explore the lair of Crow Harbor.
+obj Explore the lair of Crow Harbor.
+#$ hid shi
+hid shi
+#$ hid asa
+hid asa
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_lair_hallofhereos
+tag chap6_lair_hallofhereos
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc sol_plugsuit
+ccc sol_plugsuit
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ ccc shi_uni
+ccc shi_uni
+#$ 
+
+#$ cha shi_curious
+cha shi_curious
+# shi Hm. That platform's lined with graviton emitters. That must mean that it was meant to be used by people.
+shi Hm. That platform's lined with graviton emitters. That must mean that it was meant to be used by people.
+# shi What are those statues, Sola?
+shi What are those statues, Sola?
+#$ voi sol_neu4
+voi sol_neu4
+#$ cha sol_side_slight
+cha sol_side_slight
+# sol Ryuvian lords and ladies... They are different from the nobles I saw in court though. They must be of pure Ryuvian heritage, unlike the Farari nobles who resided in the Star Palace.
+sol Ryuvian lords and ladies... They are different from the nobles I saw in court though. They must be of pure Ryuvian heritage, unlike the Farari nobles who resided in the Star Palace.
+#$ voi asa_neu3
+voi asa_neu3
+#$ cha asa_fingerpoint_focustalk
+cha asa_fingerpoint_focustalk
+# asa Hey, I've seen these statues before! It's Sharr Galowin! And Emperor Yara! They're all ancient heroes of Ryuvia.
+asa Hey, I've seen these statues before! It's Sharr Galowin! And Emperor Yara! They're all ancient heroes of Ryuvia.
+#$ cha shi_closedeyes
+cha shi_closedeyes
+# shi (Crow Harbor styled himself the true heir to the Ryuvian throne... The people depicted by these statues must be heroes idolized by the other pure blooded Ryuvians of his time.)
+shi (Crow Harbor styled himself the true heir to the Ryuvian throne... The people depicted by these statues must be heroes idolized by the other pure blooded Ryuvians of his time.)
+#$ cha shi_curious
+cha shi_curious
+# shi I want to get a closer look. Drop me off by those statues on that platform, Asaga.
+shi I want to get a closer look. Drop me off by those statues on that platform, Asaga.
+# obj Move the High Roller to the statues then click on Shields' icon.
+obj Move the High Roller to the statues then click on Shields' icon.
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_platformfall
+tag chap6_platformfall
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi I've made contact with the platform. The graviton emitters are definitely still operational - I can feel my own weight here.
+shi I've made contact with the platform. The graviton emitters are definitely still operational - I can feel my own weight here.
+# shi I want to get a closer look at those statues. Stand by for scanner data...
+shi I want to get a closer look at those statues. Stand by for scanner data...
+#$ sou sou_explosion5
+sou sou_explosion5
+#$ cha shi_surprise
+cha shi_surprise
+# shi What the--
+shi What the--
+#$ voi asa_sur4
+voi asa_sur4
+#$ cha asa_armscrossed_surprised
+cha asa_armscrossed_surprised
+# asa I'm reading some kind of detonation?!
+asa I'm reading some kind of detonation?!
+#$ sou sou_collapse
+sou sou_collapse
+#$ flag
+flag
+#$ cha sol_side_shout
+cha sol_side_shout
+#$ cha asa_fist_focusshout
+cha asa_fist_focusshout
+# asa Captain!
+asa Captain!
+#$ cha shi_blank
+cha shi_blank
+# shi Shit!
+shi Shit!
+#$ cha asa_fist_surprised
+cha asa_fist_surprised
+# asa CAPTAIN-!
+asa CAPTAIN-!
+#$ hid asa
+hid asa
+#$ hid sol
+hid sol
+#$ fade
+fade
+#$ stop
+stop
+#$ //The floor gives away
+//The floor gives away
+#$ //Shields falls into darkness
+//Shields falls into darkness
+#$ 
+
+#$ tag chap6_templemeetcos
+tag chap6_templemeetcos
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc sol_plugsuit
+ccc sol_plugsuit
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ ccc shi_uni
+ccc shi_uni
+#$ sou stop
+sou stop
+#$ cha shi_madgroan
+cha shi_madgroan
+# shi Ugh... Anyone here? Asaga?! Report!
+shi Ugh... Anyone here? Asaga?! Report!
+#$ cha shi_resigned
+cha shi_resigned
+# shi Nothing...
+shi Nothing...
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+# shi (Shit. All I can remember after falling off that platform is spinning and moving around in darkness for a while. The graviton emitters must have gone haywire and flung me somewhere else in this facility. It's gonna take some time until I'm rescued.)
+shi (Shit. All I can remember after falling off that platform is spinning and moving around in darkness for a while. The graviton emitters must have gone haywire and flung me somewhere else in this facility. It's gonna take some time until I'm rescued.)
+# shi (What was that detonation? Could it have been Crow's forces?)
+shi (What was that detonation? Could it have been Crow's forces?)
+#$ cha cos_facepalm_clench
+cha cos_facepalm_clench
+# cos Ugghh...
+cos Ugghh...
+#$ cha shi_curious
+cha shi_curious
+# shi What the--
+shi What the--
+#$ cha cos_laugh_gurk
+cha cos_laugh_gurk
+# cos Urk! Shields!
+cos Urk! Shields!
+#$ cha shi_gasp
+cha shi_gasp
+# shi Cosette! What are you doing here?!
+shi Cosette! What are you doing here?!
+#$ cha cos_fist_angrynarrowclench
+cha cos_fist_angrynarrowclench
+# cos The same thing as you, probably.
+cos The same thing as you, probably.
+#$ cha shi_focus
+cha shi_focus
+# shi You're alone. Something... must have happened to your pirate friends.
+shi You're alone. Something... must have happened to your pirate friends.
+#$ cha cos_fist_recoil
+cha cos_fist_recoil
+# cos Tch.
+cos Tch.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi You've got to be pretty desperate to use explosives in a thousand year old facility... You could have dropped whole the ceiling onto your head.
+shi You've got to be pretty desperate to use explosives in a thousand year old facility... You could have dropped whole the ceiling onto your head.
+#$ cha cos_armcrossed_focusthink
+cha cos_armcrossed_focusthink
+# cos What else was I gonna do? I've been trapped in this room for two fucking days now...
+cos What else was I gonna do? I've been trapped in this room for two fucking days now...
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+# shi Did your pirate friends abandon you here to die? Is that what happened?
+shi Did your pirate friends abandon you here to die? Is that what happened?
+#$ cha cos_armcrossed_madtalk
+cha cos_armcrossed_madtalk
+# cos Yeah right. More like they all got cut down by this base's security. Let me in on a little discovery we made when we got here: This whole place is a death trap. A hoard of automated defenses guard this place. Unless you override the security, you're gonna be atomized.
+cos Yeah right. More like they all got cut down by this base's security. Let me in on a little discovery we made when we got here: This whole place is a death trap. A hoard of automated defenses guard this place. Unless you override the security, you're gonna be atomized.
+# cos Speaking of which, we should be getting out of here. I managed to use the Calamity to blow a hole through that wall, but that blast probably just sent a swarm of security drones to our current location.
+cos Speaking of which, we should be getting out of here. I managed to use the Calamity to blow a hole through that wall, but that blast probably just sent a swarm of security drones to our current location.
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi And how do I know you're not lying?
+shi And how do I know you're not lying?
+#$ cha cos_laugh_crazy
+cha cos_laugh_crazy
+# cos Heh-heh-heh. You know, it's only a matter of time until the drones find your precious girls too. We should get out of here and look for the rest of your crew.
+cos Heh-heh-heh. You know, it's only a matter of time until the drones find your precious girls too. We should get out of here and look for the rest of your crew.
+#$ cha cos_fist_crazysneer
+cha cos_fist_crazysneer
+# cos I'm doing this for you, Shields, only because you're my number one most favorite captain in the galaxy.
+cos I'm doing this for you, Shields, only because you're my number one most favorite captain in the galaxy.
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi Sigh... More like, you probably need our help if you're gonna make it out of here alive.
+shi Sigh... More like, you probably need our help if you're gonna make it out of here alive.
+#$ cha cos_laugh_relaxedtalk
+cha cos_laugh_relaxedtalk
+# cos I told you before: I'm not a terrorist, I'm a businesswoman! I make decisions based on what's good for me.
+cos I told you before: I'm not a terrorist, I'm a businesswoman! I make decisions based on what's good for me.
+# cos And gimmie one of your protein snacks while you're at it... Ugghh...
+cos And gimmie one of your protein snacks while you're at it... Ugghh...
+#$ cha shi_resigned
+cha shi_resigned
+# shi Sigh...
+shi Sigh...
+#$ cha cos_fist_grin
+cha cos_fist_grin
+# cos Kukuku... I knew you'd see reason, Shields. Now - the snack.
+cos Kukuku... I knew you'd see reason, Shields. Now - the snack.
+#$ cha cos_laugh_innocentsmile
+cha cos_laugh_innocentsmile
+# cos Nomunomunomu... Mmmm...
+cos Nomunomunomu... Mmmm...
+#$ var getcosaftemple
+var getcosaftemple
+#$ var cos_aff
+var cos_aff
+#$ cha shi_stunned
+cha shi_stunned
+# shi ... ... ...
+shi ... ... ...
+#$ cha cos_armcrossed_sigh
+cha cos_armcrossed_sigh
+# cos Hehe... even basic rations tastes like ambrosia after starving for three days...
+cos Hehe... even basic rations tastes like ambrosia after starving for three days...
+#$ cha cos_laugh_relaxedsmile
+cha cos_laugh_relaxedsmile
+# cos Now come on. The Calamity's managed to clear a path out of here. But keep an eye out for more of those automated defenses... There's no way your carelessness is gonna get me killed!
+cos Now come on. The Calamity's managed to clear a path out of here. But keep an eye out for more of those automated defenses... There's no way your carelessness is gonna get me killed!
+# obj Pick Shields up by moving the Havoc over his icon then leave the room.
+obj Pick Shields up by moving the Havoc over his icon then leave the room.
+#$ hid cos
+hid cos
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_lair_prewall
+tag chap6_lair_prewall
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ 
+
+#$ voi cos_neu0
+voi cos_neu0
+#$ cha cos_laugh_sneer
+cha cos_laugh_sneer
+# cos See that weakened section of the wall? The Calamity can bust through it with its circular saw, but... uhohoho, you'd probably end up the consistency of salsa on my hull if I were to pull a maneuver like that while carrying you.
+cos See that weakened section of the wall? The Calamity can bust through it with its circular saw, but... uhohoho, you'd probably end up the consistency of salsa on my hull if I were to pull a maneuver like that while carrying you.
+#$ cha cos_fist_grin
+cha cos_fist_grin
+# cos So why don't you make like a Solari and fall the hell back before I pulverize that wall?
+cos So why don't you make like a Solari and fall the hell back before I pulverize that wall?
+#$ cha shi_smirk
+cha shi_smirk
+# shi (Cosette will smash through the weakened section of the wall if I move her to the indicated icon, but only if I'm not being carried by her.)
+shi (Cosette will smash through the weakened section of the wall if I move her to the indicated icon, but only if I'm not being carried by her.)
+# obj Cosette Can destroy weak segments of the wall with melee, but Shields cannot be carried on the Calamity during this action.
+obj Cosette Can destroy weak segments of the wall with melee, but Shields cannot be carried on the Calamity during this action.
+#$ hid shi
+hid shi
+#$ hid cos
+hid cos
+#$ stop
+stop
+#$ 
+
+#$ 
+
+#$ tag chap6_lair_postwall
+tag chap6_lair_postwall
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi The wall's down. Now pick me up again.
+shi The wall's down. Now pick me up again.
+# obj Return to the previous room and pick Shields up.
+obj Return to the previous room and pick Shields up.
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_lairpostwall2
+tag chap6_lairpostwall2
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ voi cos_neu7
+voi cos_neu7
+#$ cha cos_armcrossed_relaxedtalk
+cha cos_armcrossed_relaxedtalk
+# cos Doon't worrrrryyy Shields. I'm not gonna let you die you here. Not now, when we're surrounded by ancient Ryuvian who-know-whats all trying to vaporize us.
+cos Doon't worrrrryyy Shields. I'm not gonna let you die you here. Not now, when we're surrounded by ancient Ryuvian who-know-whats all trying to vaporize us.
+#$ cha shi_smirk
+cha shi_smirk
+# shi Quite a change of heart, Cosette...
+shi Quite a change of heart, Cosette...
+#$ voi cos_sad1
+voi cos_sad1
+#$ cha cos_fist_angrynarrowclench
+cha cos_fist_angrynarrowclench
+# cos No change. There's one thing I like even better than sweet, sweet revenge: Staying alive.
+cos No change. There's one thing I like even better than sweet, sweet revenge: Staying alive.
+#$ voi cos_neu0
+voi cos_neu0
+#$ cha cos_laugh_declaration
+cha cos_laugh_declaration
+# cos Remember that. Nothing counts if you're dead. You got all the money in the world? Or you've become the big hero? All worth zero points if you're dead. Big fucking moron you'd have to be to die on account of your principles.
+cos Remember that. Nothing counts if you're dead. You got all the money in the world? Or you've become the big hero? All worth zero points if you're dead. Big fucking moron you'd have to be to die on account of your principles.
+#$ cha shi_triumph
+cha shi_triumph
+# shi Really? You seemed pretty eager to die back during the Neutral Rim War...
+shi Really? You seemed pretty eager to die back during the Neutral Rim War...
+#$ voi cos_sad4
+voi cos_sad4
+#$ cha cos_fist_surpriseangry
+cha cos_fist_surpriseangry
+# cos Dumbass. Don't think I never acted without an escape plan. There was always one. I just liked to see the look on your innocent little face whenever I showed you the dirty truth about life.
+cos Dumbass. Don't think I never acted without an escape plan. There was always one. I just liked to see the look on your innocent little face whenever I showed you the dirty truth about life.
+# cos Heh... An ejector seat here... A jet pack there... Secondary, tertiary backup systems... You need to know all the tricks of the trade if you want to make it as long as I have in the pirate business. You're not the first son of a bitch who thought you got me spaced.
+cos Heh... An ejector seat here... A jet pack there... Secondary, tertiary backup systems... You need to know all the tricks of the trade if you want to make it as long as I have in the pirate business. You're not the first son of a bitch who thought you got me spaced.
+#$ cha shi_surprise
+cha shi_surprise
+# shi I'm starting to get why you never die, even when I kill you...
+shi I'm starting to get why you never die, even when I kill you...
+# obj Continue exploring the lair.
+obj Continue exploring the lair.
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_templedrones
+tag chap6_templedrones
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ voi cos_sad1
+voi cos_sad1
+#$ cha cos_laugh_relaxedsurprise
+cha cos_laugh_relaxedsurprise
+# cos Wait! We've got drones up ahead...
+cos Wait! We've got drones up ahead...
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi You think you can take them on?
+shi You think you can take them on?
+#$ voi cos_sad5
+voi cos_sad5
+#$ cha cos_armcrossed_sigh
+cha cos_armcrossed_sigh
+# cos Don't be dumb, Shields. As soon as one of those monsters spot me, it's gonna send out a ping to alert all of its buddies to tear us both apart. We better stay undetected.
+cos Don't be dumb, Shields. As soon as one of those monsters spot me, it's gonna send out a ping to alert all of its buddies to tear us both apart. We better stay undetected.
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi (I better avoid those drones for now.)
+shi (I better avoid those drones for now.)
+#$ hid shi
+hid shi
+#$ hid cos
+hid cos
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_lair_postwall_soldier
+tag chap6_lair_postwall_soldier
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ dcg spr_cg_deadsoldier1
+dcg spr_cg_deadsoldier1
+#$ cha shi_gasp
+cha shi_gasp
+# shi Cosette, look here.
+shi Cosette, look here.
+#$ voi cos_neu9
+voi cos_neu9
+#$ por cos_fist_grin
+por cos_fist_grin
+# cos That corpse is hardly a year old. Heh, looks like a lead.
+cos That corpse is hardly a year old. Heh, looks like a lead.
+#$ cha shi_curious
+cha shi_curious
+# shi Here. It was holding this data crystal. Looks like a voice recording. Let's hear what it has to say...
+shi Here. It was holding this data crystal. Looks like a voice recording. Let's hear what it has to say...
+#$ hid cos
+hid cos
+# cry It has been three months since we arrived in this godforsaken time line. His Imperial Majesty is still adamant that we make for Ryuvia Prime and subjugate what is left of our Empire. Has this unfathomable situation blinded him to the fact that day by day, our ships are running out of supplies and the men are becoming more despondent?
+cry It has been three months since we arrived in this godforsaken time line. His Imperial Majesty is still adamant that we make for Ryuvia Prime and subjugate what is left of our Empire. Has this unfathomable situation blinded him to the fact that day by day, our ships are running out of supplies and the men are becoming more despondent?
+# cry The inhabitants of this time are primitives! Their societies are built around a toxic resource they call Ongessite, leaving us with no means to repair, refuel, or rearm our ships. The light of the Holy Empire is no more and all that remains is savagery! I fear that it would take decades or even centuries to reassemble the technology required to restore our fleet...
+cry The inhabitants of this time are primitives! Their societies are built around a toxic resource they call Ongessite, leaving us with no means to repair, refuel, or rearm our ships. The light of the Holy Empire is no more and all that remains is savagery! I fear that it would take decades or even centuries to reassemble the technology required to restore our fleet...
+# cry Many of our ships were damaged by the Farari bitch's Final Tear and there are countless wounded... The soldiers of Ryuvia are growing restless... Who knows whether we will ever be able to return to our families or if we are destined to remain marooned in this dark realm forever...
+cry Many of our ships were damaged by the Farari bitch's Final Tear and there are countless wounded... The soldiers of Ryuvia are growing restless... Who knows whether we will ever be able to return to our families or if we are destined to remain marooned in this dark realm forever...
+# cry All I can do follow orders and defend this base. But my hope dims with each day...
+cry All I can do follow orders and defend this base. But my hope dims with each day...
+#$ dcg hide
+dcg hide
+#$ voi cos_neu1
+voi cos_neu1
+#$ cha cos_laugh_neutral
+cha cos_laugh_neutral
+# cos Heh, good find, Shields.
+cos Heh, good find, Shields.
+#$ cha cos_laugh_relaxedsmile
+cha cos_laugh_relaxedsmile
+# cos So the Lost Fleet did come back here. And from the sound of it, they're weak and ripe for the picking...
+cos So the Lost Fleet did come back here. And from the sound of it, they're weak and ripe for the picking...
+#$ cha shi_focusthink
+cha shi_focusthink
+# shi Strange... The remains of this man were disintegrated by plasma. Most likely, he was killed by friendly fire.
+shi Strange... The remains of this man were disintegrated by plasma. Most likely, he was killed by friendly fire.
+#$ voi cos_sad5
+voi cos_sad5
+#$ cha cos_armcrossed_sigh
+cha cos_armcrossed_sigh
+# cos Who knows. Maybe they all went crazy after becoming marooned and started to slaughter each other. Don't be naive. That sort of thing happens all the time.
+cos Who knows. Maybe they all went crazy after becoming marooned and started to slaughter each other. Don't be naive. That sort of thing happens all the time.
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi Let's keep looking. We need to find more evidence of what happened here.
+shi Let's keep looking. We need to find more evidence of what happened here.
+#$ hid shi
+hid shi
+#$ hid cos
+hid cos
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_lair_postwall_highroller
+tag chap6_lair_postwall_highroller
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ voi cos_sad1
+voi cos_sad1
+#$ cha cos_laugh_gurk
+cha cos_laugh_gurk
+# cos Shit.
+cos Shit.
+#$ voi asa_sur4
+voi asa_sur4
+#$ cha asa_armup_surprised
+cha asa_armup_surprised
+# asa It's you!
+asa It's you!
+#$ cha shi_shout
+cha shi_shout
+# shi Wait! Hold your fire, Asaga. She's with me.
+shi Wait! Hold your fire, Asaga. She's with me.
+#$ voi asa_hap1
+voi asa_hap1
+#$ cha asa_excited_happy
+cha asa_excited_happy
+#$ cha cos_armcrossed_neutral
+cha cos_armcrossed_neutral
+# asa Oh! There you are, capt'n! I knew you'd be around here.
+asa Oh! There you are, capt'n! I knew you'd be around here.
+#$ cha asa_fingerpoint_talk
+cha asa_fingerpoint_talk
+# asa The others - they're all looking for you too.
+asa The others - they're all looking for you too.
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi We need to regroup. Turns out this whole place is crawling with automated drones. They took out Cosette's squad, so now she's gonna help us find Crow Harbor.
+shi We need to regroup. Turns out this whole place is crawling with automated drones. They took out Cosette's squad, so now she's gonna help us find Crow Harbor.
+#$ voi asa_sad4
+voi asa_sad4
+#$ cha asa_fingerpoint_surprised
+cha asa_fingerpoint_surprised
+# asa Eeeehh...? Are you sure you can trust her, capt'n? How many times has she tried to kill us by now anyways?
+asa Eeeehh...? Are you sure you can trust her, capt'n? How many times has she tried to kill us by now anyways?
+#$ voi cos_sad5
+voi cos_sad5
+#$ cha cos_laugh_declaration
+cha cos_laugh_declaration
+# cos Peh! Like I want to work with you either. But it's either that or getting cooked by those drones.
+cos Peh! Like I want to work with you either. But it's either that or getting cooked by those drones.
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi Well, going off her track record, I doubt she's much of a threat by herself anyways.
+shi Well, going off her track record, I doubt she's much of a threat by herself anyways.
+#$ voi cos_ang1
+voi cos_ang1
+#$ cha asa_armup_closedeyeslaugh
+cha asa_armup_closedeyeslaugh
+#$ cha cos_fist_relaxedsurprise
+cha cos_fist_relaxedsurprise
+# cos E-Ehhh--?!
+cos E-Ehhh--?!
+#$ cha shi_smile
+cha shi_smile
+# shi Ahem. Anyways, let's regroup with the others and continue our search...
+shi Ahem. Anyways, let's regroup with the others and continue our search...
+#$ voi asa_neu4
+voi asa_neu4
+#$ cha asa_armscrossed_confidentkitty
+cha asa_armscrossed_confidentkitty
+# asa All right. I'll take you to the fall back point. It's almost time for everyone to check in.
+asa All right. I'll take you to the fall back point. It's almost time for everyone to check in.
+#$ hid cos
+hid cos
+#$ hid asa
+hid asa
+#$ roo roo_chap6_puzzle3
+roo roo_chap6_puzzle3
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_lair_postwall_regroup
+tag chap6_lair_postwall_regroup
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ cha shi_neu
+cha shi_neu
+# shi There's the rest of the squad.
+shi There's the rest of the squad.
+#$ cha shi_blank
+cha shi_blank
+# shi Wait - where's the Arch Angel?
+shi Wait - where's the Arch Angel?
+#$ voi asa_sad5
+voi asa_sad5
+#$ cha asa_armup_confused
+cha asa_armup_confused
+# asa That's weird... Sola's usually punctual about checking in...
+asa That's weird... Sola's usually punctual about checking in...
+#$ voi ica_neu1
+voi ica_neu1
+#$ cha ica_back_smirk
+cha ica_back_smirk
+# ica Hey cap. Good to see you're still in one piece. And looks like a little Chihuahua followed you home too.
+ica Hey cap. Good to see you're still in one piece. And looks like a little Chihuahua followed you home too.
+#$ cha asa_bendover_awkgrin
+cha asa_bendover_awkgrin
+#$ cha cos_armcrossed_neutalk
+cha cos_armcrossed_neutalk
+#$ voi cos_ang1
+voi cos_ang1
+# cos Heeeh? Who's a Chihuahua?!
+cos Heeeh? Who's a Chihuahua?!
+#$ hid asa
+hid asa
+#$ hid ica
+hid ica
+#$ hid cos
+hid cos
+#$ voi ava_ang1
+voi ava_ang1
+#$ por ava_armscrossed_sadtalk
+por ava_armscrossed_sadtalk
+# ava Captain. I have returned to the Maray to oversee your search and rescue operation. It seems we may now have to shift gears towards locating Sola.
+ava Captain. I have returned to the Maray to oversee your search and rescue operation. It seems we may now have to shift gears towards locating Sola.
+#$ por ava_armup_madtalk
+por ava_armup_madtalk
+# ava With our sensors still inoperative in this pocket dimension, we had to rig our ryders to drop micro buoys to track their positions in this facility. Chief Engineer Lynn can explain more.
+ava With our sensors still inoperative in this pocket dimension, we had to rig our ryders to drop micro buoys to track their positions in this facility. Chief Engineer Lynn can explain more.
+#$ hid ava
+hid ava
+#$ voi lyn_neu4
+voi lyn_neu4
+#$ cha lyn_armscrossed_focustalk
+cha lyn_armscrossed_focustalk
+# lyn Not much to it, really. Each of our ryders drop cookie crumbs now and then so that we can keep track of our locations. All we've got to do is follow the Arch Angel's trail of crumbs to find out where it ended up.
+lyn Not much to it, really. Each of our ryders drop cookie crumbs now and then so that we can keep track of our locations. All we've got to do is follow the Arch Angel's trail of crumbs to find out where it ended up.
+#$ cha lyn_armscrossed_neutral
+cha lyn_armscrossed_neutral
+#$ cha shi_sadthink
+cha shi_sadthink
+# shi Good work. Let's move out. With all that's happened, I've got a bad feeling about Sola's disappearance...
+shi Good work. Let's move out. With all that's happened, I've got a bad feeling about Sola's disappearance...
+# obj Find Sola
+obj Find Sola
+#$ hid shi
+hid shi
+#$ hid ava
+hid ava
+#$ hid lyn
+hid lyn
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_temple2_cry
+tag chap6_temple2_cry
+#$ voi lyn_neu4
+voi lyn_neu4
+#$ cha lyn_handonhip_focustalk
+cha lyn_handonhip_focustalk
+# lyn See those data crystals? They don't hold any leads to Crow Harbor, but their contents could help us improve our systems.
+lyn See those data crystals? They don't hold any leads to Crow Harbor, but their contents could help us improve our systems.
+#$ cha lyn_handtoface_confidentsly
+cha lyn_handtoface_confidentsly
+# lyn Move me to them and I'll give them a scan. Each one I collect will give us extra credits for Research and Development.
+lyn Move me to them and I'll give them a scan. Each one I collect will give us extra credits for Research and Development.
+#$ var tip_crystals
+var tip_crystals
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_lair_regrouped
+tag chap6_lair_regrouped
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ voi lyn_neu0
+voi lyn_neu0
+#$ cha lyn_armscrossed_focustalk
+cha lyn_armscrossed_focustalk
+# lyn Look - there's the Arch Angel right there. But no sign of Sola on the thermals. She must have abandoned her ryder and continued on foot.
+lyn Look - there's the Arch Angel right there. But no sign of Sola on the thermals. She must have abandoned her ryder and continued on foot.
+#$ cha lyn_armscrossed_sad
+cha lyn_armscrossed_sad
+# lyn This is where the trail ends. Who knows where she is now.
+lyn This is where the trail ends. Who knows where she is now.
+#$ voi ica_sad2
+voi ica_sad2
+#$ cha ica_armscrossed_confused
+cha ica_armscrossed_confused
+# ica Ugh, why would she do that? And here, I thought she was the level headed one...
+ica Ugh, why would she do that? And here, I thought she was the level headed one...
+#$ cha shi_frown
+cha shi_frown
+# shi Look closer. A dead body, next to the Arch Angel. She must have left her ryder to investigate. Drop me next to it.
+shi Look closer. A dead body, next to the Arch Angel. She must have left her ryder to investigate. Drop me next to it.
+# obj Drop Shields off at the platform.
+obj Drop Shields off at the platform.
+#$ hid shi
+hid shi
+#$ hid ica
+hid ica
+#$ hid lyn
+hid lyn
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_lair_regrouped_soldier
+tag chap6_lair_regrouped_soldier
+#$ 
+
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc pal_zerosuit
+ccc pal_zerosuit
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ 
+
+#$ dcg spr_cg_deadsoldier1
+dcg spr_cg_deadsoldier1
+#$ cha shi_curious
+cha shi_curious
+# shi Check it out...
+shi Check it out...
+#$ voi asa_sad3
+voi asa_sad3
+#$ por asa_bendover_closedeyesangrytalk
+por asa_bendover_closedeyesangrytalk
+# asa Uuuuu... This is a lil creepy, ya know...
+asa Uuuuu... This is a lil creepy, ya know...
+#$ cha shi_gasp
+cha shi_gasp
+# shi It's holding another data crystal...
+shi It's holding another data crystal...
+#$ hid asa
+hid asa
+# cry Direct orders from His Imperial Majesty... We are to set course to the very edge of our galaxy, to the World Fountain. There, Lord Harbor will harness the World Fountain's Lilium to re-power our ships. The coordinates have been set in the mainframe.
+cry Direct orders from His Imperial Majesty... We are to set course to the very edge of our galaxy, to the World Fountain. There, Lord Harbor will harness the World Fountain's Lilium to re-power our ships. The coordinates have been set in the mainframe.
+# cry Yet the troops are skeptical... Even I can understand their lack of morale. Even if we do regain power, what meaning is there if all that we have fought for is gone? Our scouts report that Ryuvia is now no more than a backwater world. All of our history and technology has been lost. And our homes and families have turned to dust eons past...
+cry Yet the troops are skeptical... Even I can understand their lack of morale. Even if we do regain power, what meaning is there if all that we have fought for is gone? Our scouts report that Ryuvia is now no more than a backwater world. All of our history and technology has been lost. And our homes and families have turned to dust eons past...
+# cry There is talk of mutiny... Some of us seek to abandon the quest and find what fortune there is to be had in this new world... While others seek to find a way to return to our old time. Lord Harbor grows increasingly erratic... Could the whispers be true?
+cry There is talk of mutiny... Some of us seek to abandon the quest and find what fortune there is to be had in this new world... While others seek to find a way to return to our old time. Lord Harbor grows increasingly erratic... Could the whispers be true?
+# cry I must put these dangerous thoughts to rest. Surely, once we arrive at the World Fountain, our resolve will return and we will discover a way to return to our homes.
+cry I must put these dangerous thoughts to rest. Surely, once we arrive at the World Fountain, our resolve will return and we will discover a way to return to our homes.
+#$ dcg hide
+dcg hide
+#$ cha shi_confusethink
+cha shi_confusethink
+# shi The World Fountain... Could it be some kind of Ancient Ryuvian power generator?
+shi The World Fountain... Could it be some kind of Ancient Ryuvian power generator?
+#$ voi asa_sur3
+voi asa_sur3
+#$ cha asa_armup_stunned
+cha asa_armup_stunned
+# asa I've never heard of anything like that...
+asa I've never heard of anything like that...
+#$ cha asa_shrug_sadtalk
+cha asa_shrug_sadtalk
+# asa Aaah, too bad Sola's not here with us now, maybe she'd know something about it.
+asa Aaah, too bad Sola's not here with us now, maybe she'd know something about it.
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi It said the coordinates to the World Fountain are in the mainframe computer. We've got to find that if we're going to get to the Last Fleet. Most likely, that's where Sola must have headed to as well.
+shi It said the coordinates to the World Fountain are in the mainframe computer. We've got to find that if we're going to get to the Last Fleet. Most likely, that's where Sola must have headed to as well.
+# shi The path ahead is too narrow for ryders. We're going to have to search the rest of this facility on foot. Team, ditch your ryders here. Ava, dispatch a recovery team to our position to return our ryders to the ship.
+shi The path ahead is too narrow for ryders. We're going to have to search the rest of this facility on foot. Team, ditch your ryders here. Ava, dispatch a recovery team to our position to return our ryders to the ship.
+#$ cha asa_armscrossed_neutral
+cha asa_armscrossed_neutral
+#$ voi ava_ang2
+voi ava_ang2
+#$ por ava_facepalm_sigh
+por ava_facepalm_sigh
+# ava Captain, there is no telling what dangers await in this facility. We should continue the search on ryders.
+ava Captain, there is no telling what dangers await in this facility. We should continue the search on ryders.
+#$ hid ava
+hid ava
+#$ hid asa
+hid asa
+#$ cha shi_focus
+cha shi_focus
+# shi We don't have much of a choice if we're going to find Sola. Icari and Kryska can take point. Don't worry. They're trained for this kind of thing. Right?
+shi We don't have much of a choice if we're going to find Sola. Icari and Kryska can take point. Don't worry. They're trained for this kind of thing. Right?
+#$ voi kry_neu1
+voi kry_neu1
+#$ cha pal_fistup_oppotriumph
+cha pal_fistup_oppotriumph
+# kry Sir yes sir!
+kry Sir yes sir!
+#$ voi ica_neu4
+voi ica_neu4
+#$ cha ica_back_funnytsun
+cha ica_back_funnytsun
+# ica Hmph! Don't forget: Saving your sorry hide from ancient killer drones will be an up charge on the invoice. Just as long as we're on the same page!
+ica Hmph! Don't forget: Saving your sorry hide from ancient killer drones will be an up charge on the invoice. Just as long as we're on the same page!
+#$ cha shi_smirk
+cha shi_smirk
+# shi See Ava? No problem.
+shi See Ava? No problem.
+#$ voi ava_ang2
+voi ava_ang2
+#$ por ava_facepalm_annoyed
+por ava_facepalm_annoyed
+# ava Unbelievable...
+ava Unbelievable...
+#$ flag
+flag
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_lair_puzzle_start
+tag chap6_lair_puzzle_start
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc cla_plugsuit
+ccc cla_plugsuit
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ ccc pal_zerosuit
+ccc pal_zerosuit
+#$ mus stop
+mus stop
+#$ sou sou_footsteps_metal
+sou sou_footsteps_metal
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+# nar ... ...
+nar ... ...
+# nar ... ... ...
+nar ... ... ...
+#$ sou mus_HorrorReveal
+sou mus_HorrorReveal
+#$ dcg spr_cg_deadsoldier2
+dcg spr_cg_deadsoldier2
+#$ cha shi_rattled
+cha shi_rattled
+# shi My god... What the hell happened here...?
+shi My god... What the hell happened here...?
+#$ voi asa_sad5
+voi asa_sad5
+#$ por asa_armscrossed_surprised
+por asa_armscrossed_surprised
+# asa Whatever took out all these drones... it couldn't have been human. This blood...
+asa Whatever took out all these drones... it couldn't have been human. This blood...
+#$ voi cla_neu6
+voi cla_neu6
+#$ por cla_armscrossed_sadtalk
+por cla_armscrossed_sadtalk
+# cla Analyzing... I'm detecting a high concentration of nano-machines in this fluid. They are of a make quite beyond our current scientific know-how.
+cla Analyzing... I'm detecting a high concentration of nano-machines in this fluid. They are of a make quite beyond our current scientific know-how.
+#$ por cla_pout_surpriseuumimic
+por cla_pout_surpriseuumimic
+# cla I would venture a guess that these nano-machines were injected into living humans... with quite unfortunate consequences.
+cla I would venture a guess that these nano-machines were injected into living humans... with quite unfortunate consequences.
+#$ cha shi_stunned
+cha shi_stunned
+# shi For what purpose?
+shi For what purpose?
+#$ voi cla_neu8
+voi cla_neu8
+#$ por cla_pout_sadtalk
+por cla_pout_sadtalk
+# cla Now captain, I've only just started looking myself. But these machines are smaller - much smaller - than what we are capable of creating.
+cla Now captain, I've only just started looking myself. But these machines are smaller - much smaller - than what we are capable of creating.
+#$ voi cla_neu5
+voi cla_neu5
+#$ por cla_handsonhips_happy
+por cla_handsonhips_happy
+# cla In theory, nano-machines of this size would be capable of cutting and rewiring our genetic code itself.
+cla In theory, nano-machines of this size would be capable of cutting and rewiring our genetic code itself.
+# cla It is within the realm of possibility that the ancient Ryuvians attempted to use these nano-machines to rewrite their own DNA.
+cla It is within the realm of possibility that the ancient Ryuvians attempted to use these nano-machines to rewrite their own DNA.
+#$ voi cla_ang1
+voi cla_ang1
+#$ por cla_pout_surprise
+por cla_pout_surprise
+# cla Although, as a medical doctor, I would say the percent chance of a fully grown human surviving a sudden recoding of their bodily functions would be... zero.
+cla Although, as a medical doctor, I would say the percent chance of a fully grown human surviving a sudden recoding of their bodily functions would be... zero.
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi I'm not liking the sound of this one bit...
+shi I'm not liking the sound of this one bit...
+#$ voi cos_hap1
+voi cos_hap1
+#$ por cos_fist_crazysneer
+por cos_fist_crazysneer
+# cos Heh, the writing's on the wall. Crow Harbor's forces all went crazy after getting marooned here and pumped themselves full of deadly nano-machines and ended up killing themselves.
+cos Heh, the writing's on the wall. Crow Harbor's forces all went crazy after getting marooned here and pumped themselves full of deadly nano-machines and ended up killing themselves.
+#$ por cos_armcrossed_neutalk
+por cos_armcrossed_neutalk
+# cos The only thing left are their automated drones now.
+cos The only thing left are their automated drones now.
+#$ voi ica_ang1
+voi ica_ang1
+#$ por ica_handsonhips_talk
+por ica_handsonhips_talk
+# ica The runt might be right captain. So far, all the evidence is pointing towards Crow's forces having killed themselves in a mutiny.
+ica The runt might be right captain. So far, all the evidence is pointing towards Crow's forces having killed themselves in a mutiny.
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi Hm. No sign of Crow Harbor yet though. Some of them might still have made it to the World Fountain. Let's keep looking around here.
+shi Hm. No sign of Crow Harbor yet though. Some of them might still have made it to the World Fountain. Let's keep looking around here.
+#$ hid shi
+hid shi
+#$ dcg hide
+dcg hide
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc cla_plugsuit
+ccc cla_plugsuit
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ ccc ica_plugsuit
+ccc ica_plugsuit
+#$ ccc sol_plugsuit
+ccc sol_plugsuit
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ ccc pal_zerosuit
+ccc pal_zerosuit
+#$ ccc fon_base
+ccc fon_base
+#$ sou sou_footsteps_metal
+sou sou_footsteps_metal
+#$ cha sol_surprise_surprise
+cha sol_surprise_surprise
+# sol !!!
+sol !!!
+#$ cha shi_shout
+cha shi_shout
+# shi Sola!
+shi Sola!
+#$ cha sol_back_scared
+cha sol_back_scared
+# sol Ha-
+sol Ha-
+#$ sou sou_assassindrones
+sou sou_assassindrones
+#$ mus mus_escape
+mus mus_escape
+#$ dcg spr_cg_chap6_1a
+dcg spr_cg_chap6_1a
+# shi Shit! She's being chased! Drones!
+shi Shit! She's being chased! Drones!
+#$ cha shi_shout
+cha shi_shout
+# shi Are you all right, Sola? Why'd you run off on your own like that?
+shi Are you all right, Sola? Why'd you run off on your own like that?
+#$ hid shi
+hid shi
+# sol No time - we must make haste. The mainframe is ahead! Past the drones!
+sol No time - we must make haste. The mainframe is ahead! Past the drones!
+# kry I count... 20... 21 hostiles! We're going to need explosives!
+kry I count... 20... 21 hostiles! We're going to need explosives!
+#$ cha shi_shout
+cha shi_shout
+# shi Take cover! Shit. Cosette, you've got any more of those explosive charges?
+shi Take cover! Shit. Cosette, you've got any more of those explosive charges?
+# shi Cosette?
+shi Cosette?
+#$ hid shi
+hid shi
+# kry Peh! I knew the pirate would turn tail at the first sign of danger!
+kry Peh! I knew the pirate would turn tail at the first sign of danger!
+# ica Tch, too bad we had to ditch our ryders to get in here.
+ica Tch, too bad we had to ditch our ryders to get in here.
+#$ dcg spr_cg_chap6_1b
+dcg spr_cg_chap6_1b
+# sol I will make an opening.
+sol I will make an opening.
+#$ sou sou_solasnipe
+sou sou_solasnipe
+# sol Now!
+sol Now!
+#$ cha shi_shout
+cha shi_shout
+# shi Come on, move, move, move!
+shi Come on, move, move, move!
+#$ hid shi
+hid shi
+#$ sou sou_ryuvianattack
+sou sou_ryuvianattack
+#$ dcg spr_cg_chap6_1c
+dcg spr_cg_chap6_1c
+# lyn ACK!!
+lyn ACK!!
+#$ por pal_armout_shout
+por pal_armout_shout
+# kry Man down!! Medic!!
+kry Man down!! Medic!!
+#$ hid pal
+hid pal
+# cla Heeeek! I'm on it!
+cla Heeeek! I'm on it!
+# lyn Cough... cough... Ugh...
+lyn Cough... cough... Ugh...
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+# shi What's her condition, doc?!
+shi What's her condition, doc?!
+#$ hid shi
+hid shi
+# cla No vitals struck... But we've got to get her to the sickbay, stat!
+cla No vitals struck... But we've got to get her to the sickbay, stat!
+# cla She's losing blood - she only has minutes until she goes into shock.
+cla She's losing blood - she only has minutes until she goes into shock.
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+# shi Shit...
+shi Shit...
+#$ hid shi
+hid shi
+#$ por pal_neu_widetalk
+por pal_neu_widetalk
+# kry Orders, captain!
+kry Orders, captain!
+#$ cha shi_shout
+cha shi_shout
+# shi Hold position! The mainframe is our priority!
+shi Hold position! The mainframe is our priority!
+#$ por pal_fistup_wideshout
+por pal_fistup_wideshout
+# kry Sir!
+kry Sir!
+#$ hid pal
+hid pal
+#$ cha shi_gasp
+cha shi_gasp
+# shi Those pillars... Wait-
+shi Those pillars... Wait-
+# shi ...Cosette!
+shi ...Cosette!
+#$ hid shi
+hid shi
+#$ dcg spr_cg_chap6_1d
+dcg spr_cg_chap6_1d
+# shi Cosette! Use your charges to drop those pillars on the drones!
+shi Cosette! Use your charges to drop those pillars on the drones!
+# cos ...Ugh...!
+cos ...Ugh...!
+# shi Do it! You owe it!
+shi Do it! You owe it!
+#$ sou sou_detonator
+sou sou_detonator
+# cos Ah fuck it all!
+cos Ah fuck it all!
+#$ var cos_aff
+var cos_aff
+# shi Come on! After her!
+shi Come on! After her!
+#$ dcg hide
+dcg hide
+#$ dbg spr_bg_laircontrolroom
+dbg spr_bg_laircontrolroom
+#$ cha shi_shout
+cha shi_shout
+# shi Stand down, Cosette. You might have saved our skins, but that mainframe's ours.
+shi Stand down, Cosette. You might have saved our skins, but that mainframe's ours.
+#$ cha cos_laugh_sneer
+cha cos_laugh_sneer
+# cos Reeaaaally, captain? 'Cause if it hadn't been for me, you would have been turned to ground meat by those drones...
+cos Reeaaaally, captain? 'Cause if it hadn't been for me, you would have been turned to ground meat by those drones...
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi If you haven't figured it out already, you're in over your head. Leave.
+shi If you haven't figured it out already, you're in over your head. Leave.
+#$ sou sou_guncock
+sou sou_guncock
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi Don't make me do this.
+shi Don't make me do this.
+#$ cha cos_fist_grin
+cha cos_fist_grin
+# cos Heheh... You're not man enough to pull that trigger on me.
+cos Heheh... You're not man enough to pull that trigger on me.
+#$ cha shi_madgroan
+cha shi_madgroan
+# shi Cosette! Don't.
+shi Cosette! Don't.
+#$ cha cos_laugh_neutral
+cha cos_laugh_neutral
+# cos Go ahead. Pull the trigger.
+cos Go ahead. Pull the trigger.
+#$ cha cos_laugh_sneer
+cha cos_laugh_sneer
+# cos Finish what you've been trying to do for years.
+cos Finish what you've been trying to do for years.
+#$ cha shi_sadthink
+cha shi_sadthink
+# shi ... ... ...
+shi ... ... ...
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+# shi Don't...!
+shi Don't...!
+#$ cha cos_armcrossed_crazysmirk
+cha cos_armcrossed_crazysmirk
+# cos I've got the coordinates! You lose, Shields.
+cos I've got the coordinates! You lose, Shields.
+#$ cha shi_angryshout
+cha shi_angryshout
+# shi Cosette!! This isn't over! We'll still be right behind you!
+shi Cosette!! This isn't over! We'll still be right behind you!
+#$ por fon_correction
+por fon_correction
+# fon No, you shall not!
+fon No, you shall not!
+#$ mus mus_posthumusregnum
+mus mus_posthumusregnum
+#$ sou sou_crashglass
+sou sou_crashglass
+#$ hsh 15
+hsh 15
+#$ dbg spr_cg_controlroomwolf1
+dbg spr_cg_controlroomwolf1
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi Cough... Cough... Shit!
+shi Cough... Cough... Shit!
+#$ por fon_inpocket_satisthink
+por fon_inpocket_satisthink
+# fon You have my thanks, Shields. For you have led me straight to Crow Harbor's location!
+fon You have my thanks, Shields. For you have led me straight to Crow Harbor's location!
+#$ por fon_focustalk
+por fon_focustalk
+# fon From the moment you arrived in this pocket dimension, you were but a pawn in my scheme. Indeed, I intended all along to have you enter Crow Harbor's Lair and lead me straight to its innermost secrets.
+fon From the moment you arrived in this pocket dimension, you were but a pawn in my scheme. Indeed, I intended all along to have you enter Crow Harbor's Lair and lead me straight to its innermost secrets.
+#$ cha shi_gasp
+cha shi_gasp
+# shi What?!
+shi What?!
+#$ por fon_smirk
+por fon_smirk
+# fon Why risk my own men in this death trap, when I have you? My intrepid captain, so eager to take on any risk necessary to complete his revenge.
+fon Why risk my own men in this death trap, when I have you? My intrepid captain, so eager to take on any risk necessary to complete his revenge.
+# fon Now the mainframe is mine... And you have delivered it to me with your own hands.
+fon Now the mainframe is mine... And you have delivered it to me with your own hands.
+#$ cha shi_rattled
+cha shi_rattled
+# shi No...
+shi No...
+#$ por fon_shout
+por fon_shout
+# fon Once the Lost Fleet has been dealt with by my forces, all of its ancient technologies shall be mine! And with that, PACT's dominance over the galaxy shall be secured.
+fon Once the Lost Fleet has been dealt with by my forces, all of its ancient technologies shall be mine! And with that, PACT's dominance over the galaxy shall be secured.
+# fon Did you think you could ever be anything more than the fool? You are, and always will be, nothing more than the disgraced abetter of the Liberation Day Massacre.
+fon Did you think you could ever be anything more than the fool? You are, and always will be, nothing more than the disgraced abetter of the Liberation Day Massacre.
+#$ por fon_laugh
+por fon_laugh
+# fon Adieu Shields. You were a fool for crawling out of your hole in Tydaria. Hahaha... Haaahahahahahaha!!!!
+fon Adieu Shields. You were a fool for crawling out of your hole in Tydaria. Hahaha... Haaahahahahahaha!!!!
+#$ hid fon
+hid fon
+#$ dcg spr_cg_chap6_2a
+dcg spr_cg_chap6_2a
+# shi ...G-Ghngh....!!!
+shi ...G-Ghngh....!!!
+# shi F-Fon........
+shi F-Fon........
+# shi FFFOOOOOOOOOOOOOOONNTTAAAAAAAAAANNNAAAAAAAAAAAAA!!!!!!!!!!!!!!!!!!!!!!!!
+shi FFFOOOOOOOOOOOOOOONNTTAAAAAAAAAANNNAAAAAAAAAAAAA!!!!!!!!!!!!!!!!!!!!!!!!
+#$ por ica_point_offguard
+por ica_point_offguard
+# ica Cap, we've got to get out of here!
+ica Cap, we've got to get out of here!
+#$ por pal_fistup_shout
+por pal_fistup_shout
+# kry Tch... that pirate has managed to give us the slip...
+kry Tch... that pirate has managed to give us the slip...
+#$ por ica_armcrossed_concern
+por ica_armcrossed_concern
+# ica Forget about her!
+ica Forget about her!
+#$ por ava_armup_shout
+por ava_armup_shout
+# ava Captain, you must return to the ship!
+ava Captain, you must return to the ship!
+#$ dcg hide
+dcg hide
+#$ por ava_facepalm_worriedclosedeyes
+por ava_facepalm_worriedclosedeyes
+# ava Something's happening to the pocket dimension... It is collapsing! Along with the rest of Crow Harbor's lair!
+ava Something's happening to the pocket dimension... It is collapsing! Along with the rest of Crow Harbor's lair!
+#$ cha ica_surprise_madugh
+cha ica_surprise_madugh
+# ica That mainframe must have been what was stabilizing this dimension. Without it, we're all gonna be vented out into space in no time!
+ica That mainframe must have been what was stabilizing this dimension. Without it, we're all gonna be vented out into space in no time!
+#$ hid ica
+hid ica
+#$ por ava_armcrossed_shocked
+por ava_armcrossed_shocked
+# ava Scanners are functional again.
+ava Scanners are functional again.
+#$ por ava_armup_happytalk
+por ava_armup_happytalk
+# ava The Maray is on route to your position.
+ava The Maray is on route to your position.
+#$ cha asa_fist_focusshout
+cha asa_fist_focusshout
+# asa Come on capt'n! Let's get out of here!
+asa Come on capt'n! Let's get out of here!
+#$ cha shi_fury
+cha shi_fury
+# shi Shit!
+shi Shit!
+#$ hid shi
+hid shi
+#$ dcg hide
+dcg hide
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc cla_uni
+ccc cla_uni
+#$ ccc lyn_plugsuit
+ccc lyn_plugsuit
+#$ cha shi_shout
+cha shi_shout
+# shi Pursue the Huntress! We can still recover the mainframe if we can take out her engines and board her!
+shi Pursue the Huntress! We can still recover the mainframe if we can take out her engines and board her!
+#$ cha ava_armscrossed_sadtalk
+cha ava_armscrossed_sadtalk
+# ava Captain, we are heavily outnumbered by PACT forces. What's more, Admiral Kuushana has proven a formidable foe in every one of our prior engagements.
+ava Captain, we are heavily outnumbered by PACT forces. What's more, Admiral Kuushana has proven a formidable foe in every one of our prior engagements.
+#$ cha ava_armcrossed_distantworry
+cha ava_armcrossed_distantworry
+# ava Is this truly wise?
+ava Is this truly wise?
+#$ cha shi_madgroan
+cha shi_madgroan
+# shi That mainframe is our only hope at tracking down the Lost Fleet. If we lose it here, then PACT will be unstoppable!
+shi That mainframe is our only hope at tracking down the Lost Fleet. If we lose it here, then PACT will be unstoppable!
+#$ cha ava_armup_irritiableshout
+cha ava_armup_irritiableshout
+# ava Understood captain. Ryder wing, prepare to launch!
+ava Understood captain. Ryder wing, prepare to launch!
+#$ por cla_pout_funnyregret
+por cla_pout_funnyregret
+# cla Captain, have you forgotten that I am yet in the sickbay, tending to our injured chief engineer?
+cla Captain, have you forgotten that I am yet in the sickbay, tending to our injured chief engineer?
+#$ hid cla
+hid cla
+#$ cha shi_sigh
+cha shi_sigh
+# shi Your orders are to launch, doctor. I want every ryder on the Huntress!
+shi Your orders are to launch, doctor. I want every ryder on the Huntress!
+#$ por lyn_armcrossed_pain
+por lyn_armcrossed_pain
+# lyn Ughh... Shit!
+lyn Ughh... Shit!
+#$ hid lyn
+hid lyn
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi We're getting our asses handed out here! Doc, we need Lynn back on the field!
+shi We're getting our asses handed out here! Doc, we need Lynn back on the field!
+#$ por cla_pout_surprise
+por cla_pout_surprise
+# cla Oooh, I'm a little too occupied for that, captain!
+cla Oooh, I'm a little too occupied for that, captain!
+#$ hid cla
+hid cla
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+# shi The medi-gel should have started to work by now. Administer stims and get her to the flight deck!
+shi The medi-gel should have started to work by now. Administer stims and get her to the flight deck!
+#$ por cla_handsonhips_confident
+por cla_handsonhips_confident
+# cla Whelp, you heard the man, little Lynnie. This'll perk you right up!
+cla Whelp, you heard the man, little Lynnie. This'll perk you right up!
+#$ hid cla
+hid cla
+#$ por lyn_point_stunned
+por lyn_point_stunned
+# lyn Uggh... W-Wait, what?! What are you-
+lyn Uggh... W-Wait, what?! What are you-
+#$ por cla_squish_heartkitty
+por cla_squish_heartkitty
+# cla Administering stimulants~!
+cla Administering stimulants~!
+#$ hid cla
+hid cla
+#$ por lyn_point_angryshout
+por lyn_point_angryshout
+# lyn Hold on, there's no way I can fight right now---
+lyn Hold on, there's no way I can fight right now---
+#$ por lyn_handonhip_stim
+por lyn_handonhip_stim
+# lyn Uwaaaooha! I'm feeling... better already! All right, let's kick some PACT ass! Hahahaha!
+lyn Uwaaaooha! I'm feeling... better already! All right, let's kick some PACT ass! Hahahaha!
+#$ hid lyn
+hid lyn
+#$ cha ava_armscrossed_madtalk
+cha ava_armscrossed_madtalk
+# ava Captain, I must remind you that stims will only work for so long...
+ava Captain, I must remind you that stims will only work for so long...
+#$ cha shi_madgroan
+cha shi_madgroan
+# shi I know. But it's really do or die now.
+shi I know. But it's really do or die now.
+#$ cha shi_shout
+cha shi_shout
+# shi All ryders, launch!
+shi All ryders, launch!
+#$ bat roo_chap6_battle1
+bat roo_chap6_battle1
+#$ 
+
+#$ //Battle start
+//Battle start
+#$ tag chap6_lair_huntress_start
+tag chap6_lair_huntress_start
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc kuu_plugsuit
+ccc kuu_plugsuit
+#$ cha kuu_impressed
+cha kuu_impressed
+# kuu You still haven't given up, Shields? The odds look quite stacked against you.
+kuu You still haven't given up, Shields? The odds look quite stacked against you.
+#$ cha shi_smirk
+cha shi_smirk
+# shi Remember Far Port, Kuushana? You're not the only tactician known for bringing forth miracles.
+shi Remember Far Port, Kuushana? You're not the only tactician known for bringing forth miracles.
+#$ cha kuu_laugh
+cha kuu_laugh
+# kuu Heh. You impugn my name merely by associating me with that Imperial turncoat Cullen.
+kuu Heh. You impugn my name merely by associating me with that Imperial turncoat Cullen.
+#$ cha kuu_sigh
+cha kuu_sigh
+# kuu I'm afraid you will find me no such easy prey.
+kuu I'm afraid you will find me no such easy prey.
+#$ cha kuu_shout
+cha kuu_shout
+# kuu Wolf Brigade, on me!
+kuu Wolf Brigade, on me!
+# obj Defeat the Huntress.
+obj Defeat the Huntress.
+#$ stop
+stop
+#$ 
+
+#$ //Mid battle
+//Mid battle
+#$ tag chap6_lair_huntress_intermis1
+tag chap6_lair_huntress_intermis1
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc kuu_plugsuit
+ccc kuu_plugsuit
+#$ cha kuu_impressed
+cha kuu_impressed
+# kuu You do have a modicum of skill, Shields. I recognize that.
+kuu You do have a modicum of skill, Shields. I recognize that.
+#$ cha shi_triumph
+cha shi_triumph
+# shi Why don't you turn over that mainframe and we can call it even?
+shi Why don't you turn over that mainframe and we can call it even?
+#$ cha kuu_smirk
+cha kuu_smirk
+# kuu Haaahaaha. And end this delightful dance? The night has only just begun!
+kuu Haaahaaha. And end this delightful dance? The night has only just begun!
+#$ hid kuu
+hid kuu
+#$ var chap6_kuu_defeat
+var chap6_kuu_defeat
+#$ stop
+stop
+#$ 
+
+#$ //Mid battle
+//Mid battle
+#$ tag chap6_lair_huntress_intermis2
+tag chap6_lair_huntress_intermis2
+#$ ccc kuu_plugsuit
+ccc kuu_plugsuit
+#$ ccc jem_plugsuit
+ccc jem_plugsuit
+#$ ccc sol_plugsuit
+ccc sol_plugsuit
+#$ cha kuu_shout
+cha kuu_shout
+# kuu Jem'hyre! Lay down support fire!
+kuu Jem'hyre! Lay down support fire!
+#$ hid kuu
+hid kuu
+#$ sou sou_awaken
+sou sou_awaken
+#$ cha jem_neu_awa
+cha jem_neu_awa
+# jem Copy.
+jem Copy.
+#$ cha sol_front_shout
+cha sol_front_shout
+# sol You shan't! Tell me the origins of your power!
+sol You shan't! Tell me the origins of your power!
+#$ cha jem_amused_awa
+cha jem_amused_awa
+# jem Kukuku... Target locked.
+jem Kukuku... Target locked.
+#$ cha sol_side_focustalk
+cha sol_side_focustalk
+# sol How did a Denari end up with the power of Sharrs?
+sol How did a Denari end up with the power of Sharrs?
+#$ cha jem_confident_awa
+cha jem_confident_awa
+# jem The secrets of the PACT Revolution are not for you. Enough talk. Face judgment, Star Seer!
+jem The secrets of the PACT Revolution are not for you. Enough talk. Face judgment, Star Seer!
+#$ var chap6_jem
+var chap6_jem
+#$ hid sol
+hid sol
+#$ hid jem
+hid jem
+#$ stop
+stop
+#$ 
+
+#$ tag chap6_jemdefeat
+tag chap6_jemdefeat
+#$ cha jem_annoyed
+cha jem_annoyed
+# jem Ugh...! Wolf 2... sustained damage. Falling back.
+jem Ugh...! Wolf 2... sustained damage. Falling back.
+#$ hid jem
+hid jem
+#$ cha sol_front_focustalk
+cha sol_front_focustalk
+# sol Target neutralized.
+sol Target neutralized.
+#$ cha sol_front_closedeyessigh
+cha sol_front_closedeyessigh
+# sol A Denari armed with the power of Sharrs... The shocks of this age never cease coming.
+sol A Denari armed with the power of Sharrs... The shocks of this age never cease coming.
+#$ var chap6_wolf2defeat
+var chap6_wolf2defeat
+#$ stop
+stop
+#$ 
+
+#$ //End Battle
+//End Battle
+#$ tag chap6_lair_huntress_end
+tag chap6_lair_huntress_end
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc fon_base
+ccc fon_base
+#$ ccc kuu_plugsuit
+ccc kuu_plugsuit
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ mus mus_bossfight1
+mus mus_bossfight1
+#$ sou sou_holoopen
+sou sou_holoopen
+#$ cha kuu_think
+cha kuu_think
+# kuu Not bad, Shields.
+kuu Not bad, Shields.
+#$ cha shi_angry
+cha shi_angry
+# shi Your ship can't take any more of this. Strike your flag and prepare to be boarded.
+shi Your ship can't take any more of this. Strike your flag and prepare to be boarded.
+#$ cha kuu_unfocustalk
+cha kuu_unfocustalk
+# kuu Boarded? You seem to be getting ahead of yourself.
+kuu Boarded? You seem to be getting ahead of yourself.
+#$ cha kuu_shout
+cha kuu_shout
+# kuu You forget: You are yet at PACT's mercy!
+kuu You forget: You are yet at PACT's mercy!
+#$ hid kuu
+hid kuu
+#$ dbg hide
+dbg hide
+#$ flag
+flag
+#$ stop
+stop
+#$ tag chap6_end
+tag chap6_end
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ cha shi_fury
+cha shi_fury
+# shi No...!
+shi No...!
+#$ cha ava_armup_yell
+cha ava_armup_yell
+# ava 40 more PACT vessels have arrived! It's an entire column of Saggis!
+ava 40 more PACT vessels have arrived! It's an entire column of Saggis!
+#$ sou sou_holoopen
+sou sou_holoopen
+#$ cha fon_inpocket_doubt
+cha fon_inpocket_doubt
+# fon It's the end of the line, Shields. Why don't you run along now, before you end up dying for good this time?
+fon It's the end of the line, Shields. Why don't you run along now, before you end up dying for good this time?
+#$ hid fon
+hid fon
+#$ cha ava_armup_yell
+cha ava_armup_yell
+# ava Captain, over two hundred additional PACT ryders have just entered battle! We will not last a second against firepower of this magnitude! Any further action would be suicide!
+ava Captain, over two hundred additional PACT ryders have just entered battle! We will not last a second against firepower of this magnitude! Any further action would be suicide!
+#$ cha shi_stunned
+cha shi_stunned
+# shi ... ... ...
+shi ... ... ...
+# shi This was our only hope.
+shi This was our only hope.
+#$ cha ava_armup_yell
+cha ava_armup_yell
+# ava Captain, the Maray cannot be sunk here!
+ava Captain, the Maray cannot be sunk here!
+#$ cha shi_rattled
+cha shi_rattled
+# shi ... ... ...
+shi ... ... ...
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+# shi We are tactically outmatched. Our only option is to retreat.
+shi We are tactically outmatched. Our only option is to retreat.
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+# shi Fall back.
+shi Fall back.
+#$ cha ava_shout
+cha ava_shout
+# ava Understood captain. Spooling up warp drive!
+ava Understood captain. Spooling up warp drive!
+#$ mus stop
+mus stop
+#$ hid ava
+hid ava
+#$ flag
+flag
+#$ dbg hide
+dbg hide
+#$ stop
+stop

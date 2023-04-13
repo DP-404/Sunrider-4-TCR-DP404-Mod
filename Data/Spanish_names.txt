@@ -1,0 +1,154 @@
+#$ Shields
+Shields
+#$ Guard
+Guardia
+#$ Propaganda
+Propaganda
+#$ Grey
+Grey
+#$ Fontana
+Fontana
+#$ Miner 1
+Minero 1
+#$ Miner 2
+Minero 2
+#$ Miner Boss
+Minero Jefe
+#$ Miner
+Minero
+#$ Sola
+Sola
+#$ Claude
+Claude
+#$ Pilot
+Piloto
+#$ Cosette
+Cosette
+#$ Asaga
+Asaga
+#$ Lynn
+Lynn
+#$ Everyone
+Todos
+#$ Minister 1
+Ministro 1
+#$ Minister 2
+Ministro 2
+#$ Minister 3
+Ministro 3
+#$ Icari
+Icari
+#$ Ava
+Ava
+#$ Pirate
+Pirata
+#$ Fortune Teller
+Adivina
+#$ Passerby 1
+Viajero 1
+#$ Passerby 2
+Viajero 2
+#$ Passerby 3
+Viajero 3
+#$ Girlfriend
+Novia
+#$ PACT Officer
+Oficial del PACT
+#$ Miirage
+Miirage
+#$ Kuushana
+Kuushana
+#$ Jem'hyre
+Jem'hyre
+#$ Chef
+Cocinero
+#$ Shields & Cosette
+Shields & Cosette
+#$ Shields & Asaga
+Shields & Asaga
+#$ Bird
+Ave
+#$ Johanna
+Johanna
+#$ Qisah
+Qisah
+#$ Paladin
+Paladin
+#$ Bailiff
+Alguacil
+#$ Judge
+Juez
+#$ Hoss
+Hoss
+#$ Schwinn
+Schwinn
+#$ Kryska
+Kryska
+#$ Storn
+Storn
+#$ Reporter 1
+Reportero 1
+#$ Reporter 2
+Reportero 2
+#$ Reporter 3
+Reportero 3
+#$ Reporter 4
+Reportero 4
+#$ Sophita
+Sophita
+#$ Denari Guardsman 1
+Guardia Denari 1
+#$ Denari Guardsman 2
+Guardia Denari 2
+#$ Denari Guardsman 3
+Guardia Denari 3
+#$ Holonews
+Holonoticias
+#$ Denari Crewman
+Tripulación Denari
+#$ Passerby
+Viajero
+#$ Advertisement
+Anuncio
+#$ Chigara?
+¿Chigara?
+#$ Hawk Faction Pilot 1
+Piloto Facción Halcón 1
+#$ Hawk Faction Pilot 2
+Piloto Facción Halcón 2
+#$ Hawk Faction Pilot 3
+Piloto Facción Halcón 3
+#$ Hawk Faction Pilot 4
+Piloto Facción Halcón 4
+#$ PACT Officer
+Oficial del PACT
+#$ Library
+Librería
+#$ Crystal
+Cristal
+#$ ???
+???
+#$ Civilian
+Civil
+#$ Pilot
+Pilotu
+#$ Ryuvian
+Ryuviano
+#$ Crow Harbor
+Crow Harbor
+#$ Kayto
+Kayto
+#$ Chigara
+Chigara
+#$ Guard 1
+Guardia 1
+#$ Guard 2
+Guardia 2
+#$ Omega
+Omega
+#$ Prototypes
+Prototipos
+#$ Shields & Kuushana
+Shields & Kuushana
+#$ Sola's Mom
+Madre de Sola

@@ -1,0 +1,2030 @@
+#$ tag chap8_start
+tag chap8_start
+#$ ccc shi_nude
+ccc shi_nude
+#$ ccc fon_uni
+ccc fon_uni
+#$ ccc cla_uni
+ccc cla_uni
+#$ mus mus_hommage
+mus mus_hommage
+#$ pro Veniczar Fontana's newest, swiftest, greatest victory yet!
+pro ¡La victoria más grande, nueva, y rápida de Veniczar Fontana hasta la fecha!
+#$ pro Citizens of the galaxy were terrified to learn that the ancient Ryuvian warlord, Crow Harbor, had arrived in our time!
+pro ¡Ciudadanos de la galaxia estuvieron aterrorizados al saber que el antiguo señor de la guerra Ryuviano, Crow Harbor, había llegado a nuestra época!
+#$ pro The evil dictator from another age used a time machine in a dastardly bid to take over an unsuspecting galaxy!
+pro ¡El malvado dictador de otra era usó una máquina del tiempo en un intento cobarde de tomar una galaxia desprevenida!
+#$ pro Thankfully, the brave men and women of the Crimson Fleet were more than prepared to take on the ancient Ryuvian threat!
+pro ¡Por suerte, los valientes hombres y mujeres de la Flota Carmesí estaban más que preparados para enfrentarse a la antigua amenaza Ryuviana!
+#$ pro Upon discovering the arrival of Crow Harbor's fleet, Veniczar Fontana took decisive action in defending all of humanity, while the defeated imperialists of Solaris cowered at Far Port!
+pro ¡Tras descubrir la llegada de la flota de Crow Harbor, Veniczar Fontana realizó una acción decisiva en defensa de toda la humanidad, mientras que los derrotados imperialistas de Solaris se acobardaban en Far Port!
+#$ pro The Crimson Fleet met Crow Harbor's mighty flagship, the Imperium in combat! Not even the ancient Ryuvian warship, with all of its vaunted Lost Technology, stood a match against the combined will of the People's Alliance! The Imperium was sunk, and Crow Harbor lost his life in the battle!
+pro ¡La Flota Carmesí se enfrentó a la poderosa nave insignea de Crow Harbor, el Imperium en combate! ¡Ni siquiera la antigua nave de batalla Ryuviana, con toda su alardeante Tecnología Perdida, supuso un reto contra la voluntad combinada de la Alianza de los Pueblos! ¡El Imperium fue hundido, y Crow Harbor perdió su vida en la batalla!
+#$ pro What's more! Veniczar Fontana discovered that infamous war criminal, and lover of Prototypes, Kayto Shields had vowed his allegiance to Crow Harbor, in exchange for lordship of the sovereign world of Cera! Having become Crow Harbor's crony, Shields was apprehended by the People's Alliance to stand judgment for his crimes!
+pro ¡Lo que es más! ¡Veniczar Fontana descubrió que el infame criminal de guerra, y amante de Prototipos, Kayto Shields había jurado su lealtad a Crow Harbor, a cambio de liderar el soberano mundo de Cera! ¡Habiéndose vuelto un amigo de Crow Harbor, Shields fue apresado por la Alianza de los Pueblos para enfrentarse a un juicio por sus crímenes!
+#$ pro Alongside him was his new Prototype lover, whom Veniczar Fontana righteously ordered destroyed at once! The sheer debauchery of Kayto Shields clearly knows neither reason nor sanity!
+pro ¡Junto a él estaba su nueva amante Prototipo, a quien Veniczar Fontana ordenó con justicia destruir de inmediato! ¡El total libertinaje de Kayto Shields claramente no conoce ni razón ni cordura!
+#$ pro Sexual deviant and traitor to all of humanity, Kayto Shields, now stands trial for all of his sins! Let his evils be exposed to the galaxy! Let the ugly truth of Kayto Shields be revealed!
+pro ¡El pervertido sexual y traidor de toda la humanidad, Kayto Shields, ahora es llevado a juicio por todos sus pecados! ¡Que sus males sean expuestos a la galaxia! ¡Que la horrible verdad de Kayto Shields sea revelada!
+#$ pro All hail Veniczar Fontana! Vanquisher of Crow Harbor! The prosecutor of Kayto Shields! Hero eternal of the galaxy! The savior of humanity!
+pro ¡Todos alaben a Veniczar Fontana! ¡Vencedor ante Crow Harbor! ¡El acusador de Kayto Shields! ¡Héroe eterno de la galaxia! ¡El salvador de la humanidad!
+#$ mus stop
+mus stop
+#$ sou sou_static
+sou sou_static
+#$ flag
+flag
+#$ stop
+stop
+#$ tag chap8_pt1
+tag chap8_pt1
+#$ shi EEEEEAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!
+shi ¡¡¡¡¡EEEEEAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!
+#$ hid shi
+hid shi
+#$ flag
+flag
+#$ stop
+stop
+#$ tag chap8_pt2
+tag chap8_pt2
+#$ mus mus_fallen_angel_pt1
+mus mus_fallen_angel_pt1
+#$ shi ... ... ...
+shi ... ... ...
+#$ shi ... ...
+shi ... ...
+#$ shi ...
+shi ...
+#$ sou sou_jaildoor2
+sou sou_jaildoor2
+#$ shi ... ...
+shi ... ...
+#$ shi ... ... ...
+shi ... ... ...
+#$ dcg spr_chap8_cg1a
+dcg spr_chap8_cg1a
+#$ ccc shi_nude
+ccc shi_nude
+#$ fon Shields.
+fon Shields.
+#$ shi Fontana.
+shi Fontana.
+#$ fon You are hereby accused of: One hundred and thirty charges of fornicating with the enemy. Five hundred, fifty three charges of acts consisting of crimes against humanity. Three hundred and thirty five charges of acts constituting war crimes under the People's Charter.
+fon Por la presente eres acusado de: Ciento treinta cargos de fornicar con el enemigo. Quinientos cincuenta y tres cargos de actos que consisten crímenes contra la humanidad. Trescientos treinta y cinco cargos de actos que constituyen crímenes de guerra bajo la Carta del PACT.
+#$ fon And so on and so forth.
+fon Y así sucesivamente.
+#$ shi You can cut to the chase.
+shi Puedes ir al grano.
+#$ fon The maximum sentence you face is nine thousand, three hundred, ninety two years of cryo-prison. You will be put into suspended animation and injected with drugs which slow down your perception of time, so that you will be able to experience the entire duration of your sentence as if you were fully awake, without being able to age or move a single muscle. After your period of confinement, you will presumably die, from the shock of reanimation.
+fon La máxima sentencia a la que te enfrentas es nueve mil trescientos noventa y dos años de crio-prisión. Serás puesto en animación suspendida e inyectado con drogas que ralentizarán tu percepción del tiempo, por lo que serás capaz de experimentar toda la duración de tu sentencia como si estuvieras completamente despierto, sin ser capaz de envejecer o mover un solo músculo. Luego de tu período de confinamiento, probablemente morirás, por el impacto de la reanimación.
+#$ fon Do you have any questions, Shields?
+fon ¿Tienes alguna pregunta, Shields?
+#$ shi This is all a charade. You intend to try me in a kangaroo court, where you're the prosecutor, judge, and executioner. This isn't a court of law. It's nothing but a political theater you intend to put on for the sake of legitimizing your dictatorship!
+shi Todo esto es una farsa. Pretendes juzgarme en un tribunal ilegal, donde eres el fiscal, juez, y ejecutor. Este no es un tribunal de ley. ¡No es más que un teatro político que pretendes crear por el bien de legitimizar tu dictadura!
+#$ fon Oh Shields. Oh my poor, poor, poor Shields. How misguided you are.
+fon Oh Shields. Oh mi pobre, pobre, pobre Shields. Cuán equivocado estás.
+#$ fon Legitimizing my dictatorship? A political theater? You speak as if I orchestrated everything. As if this is one, giant conspiracy that I concocted all along. As if from the very beginning, I intended to capture you! To humiliate you! To turn you into the villain!
+fon ¿Legitimizar mi dictaruda? ¿Un teatro político? Hablas como si yo lo hubiera orquestado todo. Como si esto fuera una gigante conspiración, que he tramado todo el tiempo. ¡Como si desde el mismo comienzo, pretendiera capturarte! ¡Humillarte! ¡Convertirte en el villano!
+#$ fon Oh no, Shields. I did not will for any of this to happen.
+fon Oh no, Shields. Yo no deseé que nada de esto ocurriera.
+#$ fon You brought upon all of this by your own actions.
+fon Tú trajiste todo esto sobre tí por tus propias acciones.
+#$ fon You chose to pursue Crow Harbor. You committed yourself, your crew, and your ship. But did you have any chance of victory? What were your strategic assets? A rag tag crew? A single ship, provided to you out of pity, by the ruler of a backwater nation? Would such tactics ever win the day? And here, I thought you a strategic genius. But you are merely a fool.
+fon Elejiste perseguir a Crow Harbor. Se arriesgaste, a tu tripulación, y a tu nave. ¿Pero tenías alguna posibilidad de victoria? ¿Cuáles eran tus recursos estratégicos? ¿Una harapienta tripulación? ¿Una sola nave, entregada a tí por lástima, por la gobernante de una nación olvidada? ¿Tales tácticas llegarían a ganar el día? Y yo aquí, pensaba que eras un genio estratégico. Pero eres meramente un tonto.
+#$ fon You were desperate Shields. And reckless, just as you always were. And that led you to make one mistake after another, which you covered up again and again with your grand deception: That you were still the hero. When you were merely a desperate failure, grasping for one, last, stupid, impossible chance at salvation.
+fon Estabas desesperado Shields. Y fuiste imprudente, al igual que siempre lo fuiste. Y eso te llevó a cometer un error detrás de otro, los cuales cubrías una y otra vez con tu gran decepción: Que todavía eras el héroe. Cuando eras simplemente un fallo desesperado, aferrándose a una, última, estúpida, e imposible posibilidad de salvación.
+#$ fon You think I am the dictator? The cruel, merciless tyrant, who would wrongly condemn you, the brave hero, to multiple lifetimes of suffering? All out of some arbitrary, evil, maniacal plot to let darkness prevail? Hahaha!
+fon ¿Piensas que soy el dictador? ¿El tirano cruel, y sin piedad, que te condenaría incorrectamente a tí, el valeroso héroe, a múltiples vidas de sufrimiento?
+#$ fon I'm afraid all of humanity demands that you be punished!
+fon ¡Me temo que toda la humanidad demanda que seas castigado!
+#$ fon You are the scum of the galaxy. The lover of Prototypes. The perpetrator of the Liberation Day Massacre. If I do not sentence you to suffer for all your crimes, I'm afraid it would be I who the people would condemn. I, who would be the very villain!
+fon Eres la escoria de la galaxia. El amante de los Prototipos. El perpetrador de la Masacre del Día de Liberación. Si no te sentencio a sufrir por todos tus crímenes, me temo que sería a mí a quien la gente condenaría. ¡Yo, sería el mismo villano!
+#$ fon In fact, all of this is the will of the people! Humanity demands that you be punished, Shields. For what you did, all those years ago. You are to face judgment for the Liberation Day Massacre.
+fon ¡De hecho, todo esto es la voluntad de la gente! La humanidad demanda que seas castigado, Shields. Por lo que hiciste, hace tantos años. Te enfrentarás a juicio por la Masacre del Día de Liberación.
+#$ fon You, Shields. You are the villain in this story.
+fon Tú, Shields. Tú eres el villano en esta historia.
+#$ shi Lots of words, Fontana... But what does PACT know of due process?!
+shi Montones de palabras, Fontana... ¡¿Pero qué sabe el PACT del debido proceso?!
+#$ fon Oh, fear not Shields. Your rights will be respected all throughout your trial. In fact, I arranged for one of the galaxy's greatest lawyers to represent you.
+fon Oh, no temas Shields. Tus derechos serán respetados durante todo tu juicio. De hecho, he conseguido que uno de los abogados más grandes de la galaxia te represente.
+#$ shi What? Who?!
+shi ¿Qué? ¡¿Quién?!
+#$ fon She has gotten off far worse criminals than you. The People's Alliance shall guarantee that you receive competent representation for this trial.
+fon Ella ha liberado a criminales peores que tí. La Alianza de los Pueblos garantizará que recibas representación competente para este juicio.
+#$ fon In fact, I believe you are already quite well acquainted with her...
+fon De hecho, creo que estás ya muy bien familiarizado con ella...
+#$ dcg hide
+dcg hide
+#$ sou sou_comicboob
+sou sou_comicboob
+#$ cha cla_squish_confidentkitty
+cha cla_squish_confidentkitty
+#$ cla Claude Trilleo, esquire! Here for the defendant, sah!
+cla ¡Claude Trilleo, señor! ¡Aquí para el acusado, señor!
+#$ cha shi_stunned
+cha shi_stunned
+#$ shi What?! Claude?! S-Since when were you a defense attorney?!
+shi ¡¿Qué?! ¡¿Claude?! ¡¿D-Desde cuándo eras una abogada defensora?!
+#$ cha fon_laugh
+cha fon_laugh
+#$ fon Hahaha! My best wishes for you, Shields. I shall see you at court!
+fon ¡Hahaha! Te deseo lo mejor, Shields. ¡Te veré en el tribunal!
+#$ cha shi_angryshout
+cha shi_angryshout
+#$ shi Wait! Fontana! What's the meaning of this?! Y-You... you're making fun of me, aren't you?! Fontana!!!
+shi ¡Espera! ¡Fontana! ¡¿Qué significa esto?! ¡¿T-Tú... te estás burlando de mí, no?! ¡¡¡Fontana!!!
+#$ sou sou_jaildoor2
+sou sou_jaildoor2
+#$ hid fon
+hid fon
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+#$ shi Argh...
+shi Argh...
+#$ cha shi_curious
+cha shi_curious
+#$ shi Well... doc. I'm sure you must have an explanation for all this. How did you manage to deceive PACT that you're a famous defense attorney? Are you here to rescue me?
+shi Bueno... doctora. Estoy segurode que debe tener una explicación para todo esto. ¿Cómo lograste engañar al PACT con que eres una famosa abogada defensora? ¿Estás aquí para rescatarme?
+#$ cha cla_pout_funnypout
+cha cla_pout_funnypout
+#$ cla Deceive PACT, my dear captain? Oh la la! Are you implying that my legal credentials are a sham? You hurt me, captain! How could you sling such accusations at poor ol' Claude! You're looking at a fully licensed practitioner of the law! Tada! Here's my bar card!
+cla ¿Engañar al PACT, mi querido capitán? ¡Oh la la! ¿Estás implicando que mis credenciales legales son falsas? ¡Me heriste, capitán! ¡Cómo pudiste arrojar semejantes acusaciones a la pobre Claude! ¡Estás mirando a una completamente licenciada practicante de la ley! ¡Tadá! ¡Aquí está mi carta!
+#$ cha shi_madgroan
+cha shi_madgroan
+#$ shi Don't be absurd! What kind of bar association would license you to be an attorney?!
+shi ¡No seas absurda! ¡¿Qué tipo de asociación te licenciaría para ser una abogada?!
+#$ cha cla_pout_funnyregret
+cha cla_pout_funnyregret
+#$ cla Waaah! Now you're questioning my intelligence! Claude worked hard to get her law license, you know! Stayed up day and night to study for the bar exam! You're totally dismissing it, aren't you? Saying to yourself, "There's no way a pink haired dimbo like you could ever be a lawyer!"
+cla ¡Waaah! ¡Ahora estás cuestionando mi inteligencia! ¡Claude trabajó duro para obtener su licencia de ley, sabes! ¡Se quedó despierta día y noche estudiando para el examen! Lo estás negando totalmente, ¿no? Dilo tú mismo, "¡No hay forma de que una tonta pelirrosa como tú pueda llegar a ser abogada!"
+#$ cha shi_resigned
+cha shi_resigned
+#$ shi U-Ugh... This is no time for your jokes, doc. Anyways, since you're here, it must mean the crew's already got a plan to rescue me. So, how're you gonna spring me from this place?
+shi U-Ugh... Esta no es hora para tus bromas, doctora. De todas formas, ya que estás aquí, eso debe significar que la tripulación ya tiene un plan para rescatarme. Así que, ¿cómo me van a sacar de este lugar?
+#$ cha cla_handsonhips_confidentkitty
+cha cla_handsonhips_confidentkitty
+#$ cla Why, by facing your charges in court, of course!
+cla ¡Vaya, enfrentándote a tus cargos en el tribunal, por supuesto!
+#$ cha shi_fury
+cha shi_fury
+#$ shi Don't be absurd! PACT's judicial system's a sham! The only thing that's going to happen is a speedy trial and an instant conviction!
+shi ¡No seas absurda! ¡El sistema judicial del PACT es un engaño! ¡La única cosa que va a ocurrir es un juicio acelerado y un veredicto instantáneo!
+#$ cha cla_armscrossed_sadtalk
+cha cla_armscrossed_sadtalk
+#$ cla Oh no! As an officer of the law, I urge you to respect the judiciary and prepare to have your day at court!
+cla ¡Oh no! ¡Como un oficial de la ley, le insto a que respete el sistema judicial y se prepare para tener su día en la corte!
+#$ cha shi_shout
+cha shi_shout
+#$ shi Don't be stupid! Break me out of this place!
+shi ¡No seas estúpida! ¡Sácame de este lugar!
+#$ cha cla_squish_confidentkitty
+cha cla_squish_confidentkitty
+#$ cla Teeheehee~ But first... Let me set a few things straight...
+cla Teeheehee~ Pero primero... Déjame aclarar algunas cosas...
+#$ cha shi_confusetalk
+cha shi_confusetalk
+#$ shi What's there to set straight? This had better be --
+shi ¿Qué hay que aclarar? Mejor que esto sea --
+#$ sou sou_heartbeat
+sou sou_heartbeat
+#$ cha shi_rattled
+cha shi_rattled
+#$ shi Gurk!
+shi ¡Gurk!
+#$ hid shi
+hid shi
+#$ dcg hide
+dcg hide
+#$ mus mus_OW_Drunk_CT
+mus mus_OW_Drunk_CT
+#$ flag
+flag
+#$ ccc shi_dirty
+ccc shi_dirty
+#$ sou sou_centipedeappear
+sou sou_centipedeappear
+#$ cha shi_min_surpriseangry
+cha shi_min_surpriseangry
+#$ shi Oh shit!
+shi ¡Oh diablos!
+#$ flag
+flag
+#$ sou sou_hovership_missile
+sou sou_hovership_missile
+#$ shi Wha...?
+shi ¿Qué...?
+#$ sou stop
+sou stop
+#$ flag
+flag
+#$ hov This is the Tydarian Army! Put your weapons down!
+hov ¡Aquí el Ejército Tydariano! ¡Bajen sus armas!
+#$ flag
+flag
+#$ sou sou_jingle
+sou sou_jingle
+#$ por cla_armscrossed_keiyaku
+por cla_armscrossed_keiyaku
+#$ cla Teeheehee~
+cla Teeheehee~
+#$ hid cla
+hid cla
+#$ flag
+flag
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ cla You are on a quest, I see a fleet... a black fleet...
+cla Estás en una búsqueda, veo una flota... una flota negra...
+#$ cla You... need to stop this fleet. To redeem yourself, for something you failed in the past. Something which hurt you... no... something which hurt the one you cared for deeply... You lost her, and also... a part of yourself in this incident...
+cla Tú... necesitas detener esta flota. Para redimirte, por algo por lo que fallaste en el pasado. Algo que te hirió... no... algo que hirió a la persona por la que te preocupabas profundamente... La perdiste, y también... una parte de tí en este incidente...
+#$ flag
+flag
+#$ cla Do you mourn for that which was not true? No... you already know. You mourn... but you mourn for yourself... Regret... I sense... Such a storm! Yes... a swirling maelstrom of regret. To undo what has been done. To return! To attain herohood once more! Find glory so mighty, it will radiate your black mistake to dust.
+cla ¿Te lamentas por aquello que no fue verdad? No... ya lo sabías. Te lamentas... pero por tí mismo... Lamento... Lo siento... ¡Vaya tormenta! Sí... una vorágine remolineante de lamento. Para deshacer lo que fue hecho. ¡Para regresar! ¡Para tomar el heroísmo una vez más! Encontrar gloria tan poderosa, que difundirá tu negro error en polvo.
+#$ cla But alas, you will find no such redemption on this mission. Only darkness.
+cla Pero cuidado, no encontrarás tal redención en esta misión. Solo oscuridad.
+#$ dcg hide
+dcg hide
+#$ flag
+flag
+#$ ccc cla_nurse
+ccc cla_nurse
+#$ cha cla_armscrossed_talk
+cha cla_armscrossed_talk
+#$ cla A while back, I heard something from one of my patients...
+cla Hace un tiempo, escuché algo de uno de mis pacientes...
+#$ cla He came in with disintegration burns the likes of which I've never seen before. When I asked him where he got his wounds, he wouldn't stop talking about a derelict Ryuvian space station he found!
+cla Vino con quemaduras de desintegración del tipo que no había visto nunca antes. ¡Cuando le pregunté dónde se hizo sus heridas, no dejaba de hablar sobre una estación espacial Ryuviana en ruinas que encontró!
+#$ cla He said he saw thousands of data crystals inside, holding all the records of Ryuvia's history. But he was attacked by automated ryders and could only make off with a handful of crystals, which later turned out to hold useless census information from two thousand years ago.
+cla Dijo que vio miles de cristales de datos dentro, guardando todos los registros de la historia de Ryuvia. Pero fue atacado por ryders autómatas y solo pudo huír con un puñado de cristales, que más tarde terminaron teniendo censos de información inútiles de hace dos mil años.
+#$ hid cla
+hid cla
+#$ flag
+flag
+#$ ccc cla_uni
+ccc cla_uni
+#$ cha cla_pout_regret
+cha cla_pout_regret
+#$ cla It's times like these when ol' Claude wishes there was a magical compass which always pointed towards what she's looking for...
+cla Es en momentos como estos cuando Claude desearía que hubiese una brújula mágica que siempre apuntara hacia lo que está buscando...
+#$ flag
+flag
+#$ mus stop
+mus stop
+#$ sou mus_HorrorReveal
+sou mus_HorrorReveal
+#$ dbg hide
+dbg hide
+#$ dcg hide
+dcg hide
+#$ ccc shi_nude
+ccc shi_nude
+#$ ccc cla_uni
+ccc cla_uni
+#$ cha shi_rattled
+cha shi_rattled
+#$ shi Haaa...! Haaa... haaa... Wait... It was you! It was you who set up this whole journey...!
+shi ¡Haaa...! Haaa... haaa... Espera... ¡Fuiste tú! ¡Fuiste tú quien me metió en todo este viaje...!
+#$ shi From the attack on Tydaria... To deliberately leading us to Crow Harbor... You were there, masterminding everything!
+shi Desde el ataque en Tydaria... Hasta llevarnos deliberadamente hasta Crow Harbor... ¡Tú estabas ahí, planeándolo todo!
+#$ mus mus_ticktock
+mus mus_ticktock
+#$ cha cla_handsonhips_smug
+cha cla_handsonhips_smug
+#$ cla Teeheehee... And a lot more than that, if you can put it upon yourself to recall...
+cla Teeheehee... Y mucho más que eso, si puedes esforzarte en recordar...
+#$ cla How long do you think I've been giving you missions from the shadows, captain? How many perfectly sculpted challenges have I thrown at you to overcome? Did you not think it was too... convenient?
+cla ¿Por cuánto tiempo crees que he estado dándote misiones desde las sombras, capitán? ¿Cuántos retos perfectamente esculpidos te he arrojado para que los superes? ¿No pensaste que era muy... conveniente?
+#$ cha shi_angry
+cha shi_angry
+#$ shi But why?! Why... Why would you do that? I swear there was something about you... Something... crazy... But...
+shi ¡¿Pero por qué?! Por qué... ¿Por qué harías eso? Juraba que había algo sobre tí... Algo... loco... Pero...
+#$ shi Shit! Have you done something to me?! Tampered with my memories somehow?
+shi ¡Diablos! ¡¿Me has hecho algo?! ¿Jugado con mis recuerdos de alguna forma?
+#$ shi What deceit have you kept from me all this time?! Tell me. Tell me now!
+shi ¡¿Qué engaño me has escondido todo este tiempo?! Dímelo. ¡Dímelo ahora!
+#$ cha cla_armscrossed_surpriseuumimic
+cha cla_armscrossed_surpriseuumimic
+#$ cla Oh no. Oh no, no, no, mon capitaine. I haven't done any tinkering around with that poor brain of yours.
+cla Oh no. Oh no, no, no, mon capitaine. No he jugueteado con ese pobre cerebro tuyo.
+#$ cha shi_fury
+cha shi_fury
+#$ shi Bullshit!
+shi ¡Tonterías!
+#$ cha cla_armscrossed_danger
+cha cla_armscrossed_danger
+#$ cla You already know the truth. Aaah, you've known the truth all along.
+cla Tú ya sabes la verdad. Aaah, has sabido la verdad todo el tiempo.
+#$ cla From the very beginning, you knew that I was the grand puppetmaster. That I would task you with all those exciting, fun filled missions, all for the sake of taking down evil and saving the galaxy. If there was ever a deception, then you were a willing participant in it, hook, line, and sinker.
+cla Desde el mismo comienzo, supiste que yo era la gran titiritera. Que te encomentaría todas esas misiones emocionantes, y llenas de diversión, todo por el bien de derrotar al mal y salvar la galaxia. Si hubo alguna vez un engaño, entonces fuiste un participante voluntario en él.
+#$ cha shi_fury
+cha shi_fury
+#$ shi Me?! Why?!
+shi ¡¿Yo?! ¡¿Por qué?!
+#$ cha cla_pout_concern
+cha cla_pout_concern
+#$ cla Because to live, you must ignore. Aah, if you knew the insignificance of your existence, just how little your decisions actually impact anything in the grand scheme of things, just how utterly microscopically small the size of the... footprint that you leave in history, then how would you pull yourself out of bed each morning?
+cla Porque para vivir, debes ignorar. Aah, si supieras la insignificancia de tu existencia, simplemente cuán poco tus decisiones realmente impactan en el gran esquema de las cosas, simplemente cuán absolutamente y microscópicamente pequeño es el tamaño de... la huella que has dejado en la historia, ¿entonces cómo te levantarías de la cama cada mañana?
+#$ cha shi_fury
+cha shi_fury
+#$ shi No... I remember everything now... It didn't add up... You died during the Battle of Cera... But then you miraculously returned to us after everything, claiming to have used some Lost Technology to teleport yourself before your ryder exploded. But all these coincidences...
+shi No... Lo recuerdo todo ahora... No tenía sentido... Tú moriste durante la Batalla de Cera... Pero luego regresaste a nosotros después de todo, diciendo haber usado alguna Tecnología Perdida para teletransportarte antes de que tu ryder explotara. Pero todas estas coincidencias...
+#$ cha shi_rattled
+cha shi_rattled
+#$ shi No... No...!
+shi No... ¡No...!
+#$ cha shi_angryshout
+cha shi_angryshout
+#$ shi I should have known.
+shi Debí haberlo sabido.
+#$ shi You're... a time traveler, like Sola and Crow Harbor. How could I have forgotten?
+shi Eres... una viajera en el tiempo, al igual que Sola y Crow Harbor. ¿Cómo pude haberlo olvidado?
+#$ shi You're the one responsible for everything, aren't you? You... brought them here with your power. You were actually the mastermind behind all this. But for what end?
+shi Eres la responsable de todo, ¿no? Tú... los trajiste aquí con tu poder. Tú fuiste realmente la mente maestra de todo esto. ¿Pero para qué propósito?
+#$ cha cla_handsonhips_focushappy
+cha cla_handsonhips_focushappy
+#$ cla Teehee. Is what you think me to be? A time traveler? A tourist, ooooing and aaaahing at all the sights that space time offers?
+cla Teehee. ¿Es eso lo que crees que soy? ¿Una viajera en el tiempo? ¿Una turista, oohh y aahh de todas las cosas que ofree el espacio tiempo?
+#$ cha shi_angryshout
+cha shi_angryshout
+#$ shi What else would you be?! What else would explain the... abhorrent power you hold over everything?!
+shi ¡¿Qué más podrías ser?! ¡¿Qué más podría explicar el... extravagante poder que posees sobre todo?!
+#$ cha cla_armscrossed_closedeyehappy
+cha cla_armscrossed_closedeyehappy
+#$ cla Teeheehee... The truth is...
+cla Teeheehee... La verdad es que...
+#$ cha cla_armscrossed_imagination
+cha cla_armscrossed_imagination
+#$ cla I am no time traveler. Why travel from point A to point B, when I'm already everywhere?
+cla No soy una viajera en el tiempo. ¿Por qué viajar del punto A al punto B, cuando ya estoy en todas partes?
+#$ cha shi_rattled
+cha shi_rattled
+#$ shi Then... what are you?! Give me an explanation!
+shi ¡¿Entonces... qué eres?! ¡Dame una explicación!
+#$ cha cla_handsonhips_happy
+cha cla_handsonhips_happy
+#$ cla If there is a word to describe what I am, then I imagine the closest approximation would be the concept known as Canon.
+cla Si hay una palabra para describir lo que soy, entonces supongo que la aproximación más cercana sería el concepto conocido como Canon.
+#$ cha shi_stunned
+cha shi_stunned
+#$ shi What...? You're... Canon?
+shi ¿Qué...? ¿Tú eres... Canon?
+#$ cha cla_handsonhips_talk
+cha cla_handsonhips_talk
+#$ cla Everything is canon because I observe it, Captain Kayto Shields. Without me, there would be no Canon. No happenings, no people, no timeline. Just an infinite number of what-if scenarios, an endless number of potentials, but no reality. No truth.
+cla Todo es canon porque yo lo observo, Kayto Shields. Sin mí, no habría Canon. Ni hechos, ni gente, ni líneas temporales. Solo un número infinito de escenarios de y-si, un número sin fin de posibilidades, pero ninguna realidad. Ninguna verdad.
+#$ cha shi_madgroan
+cha shi_madgroan
+#$ shi I don't understand...!
+shi ¡No lo entiendo...!
+#$ cha cla_handsonhips_curious
+cha cla_handsonhips_curious
+#$ cla What if everything that ever happened was all just a giant space whale's dream?
+cla ¿Qué pasaría si todo lo que ha ocurrido fuera simplemente el sueño de una gigante ballena espacial?
+#$ cha cla_armscrossed_kitty
+cha cla_armscrossed_kitty
+#$ cla Well, captain, I am that space whale!
+cla ¡Bueno, capitán, yo soy esa ballena espacial!
+#$ cha shi_angryshout
+cha shi_angryshout
+#$ shi N-No, that's absurd! You're saying... nothing's real! That everything was just an illusion!
+shi ¡N-No, eso es absurdo! ¡Estás diciendo que... nada es real! ¡Que todo fue solamente una ilusión!
+#$ cha cla_squish_confidentgrinmimic
+cha cla_squish_confidentgrinmimic
+#$ cla Teeheehee. What is real to you, captain? I see you right now. Thus, you are real. I, Canon, have made it so.
+cla Teeheehee. ¿Qué es real para tí, captain? Te veo ahora mismo. Por tanto, eres real. Yo, Canon, lo he hecho así.
+#$ cha shi_max
+cha shi_max
+#$ shi Impossible. You're lying! Another one of your tricks! I see how it is!
+shi Imposible. ¡Estás mintiendo! ¡Otro de tus trucos! ¡Ya veo cómo es!
+#$ shi I've figured it all out now. I remember everything as clear as day, despite your attempts to cover up the truth! You jump through time and space to torment me. You're the one always putting me in danger. You talk nonsense, to confound and irritate me. All in the name of your sadistic amusement.
+shi Lo he averiguado todo ahora. ¡Lo recuerdo tan claro como el día, a pesar de tus intentos por cubrir la verdad! Saltas a través del tiempo y el espacio para atormentarme. Eres quien siempre me está poniendo en peligro. Dices tonterías, para confundirme e irritarme. Todo en el nombre de tu sadístico entretenimiento.
+#$ shi You are... The Devil.
+shi Tú eres... El Demonio.
+#$ cha cla_handsonhips_surprised
+cha cla_handsonhips_surprised
+#$ cla Oh no... Oh, no! Don't say such a thing to your one true love!
+cla Oh no... ¡Oh, no! ¡No le digas tal cosa a tu verdadero amor!
+#$ cha shi_angryshout
+cha shi_angryshout
+#$ shi I see through all your lies! You've... been jumping through time... changing the past... altering my memories... all in the name of your twisted sexual gratification!
+shi ¡Veo a través de todas tus mentiras! ¡Has... estado saltando en el tiempo... cambiando el pasado... alterando mis recuerdos... todo en nombre de tu retorcida gratificación sexual!
+#$ shi That's what all of this was! Just another one of your tricks! You want to see me dance like I'm your little puppet!
+shi ¡Eso es lo que todo esto fue! ¡Solo otro de tus trucos! ¡Quieres verme bailar como si fuera tu pequeña marioneta!
+#$ shi You're about to tell me that this is just another Bad End, aren't you? That I made a mistake somewhere along the way.
+shi Estás a punto de decirme que este es tolo otro Final Malo, ¿no? Que cometí un error en algún lugar del camino.
+#$ cha cla_pout_surprise
+cha cla_pout_surprise
+#$ cla My, mon capitaine is quite astute.
+cla Vaya, mon capitaine es bastante astuto.
+#$ cha shi_angryshout
+cha shi_angryshout
+#$ shi Then take me back, Claude. Take me back like you always do!
+shi Entonces llévame de vuelta, Claude. ¡Llévame de vuelta como siempre haces!
+#$ shi Give me another chance! This is... just another stupid Bad End isn't it?! Rewind time! God damnit!! Rewind time now!!
+shi ¡Dame otra oportunidad! ¡¿Este es... solo otro estúpido Final Malo no?! ¡Rebobina el tiempo! ¡¡Maldita sea!! ¡¡Rebobina el tiempo ahora!!
+#$ cha shi_fury
+cha shi_fury
+#$ shi Take me to before I enter the World Fountain! Then I'll blow that entire place to kingdom come with the graviton torpedo and get the hell out of there! Then I won't rot in this PACT prison!
+shi ¡Llévame a antes de que entrara a la Fuente del Mundo! ¡Entonces estallaré todo el lugar hasta el reino que venga con el torpedo gravitón y saldré de ese lugar! ¡Así no me pudriré en esta prisión del PACT!
+#$ cha cla_pout_regret
+cha cla_pout_regret
+#$ cla Ah ah ah, now you're asking ol' Claude for a lil' too much at the current stage of our relationship. Once you max out my affection meter, I'll be willing to do all the kinky adult stuff, but right now, you're asking Claude to leave her comfort zone...
+cla Ah ah ah, ahora le estás pidiendo a Claude demasiado para el estado actual de nuestra relación. Una vez que maximices mi medidor de afecto, estaré dispuesta a hacer todas las torcidas cosas adultas, pero ahora mismo, le estás pidiendo a Claude que deje su zona de confort...
+#$ cha shi_max
+cha shi_max
+#$ shi REWIND TIME, CLAUDE! DO IT IF YOU TRULY LOVE ME!
+shi ¡REBOBINA EL TIEMPO, CLAUDE! ¡HAZLO SI REALMENTE ME AMAS!
+#$ cha cla_handsonhips_sadtalk
+cha cla_handsonhips_sadtalk
+#$ cla Ahchaa... You truly know how to put a girl on the spot...
+cla Ahchaa... Sí que sabes cómo poner a una chica en su sitio...
+#$ cla But all right. I'll do it for you.
+cla Pero está bien. Lo haré por tí.
+#$ cha cla_handsonhips_impliedgrin
+cha cla_handsonhips_impliedgrin
+#$ cla Teeheehee... But is this truly what you want?
+cla Teeheehee... ¿Pero es esto realmente lo que quieres?
+#$ cha shi_max
+cha shi_max
+#$ shi What?
+shi ¿Qué?
+#$ cha cla_handsonhips_focushappy
+cha cla_handsonhips_focushappy
+#$ cla Tick tok goes the big hand! Let's rewind time so Kayto Shields can live out all his space opera harem fantasies once more!
+cla ¡Tik tok hace la gran manecilla! ¡Rebobinemos el tiempo para que Kayto Shields pueda vivir todas sus fantasías harem de esta ópera espacial una vez más!
+#$ mus stop
+mus stop
+#$ sou sou_nightmarealarm
+sou sou_nightmarealarm
+#$ cha cla_squish_magic
+cha cla_squish_magic
+#$ cla TIIMMMEEEE LOOOOOPPPP!!!!!
+cla ¡¡¡¡¡SAALLTOOOO TEEEMMPOOORAAALLLL!!!!!
+#$ cha shi_maxsurprise
+cha shi_maxsurprise
+#$ shi A-Ack... Agghh...!!!! AAAHHHHHHHHHHH!!!!!!!!!!
+shi A-Ack... ¡¡Agghh...!! ¡¡¡¡¡AAAHHHHHHHHHHH!!!!!
+#$ hid shi
+hid shi
+#$ hid cla
+hid cla
+#$ dbg hide
+dbg hide
+#$ dcg spr_chap8_cg2a
+dcg spr_chap8_cg2a
+#$ shi Ugh...
+shi Ugh...
+#$ dcg spr_chap8_cg2b
+dcg spr_chap8_cg2b
+#$ var cla_aff
+var cla_aff
+#$ cla Eh-heheh...
+cla Eh-heheh...
+#$ shi What?
+shi ¿Qué?
+#$ dcg spr_chap8_cg2c
+dcg spr_chap8_cg2c
+#$ var cla_aff
+var cla_aff
+#$ cla Eh-hehehe...
+cla Eh-hehehe...
+#$ shi No... Claude...!
+shi No... ¡Claude...!
+#$ dcg spr_chap8_cg2d
+dcg spr_chap8_cg2d
+#$ var cla_aff
+var cla_aff
+#$ cla Eh-hehehehe...
+cla Eh-hehehehe...
+#$ shi Wait-! NO!
+shi ¡Espera-! ¡NO!
+#$ var cla_aff
+var cla_aff
+#$ shi Claude!!! Gngrhh...! Wait...!
+shi ¡¡¡Claude!!! ¡Gngrhh...! ¡Espera...!
+#$ cla This is what you wished for.
+cla Esto es lo que deseaste.
+#$ mus stop
+mus stop
+#$ cla Welcome to Claude's World.
+cla Bienvenido al Mundo de Claude.
+#$ sou stop
+sou stop
+#$ sou sou_timejump
+sou sou_timejump
+#$ hid cla
+hid cla
+#$ dcg hide
+dcg hide
+#$ var chap8_pt1
+var chap8_pt1
+#$ stop
+stop
+#$ tag chap8_trialofshields
+tag chap8_trialofshields
+#$ sou stop
+sou stop
+#$ mus stop
+mus stop
+#$ sou sou_gavel
+sou sou_gavel
+#$ cha fon_shout
+cha fon_shout
+#$ fon Let the trial of Kayto Shields commence!
+fon ¡Que el juicio de Kayto Shields comience!
+#$ var chap8_pt2
+var chap8_pt2
+#$ hid fon
+hid fon
+#$ flag
+flag
+#$ stop
+stop
+#$ tag chap8_moa
+tag chap8_moa
+#$ mus mus_drivingtopdown
+mus mus_drivingtopdown
+#$ ava Warp successful! We've dropped out 10 meters from the wedding hall!
+ava ¡Salto exitoso! ¡Hemos caído a 10 metros del salón de bodas!
+#$ kay Begin operation! Launch our drones and take out the guard ships!
+kay ¡Comiencen la operación! ¡Lanzen a nuestros drones y eliminen a las naves protectoras!
+#$ ava Aye captain.
+ava Sí capitán.
+#$ ava I will lead the security squad as planned. You have the bridge captain.
+ava Dirigiré al escuadrón de seguridad como lo planeado. Usted tiene el puente ahora capitán.
+#$ kay No. I'm coming with you.
+kay No. Yo voy contigo.
+#$ flag
+flag
+#$ ava Captain, protocol strictly states that during all high risk away missions, the captain is to remain on the bridge at all times. Section 48, paragraph 8 clearly states, when engaging in level 9 security protocols, the ranking officer must-
+ava Capitán, el protocolo de seguridad establece estrictamente que durante todas las misiones de alto riesgo, el capitán debe permanecer en el puente en todo momento. Sección 48, párrafo 8 establece claramente, cuando se actúa en los protocolos de seguridad de nivel 9, el oficial de rango debe-
+#$ mus stop
+mus stop
+#$ flag
+flag
+#$ stop
+stop
+#$ tag chap8_commanddec
+tag chap8_commanddec
+#$ var chap8_donechoice
+var chap8_donechoice
+#$ sou sou_oldsword
+sou sou_oldsword
+#$ kay Who needs the rules when you've got command points?!
+kay ¡¿Quién necesita reglas cuando tienes puntos de comando?!
+#$ flag
+flag
+#$ ava ... ... ...
+ava ... ... ...
+#$ flag
+flag
+#$ ava Right this way, sir.
+ava Por este camino, señor.
+#$ var chap8_pt3
+var chap8_pt3
+#$ flag
+flag
+#$ mus mus_colors_sad
+mus mus_colors_sad
+#$ kay Well then, that's the end of that, right Ava?
+kay ¿Estás satisfecha con esto, Ava?
+#$ ava Any sign of genetic tampering?
+ava ¿Hay algún rastro de manipulación genética?
+#$ cla None, commander.
+cla En lo absoluto.
+#$ cla Chigara is a brilliant engineer by her own right.
+cla Chigara es asombrosa.
+#$ cla Her skills are the result of her top tier training and years of practice. Not genetic manipulation.
+cla Su habilidad de genia son el resultado de un duro trabajo y dedicación. ¡No hay manipulación genética!
+#$ ava ... ... ...
+ava ... ... ...
+#$ ava Understood, doctor.
+ava ...entendido.
+#$ flag
+flag
+#$ kay Who needs to be careful when you're me?! I'm the captain!
+kay ¡¿Quién necesita tener cuidado cuando eres yo?! ¡Yo soy el capitán!
+#$ flag
+flag
+#$ var chap8_pt4
+var chap8_pt4
+#$ mus mus_ticktock
+mus mus_ticktock
+#$ cha fon_smirk
+cha fon_smirk
+#$ fon Kayto Shields. The hotheaded captain who believes himself to be the savior of the galaxy. The dashing hero, destined to become great, merely because he is Kayto Shields!
+fon Kayto Shields. El capitán extremista que se cree el salvador de la galaxia. ¡El brillante héroe, destinado a volverse grande, solamente porque es Kayto Shields!
+#$ cha shi_rattled
+cha shi_rattled
+#$ shi No...
+shi No...
+#$ fon A vast responsibility was given to you. But you acted the part of the child. You ignored facts. Engaged in wishful thinking. And you led your crew, your nation, and yourself, straight to damnation.
+fon Una gran responsabilidad te fue dada. Pero actuaste como un niño. Ignoraste los hechos. Te hiciste ilusiones. Y llevaste a tu tripulación, tu nación, y a tí mismo, directo a la perdición.
+#$ cha shi_resigned
+cha shi_resigned
+#$ shi It's not true...
+shi No es cierto...
+#$ cha fon_sigh
+cha fon_sigh
+#$ fon Were you truly ever a hero? Or were you seeking self-gratification.
+fon ¿Fuiste realmente un héroe? O estabas buscando la auto-satisfacción.
+#$ cha shi_resigned
+cha shi_resigned
+#$ shi I just wanted...
+shi Yo solo quería...
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+#$ shi I wanted be the captain.
+shi Quería ser el capitán.
+#$ hid shi
+hid shi
+#$ hid fon
+hid fon
+#$ var chap8_pt5
+var chap8_pt5
+#$ flag
+flag
+#$ mus mus_colors_chigara
+mus mus_colors_chigara
+#$ chg You know.
+chg ¿Sabes...?
+#$ chg Chigara wants a big family!
+chg Chigara... ¡¡Chigara quiere una gran familia!!
+#$ kay O-oh. Y-you do?
+kay ¿Eh? ¿E-en serio?
+#$ chg Yes! Just having a cute doggie won't be enough!
+chg ¡Sí! Tener solamente un perro lindo... no es suficiente.
+#$ chg We'll have at least three or four children!
+chg ¡Quiero tres o cuatro hijos!
+#$ kay H-holy shit...
+kay Bueno, aquí estoy...
+#$ chg Eh-heheheh...
+chg Eh-heheheh...
+#$ chg Please make all of Chigara's dreams come true. Okay, captain~?
+chg El deseo de Chigara... ¿Lo harás realidad, capitán...?
+#$ kay A-all right... I'll see what I can do...
+kay D-de acuerdo. ¡Lo haré lo mejor que pueda...!
+#$ chg Eh-heh, then...
+chg Ehehe... Entonces...
+#$ mus mus_ticktock
+mus mus_ticktock
+#$ var chap8_pt6
+var chap8_pt6
+#$ flag
+flag
+#$ cha fon_annoyedtalk
+cha fon_annoyedtalk
+#$ fon You sought nothing but greatness for yourself. To ride the greatest starship. To be surrounded with the most beautiful women.
+fon Buscaste nada más que la grandeza para tí mismo. Montar la más grande nave estelar. Estar rodeado con las más hermosas mujeres
+#$ fon You lusted after them.
+fon Las ansiabas.
+#$ cha shi_rattled
+cha shi_rattled
+#$ shi No...
+shi No...
+#$ hid shi
+hid shi
+#$ hid fon
+hid fon
+#$ var chap8_pt7
+var chap8_pt7
+#$ flag
+flag
+#$ asa Eh-heh... Captain... A queen needs heirs...
+asa Eh-heh... Capitán... Una reina necesita herederos...
+#$ ava Kayto... I want it... just like old times...
+ava Kayto... Lo quiero hacer... justo como en los viejos tiempos...
+#$ sol Captain... Please... make me feel better...
+sol Capitán... Por favor... hazme sentir mejor...
+#$ ica I-I suppose w-we could do it... j-just this one time...
+ica S-Supongo que p-podemos hacerlo... s-solo esta vez...
+#$ lyn Look... I have these feelings for you... I can't hold back anymore!
+lyn Mira... Tengo estos sentimientos por tí... ¡No me puedo contener más!
+#$ asa Eh-heh... aren't we going to do it?
+asa Eh-heh... ¿no vamos a hacerlo?
+#$ sol Take me...
+sol Tómame...
+#$ ava Kayto...
+ava Kayto...
+#$ asa Captain...
+asa Capitán...
+#$ sol Please make me happy...
+sol Por favor hazme feliz...
+#$ asa I'm so hot down there...
+asa Estoy tan caliente ahí abajo...
+#$ ava You're the only one I've ever think about...
+ava Eres el único con el que siempre he pensado...
+#$ sol Nggnnh...!
+sol ¡Nggnnh...!
+#$ asa Aah... ahh...!
+asa ¡Aah... ahh...!
+#$ var chap8_sexyover
+var chap8_sexyover
+#$ ava Iyaaah...!
+ava ¡Iyaaah...!
+#$ stop
+stop
+#$ tag chap8_filthylies
+tag chap8_filthylies
+#$ cha shi_angryshout
+cha shi_angryshout
+#$ shi No...! It's not true. Filthy lies!
+shi ¡No...! No es verdad. ¡Sucias mentiras!
+#$ cha fon_inpocket_doubt
+cha fon_inpocket_doubt
+#$ fon It is the truth, Shields. Listen to yourself.
+fon Es la verdad, Shields. Escúchate a tí mismo.
+#$ cha shi_fury
+cha shi_fury
+#$ shi No! All slander! The girls...
+shi ¡No! ¡Todo son calumnias! Las chicas...
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+#$ shi They... mean everything to me. There's no way... I would... I would...
+shi Ellas... significan todo para mí. No hay forma... de que yo... yo...
+#$ cha fon_focus
+cha fon_focus
+#$ fon But you did! You used them all!
+fon ¡Pero lo hiciste! ¡Las usaste a todas!
+#$ cha fon_inpocket_shout
+cha fon_inpocket_shout
+#$ fon You twisted their emotions! They were all your playthings! You exploited them!
+fon ¡Retorciste sus emociones! ¡Fueron todas tus juguetes! ¡Las explotaste!
+#$ hid fon
+hid fon
+#$ cha shi_rattled
+cha shi_rattled
+#$ shi No! I didn't mean to hurt them!
+shi ¡No! ¡Yo no pretendía herirlas!
+#$ mus stop
+mus stop
+#$ var chap8_objection
+var chap8_objection
+#$ ccc cla_uni
+ccc cla_uni
+#$ cha cla_handsonhips_confident
+cha cla_handsonhips_confident
+#$ sou sou_objection
+sou sou_objection
+#$ cla OBJECTION!
+cla ¡PROTESTO!
+#$ cla My client simply did not have a choice!
+cla ¡Mi cliente simplemente no tuvo elección!
+#$ cla How can he guilty, when he was never given a choice? A free will?
+cla ¿Cómo puede ser culpable, cuando nunca le fue dada una decisión? ¿Un libre albedrío?
+#$ mus mus_drumloop
+mus mus_drumloop
+#$ cha fon_unfocustalk
+cha fon_unfocustalk
+#$ fon A choice?
+fon ¿Una decisión?
+#$ cha cla_armscrossed_keiyaku
+cha cla_armscrossed_keiyaku
+#$ cla Free will!
+cla ¡Libre albedrío!
+#$ cha fon_sadsmirk
+cha fon_sadsmirk
+#$ fon What choice do you have in this world, Shields? All you have are limits.
+fon ¿Qué elecciones tienes en este mundo, Shields? Todo lo que tienes son limitaciones.
+#$ cha fon_annoyedtalk
+cha fon_annoyedtalk
+#$ fon Men bark that they would have done this or that. But choices only exist in hindsight.
+fon Los hombres dicen que habrían hecho esto o aquello. Pero las elecciones solo existen en retrospectiva.
+#$ cha fon_point_refute
+cha fon_point_refute
+#$ fon What choice do we have in the moment, when everything is uncertain? There is no way to ascertain where any of our decisions lead.
+fon ¿Qué elección tenemos en el momento, cuando todo es incierto? No hay forma de asegurar a dónde cualquiera de nuestras decisiones podría conducirnos.
+#$ cha shi_shout
+cha shi_shout
+#$ shi Give me my choices! Give them to me! It's not fair when everything's... pre-determined! I WANT MY CHOICES!
+shi ¡Dame mis decisiones! ¡Dámelas! ¡No es justo cuando todo está... pre-determinado! ¡QUIERO MIS DECISIONES!
+#$ hid fon
+hid fon
+#$ hid cla
+hid cla
+#$ flag
+flag
+#$ cha cl1_pout_happy
+cha cl1_pout_happy
+#$ cha cl2_armscrossed
+cha cl2_armscrossed
+#$ cla I am Moralist!
+cla ¡Yo soy Moralista!
+#$ cla I am Prince!
+cla ¡Yo soy Príncipe!
+#$ cla I follow the categorical imperative and always do what is right! Let justice be done, regardless of whether the world burns for it!
+cla ¡Yo sigo lo categóricamente esencial y siempre hago lo que es correcto! ¡Que se haga justicia, sin importar si el mundo arde por ello!
+#$ cla I follow Lord Machiavelli's laws and do what is expedient! For what is the point of morals, if it costs all that we hold dear?
+cla ¡Yo sigo las leyes del Señor Machiavelli y hago lo que es necesario! ¿Ya que cuál es el propósito de lo moral, si nos cuesta todo lo que queremos?
+#$ cha cla_handsonhips_talk
+cha cla_handsonhips_talk
+#$ cla But how do we know what will happen? What the results of our actions will be? Or if our actions will have any result whatsoever?
+cla ¿Pero cómo sabemos lo que sucederá? ¿Cuáles serán los resultados de nuestras acciones? ¿O si nuestras acciones tendrán algún resultado en lo absoluto?
+#$ cha cl1_pout_yell
+cha cl1_pout_yell
+#$ cla I choose moralist! Aaaaah, but I was actually being manipulated by a galactic overlord all along! Oopsie!
+cla ¡Yo elijo moralista! ¡Aaaaah, pero en realidad estuve siendo manipulado por un señor galáctico todo el tiempo! ¡Ups!
+#$ cha cl2_pout_surprise
+cha cl2_pout_surprise
+#$ cla I choose prince! Aaaaah, but I unforeseen events intervened and nothing I ever did ended up mattering in the first place!
+cla ¡Yo elijo príncipe! ¡Aaaaah, pero intervinieron eventos inesperados y nada de lo que hice terminó importando en primer lugar!
+#$ hid cl1
+hid cl1
+#$ hid cl2
+hid cl2
+#$ cha shi_frown
+cha shi_frown
+#$ shi What was even the point... There was no choice in the first place. And if there ever was one, it never made a difference. None of it mattered. I was just dancing on other people's palms the whole time...
+shi Cuál fue siquiera el objetivo... No hubo decisión en primer lugar. Y si alguna vez hubo una, nunca hizo la diferencia. Nada de eso importó. Solo estaba bailando en las manos de otra persona todo el tiempo.
+#$ cha cla_handsonhips_confident
+cha cla_handsonhips_confident
+#$ cla I choose you, Shields. Out of the millions, billions, trillions of Shields that exists in the multi-verse, it is you that I, Canon herself, has chosen to follow! You are that which is true. All else are but silly what if's.
+cla Yo te escojo, Shields. ¡De millones, miles de millones, billones de Shields que existen en el multi-verso, fue a tí a quien yo, Canon en persona, he elegido seguir! Tú eres el que es real. Todo lo demás son ridículos y-si.
+#$ cha shi_resigned
+cha shi_resigned
+#$ shi I don't understand...
+shi No entiendo...
+#$ cha cla_armscrossed_talk
+cha cla_armscrossed_talk
+#$ cla No matter what you choose, the consequences of your actions cannot be predicted.
+cla Sin importar lo que elijas, las consecuencias de tus acciones no pueden ser predecidas.
+#$ cha shi_resigned
+cha shi_resigned
+#$ shi But... you can see them, can't you? You can see into the future...
+shi Pero... tú las puedes ver, ¿no? Puedes ver el futuro...
+#$ cha cla_handsonhips_talk
+cha cla_handsonhips_talk
+#$ cla All what-ifs. Parallel universes. But there is only one Canon. Only one truth. But it is one which can never be foretold.
+cla Todos son y-si. Universos paralelos. Pero solo hay uno Canon. Solo una verdad. Pero es una que nunca será predicha.
+#$ cha shi_resigned
+cha shi_resigned
+#$ shi How can I live, when nothing turns out the way I intended?
+shi ¿Cómo puedo vivir, cuando nada sale como quiero?
+#$ shi I didn't mean to cause so much pain. I didn't mean for all the deaths and suffering to happen.
+shi Yo no pretendía causar tanto dolor. No pretendía que todas las muertes y el sufrimiento ocurrieran. 
+#$ shi I thought I was making the right choices. But... in the end, nothing turned out like I wanted. Nothing at all.
+shi Pensé que estaba tomando las decisiones correctas. Pero... al final, nada salió como quería. Nada en lo absoluto.
+#$ cha shi_sadgroan
+cha shi_sadgroan
+#$ shi I never meant for things to turn out this way...
+shi Nunca quise que las cosas salieran de esta manera...
+#$ cha cla_pout_sadtalk
+cha cla_pout_sadtalk
+#$ cla You can't foresee the future. There's nothing else you could have done in your circumstances.
+cla No puedes prever el futuro. No hay nada más que pudieras haber hecho en tus circunstancias.
+#$ cla What choice did you have? All you had were limitations.
+cla ¿Qué elección tuviste? Todo lo que tuviste fueron limitaciones.
+#$ cha shi_max
+cha shi_max
+#$ shi But I wanted to choose! I wanted to choose my own destiny!
+shi ¡Pero yo quería escoger! ¡Yo quería escoger mi propio destino!
+#$ cha fon_annoyedtalk
+cha fon_annoyedtalk
+#$ fon Such a fool of a captain, a fool of a man! There never was any choice.
+fon ¡Qué capitán más tonto, qué hombre más tonto! Nunca hubo ninguna elección.
+#$ cha cla_pout_sigh
+cha cla_pout_sigh
+#$ cla Destiny is to be found, not chosen.
+cla El destino se encuentra, no se elige.
+#$ cha shi_madgroan
+cha shi_madgroan
+#$ shi But this destiny... I refuse to accept it! No, this cannot be my destiny!
+shi Pero este destino... ¡Me niego a aceptarlo! ¡No, este no puede ser mi destino!
+#$ shi I... I won't allow it!
+shi ¡Yo... no lo permitiré!
+#$ cha cla_handsonhips_confident
+cha cla_handsonhips_confident
+#$ cla Your honor! The defense wishes to call a character witness!
+cla ¡Su excelencia! ¡La defensa desea llamar a un testigo!
+#$ cha fon_inpocket_laugh
+cha fon_inpocket_laugh
+#$ fon Ho? Very well. You may call your witness.
+fon ¿Ho? Muy bien. Puedes llamar a tu testigo.
+#$ cha cla_handsonhips_focushappy
+cha cla_handsonhips_focushappy
+#$ cla The defense calls Sola di Ryuvia, to testify as to the character of Kayto Shields!
+cla ¡La defensa llama a Sola di Ryuvia, a testificar en cuanto a la personalidad de Kayto Shields!
+#$ cha shi_confusetalk
+cha shi_confusetalk
+#$ shi Sola? No... How...
+shi ¿Sola? No... Cómo...
+#$ mus mus_onemansdream
+mus mus_onemansdream
+#$ hid shi
+hid shi
+#$ hid fon
+hid fon
+#$ hid cla
+hid cla
+#$ ccc sol_uni
+ccc sol_uni
+#$ cha sol_front_sadtalk
+cha sol_front_sadtalk
+#$ sol I am Sola di Ryuvia.
+sol Yo soy Sola di Ryuvia.
+#$ sol I was flung across time, to arrive in this galaxy seven years ago. It was then that I first met Kayto Shields.
+sol Fui lanzada a través del tiempo, para llegar a esta galaxia hace siete años. Fue entonces cuando conocí a Kayto Shields.
+#$ sol Throughout my journey with him, I came to realize...
+sol Durante todo mi travesía con él, llegué a darme cuenta de que...
+#$ cha sol_side_concernclosedeyesfrown
+cha sol_side_concernclosedeyesfrown
+#$ sol He is a total fool!
+sol ¡Es un completo tonto!
+#$ sol He was constantly under the sway of greater powers! First to the Solar Alliance, then to the Prototypes, then to Canon! He was but an unwitting bystander in all the charges brought before him by this court! He is but a pathetic, helpless victim in all this!
+sol ¡Estuvo constantemente bajo la influencia de poderes mayores! ¡Primero la Alianza Solar, luego los Prototipos, después Canon! ¡No fue más que un espectador involuntario en todos los cargos que se trajo sobre sí en este tribunal! ¡No es más que una patética, e impotente víctima en todo esto!
+#$ cha sol_side_shout
+cha sol_side_shout
+#$ sol Please, I beg you, Veniczar Fontana, for clemency! Kayto Shields does not possess the intellect to have committed these crimes! He is but a simple man, tricked, manipulated, by the true evildoers! A victim! Please, Great Veniczar! Please forgive him! He poses no threat to you!
+sol ¡Por favor, le ruego, Veniczar Fontana, clemencia! ¡Kayto Shields no posee el intelecto para haber cometido estos crímenes! ¡No es más que un simple hombre, engañado, manipulado, por los verdaderos malechores! ¡Una víctima! ¡Por favor, Gran Veniczar! ¡Por favor perdónelo! ¡Él no supone una amenaza para usted!
+#$ cha shi_sadthink
+cha shi_sadthink
+#$ shi No...
+shi No...
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+#$ shi Sola... please...
+shi Sola... por favor...
+#$ cha sol_front_closedeyessigh
+cha sol_front_closedeyessigh
+#$ sol If this court were to convict a dog of war crimes, then what justice would be done?
+sol Si este tribunal fuera a condenar a un perro por crímenes de guerra, ¿entonces qué justicia sería hecha?
+#$ cha shi_maxsurprise
+cha shi_maxsurprise
+#$ shi Hah... hahah... haa... hahaha....!
+shi ¡Hah... hahah... haa... hahaha....!
+#$ cha fon_think
+cha fon_think
+#$ fon Your pleas have been heard, my dear. I am starting to feel generous.
+fon Tus súplicas han sido escuchadas, querida. Me estoy comenzando a sentir generoso.
+#$ hid fon
+hid fon
+#$ hid sol
+hid sol
+#$ cha shi_rattled
+cha shi_rattled
+#$ shi Sola... I'm sorry.
+shi Sola... Lo siento.
+#$ shi I'm sorry. For everything...!
+shi Lo siento. ¡Por todo...!
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+#$ shi I just wanted...
+shi Yo solo quería...
+#$ shi To be a little something greater in your eyes.
+shi Ser un poco algo más a tus ojos.
+#$ hid shi
+hid shi
+#$ cha cla_pout_surpriseuumimic
+cha cla_pout_surpriseuumimic
+#$ cla Aaah, now he's crying. The great captain is crying! Hush! Hush! Dry those tears, my dude!
+cla Aaah, ahora está llorando. ¡El gran capitán está llorando! ¡Hush! ¡Hush! ¡Sécate esas lágrimas, hombre!
+#$ cla Don't worry. Don't worry. None of this is real.
+cla No te preocupes. No te preocupes. Nada de esto es real.
+#$ cha cla_pout_regret
+cha cla_pout_regret
+#$ cla Kukuku. Did you really think we would put such hurtful words into poor Sola's mouth? No, no! It was all a figment of your imagination.
+cla Kukuku. ¿Realmente pensaste que pondríamos tan hirientes palabras en la boca de la pobre Sola? ¡No no! Todo fue un producto de tu imaginación.
+#$ cha cla_pout_sadpout
+cha cla_pout_sadpout
+#$ cla All right, all right. I've had my fill.
+cla Está bien, está bien. Ya estoy satisfecha.
+#$ cla All of this was just a dream, all right? All just a silly dream!
+cla Todo esto fue solo un suelo, ¿está bien? ¡Solo un ridículo sueño!
+#$ cha shi_blank
+cha shi_blank
+#$ shi Just a dream...?
+shi ¿Solo un sueño...?
+#$ cha cla_handsonhips_happy
+cha cla_handsonhips_happy
+#$ cla Open your eyes and you'll return...
+cla Abre tus ojos y regresarás...
+#$ cla ...Back to the real world.
+cla ...De vuelta al mundo real.
+#$ mus stop
+mus stop
+#$ hid cla
+hid cla
+#$ sou sou_badend
+sou sou_badend
+#$ var chap8_returntotydaria
+var chap8_returntotydaria
+#$ stop
+stop
+#$ tag chap8_0001
+tag chap8_0001
+#$ ccc shi_dirty
+ccc shi_dirty
+#$ ccc sol_exile
+ccc sol_exile
+#$ cha shi_min_neu
+cha shi_min_neu
+#$ shi (Another day of work... I better get through the security checkpoint.)
+shi (Otro día de trabajo... Mejor atravieso el punto de control de seguridad.)
+#$ stop
+stop
+#$ tag chap8_0002
+tag chap8_0002
+#$ ccc shi_dirty
+ccc shi_dirty
+#$ dbg spr_cg01a
+dbg spr_cg01a
+#$ gua Glory to the People's Alliance.
+Gloria a la Alianza de los Pueblos.
+#$ gua Your name and occupation?
+gua ¿Tu nombre y ocupación?
+#$ shi Kayto Shields. Miner.
+shi Kayto Shields. Minero.
+#$ gua Shields, eh? Like the space captain who died a few years back?
+gua Shields, ¿eh? ¿Como el capitán espacial que murió hace unos cuantos años?
+#$ shi Sigh...
+shi Suspiro...
+#$ gua There's still a warrant out for the guy, even though he's probably long dead. Just another two bit criminal who got exactly what he deserved.
+gua Todavía hay una orden de búsqueda por ese tipo, incluso a pesar de que probablemente lleve mucho tiempo muerto. Simplemente otro criminal de quinta que obtuvo exactamente lo que se merecía.
+#$ shi Look, it's not the first time I've been through here. How 'bout you cut through the paperwork and let me get to work?
+shi Mira, no es la primera vez que he pasado por aquí. ¿Qué te parece si haces el papeleo y me dejas ir a trabajar?
+#$ gua Just doing my job, hoss.
+gua Solo hago mi trabajo, jefe.
+#$ gua Next in line!
+gua ¡Próximo en la fila!
+#$ sou sou_walk_metal
+sou sou_walk_metal
+#$ roo roo_chap8_minebridge_day
+roo roo_chap8_minebridge_day
+#$ tag chap8_gotowork
+tag chap8_gotowork
+#$ ccc shi_dirty
+ccc shi_dirty
+#$ mi1 Here comes our captain...
+mi1 Aquí viene nuestro capitán...
+#$ mi2 The great savior of the galaxy.
+mi2 El gran salvador de la galaxia.
+#$ cha shi_min_sigh
+cha shi_min_sigh
+#$ shi Ugh...
+shi Ugh...
+#$ hid shi
+hid shi
+#$ mi1 Hey, what's the matter, Shields? Having some trouble with the Vanguard cannon lately?
+mi1 Hey, ¿qué ocurre, Shields? ¿Tienes problemas con el cañón Vanguard últimamente?
+#$ mi2 Heh, or am I just not enough of a little Prototype for you?
+mi2 Heh, ¿o no soy lo suficientemente pequeño Prototipo para tu gusto?
+#$ bos All right, trash it lads. We're on the clock now. The lady upstairs is already on our asses thanks to that incident four days ago, so we can't afford to lose another pair of hands right now. Shields, you with us?
+bos Está bien, terminen chicos. Estamos justos de tiempo ahora. La señorita de arriba ya está detrás de nuestros traseros gracias a ese incidente de hace cuatro días, así que no podemos permitirnos perder otro par de manos ahora. Shields, ¿estás con nosotros?
+#$ cha shi_min_focus
+cha shi_min_focus
+#$ shi Yeah.
+shi Sí.
+#$ hid shi
+hid shi
+#$ bos You damn better be sober. All right lads, let's get to work.
+bos Espero que estés listo. De acuerdo chicos, pongámonos a trabajar.
+#$ var end_day
+var end_day
+#$ stop
+stop
+#$ tag chap8_pactguard
+tag chap8_pactguard
+#$ ccc shi_dirty
+ccc shi_dirty
+#$ dcg spr_cg01a
+dcg spr_cg01a
+#$ gua Glory to the People's Alliance.
+gua Gloria a la Alianza de los Pueblos.
+#$ gua Your name and occupation?
+gua ¿Tu nombre y ocupación?
+#$ shi Kayto Shields. Miner.
+shi Kayto Shields. Minero.
+#$ gua ... ... ...
+gua ... ... ...
+#$ cha shi_min_angrytalk
+cha shi_min_angrytalk
+#$ shi ... ... ...
+shi ... ... ...
+#$ hid shi
+hid shi
+#$ gua ... ... ...
+gua ... ... ...
+#$ dcg hide
+dcg hide
+#$ roo roo_chap8_minebridge_day
+roo roo_chap8_minebridge_day
+#$ stop
+stop
+#$ tag chap8_workers
+tag chap8_workers
+#$ ccc shi_dirty
+ccc shi_dirty
+#$ mi1 ... ... ...
+mi1 ... ... ...
+#$ mi2 ... ... ...
+mi2 ... ... ...
+#$ cha shi_min_closedeyesclench
+cha shi_min_closedeyesclench
+#$ shi ... ... ...
+shi ... ... ...
+#$ hid shi
+hid shi
+#$ bos Begin your shift!
+bos ¡Comiencen su turno!
+#$ var end_day
+var end_day
+#$ stop
+stop
+#$ tag chap8_tydarialoop1
+tag chap8_tydarialoop1
+#$ dbg spr_shieldstrailer_knock
+dbg spr_shieldstrailer_knock
+#$ ccc sol_exile
+ccc sol_exile
+#$ ccc shi_dirty
+ccc shi_dirty
+#$ cha sol_side_smile
+cha sol_side_smile
+#$ sol Welcome back.
+sol Bienvenido de vuelta.
+#$ cha shi_min_sadtalk
+cha shi_min_sadtalk
+#$ shi Yeah...
+shi Sí...
+#$ cha sol_back_talk
+cha sol_back_talk
+#$ sol Was work pleasant?
+sol ¿Fue agradable el trabajo?
+#$ cha shi_min_sigh
+cha shi_min_sigh
+#$ shi Yeah...
+shi Sí...
+#$ cha sol_side_smile
+cha sol_side_smile
+#$ sol I have made progress with the garden. Would you like something from it?
+sol He progresado con el jardín. ¿Te gustaría algo de él?
+#$ cha shi_min_sadsmile
+cha shi_min_sadsmile
+#$ shi ... ... ...
+shi ... ... ...
+#$ cha shi_min_smile
+cha shi_min_smile
+#$ shi Yeah...
+shi Sí...
+#$ var tydaria_loop1
+var tydaria_loop1
+#$ dbg hide
+dbg hide
+#$ stop
+stop
+#$ tag chap8_tydarialoop2
+tag chap8_tydarialoop2
+#$ dbg spr_shieldstrailer_knock
+dbg spr_shieldstrailer_knock
+#$ cha sol_side_smile
+cha sol_side_smile
+#$ sol Welcome back.
+sol Bienvenido de vuelta.
+#$ cha shi_min_sigh
+cha shi_min_sigh
+#$ shi Yeah...
+shi Sí...
+#$ cha sol_back_talk
+cha sol_back_talk
+#$ sol Was work pleasant?
+sol ¿Fue agradable el trabajo?
+#$ cha shi_min_sadtalk
+cha shi_min_sadtalk
+#$ shi Yeah...
+shi Sí...
+#$ cha sol_side_smile
+cha sol_side_smile
+#$ sol I have made progress with the garden. Would you like something from it?
+sol He progresado con el jardín. ¿Te gustaría algo de él?
+#$ cha shi_min_thinking
+cha shi_min_thinking
+#$ shi ... ... ...
+shi ... ... ...
+#$ var tydaria_loop2
+var tydaria_loop2
+#$ dbg hide
+dbg hide
+#$ stop
+stop
+#$ tag chap8_tydarialoop3
+tag chap8_tydarialoop3
+#$ dbg spr_shieldstrailer_knock
+dbg spr_shieldstrailer_knock
+#$ cha sol_side_smile
+cha sol_side_smile
+#$ sol Welcome back.
+sol Bienvenido de vuelta.
+#$ cha shi_min_sadtalk
+cha shi_min_sadtalk
+#$ shi Yeah...
+shi Sí...
+#$ cha sol_back_talk
+cha sol_back_talk
+#$ sol Was work pleasant?
+sol ¿Fue agradable el trabajo?
+#$ cha shi_min_thinking
+cha shi_min_thinking
+#$ shi ... ... ...
+shi ... ... ...
+#$ cha sol_side_smilealt
+cha sol_side_smilealt
+#$ sol I have made progress with the garden. Would you like something from it?
+sol He progresado con el jardín. ¿Te gustaría algo de él?
+#$ cha shi_min_thinking
+cha shi_min_thinking
+#$ shi ... ... ...
+shi ... ... ...
+#$ var tydaria_loop3
+var tydaria_loop3
+#$ dbg hide
+dbg hide
+#$ stop
+stop
+#$ tag chap8_tydarialoop4
+tag chap8_tydarialoop4
+#$ dbg spr_shieldstrailer_knock
+dbg spr_shieldstrailer_knock
+#$ cha sol_side_slight
+cha sol_side_slight
+#$ sol Welcome back.
+sol Bienvenido de vuelta.
+#$ cha shi_min_thinking
+cha shi_min_thinking
+#$ shi ... ... ...
+shi ... ... ...
+#$ cha sol_back_talk
+cha sol_back_talk
+#$ sol Was work pleasant?
+sol ¿Fue agradable el trabajo?
+#$ cha shi_min_thinking
+cha shi_min_thinking
+#$ shi ... ... ...
+shi ... ... ...
+#$ cha sol_side_sadtalk
+cha sol_side_sadtalk
+#$ sol I have made progress with the garden. Would you like something from it?
+sol He progresado con el jardín. ¿Te gustaría algo de él?
+#$ cha shi_min_thinking
+cha shi_min_thinking
+#$ shi ... ... ...
+shi ... ... ...
+#$ cha sol_side_concernclosedeyesfrown
+cha sol_side_concernclosedeyesfrown
+#$ sol You must eat something healthy. It is good for you.
+sol Debes comer algo saludable. Es bueno para tí.
+#$ cha shi_min_thinking
+cha shi_min_thinking
+#$ shi ... ... ...
+shi ... ... ...
+#$ shi Dunno.
+shi No sé.
+#$ cha sol_side_sadtalk
+cha sol_side_sadtalk
+#$ sol You mustn't drink so much all the time.
+sol No debes beber tanto todo el tiempo.
+#$ cha shi_min_thinking
+cha shi_min_thinking
+#$ shi ... ... ...
+shi ... ... ...
+#$ cha shi_min_angrytalk
+cha shi_min_angrytalk
+#$ shi Can't help it.
+shi No puedo evitarlo.
+#$ var tydaria_loop4
+var tydaria_loop4
+#$ dbg hide
+dbg hide
+#$ stop
+stop
+#$ tag chap8_tydarialoop5
+tag chap8_tydarialoop5
+#$ dbg spr_shieldstrailer_knock
+dbg spr_shieldstrailer_knock
+#$ cha sol_side_sadsmile
+cha sol_side_sadsmile
+#$ sol Welcome back.
+sol Bienvenido de vuelta.
+#$ cha shi_min_sigh
+cha shi_min_sigh
+#$ shi ... ... ...
+shi ... ... ...
+#$ var tydaria_loop5
+var tydaria_loop5
+#$ dbg hide
+dbg hide
+#$ stop
+stop
+#$ tag chap8_tydarialoop6
+tag chap8_tydarialoop6
+#$ dbg spr_shieldstrailer_knock
+dbg spr_shieldstrailer_knock
+#$ mus mus_timelapse_anger
+mus mus_timelapse_anger
+#$ cha sol_side_lookawaysad
+cha sol_side_lookawaysad
+#$ sol Welcome back.
+sol Bienvenido de vuelta.
+#$ cha shi_min_angry
+cha shi_min_angry
+#$ shi ... ... ...
+shi ... ... ...
+#$ tag chap8_tydarialoopend
+tag chap8_tydarialoopend
+#$ cha shi_min_closedeyesclench
+cha shi_min_closedeyesclench
+#$ shi ... ... ...
+shi ... ... ...
+#$ cha sol_front_closedeyessigh
+cha sol_front_closedeyessigh
+#$ sol You are drinking again...
+sol Estás bebiendo de nuevo...
+#$ sol It is all you do.
+sol Es todo lo que haces.
+#$ cha shi_min_sigh
+cha shi_min_sigh
+#$ shi Dunno...
+shi No sé...
+#$ shi Been thinking...
+shi He estado pensando...
+#$ cha shi_min_angrytalk
+cha shi_min_angrytalk
+#$ shi It's been years now with no word from anyone. Just... been waiting all this time.
+shi Han pasado años sin ninguna noticia de nadie. Solo... esperando todo este tiempo.
+#$ shi The Sunrider's never going to be reborn.
+shi El Sunrider nunca va a renacer.
+#$ shi It was all a lie. The mission... is lost.
+shi Fue todo una mentira. La misión... está perdida.
+#$ cha shi_min_closedeyesclench
+cha shi_min_closedeyesclench
+#$ shi There's nothing more after this.
+shi No hay nada más después de esto.
+#$ cha sol_front_closedeyesslight
+cha sol_front_closedeyesslight
+#$ sol ... ... ...
+sol ... ... ...
+#$ cha sol_side_concernclosedeyesfrown
+cha sol_side_concernclosedeyesfrown
+#$ sol You mustn't say such things.
+sol No debes decir semejantes cosas.
+#$ cha shi_min_closedeyesclench
+cha shi_min_closedeyesclench
+#$ shi I'm just saying...
+shi Solo estoy diciendo que...
+#$ shi If there was some hope... Ava... Asaga... Icari... they would have contacted us by now.
+shi Si hubiera alguna esperanza... Ava... Asaga... Icari... nos habrían contactado ya.
+#$ cha shi_min_angrytalk
+cha shi_min_angrytalk
+#$ shi Instead... I'm stuck here. On this godforsaken world. Working this miserable job!
+shi En cambio... Estoy atrapado aquí. En este mundo remoto. ¡Haciendo este miserable trabajo!
+#$ shi I was the captain! But here I am, some dumbfuck loser!
+shi ¡Fui el capitán! ¡Pero aquí estoy, un estúpido perdedor!
+#$ shi Picking fucking stupid pebbles, being humiliated every day! Do you know the things they say about me at work?! What I'm subjected to every day when I walk through that fucking PACT check point?!
+shi ¡Recogiendo malditas piedras estúpidas, siendo humillado todos los días! ¡¿Sabes las cosas que dicen sobre mí en el trabajo?! ¡¿A lo que soy sometido todos los días cuando camino a través de ese maldito punto de control del PACT?!
+#$ cha sol_front_closedeyesslight
+cha sol_front_closedeyesslight
+#$ sol ... ... ...
+sol ... ... ...
+#$ cha shi_min_surpriseangry
+cha shi_min_surpriseangry
+#$ shi All I need is my ship! How hard is it to get a damned ship?!
+shi ¡Todo lo que necesito es mi nave! ¡¿Cuán difícil es conseguir una maldita nave?!
+#$ shi Everyone... where are they all? Have we been abandoned?
+shi Los demás... ¿dónde están todos? ¿Hemos sido abandonados?
+#$ shi Say something, Sola!
+shi ¡Di algo, Sola!
+#$ cha sol_side_concernclosedeyesfrown
+cha sol_side_concernclosedeyesfrown
+#$ sol ... ... ...
+sol ... ... ...
+#$ sou sou_horrorrealization
+sou sou_horrorrealization
+#$ dcg spr_chap8_cg3a
+dcg spr_chap8_cg3a
+#$ shi Say something!
+shi ¡Di algo!
+#$ sol ... ... ...
+sol ... ... ...
+#$ shi Why don't you talk?!
+shi ¡¿Por qué no hablas?!
+#$ sol ... ... ...
+sol ... ... ...
+#$ shi Why don't you ever say anything useful?! Why?!
+shi ¡¿Por qué nunca dices nada útil?! ¡¿Por qué?!
+#$ sol Heek!
+sol ¡Hik!
+#$ shi Say something!
+shi ¡Di algo!
+#$ sol Stop it!
+sol ¡Detente!
+#$ dcg spr_chap8_cg3b
+dcg spr_chap8_cg3b
+#$ shi ... ... ...
+shi ... ... ...
+#$ shi Sola... I...
+shi Sola... Yo...
+#$ shi I didn't mean it...
+shi Yo no pretendía...
+#$ shi I'm sorry...
+shi Lo siento...
+#$ sol ... ... ...
+sol ... ... ...
+#$ sol I must leave.
+sol Debo marcharme.
+#$ shi Sola...
+shi Sola...
+#$ sol Good-bye!
+sol ¡Adiós!
+#$ shi Sola...!
+shi ¡Sola...!
+#$ dcg hide
+dcg hide
+#$ sou sou_doorslam
+sou sou_doorslam
+#$ cha shi_min_scared
+cha shi_min_scared
+#$ shi ... ... ...
+shi ... ... ...
+#$ shi ... ...
+shi ... ...
+#$ shi ...
+shi ...
+#$ shi No...
+shi No...
+#$ cha shi_min_gasp
+cha shi_min_gasp
+#$ shi Sola... I'm sorry...
+shi Sola... Lo siento...
+#$ shi It can't... end like this...!
+shi ¡Yo no puedo... terminar así...!
+#$ dbg hide
+dbg hide
+#$ dcg spr_cg02a
+dcg spr_cg02a
+#$ cha shi_min_scared
+cha shi_min_scared
+#$ shi Sola?
+shi ¿Sola?
+#$ shi I'm sorry...
+shi Lo siento...
+#$ shi Sola... please be there...
+shi Sola... por favor que estés ahí...
+#$ shi I... I didn't mean to say those things...
+shi Yo... no pretendía decir esas cosas...
+#$ shi Sola...
+shi Sola...
+#$ cha shi_min_closedeyesclench
+cha shi_min_closedeyesclench
+#$ shi Please...
+shi Por favor...
+#$ shi Don't... leave me...
+shi No... me dejes...
+#$ shi I...
+shi Yo...
+#$ cha shi_min_closedeyessad
+cha shi_min_closedeyessad
+#$ shi I don't want to be alone...!
+shi ¡No quiero estar solo...!
+#$ shi Please...! Don't let it end like this...!
+shi ¡Por favor...! ¡No dejes que esto termine así...!
+#$ shi I'll do anything...! Just...
+shi ¡Haré cualquier cosa...! Solo...
+#$ shi Don't let it end like this!
+shi ¡No dejes que esto termine así!
+#$ sou stop
+sou stop
+#$ dbg hide
+dbg hide
+#$ dcg spr_cg_chap8_shieldsalone
+dcg spr_cg_chap8_shieldsalone
+#$ cha cla_handsonhips_confident
+cha cla_handsonhips_confident
+#$ ccc shi_nude
+ccc shi_nude
+#$ cla I heard your call, and so, I intervened.
+cla Escuché tu llamada, y por eso, intervine.
+#$ cla What better way to make up with your wayward love than to defend her from her dark past?
+cla ¿Qué mejor forma de reconciliarte con tu caprichoso amor que defendiéndola de su oscuro pasado?
+#$ cla What better way to prove your manhood, than to punch Crow Harbor himself out?
+cla ¿Qué mejor forma de probar tu hombría, que aplastando al mismísimo Crow Harbor?
+#$ cla Teehehehe... I only gave you what you wanted.
+cla Teehehehe... Solo te di lo que querías.
+#$ cha cla_handsonhips_impliedgrin
+cha cla_handsonhips_impliedgrin
+#$ cla All of this was exactly what you wanted: A grand space adventure to redeem yourself in the eyes of everyone you've let down. A chance to restore all that you lost.
+cla Todo esto fue exactamente lo que querías: Una gran aventura espacial para redimirte a los ojos de todos a los que decepcionaste. Una oportunidad para recuperar todo lo que perdiste.
+#$ cla A simulation of a life you wish you lived. But that isn't your reality. No. If it hadn't been for me, you'd still be on Tydaria, working a dead end job mining rocks for the Mining Union.
+cla Una simulación de una vida que deseabas vivir. Pero esa no era tu realidad. No. Si no hubiera sido por mí, todavía seguirías en Tydaria, haciendo un trabajo mortal minando rocas para la Unión Minera.
+#$ ccc shi_nude
+ccc shi_nude
+#$ cha cla_squish_heartkitty
+cha cla_squish_heartkitty
+#$ cla I gave you the space adventure you craved. I gave you the escape from your sad little life.
+cla Te di la aventura espacial que ansiabas. Te di la salida de tu triste y pequeña vida.
+#$ cla That is my role as the Canon. Not to make you miserable. Oh no.
+cla Ese es mi papel como el Canon. No volverte miserable. Oh no.
+#$ cla But to give you adventure! Power! Glory!
+cla ¡Sino darte aventura! ¡Poder! ¡Gloria!
+#$ cha shi_sadgroan
+cha shi_sadgroan
+#$ shi Why...
+shi Por qué...
+#$ shi Why is it that if you show me these dreams, you don't make me strong enough to win in them?!
+shi ¡¿Por qué es que si siempre me muestras estos sueños, nunca me haces lo suficientemente fuerte para vencer en ellos?!
+#$ shi Why must I always lose in the end?
+shi ¿Por qué debo siempre perder al final?
+#$ cha cla_handsonhips_sadtalk
+cha cla_handsonhips_sadtalk
+#$ cla My dear captain. I know enough about time to know there are no beginnings or endings.
+cla Mi querido capitán. Sé lo suficiente acerca del tiempo para saber que no hay comienzos ni finales.
+#$ cha cla_pout_sadpout
+cha cla_pout_sadpout
+#$ cla The only bad end... is if you decide that everything is finally over.
+cla El único final malo... es si decides que todo finalmente ha terminado.
+#$ cha shi_resigned
+cha shi_resigned
+#$ shi But this IS the end.
+shi Pero este ES el final.
+#$ shi There's no way I can win.
+shi No hay forma de que pueda ganar.
+#$ hid shi
+hid shi
+#$ hid cla
+hid cla
+#$ dbg hide
+dbg hide
+#$ dcg hide
+dcg hide
+#$ ccc shi_nude
+ccc shi_nude
+#$ ccc fon_uni
+ccc fon_uni
+#$ ccc chi_dark
+ccc chi_dark
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ dcg spr_chap8_cg1b
+dcg spr_chap8_cg1b
+#$ shi Cut to the chase...
+shi Ve al grano...
+#$ shi I wish... to enter in a verdict.
+shi Deseo... entrar a un veredicto.
+#$ fon Ho? The court hears you, Shields.
+fon ¿Ho? La corte te escucha, Shields.
+#$ shi You've already taken away everything. My ship. My nation. My woman. My crew. My rank. My reputation. There's nothing else left. Just end it all. That's the only reason why you've brought me here, isn't it? Don't drag this on any longer... Just kill me.
+shi Ya me has quitado todo. Mi nave. Mi nación. Mi mujer. Mi tripulación. Mi rango. Mi reputación. No queda nada más. Termínalo todo. Esa es la única razón por la que me has traído aquí, ¿no es así? No prolongues más esto... Solo mátame.
+#$ fon Oh my Shields. Oh my dear, dear Shields...
+fon Oh mi Shields. Oh mi querido, querido Shields...
+#$ fon Did you truly think I would condemn you to die? My old friend. I just wanted to awaken you to the truth.
+fon ¿Realmente crees que te condenaría a morir? Mi viejo amigo. Solo quería despertarte ante la verdad.
+#$ fon PACT is not the barbaric, evil nation you think it to be. You need merely sign this confession. Then all your crimes will be forgiven. Read it, Shields.
+fon El PACT no es la malvada, y bárbara nacion que piensas que es. Solamente necesitas firmar esta confesión. Luego todos tus crímenes serán perdonados. Léela, Shields.
+#$ shi I... Kayto Shields... left my self imposed exile on Tydaria... out of a misguided mission to redeem myself...
+shi Yo... Kayto Shields... dejé mi exilio auto impuesto en Tydaria... en una misión sin rumbo para redimirme...
+#$ shi I had unwittingly become a Prototype asset and in my negligence, I allowed the murder of countless innocents under my watch. This mistake haunted me. No matter how... how much I tried to forget about it, the horror of what I allowed to happen scarred me.
+shi Me había vuelto sin quererlo un objeto Prototipo y en mi negligencia, permití el asesinato de incontables inocentes bajo mi supervisión. Este error me atormenta. Sin importar cuánto... cuánto intento olvidarme de él, el horror de lo que permití que ocurriera me asustó.
+#$ shi I imagined... all in my head... that if I were to defeat Crow Harbor, I would be able to overcome my past. That my name would be cleared. That humanity would recognize me as not the humiliated lover of Prototypes, but as a war hero.
+shi Me imaginé... todo en mi cabeza... que si llegaba a derrotar a Crow Harbor, sería capaz de superar mi pasado. Que mi nombre sería limpiado. Que la humanidad me reconocería no como el humillado amante de Prototipos, sino como un héroe de guerra.
+#$ shi But I was a fool. I put my ship in jeopardy. I put the lives of my crew in jeopardy. And I put all of humanity at jeopardy, by undertaking my mission for such a selfish reason. I was so tormented by the Liberation Day Massacre that I lost all sense of reason and chased an absolution I could never attain.
+shi Pero fui un tonto. Puse mi nave en peligro. Puse las vidas de mi tripulación en peligro. Y puse a toda la humanidad en peligro, al tomar mi misión por semejante razón egoísta. Estaba tan atormentado por la Masacre del Día de Liberación que perdí todo sentido de la razón y busqué la absolución que nunca pude obtener.
+#$ shi It was only thanks to Veniczar Fontana that I survived. He is the sole reason that a failure like me continues to live... I... I... hereby pledge my everlasting loyalty to Veniczar Fontana. To serve him... dutifully. To... bring...
+shi Fue solo gracias a Veniczar Fontana que sobreviví. Él es la única razón de que un fallo como yo continúe viviendo... Yo... Yo... por la presente juro mi lealtad eterna a Veniczar Fontana. Servirle... obedientemente. Y... traerle...
+#$ shi Everlasting glory to PACT...! I pledge! To become... a servant of... the great... the mighty... the defeater of Crow Harbor... the vanquisher of the Solar Alliance... the victor of the Neutral Rim War! The protector of Cera! Ruler of the galaxy, hero undisputed!!!! VENICZAR FONTANA!!!
+shi ¡La gloria eterna al PACT...! ¡Juro! ¡Volverme... un sirviente del... gran... y poderoso... vencedor contra Crow Harbor... el vencedor contra la Alianza Solar... el vencedor de la Guerra del Margen Neutral! ¡El protector de Cera! ¡¡¡¡Gobernante de la galaxia, héroe indiscutible!!!! ¡¡¡VENICZAR FONTANA!!!
+#$ fon There, there, Shields. That wasn't so hard, was it?
+fon Bien, bien, Shields. Eso no fue tan difícil, ¿cierto?
+#$ fon Shh... Come onto me. You shall love me, as a little brother loves his big brother. I will make you into one of my finest servants. You will receive a shiny new star ship. Just give me the word, and I shall give you your old Sunrider back! From now on, we will be the best of friends.
+fon Shh... Ven conmigo. Me amarás, como un hermano menor ama a su hermano mayor. Te haré uno de mis mejores sirvientes. Recibirás una brillante nueva nave estelar. ¡Solo dímelo, y te entregaré tu antiguo Sunrider de vuelta! De ahora en adelante, seremos los mejores amigos.
+#$ shi Haaahaha... Hahaaa Haaa...!
+shi Haaahaha... ¡Hahaaa Haaa...!
+#$ fon My dear Shields. I know none of this was your fault. It is the Prototypes who are to blame! They twisted your heart! Took advantage of your vulnerabilities!
+fon Mi querido Shields. Sé que nada de esto fue tu culpa. ¡Son los Prototipos a quienes debemos culpar! ¡Ellos retorcieron tu corazón! ¡Tomaron ventaja de tus vulnerabilidades!
+#$ shi The Prototypes....!
+shi ¡Los Prototipos....!
+#$ fon Join me! And we shall exterminate them from the galaxy! I will do this for you, Shields!
+fon ¡Únete a mí! ¡Y los exterminaremos de la galaxia! ¡Haré esto por tí, Shields!
+#$ shi ... ... ...
+shi ... ... ...
+#$ shi The... Prototypes... Chigara...
+shi Los... Prototipos... Chigara...
+#$ shi Chigara...
+shi Chigara...
+#$ shi Chigara...
+shi Chigara...
+#$ shi Chigara...
+shi Chigara...
+#$ mus mus_colors_chigara
+mus mus_colors_chigara
+#$ dcg spr_chap8_cg4
+dcg spr_chap8_cg4
+#$ chg Yes?
+chg ¿Sí?
+#$ chg Is something the matter, captain?
+chg ¿Ocurre algo, capitán?
+#$ ccc shi_nude
+ccc shi_nude
+#$ cha shi_gasp
+cha shi_gasp
+#$ shi Chigara...?
+shi ¿Chigara...?
+#$ hid shi
+hid shi
+#$ chg Eh? Are you all right, captain?
+chg ¿Eh? ¿Estás bien, capitán?
+#$ cha shi_sadgroan
+cha shi_sadgroan
+#$ shi Ugh...
+shi Ugh...
+#$ cha shi_sadsmile
+cha shi_sadsmile
+#$ shi Heh... Thank goodness... Haha... Hahahaha!
+shi Heh... Gracias a dios... Haha... ¡Hahahaha!
+#$ hid shi
+hid shi
+#$ chg What are you doing... Why are you suddenly laughing out of the blue?
+chg Qué estás haciendo... ¿Por qué de repente estás riendo de la nada?
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+#$ shi Haha... I'm just relieved. I had the most absurd nightmare ever.
+shi Haha... Estoy aliviado. Tuve la pesadilla más absurda de todos los tiempos.
+#$ hid shi
+hid shi
+#$ chg What kind of nightmare?
+chg ¿Qué tipo de pesadilla?
+#$ cha shi_resigned
+cha shi_resigned
+#$ shi I dreamed you were going to betray me and spark an intergalactic war. I ended up crashing the Sunrider and had to go into exile on a remote mining world. Hahaha, really crazy stuff right? Now that I think about it, it all sounds so absurd that I should have known it was all a dream all along!
+shi Soñé que me ibas a traicionar e iniciar una guerra intergaláctica. Terminé estrellando el Sunrider y tuve que ir al exilio en un remoto mundo minero. Hahaha, ¿realmente loco cierto? ¡Ahora que lo pienso, suena todo tan absurdo que debí haber sabido que fue todo un sueño todo el tiempo!
+#$ hid shi
+hid shi
+#$ chg Mou... Please don't even dream of scary stuff like that, captain.
+chg Mou... Por favor ni siquiera sueñes cosas tenebrosas como esa, capitán.
+#$ cha shi_smirk
+cha shi_smirk
+#$ shi Mm. You've got that right. I'd rather dream of these.
+shi Mm. Tienes razón. Preferiría un sueño de estos.
+#$ hid shi
+hid shi
+#$ chg Eheheh... Captain's always so inappropriate...
+chg Eheheh... El capitán siempre es tan inapropiado...
+#$ cha shi_curious
+cha shi_curious
+#$ shi Say Chigara...
+shi Dime Chigara...
+#$ chg Yes?
+chg ¿Sí?
+#$ cha shi_focusthink
+cha shi_focusthink
+#$ shi I've made up my mind. I'm resigning my commission. This ship would do better in the hands of someone more qualified than me.
+shi Me he decidido. Voy a dejar mi comisión. Esta nave estaría mejor en las manos de alguien más calificado que yo.
+#$ hid shi
+hid shi
+#$ chg Eh?! Is that really allowed?!
+chg ¡¿Eh?! ¡¿Eso está realmente permitido?!
+#$ cha shi_confusetalk
+cha shi_confusetalk
+#$ shi It doesn't matter. Let's just leave, the two of us. Somewhere far, far away... Where we can start our bakery together... And raise a family...
+shi No importa. Simplemente vayámonos, nosotros dos. A algún lugar lejos, muy lejos... Donde podamos comenzar nuestra pastelería juntos... Y hacer una familia...
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi The only thing that's going to happen if we stay here is disaster. If we continue on this path, we'll only cause endless suffering. I can stop it all from happening right here...
+shi Lo único que va a suceder si nos quedamos aquí es desastre.
+#$ hid shi
+hid shi
+#$ chg Eh? I don't understand... but what about everyone else? What about your home?
+chg ¿Eh? No entiendo... ¿pero qué hay de todos los demás? ¿Qué hay de tu hogar?
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+#$ shi The others will be better off if we disappeared. We'd be doing everyone a great favor. This is our one chance to make everything right... Trust me.
+shi Los otros estarán mejor si desaparecemos. Les estaríamos haciendo a todos un gran favor. Esta es nuestra única oportunidad de hacer todo bien... Confía en mí.
+#$ hid shi
+hid shi
+#$ chg Did something happen, captain? You're not acting yourself...
+chg ¿Ocurrió algo, capitán? No estás actuando como tú mismo...
+#$ cha shi_neutalk
+cha shi_neutalk
+#$ shi I saw things in my dream... Visions of the future.
+shi Vi cosas en mi sueño... Visiones del futuro.
+#$ shi We'll be happier if we were to run away now. We'll go away, far away from the war, and start our own bakery. It's all we need.
+shi Seremos más felices si fuéramos a huír ahora. Nos iremos lejos, muy lejos de la guerra, y abriremos nuestra propia pastelería. Es todo lo que necesitamos.
+#$ hid shi
+hid shi
+#$ chg But if you ran away... Who would liberate your home? How would you become the hero, captain?
+chg Pero si huyes... ¿Quién liberará tu hogar? ¿Cómo te volverás el héroe, capitán?
+#$ cha shi_madgroan
+cha shi_madgroan
+#$ shi The hero? Forget about that! I'm not the hero, and I never will be! There's no need for me to try to be the hero! All that will lead to is a lifetime of pain!
+shi ¿El héroe? ¡Olvídate de eso! ¡Yo no soy el héroe, y nunca lo seré! ¡No hay necesidad de que intente ser el héroe! ¡Todo lo que provocará es una vida de dolor!
+#$ hid shi
+hid shi
+#$ chg No way! What are you saying? The captain will always be Chigara's hero!
+chg ¡No puede ser! ¿Qué estás diciendo? ¡El capitán siempre será el héroe de Chigara!
+#$ cha shi_stunned
+cha shi_stunned
+#$ shi H-Hero...?
+shi ¿H-Héroe...?
+#$ shi Why are you calling me that...
+shi Por qué me estás llamando así...
+#$ hid shi
+hid shi
+#$ chg Everyone here believes in you. No matter what happens, you will always be the bravest, smartest, and kindest captain in the galaxy! After all, that's what made Chigara fall in love with you, captain!
+chg Todos aquí creen en tí. ¡Sin importar lo que suceda, siempre serás el más valiente, inteligente, y amable capitán en la galaxia! ¡Después de todo, eso es lo que hizo a Chigara enamorarse de tí, capitán!
+#$ cha shi_sadthink
+cha shi_sadthink
+#$ shi Chigara...
+shi Chigara...
+#$ shi Is that really... the truth?
+shi ¿Es realmente eso... la verdad?
+#$ shi No... It's... just a lie isn't it? It's just... what you've been programmed to tell me.
+shi No... Eso es... ¿solo una mentira no? Es solo... lo que has sido programada para decirme.
+#$ cha shi_madtalk
+cha shi_madtalk
+#$ shi Listen, Chigara... This is really important.
+shi Escucha, Chigara... Esto es realmente importante.
+#$ shi You need to run away with me.
+shi Necesitas huír conmigo.
+#$ cha shi_rattled
+cha shi_rattled
+#$ shi All of this... It's a trick! You've been programmed by the Prototypes into falling in love with me! But it's all a trap. You're going to betray me and cause the Liberation Day Massacre. It'll damn the entire galaxy into almost a decade of war!
+shi Todo esto... ¡Es un truco! ¡Has sido programada por los Prototipos para enamorarte de mí! Pero todo es una trampa. Vas a traicionarme y provocar la Masacre del Día de Liberación. ¡Condenaré a toda la galaxia a casi una década de guerra!
+#$ shi I'll take you away from it all. We won't have to worry about any of that ever again. It'll just be the two of us.
+shi Te alejaré de todo. No tendremos que preocuparnos por que nada de eso ocurra de nuevo. Será solo nosotros dos.
+#$ hid shi
+hid shi
+#$ chg Captain.
+chg Capitán.
+#$ chg No.
+chg No.
+#$ chg Kayto.
+chg Kayto.
+#$ chg I haven't been programmed by anyone to love you. It's my own choice.
+chg No he sido programada por nadie para amarte. Esta es mi propia elección.
+#$ chg You will always be the hero in my eyes. My shining captain.
+chg Siempre serás el héroe ante mis ojos. Mi brillante capitán.
+#$ chg There's no need to run away. There's no need to change any of what will happen.
+chg No hay necesidad de huír. No hay necesidad de cambiar nada de lo que pasará.
+#$ chg Because Chigara knows that you will be able to save the day, no matter what.
+chg Porque Chigara sabe que serás capaz de salvar el día, sin importar qué.
+#$ chg It's true that every now and then, the captain needs some encouragement and support. But isn't that totally normal? Every day, the captain's got to make hard decision and work hard.
+chg Es cierto que de vez en cuando, el capitán necesita aliento y apoyo. ¿Pero no es eso completamente normal? Cada día, el capitán tiene que tomar difíciles decisiones y trabajar duro.
+#$ chg All I want to do is to support him! After all, every man needs someone to back him up! Or else he'll get lonely... and sad.
+chg ¡Todo lo que quiero es ayudarlo! ¡Después de todo, cada hombre necesita a alguien que lo apoye! O de lo contrario se volverá solitario... y triste.
+#$ chg It's Chigara's greatest dream! To help the captain accomplish his goals!
+chg ¡Es el mayor sueño de Chigara! ¡Ayudar al capitán a lograr sus metas!
+#$ chg So please don't run away, captain. Chigara will be here to help you!
+chg Así que por favor no huyas, capitán. ¡Chigara estará aquí para ayudarte!
+#$ cha shi_maxsurprise
+cha shi_maxsurprise
+#$ shi No...
+shi No...
+#$ shi I...
+shi Yo...
+#$ shi You're... a Prototype. You're just... telling me all the words I want to hear...
+shi Tú eres... un Prototipo. Tú solo estás... diciéndome todas las palabras que quiero escuchar...
+#$ shi But...
+shi Pero...
+#$ shi How am I supposed to change anything if you tell me that?! How am I supposed to save you? Save anyone?!
+shi ¡¿Cómo se supone que quiera cambiar nada si me dices eso?! ¿Cómo se supone que te salve? ¡¿Que salve a alguien?!
+#$ shi I can't change history if I hear those words!! I can't redo anything at all!!
+shi ¡¡No puedo cambiar la historia si escucho esas palabras!! ¡¡No puedo rehacer nada en lo absoluto!!
+#$ cha shi_max
+cha shi_max
+#$ shi CLAUDE!!!!!! What are you doing to me?! Do you really want to see me suffer so---
+shi ¡¡¡¡¡¡CLAUDE!!!!!! ¡¿Qué me estás haciendo?! Realmente me quieres ver sufrir tan---
+#$ hid shi
+hid shi
+#$ sou sou_sniperrifle
+sou sou_sniperrifle
+#$ dcg spr_cg_dead
+dcg spr_cg_dead
+#$ mus mus_colors_loop
+mus mus_colors_loop
+#$ chg I'm... sorry...
+chg A-ah... Lo... siento...
+#$ chg We couldn't... open... the bakery... together...
+chg Ya no podremos... abrir la pastelería...
+#$ chg Eh-heh...
+chg Eh-hehehe...
+#$ chg I-It would have been... so nice...
+chg Aun así... Chigara fue... muy feliz...
+#$ shi No...! Chigara...! Not again...! Not again...!
+shi ¡No...! ¡Chigara...! ¡No de nuevo...! ¡No de nuevo...!
+#$ dcg spr_cg_swornenemies1
+dcg spr_cg_swornenemies1
+#$ fon SHIELDS!!!
+fon ¡¡¡SHIELDS!!!
+#$ fon YOU FOOL! YOU BROUGHT THIS TRAITOR HERE!
+fon ¡TONTO! ¡TRAJISTE A ESTA TRAIDORA AQUÍ!
+#$ dcg spr_cg_swornenemies2
+dcg spr_cg_swornenemies2
+#$ shi Fontana.......!!!
+shi ¡¡¡Fontana.......!!!
+#$ shi You killed her!!
+shi ¡¡Tú la mataste!!
+#$ shi YOU KILLED HER AGAIN!!!!
+shi ¡¡¡¡TÚ LA MATASTE DE NUEVO!!!!
+#$ shi EEEEEEEEAAAAAAAHHHHHHHHHHH!!!!!!!!!
+shi ¡¡¡¡¡EEEEEEEEAAAAAAAHHHHHHHHHHH!!!!!
+#$ dcg spr_chap8_cg1c
+dcg spr_chap8_cg1c
+#$ shi THERE WILL BE NO PEACE! NO CONFESSION! I WILL NEVER FORGIVE! I WILL NEVER FORGET!
+shi ¡NO HABRÁ PAZ! ¡NI CONFESIÓN! ¡NUNCA PERDONARÉ! ¡NUNCA OLVIDARÉ!
+#$ shi For as long as we both draw air, we shall be ENEMIES!
+shi ¡Ya que mientras ambos respiremos aire, seremos ENEMIGOS!
+#$ shi I'll never join PACT! Never! So you better bring in a bigger torture machine, Fontana! This one was like walking my dog in the park!
+shi ¡Nunca me uniré al PACT! ¡Nunca! ¡Así que mejor trae una máquina de tortura más grande, Fontana! ¡Esta fue como pasear a mi perro en el parque!
+#$ fon So you have chosen the hard way. No matter. I have other ways of getting you to sign this confession, Shields.
+fon Así que has escogido el camino difícil. No importa. Tengo otras formas de hacerte firmar esta confesión, Shields.
+#$ mus stop
+mus stop
+#$ ccc chi_dark
+ccc chi_dark
+#$ sou sou_heartbeat
+sou sou_heartbeat
+#$ por chi_dark
+por chi_dark
+#$ chi Captain...
+chi Capitán...
+#$ cha shi_gasp
+cha shi_gasp
+#$ shi What?
+shi ¿Qué?
+#$ fon Bring in the Prototype. Perhaps seeing your friend suffer will-
+fon Traigan al Prototipo. Quizás ver a tu amiga sufrir te-
+#$ sou sou_heartbeat
+sou sou_heartbeat
+#$ por chi_dark
+por chi_dark
+#$ chi Captain!
+chi ¡Captain!
+#$ cha shi_surprise
+cha shi_surprise
+#$ shi Chigara? Are you there...?
+shi ¿Chigara? ¿Estás ahí...?
+#$ fon Have you lost your mind, Shields? Who are you talking to?
+fon ¿Has enloquecido, Shields? ¿A quién le estás hablando?
+#$ sou sou_klaxon
+sou sou_klaxon
+#$ pac My Veniczar! We've got a situation!
+pac ¡Mi Veniczar! ¡Tenemos un problema!
+#$ fon Report!
+fon ¡Reporte!
+#$ dbg hide
+dbg hide
+#$ dcg hide
+dcg hide
+#$ fade
+fade
+#$ nar A FEW MINUTES AGO...
+nar UNOS POCOS MINUTOS ANTES...
+#$ dcg spr_chap8_cg5a
+dcg spr_chap8_cg5a
+#$ lyn Mmffphfh...!
+lyn ¡Mmffphfh...!
+#$ ga1 How much longer are we going to have to put up with listening to this bitch?
+ga1 ¿Cuánto más vanos a tener que aguantar con escuchar a esta perra?
+#$ ga2 Fuck. The first woman I've seen in the three years of hell I've been posted here and it's got to be a Prototype... Hey, why don't we teach her a lesson?
+ga2 Diablos. La primera mujer que he visto en los tres años de infierno que he estado postado aquí y tiene que ser un Prototipo... Hey, ¿por qué no le enseñamos una lección?
+#$ ga1 What are you talking about? We have orders to keep her confined at all times!
+ga1 ¿De qué estás hablando? ¡Tenemos órdenes de mantenerla confinada todo el tiempo!
+#$ ga2 How about you grow a pair, rookie? You think you're ever gonna see another bitch on this rock?
+ga2 ¿Qué tal si creces un poco, nuevo? ¿Crees que vas a ver a otra perra en esta roca?
+#$ ga2 Heh-heh, what's it matter? It's not like she's human. She's marked for processing anyways. Nobody'll know a thing...
+ga2 Heh-heh, ¿cuál es el problema? No es como si ella fuera humana. Está marcada para ser procesada de todas formas. Nadie sabrá nada...
+#$ lyn Mmpffhh!!
+lyn ¡¡Mmpffhh!!
+#$ ga2 Come on, prisoner! You're gonna be making totally different sounds soon... Heh-heh-heh...
+ga2 ¡Venga, prisionera! Vas a hacer sonidos completamente diferentes pronto... Heh-heh-heh...
+#$ lyn Peh! Why don't you unwrap me then, boy? I'll turn you into a man.
+lyn ¡Peh! ¿Por qué no me desatas entonces, chico? Te haré un hombre.
+#$ ga2 Heh-heh-heh...
+ga2 Heh-heh-heh...
+#$ sou sou_punch2
+sou sou_punch2
+#$ dcg spr_chap8_cg5b
+dcg spr_chap8_cg5b
+#$ ga2 Gugh!
+ga2 ¡Gugh!
+#$ ga1 Moron! What did I tell you! Restrain her!
+ga1 ¡Tonto! ¡Qué te dije! ¡Aprésala!
+#$ ga2 You're gonna pay for that, Prototype!
+ga2 ¡Vas a pagar por eso, Prototipo!
+#$ lyn Ooh, you are in so much shit...
+lyn Ooh, están en muy graves problemas...
+#$ sou sou_klaxon
+sou sou_klaxon
+#$ ga1 Condition Red! We're under attack!
+ga1 ¡Alerta roja! ¡Estamos bajo ataque!
+#$ dcg hide
+dcg hide
+#$ dbg hide
+dbg hide
+#$ var chap8_prototypewarpin
+var chap8_prototypewarpin
+#$ stop
+stop
+#$ tag chap8_afterprototypewarpin
+tag chap8_afterprototypewarpin
+#$ ccc chi_base
+ccc chi_base
+#$ por chi_handsonhip_laugh
+por chi_handsonhip_laugh
+#$ chi Eh-Ehehe... Captain...
+chi Eh-Ehehe... Capitán...
+#$ por chi_handsonhip_mockalt
+por chi_handsonhip_mockalt
+#$ chi I'm coming for you!
+chi ¡Voy a por tí!
+#$ hid chi
+hid chi
+#$ flag
+flag
+#$ cha shi_confusetalk
+cha shi_confusetalk
+#$ shi Chigara! I can hear you! Where are you?
+shi ¡Chigara! ¡Puedo escucharte! ¿Dónde estás?
+#$ cha fon_angryshout
+cha fon_angryshout
+#$ fon Don't be a fool, Shields! The Prototype you know as Chigara is dead!
+fon ¡No seas tonto, Shields! ¡El Prototipo al que conoces como Chigara está muerto!
+#$ por chi_smile
+por chi_smile
+#$ chi I'm right here captain! I'm coming to rescue you!
+chi ¡Estoy justo aquí capitán! ¡Vengo a rescatarte!
+#$ hid chi
+hid chi
+#$ fon If you join the Prototypes, your life is forfeit.
+fon Si te unes a los Prototipos, tu vida está perdida.
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+#$ shi ... ... ...
+shi ... ... ...
+#$ cha fon_angryshout
+cha fon_angryshout
+#$ fon Listen to me! I am your only hope at salvation! Take my hand... and we can save galaxy from the Prototype menace! Together!
+fon ¡Escúchame! ¡Yo soy tu única salvación! ¡Toma mi mano... y podremos salvar a la galaxia de la amenaza de los Prototipos! ¡Juntos!
+#$ por chi_focustalkalt
+por chi_focustalkalt
+#$ chi Don't listen to him captain! I'm almost there...
+chi ¡No lo escuches capitán! Ya casi estoy ahí...
+#$ hid chi
+hid chi
+#$ fon Do not fall for their words! You know this yourself: The Prototypes cannot be trusted! They will speak whatever sweet words are necessary to win your trust! But their endgame is to eradicate humanity! Listen to me, Shields!
+fon ¡No te dejes engañar por sus palabras! Tú mismo sabes esto: ¡No se puede confiar en los Prototipos! ¡Dirán todas las dulces palabras que sean necesarias para ganarse tu confianza! ¡Pero su objetivo es erradicar a la humanidad! ¡Escúchame, Shields!
+#$ cha shi_focus
+cha shi_focus
+#$ shi No...
+shi No...
+#$ cha shi_shout
+cha shi_shout
+#$ shi Chigara! I'm right here!
+shi ¡Chigara! ¡Estoy justo aquí!
+#$ hid shi
+hid shi
+#$ hid fon
+hid fon
+#$ dbg hide
+dbg hide
+#$ sou sou_torpedohit
+sou sou_torpedohit
+#$ dcg spr_chap8_cg6a
+dcg spr_chap8_cg6a
+#$ chi Captain! I'm here now! Everything will be okay!
+chi ¡Capitán! ¡Estoy aquí ahora! ¡Todo va a estar bien!
+#$ por fon_angryshout
+por fon_angryshout
+#$ fon Shields! Do not make the same mistake twice! The Prototypes cannot be trusted!
+fon ¡Shields! ¡No cometas el mismo error dos veces! ¡No se puede confiar en los prototipos!
+#$ hid fon
+hid fon
+#$ hid chi
+hid chi
+#$ shi ... ... ...
+shi ... ... ...
+#$ cha shi_triumph
+cha shi_triumph
+#$ shi You lose, Fontana.
+shi Perdiste, Fontana.
+#$ hid shi
+hid shi
+#$ por fon_fury
+por fon_fury
+#$ fon Shields! STOP!!!
+fon ¡Shields! ¡¡¡DETENTE!!!
+#$ hid fon
+hid fon
+#$ dcg hide
+dcg hide
+#$ nar ... ... ...
+nar ... ... ...
+#$ flag
+flag
+#$ nar ... ...
+nar ... ...
+#$ nar ...
+nar ...
+#$ roo roo_chap9_story1
+roo roo_chap9_story1

@@ -1,0 +1,230 @@
+# Alliance Cruiser reporting.
+Alliance Cruiser reporting.
+# All hands, stand by.
+All hands, stand by.
+# Your orders, captain?
+Your orders, captain?
+# Online.
+Online.
+# Hailing frequencies open.
+Hailing frequencies open.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Engage!
+Engage!
+# Set a course.
+Set a course.
+# Steady as she goes.
+Steady as she goes.
+# Power to engines.
+Power to engines.
+# Set us underway.
+Set us underway.
+# Make it happen.
+Make it happen.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Establishing flak network.
+Establishing flak network.
+# Firing point defence.
+Firing point defence.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Main guns. Fire!
+Main guns. Fire!
+# Broadside!
+Broadside!
+# Line her up, helm. Fire!
+Line her up, helm. Fire!
+# Give them a Solaris handshake.
+Give them a Solaris handshake.
+#$ -1000
+-1000
+# Lens are hot. Fire!
+Lens are hot. Fire!
+# Charge laser array. Fire!
+Charge laser array. Fire!
+# Fire lasers!
+Fire lasers!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Targets locked. Missiles away!
+Targets locked. Missiles away!
+# Commence missile bombardment.
+Commence missile bombardment.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# We are out of ordinance.
+We are out of ordinance.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Enemy confirmed sunk.
+Enemy confirmed sunk.
+# Tally her up.
+Tally her up.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Light damage to report.
+Light damage to report.
+# Our hull is holding.
+Our hull is holding.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Damage control!
+Damage control!
+# Hull breaches detected!
+Hull breaches detected!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Fight to her last breath lads!
+Fight to her last breath lads!
+# Alliance Cruiser, reporting heavy damage!
+Alliance Cruiser, reporting heavy damage!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# All hands, abandon ship!
+All hands, abandon ship!
+# Hit confirmed.
+Hit confirmed.
+# The attack is successful.
+The attack is successful.
+# Good thing that hit or else there'd be paperwork.
+Good thing that hit or else there'd be paperwork.
+# The attack has gone wide.
+The attack has gone wide.
+# I hope some poor lad doesn't get hit by that a thousand years from now.
+I hope some poor lad doesn't get hit by that a thousand years from now.
+# Attack failed.
+Attack failed.
+# Performing evasive maneuvers!
+Performing evasive maneuvers!
+# All stop!
+All stop!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Enemy ECM detected.
+Enemy ECM detected.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Insufficient energy, command.
+Insufficient energy, command.
+#$ -1000
+-1000
+#$ -1000
+-1000

@@ -1,0 +1,328 @@
+# Ryuvian Lancer at your command.
+Ryuvian Lancer at your command.
+# Priming crystals.
+Priming crystals.
+# Your will is my command.
+Your will is my command.
+# The Queensguard is at your disposal.
+The Queensguard is at your disposal.
+# For the Ryuvian Empire!
+For the Ryuvian Empire!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Moving out.
+Moving out.
+# All ahead full.
+All ahead full.
+# By your will.
+By your will.
+# All power to engines.
+All power to engines.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Our fury burns!
+Our fury burns!
+# Incinerating them!
+Incinerating them!
+# Our light will cleanse them!
+Our light will cleanse them!
+# By the Queen's light!
+By the Queen's light!
+# Our lenses are hot!
+Our lenses are hot!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Sabotaging enemy's shields.
+Sabotaging enemy's shields.
+# Their defences will not protect them!
+Their defences will not protect them!
+# Activating AB-particles!
+Activating AB-particles!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# The heathen has been cleansed!
+The heathen has been cleansed!
+# We have prevailed against the enemy!
+We have prevailed against the enemy!
+# The enemy has perished!
+The enemy has perished!
+#$ -1000
+-1000
+#$ -1000
+-1000
+# That attack does nothing to stop our will!
+That attack does nothing to stop our will!
+# The Queen protects us!
+The Queen protects us!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Our ship has sustained damage!
+Our ship has sustained damage!
+# The enemy assails us!
+The enemy assails us!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Hull is critical!
+Hull is critical!
+# We shall fight to the death!
+We shall fight to the death!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# My Queen, I have failed you!
+My Queen, I have failed you!
+# Enemy confirmed on fire.
+Enemy confirmed on fire.
+# Feel the might of Ryuvia!
+Feel the might of Ryuvia!
+# Retreat, heathen!
+Retreat, heathen!
+# The enemy has evaded our attack!
+The enemy has evaded our attack!
+# Our laser fails to meet its target!
+Our laser fails to meet its target!
+#$ -1000
+-1000
+# Performing evasive action!
+Performing evasive action!
+# Burning Ongessite.
+Burning Ongessite.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Cease your subterfuge and face us!
+Cease your subterfuge and face us!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# We lack the sufficient energy.
+We lack the sufficient energy.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000

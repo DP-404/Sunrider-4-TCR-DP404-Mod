@@ -1,0 +1,2844 @@
+#$ //Chapter 9
+//Chapter 9
+#$ tag chap9_start
+tag chap9_start
+#$ dcg spr_chap9_cg_chigaratea
+dcg spr_chap9_cg_chigaratea
+#$ ccc shi_nude
+ccc shi_nude
+#$ ccc ome_base
+ccc ome_base
+#$ ccc chi_base
+ccc chi_base
+#$ ccc sol_uni
+ccc sol_uni
+#$ cha shi_gasp
+cha shi_gasp
+# shi Chigara...?
+shi Chigara...?
+#$ mus mus_colors_intro
+mus mus_colors_intro
+# shi Wait... How did I...?
+shi Wait... How did I...?
+#$ hid shi
+hid shi
+# chi Captain? Is something the matter?
+chi Captain? Is something the matter?
+#$ cha shi_sadthinkexpressive
+cha shi_sadthinkexpressive
+# shi This is the Sunrider... This can't be real.
+shi This is the Sunrider... This can't be real.
+#$ hid shi
+hid shi
+# chi Eh? What do you mean?
+chi Eh? What do you mean?
+#$ cha shi_madgroan
+cha shi_madgroan
+# shi This ship. It was destroyed. I'm... the captain of the Maray now.
+shi This ship. It was destroyed. I'm... the captain of the Maray now.
+# shi Wait... None of this makes sense.
+shi Wait... None of this makes sense.
+#$ cha shi_surprise
+cha shi_surprise
+# shi Shit! Claude!
+shi Shit! Claude!
+# shi This is... more of your time travel non-sense, isn't it?
+shi This is... more of your time travel non-sense, isn't it?
+#$ cha shi_max
+cha shi_max
+# shi CLAUDE!! Come out, now!
+shi CLAUDE!! Come out, now!
+#$ hid shi
+hid shi
+# chi W-What are you talking about? The doctor isn't here with us right now.
+chi W-What are you talking about? The doctor isn't here with us right now.
+#$ cha shi_curious
+cha shi_curious
+# shi The date... What's the date?
+shi The date... What's the date?
+#$ hid shi
+hid shi
+# chi Mou... captain's not making any sense.
+chi Mou... captain's not making any sense.
+# chi You were the one called for me, captain, weren't you? I freed you from that terrible PACT prison.
+chi You were the one called for me, captain, weren't you? I freed you from that terrible PACT prison.
+#$ cha shi_surprise
+cha shi_surprise
+# shi Wait, so we're still in the right time line?
+shi Wait, so we're still in the right time line?
+#$ hid shi
+hid shi
+# chi Of course we are. I rescued you and took you away. You're safe now. There's nothing you need to worry about any more.
+chi Of course we are. I rescued you and took you away. You're safe now. There's nothing you need to worry about any more.
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi What about the others? Are they all right?
+shi What about the others? Are they all right?
+#$ hid shi
+hid shi
+# chi You don't need to worry, captain. They don't matter anymore.
+chi You don't need to worry, captain. They don't matter anymore.
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi No, I need to get back to my crew. Where are we, Chigara? And... how are you alive? Are you...
+shi No, I need to get back to my crew. Where are we, Chigara? And... how are you alive? Are you...
+#$ hid shi
+hid shi
+# chi Yes. I am really real.
+chi Yes. I am really real.
+# chi It's me. Chigara.
+chi It's me. Chigara.
+#$ cha shi_stunned
+cha shi_stunned
+# shi What...
+shi What...
+# shi Chigara...
+shi Chigara...
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi I saw you...
+shi I saw you...
+#$ mus stop
+mus stop
+#$ sou sou_heartbeat
+sou sou_heartbeat
+#$ dcg spr_cg_chap8_flashback3
+dcg spr_cg_chap8_flashback3
+#$ dcg spr_chap9_cg_chigaratea
+dcg spr_chap9_cg_chigaratea
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+# shi No...
+shi No...
+# shi No...!
+shi No...!
+# shi No...!
+shi No...!
+#$ cha shi_shout
+cha shi_shout
+# shi This can't be right. This isn't the Sunrider. And... you're not Chigara!
+shi This can't be right. This isn't the Sunrider. And... you're not Chigara!
+#$ hid shi
+hid shi
+# chi What you are you saying...
+chi What you are you saying...
+# chi I remade our special room just for us, right to every last detail.
+chi I remade our special room just for us, right to every last detail.
+# chi Now, we can finally be together...
+chi Now, we can finally be together...
+# chi For eternity.
+chi For eternity.
+#$ mus mus_fallen_angel_pt3
+mus mus_fallen_angel_pt3
+#$ dcg hide
+dcg hide
+#$ dbg spr_bg_cathedralinterior
+dbg spr_bg_cathedralinterior
+#$ cha chi_smile
+cha chi_smile
+# chi Eh-hehehe...
+chi Eh-hehehe...
+# chi Let's become one...
+chi Let's become one...
+# chi We'll be together forever...
+chi We'll be together forever...
+# chi It'll be everything we ever dreamed of...
+chi It'll be everything we ever dreamed of...
+#$ cha chi_tongue
+cha chi_tongue
+# chi Just the two of us, forever and ever...
+chi Just the two of us, forever and ever...
+#$ cha shi_rattled
+cha shi_rattled
+# shi EAAAHHHHH!!!!!!!
+shi EAAAHHHHH!!!!!!!
+#$ hid shi
+hid shi
+#$ cha chi_handonhip_crazysmile
+cha chi_handonhip_crazysmile
+# chi Ehehehehe...
+chi Ehehehehe...
+# chi Captain...
+chi Captain...
+# chi I've searched all over for you!
+chi I've searched all over for you!
+#$ cha shi_angryshout
+cha shi_angryshout
+# shi Get off!
+shi Get off!
+#$ hid shi
+hid shi
+# chi Eh-hehehe... Where are you going?
+chi Eh-hehehe... Where are you going?
+#$ cha shi_sigh
+cha shi_sigh
+# shi Haa... haa... haa... haa...!
+shi Haa... haa... haa... haa...!
+#$ hid shi
+hid shi
+#$ cha chi_smile
+cha chi_smile
+# chi I see you~
+chi I see you~
+#$ cha shi_rattled
+cha shi_rattled
+# shi No...!
+shi No...!
+#$ hid shi
+hid shi
+# pto Captain~
+pto Captain~
+# pto We can make all your dreams true...
+pto We can make all your dreams true...
+# pto We can do anything you desire...
+pto We can do anything you desire...
+# pto What is it that you wish?
+pto What is it that you wish?
+# pto Love?
+pto Love?
+# pto Power?
+pto Power?
+# pto Respect?
+pto Respect?
+# pto We can give it all to you...
+pto We can give it all to you...
+#$ cha shi_shout
+cha shi_shout
+# shi I won't become your slave!
+shi I won't become your slave!
+#$ hid shi
+hid shi
+# pto Slave? Oh no...
+pto Slave? Oh no...
+# pto You'd be our master and us the slaves.
+pto You'd be our master and us the slaves.
+# pto Our love.
+pto Our love.
+# pto Our captain.
+pto Our captain.
+# shi No! Get your hands off--
+shi No! Get your hands off--
+# pto Huehuehue...
+pto Huehuehue...
+# pto Everything you ever wanted will be yours.
+pto Everything you ever wanted will be yours.
+#$ cha chi_handsonhip_tongue
+cha chi_handsonhip_tongue
+# chi Hehehe, come on captain. Show us your cannon.
+chi Hehehe, come on captain. Show us your cannon.
+#$ hid chi
+hid chi
+#$ mus stop
+mus stop
+#$ sou sou_klaxon
+sou sou_klaxon
+# nar ... ... ...
+nar ... ... ...
+#$ hsh 15
+hsh 15
+#$ cha chi_annoyed
+cha chi_annoyed
+# chi Tch!
+chi Tch!
+# pto ... ... ...
+pto ... ... ...
+#$ cha shi_surprise
+cha shi_surprise
+# shi (The Prototypes... they've stopped. What's happening?)
+shi (The Prototypes... they've stopped. What's happening?)
+#$ hid chi
+hid chi
+#$ sou sou_scare
+sou sou_scare
+#$ cha ome_angry
+cha ome_angry
+# ome Hold! He is not to be harmed.
+ome Hold! He is not to be harmed.
+#$ cha shi_maxsurprise
+cha shi_maxsurprise
+# shi !!!!
+shi !!!!
+#$ por chi_disappointed
+por chi_disappointed
+# chi O-Of course... my queen.
+chi O-Of course... my queen.
+#$ cha ome_smirk
+cha ome_smirk
+# ome Bring him before me.
+ome Bring him before me.
+#$ dbg hide
+dbg hide
+#$ hid chi
+hid chi
+#$ hid ome
+hid ome
+#$ hid chi
+hid chi
+#$ flag
+flag
+#$ mus mus_timelapse
+mus mus_timelapse
+#$ cha shi_rattled
+cha shi_rattled
+# shi ... ... ...
+shi ... ... ...
+#$ hid shi
+hid shi
+# ome Captain... At last, we are reunited...
+ome Captain... At last, we are reunited...
+# ome You have nothing to fear. Victory is within grasp.
+ome You have nothing to fear. Victory is within grasp.
+# ome Together, we will become a power greater than the Veniczar. No. Greater than Canon herself.
+ome Together, we will become a power greater than the Veniczar. No. Greater than Canon herself.
+# shi Who are you?! Their leader?
+shi Who are you?! Their leader?
+# ome I am Omega!
+ome I am Omega!
+# shi Omega...?
+shi Omega...?
+# ome First, there was the Prototype, then the Alpha. But I am the last. The final of us.
+ome First, there was the Prototype, then the Alpha. But I am the last. The final of us.
+# ome It was I who gathered all of my servants and constructed this dreadnought... the Cathedral. A behemoth unsurpassed by any other force in the galaxy.
+ome It was I who gathered all of my servants and constructed this dreadnought... the Cathedral. A behemoth unsurpassed by any other force in the galaxy.
+# ome This magnificent ship is my gift to you. With it, you will be... invincible.
+ome This magnificent ship is my gift to you. With it, you will be... invincible.
+# shi Don't lie to me. I know how you Prototypes operate. This is a trick.
+shi Don't lie to me. I know how you Prototypes operate. This is a trick.
+# shi It's always a trick...
+shi It's always a trick...
+# ome No trick...
+ome No trick...
+# ome Unlike the Prototype and the Alpha, I was created solely to serve you. And... only one other. But he has long passed into the void.
+ome Unlike the Prototype and the Alpha, I was created solely to serve you. And... only one other. But he has long passed into the void.
+# shi Impossible!
+shi Impossible!
+# ome The existence you knew as Chigara... her love for you was matched only by Alice's love for Arcadius. And now, they both exist within me... two minds, made as one.
+ome The existence you knew as Chigara... her love for you was matched only by Alice's love for Arcadius. And now, they both exist within me... two minds, made as one.
+# ome We exist solely to serve you!
+ome We exist solely to serve you!
+# shi No...!
+shi No...!
+#$ mus mus_timelapse_anger
+mus mus_timelapse_anger
+# shi No...!!!!
+shi No...!!!!
+# ome Long have we awaited for this day...
+ome Long have we awaited for this day...
+# ome The Captain's Return!
+ome The Captain's Return!
+# pto The Captain's Return!
+pto The Captain's Return!
+# pto He has come to lead us!
+pto He has come to lead us!
+# pto Our leader!
+pto Our leader!
+# pto Our hero!
+pto Our hero!
+# pto Our love!
+pto Our love!
+# ome The Cathedral is at your command. All of the Prototypes are ready to do your bidding. With your word, all your enemies will be vanquished. All your friends will be saved. All the wrongs of the past will be righted. All will be as you dreamed.
+ome The Cathedral is at your command. All of the Prototypes are ready to do your bidding. With your word, all your enemies will be vanquished. All your friends will be saved. All the wrongs of the past will be righted. All will be as you dreamed.
+# ome You will have your VICTORY!
+ome You will have your VICTORY!
+# ome Are you our CAPTAIN?
+ome Are you our CAPTAIN?
+#$ dcg spr_chap9_cg1b
+dcg spr_chap9_cg1b
+# shi ... ... ...
+shi ... ... ...
+# shi I wanted to win...
+shi I wanted to win...
+# shi I wanted to win!
+shi I wanted to win!
+#$ flag
+flag
+# shi Against Crow! Against Fontana! Against Canon!
+shi Against Crow! Against Fontana! Against Canon!
+# shi I felt... so weak! So... useless!
+shi I felt... so weak! So... useless!
+# shi Then I thought... If only I had power!
+shi Then I thought... If only I had power!
+# shi Then I wouldn't be like this! I wouldn't be weak!
+shi Then I wouldn't be like this! I wouldn't be weak!
+#$ sou sou_heartbeat
+sou sou_heartbeat
+#$ dcg spr_cg_chap7_4
+dcg spr_cg_chap7_4
+#$ dcg spr_chap9_cg1b
+dcg spr_chap9_cg1b
+# shi I wanted power. Power to change everything! Because there's so much I want to change!
+shi I wanted power. Power to change everything! Because there's so much I want to change!
+# shi So much... so much that needs... to change.
+shi So much... so much that needs... to change.
+#$ sou sou_heartbeat
+sou sou_heartbeat
+#$ dcg spr_cg_chap7_5
+dcg spr_cg_chap7_5
+#$ dcg spr_chap9_cg1b
+dcg spr_chap9_cg1b
+#$ mus stop
+mus stop
+# shi But...
+shi But...
+# shi But...!
+shi But...!
+# shi I can't!
+shi I can't!
+# shi I... I just... can't!
+shi I... I just... can't!
+# shi ...! ... ... ...
+shi ...! ... ... ...
+#$ mus mus_onemansdream
+mus mus_onemansdream
+# shi I want to return home.
+shi I want to return home.
+# shi Let me go.
+shi Let me go.
+# shi If you truly serve me, release me.
+shi If you truly serve me, release me.
+# chi Eh-heh... We'll never let you go, captain.
+chi Eh-heh... We'll never let you go, captain.
+# chi You're just stressed.
+chi You're just stressed.
+# chi Once we've made you happy, you'll see the light...
+chi Once we've made you happy, you'll see the light...
+# chi It can feel really good...
+chi It can feel really good...
+#$ dcg spr_chap9_cg1c
+dcg spr_chap9_cg1c
+# shi Let me go or else I'll do it.
+shi Let me go or else I'll do it.
+# shi Let me go!
+shi Let me go!
+# ome Immaterial.
+ome Immaterial.
+# ome No matter where you run, we will follow.
+ome No matter where you run, we will follow.
+# shi You wouldn't be the first!
+shi You wouldn't be the first!
+# ome Haaahahahaha...!
+ome Haaahahahaha...!
+# ome Very well. I obey. Freedom you will have today. But our whispers will never be forgotten...
+ome Very well. I obey. Freedom you will have today. But our whispers will never be forgotten...
+# ome From the moment you wake... from daybreak, through the night... and even in your dreams... you will hear our whispers. You will seek to escape, through space and through drink, but nevertheless, they will grow louder and louder...
+ome From the moment you wake... from daybreak, through the night... and even in your dreams... you will hear our whispers. You will seek to escape, through space and through drink, but nevertheless, they will grow louder and louder...
+# ome Deny us all you wish, but eventually, you will succumb. You will drink from our cup and take our hand. And when that day comes, you will have everything you dreamed. You will finally be... invincible.
+ome Deny us all you wish, but eventually, you will succumb. You will drink from our cup and take our hand. And when that day comes, you will have everything you dreamed. You will finally be... invincible.
+# ome For as long as you desire to be the captain... you will need us.
+ome For as long as you desire to be the captain... you will need us.
+# ome Be free, Kayto Shields. But know one thing...
+ome Be free, Kayto Shields. But know one thing...
+# ome The next time, it will be you who calls upon us.
+ome The next time, it will be you who calls upon us.
+#$ hid ome
+hid ome
+#$ dcg hide
+dcg hide
+#$ mus mus_escape
+mus mus_escape
+#$ dbg spr_bg_cathedralinterior
+dbg spr_bg_cathedralinterior
+#$ cha shi_rattled
+cha shi_rattled
+# shi Haa... haa... haa...
+shi Haa... haa... haa...
+# shi (Shit... I've got to get out of here!)
+shi (Shit... I've got to get out of here!)
+#$ hid shi
+hid shi
+#$ cha chi_grin
+cha chi_grin
+# chi Eh-hehehe... Captain...
+chi Eh-hehehe... Captain...
+#$ cha shi_max
+cha shi_max
+# shi Stay away!
+shi Stay away!
+#$ cha chi_handonhip_crazysmile
+cha chi_handonhip_crazysmile
+# chi Where are you going?
+chi Where are you going?
+#$ cha shi_max
+cha shi_max
+# shi Away from here!
+shi Away from here!
+#$ cha chi_tongue
+cha chi_tongue
+# chi Captain...
+chi Captain...
+#$ cha shi_max
+cha shi_max
+# shi I'm not your captain!
+shi I'm not your captain!
+#$ hid chi
+hid chi
+#$ sou sou_footsteps_metal
+sou sou_footsteps_metal
+# nar ... ... ...
+nar ... ... ...
+#$ cha shi_angry
+cha shi_angry
+# shi (Escape pods! I can use it to get out of here!)
+shi (Escape pods! I can use it to get out of here!)
+# shi (I've got to make it back to everyone!)
+shi (I've got to make it back to everyone!)
+#$ hid shi
+hid shi
+# pto Please don't leave!
+pto Please don't leave!
+# pto Where are you going?
+pto Where are you going?
+#$ cha shi_max
+cha shi_max
+# shi You're all insane!
+shi You're all insane!
+#$ sou sou_escapepod
+sou sou_escapepod
+#$ mus stop
+mus stop
+#$ hid shi
+hid shi
+#$ cha chi_annoyed
+cha chi_annoyed
+# chi Tch.
+chi Tch.
+#$ cha ome_grin
+cha ome_grin
+# ome Let him go. He will return to us in time.
+ome Let him go. He will return to us in time.
+#$ cha chi_handsonhip_smirk
+cha chi_handsonhip_smirk
+#$ mus mus_OW_MetalDrone2_CT
+mus mus_OW_MetalDrone2_CT
+# chi Hehehe...
+chi Hehehe...
+# chi Your grace is too kind.
+chi Your grace is too kind.
+# chi I think a more aggressive approach is preferable.
+chi I think a more aggressive approach is preferable.
+#$ cha ome_concern
+cha ome_concern
+# ome Do as you will, aberrant. But no harm shall come to him.
+ome Do as you will, aberrant. But no harm shall come to him.
+# chi Of course, of course... He will be ours... unblemished.
+chi Of course, of course... He will be ours... unblemished.
+#$ cha chi_handonhip_grin
+cha chi_handonhip_grin
+# chi Nine of you, come with me. It's play time.
+chi Nine of you, come with me. It's play time.
+#$ dbg hide
+dbg hide
+#$ dcg hide
+dcg hide
+#$ fade
+fade
+#$ dbg spr_bg_escapepod
+dbg spr_bg_escapepod
+#$ mus mus_escape
+mus mus_escape
+#$ ccc shi_nude
+ccc shi_nude
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ cha shi_rattled
+cha shi_rattled
+# shi (I have no clue how to even operate this escape pod. Where're the comms? I need to contact the Maray!)
+shi (I have no clue how to even operate this escape pod. Where're the comms? I need to contact the Maray!)
+#$ por chi_smile
+por chi_smile
+# chi Eh-hehehe...
+chi Eh-hehehe...
+# chi Captain...
+chi Captain...
+# chi Where are you going?
+chi Where are you going?
+#$ cha shi_gasp
+cha shi_gasp
+# shi What? You promised to let me go!
+shi What? You promised to let me go!
+#$ por chi_handonhip_grin
+por chi_handonhip_grin
+# chi But we haven't made you feel better, captain...
+chi But we haven't made you feel better, captain...
+# chi Please stay with us...
+chi Please stay with us...
+#$ cha shi_angry
+cha shi_angry
+# shi No! This wasn't the deal!
+shi No! This wasn't the deal!
+#$ hid shi
+hid shi
+#$ por chi_mock
+por chi_mock
+# chi Eh-hehehe...
+chi Eh-hehehe...
+# chi Just a little bit longer, captain...
+chi Just a little bit longer, captain...
+# chi We'll make you happy...
+chi We'll make you happy...
+#$ cha shi_madgroan
+cha shi_madgroan
+# shi (They've gone mad!)
+shi (They've gone mad!)
+# shi (Is this it...? Is it over?)
+shi (Is this it...? Is it over?)
+#$ hid shi
+hid shi
+#$ mus mus_drivingtopdown
+mus mus_drivingtopdown
+#$ sou sou_static
+sou sou_static
+#$ por asa_excited_happy
+por asa_excited_happy
+# asa Cap'n! Is that you?
+asa Cap'n! Is that you?
+#$ cha shi_smile
+cha shi_smile
+# shi Asaga! You're a sight for sore eyes! I need help! I've got Prototype ryders all over me!
+shi Asaga! You're a sight for sore eyes! I need help! I've got Prototype ryders all over me!
+#$ por asa_fist_sadsmileclosedeyes
+por asa_fist_sadsmileclosedeyes
+# asa I knew you'd be here, captain! I knew it!
+asa I knew you'd be here, captain! I knew it!
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi Wait, where's the rest of the squad?!
+shi Wait, where's the rest of the squad?!
+#$ por asa_fingerpoint_talk
+por asa_fingerpoint_talk
+# asa Searching somewhere else! Right now, it's just me!
+asa Searching somewhere else! Right now, it's just me!
+# asa Don't worry! Something on this level's... NOTHING!
+asa Don't worry! Something on this level's... NOTHING!
+#$ por asa_fist_focusshout
+por asa_fist_focusshout
+# asa Hiyaaaaah!!!!!!!!
+asa Hiyaaaaah!!!!!!!!
+# obj Destroy all Prototype ryders with Asaga.
+obj Destroy all Prototype ryders with Asaga.
+#$ bat roo_chap9_battle1
+bat roo_chap9_battle1
+#$ 
+
+#$ tag chap9_escape_1
+tag chap9_escape_1
+# asa One!
+asa One!
+# pto Eh-hehehe...
+pto Eh-hehehe...
+# pto Asaga...
+pto Asaga...
+#$ var pro_1
+var pro_1
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_2
+tag chap9_escape_2
+# asa Two!
+asa Two!
+# pto You betrayed me...
+pto You betrayed me...
+# pto You were my friend...
+pto You were my friend...
+# asa Silence! You're not Chigara! Die!!!
+asa Silence! You're not Chigara! Die!!!
+#$ var pro_2
+var pro_2
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_3
+tag chap9_escape_3
+# asa Three!
+asa Three!
+# pto You'll never win against all of us!
+pto You'll never win against all of us!
+#$ var pro_3
+var pro_3
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_4
+tag chap9_escape_4
+# asa Four!
+asa Four!
+# pto The captain... he belongs to us!
+pto The captain... he belongs to us!
+# asa Shut up! Tooyaaah!!!
+asa Shut up! Tooyaaah!!!
+#$ var pro_4
+var pro_4
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_5
+tag chap9_escape_5
+# asa Five!
+asa Five!
+# pto We're endless!
+pto We're endless!
+#$ var pro_5
+var pro_5
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_6
+tag chap9_escape_6
+# asa Six!
+asa Six!
+# pto Eh-hehehe... I've already won...
+pto Eh-hehehe... I've already won...
+# pto Iya, it felt so good when the captain did me~
+pto Iya, it felt so good when the captain did me~
+# pto You'll never know what it's like.
+pto You'll never know what it's like.
+# asa DIE!!!
+asa DIE!!!
+#$ var pro_6
+var pro_6
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_7
+tag chap9_escape_7
+# asa SEVEN!
+asa SEVEN!
+# pto Your ryder can't hold!
+pto Your ryder can't hold!
+# pto It's hopeless!
+pto It's hopeless!
+# asa Not with this!!
+asa Not with this!!
+#$ var pro_7
+var pro_7
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_8
+tag chap9_escape_8
+# asa EIGHT!
+asa EIGHT!
+# pto Eh-heh... You think you've won?
+pto Eh-heh... You think you've won?
+# asa Begone! I'm... THE SHARR!!!
+asa Begone! I'm... THE SHARR!!!
+#$ var pro_8
+var pro_8
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_intermis1
+tag chap9_escape_intermis1
+# asa NOW IT'S OVER!
+asa NOW IT'S OVER!
+# asa EAAAAHHHHH!!!!!
+asa EAAAAHHHHH!!!!!
+#$ var pro_9
+var pro_9
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_imposter
+tag chap9_imposter
+#$ dcg spr_cg_chap9_widow1
+dcg spr_cg_chap9_widow1
+#$ ccc chi_base
+ccc chi_base
+#$ por chi_laugh
+por chi_laugh
+# chi Eh-hehehe...
+chi Eh-hehehe...
+#$ por chi_mock
+por chi_mock
+# chi You were once my friend, Asaga. But I'll never let the captain go. Not even to you.
+chi You were once my friend, Asaga. But I'll never let the captain go. Not even to you.
+# chi We never settled our duel back then.
+chi We never settled our duel back then.
+#$ por chi_handonhip_crazysmile
+por chi_handonhip_crazysmile
+# chi Let's decide here. If you win, you can do the captain. If I win, I get to do the captain.
+chi Let's decide here. If you win, you can do the captain. If I win, I get to do the captain.
+# chi Eh-hehehe... It sure is good to be captain, eeh? No matter what, he'll get to screw a beautiful girl!
+chi Eh-hehehe... It sure is good to be captain, eeh? No matter what, he'll get to screw a beautiful girl!
+#$ hid chi
+hid chi
+# asa You bastard...!!!
+asa You bastard...!!!
+# asa HOW DARE YOU CALL YOURSELF CHIGARA!!!!!!!!
+asa HOW DARE YOU CALL YOURSELF CHIGARA!!!!!!!!
+#$ por chi_amused
+por chi_amused
+# chi Prepare to meet the Widow!
+chi Prepare to meet the Widow!
+#$ por chi_handsonhip_laugh
+por chi_handsonhip_laugh
+# chi Eheehehe... HIYAAAAHAHAHAHAHAHA!!!!!
+chi Eheehehe... HIYAAAAHAHAHAHAHAHA!!!!!
+#$ var pro_widow1
+var pro_widow1
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_intermis2
+tag chap9_escape_intermis2
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc chi_base
+ccc chi_base
+#$ por chi_grin
+por chi_grin
+# chi It's useless! Nano-machine hull - I can completely regenerate all the damage you dish at me!
+chi It's useless! Nano-machine hull - I can completely regenerate all the damage you dish at me!
+# asa Monster!!
+asa Monster!!
+#$ por chi_handsonhip_focustalk
+por chi_handsonhip_focustalk
+# chi Says the one with mutant DNA!
+chi Says the one with mutant DNA!
+#$ var pro_widow2
+var pro_widow2
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_injured1
+tag chap9_escape_injured1
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+# asa Urgh!! Something on this level's--!!
+asa Urgh!! Something on this level's--!!
+#$ var pro_asa1
+var pro_asa1
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_injured2
+tag chap9_escape_injured2
+# asa Rggghhrghh!!!
+asa Rggghhrghh!!!
+#$ var pro_asa2
+var pro_asa2
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_injured3
+tag chap9_escape_injured3
+# asa Gurgh!! RAAAARGGHH!!! HURGNNN!!!
+asa Gurgh!! RAAAARGGHH!!! HURGNNN!!!
+#$ var pro_asa3
+var pro_asa3
+#$ dcg hide
+dcg hide
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_injured4
+tag chap9_escape_injured4
+# asa EAAAHH!!! Guck... Ghuu...
+asa EAAAHH!!! Guck... Ghuu...
+#$ dcg hide
+dcg hide
+#$ var pro_asa4
+var pro_asa4
+#$ stop
+stop
+#$ 
+
+#$ tag chap9_escape_end
+tag chap9_escape_end
+#$ ccc asa_plugsuit
+ccc asa_plugsuit
+#$ ccc chi_base
+ccc chi_base
+#$ ccc ome_base
+ccc ome_base
+#$ ccc shi_nude
+ccc shi_nude
+#$ ccc ava_uni
+ccc ava_uni
+#$ //1
+//1
+# nar ... ... ...
+nar ... ... ...
+# asa GYAAHH!!!! Gaah... Haa... Haa... Haa...
+asa GYAAHH!!!! Gaah... Haa... Haa... Haa...
+#$ por chi_handsonhip_mock
+por chi_handsonhip_mock
+#$ //2
+//2
+# chi Haven't you had enough?
+chi Haven't you had enough?
+#$ //3
+//3
+# chi If you go any further, you'll really die, you know.
+chi If you go any further, you'll really die, you know.
+#$ hid chi
+hid chi
+#$ //4
+//4
+# asa Peh! Monster...
+asa Peh! Monster...
+#$ cha shi_rattled
+cha shi_rattled
+#$ //5
+//5
+# shi Asaga...!
+shi Asaga...!
+#$ //6
+//6
+# shi Asaga...! Stop...!
+shi Asaga...! Stop...!
+#$ //7
+//7
+# shi Stop!! You've done enough...!
+shi Stop!! You've done enough...!
+#$ hid shi
+hid shi
+#$ //8
+//8
+# asa I'm the damn Sharr, capt'n.
+asa I'm the damn Sharr, capt'n.
+#$ //9
+//9
+# asa That means ya gutta buckle up and deal.
+asa That means ya gutta buckle up and deal.
+#$ por chi_pity
+por chi_pity
+#$ //10
+//10
+# chi Eh-heh... Come on, it's just me left.
+chi Eh-heh... Come on, it's just me left.
+#$ por chi_handonhip_smile
+por chi_handonhip_smile
+#$ //11
+//11
+# chi Psych!
+chi Psych!
+#$ hid chi
+hid chi
+#$ //12
+//12
+# pto Eh-hehehehe...
+pto Eh-hehehehe...
+#$ //13
+//13
+# asa Bitches...
+asa Bitches...
+#$ //14
+//14
+# asa HIYAAAAAAAAAAAAAAHHHHHHHHHH!!!!!!!!!!!!!!
+asa HIYAAAAAAAAAAAAAAHHHHHHHHHH!!!!!!!!!!!!!!
+#$ tag chap9_rescue
+tag chap9_rescue
+#$ dcg spr_cg_chap9_widow3
+dcg spr_cg_chap9_widow3
+#$ por chi_angry
+por chi_angry
+# chi Tch-
+chi Tch-
+# chi Ack!
+chi Ack!
+#$ hid chi
+hid chi
+#$ por ome_annoyed
+por ome_annoyed
+# ome Return.
+ome Return.
+#$ hid ome
+hid ome
+#$ por chi_unsatisfied
+por chi_unsatisfied
+# chi Time's up, eh...
+chi Time's up, eh...
+#$ dcg spr_cg_chap9_marayrescue
+dcg spr_cg_chap9_marayrescue
+#$ por ava_armup_shocked
+por ava_armup_shocked
+# ava Come in! Captain, is that you? Are you safe?
+ava Come in! Captain, is that you? Are you safe?
+#$ cha shi_rattled
+cha shi_rattled
+# shi Ava! It's me!
+shi Ava! It's me!
+#$ por ava_armscrossed_talk
+por ava_armscrossed_talk
+# ava Stand by. We are initiating rescue right now.
+ava Stand by. We are initiating rescue right now.
+#$ cha shi_rattled
+cha shi_rattled
+# shi No, get Asaga!
+shi No, get Asaga!
+# shi Get her out and to the sickbay now! NOW!!!!
+shi Get her out and to the sickbay now! NOW!!!!
+#$ cha shi_rattled
+cha shi_rattled
+# shi She's...
+shi She's...
+#$ dcg spr_chap9_cg2e
+dcg spr_chap9_cg2e
+# asa Eh-heh...
+asa Eh-heh...
+# asa Seems... like... I made it in time...
+asa Seems... like... I made it in time...
+# asa Cap... tain...
+asa Cap... tain...
+#$ cha shi_maxsurprise
+cha shi_maxsurprise
+# shi ASAGA!!!!!!!!!
+shi ASAGA!!!!!!!!!
+#$ dcg hide
+dcg hide
+#$ flag
+flag
+#$ stop
+stop
+#$ tag chap9_afterbattle1
+tag chap9_afterbattle1
+#$ dbg spr_bg_sickbay
+dbg spr_bg_sickbay
+#$ ccc cla_nurse
+ccc cla_nurse
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc sol_uni
+ccc sol_uni
+#$ cha cla_armscrossed_sad
+cha cla_armscrossed_sad
+# nar ... ... ...
+nar ... ... ...
+#$ mus mus_onemansdream
+mus mus_onemansdream
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi Claude...
+shi Claude...
+# shi How... is she...?
+shi How... is she...?
+#$ cha cla_armscrossed_sadtalk
+cha cla_armscrossed_sadtalk
+# cla I've managed to restore the lost tissue with via a full body medi-gel treatment. However, she still hasn't regained consciousness.
+cla I've managed to restore the lost tissue with via a full body medi-gel treatment. However, she still hasn't regained consciousness.
+#$ cha shi_sadthink
+cha shi_sadthink
+# shi What do you mean?
+shi What do you mean?
+#$ cha cla_armscrossed_talk
+cha cla_armscrossed_talk
+# cla I can use all the nano-machines in the ship's arsenal to heal her wounds. But restoring the mind is another matter...
+cla I can use all the nano-machines in the ship's arsenal to heal her wounds. But restoring the mind is another matter...
+# cla Even if her body is restored, there is a possibility that Asaga may still never wake up.
+cla Even if her body is restored, there is a possibility that Asaga may still never wake up.
+#$ cha cla_pout_sadtalk
+cha cla_pout_sadtalk
+# cla I'm afraid I've done all I can for her.
+cla I'm afraid I've done all I can for her.
+#$ cha shi_closedeyesangryclench
+cha shi_closedeyesangryclench
+# shi No...
+shi No...
+# shi No! You're... you're...
+shi No! You're... you're...
+#$ cha shi_angryshout
+cha shi_angryshout
+# shi You listen to me, doc. Don't give me that. I know who you really are-
+shi You listen to me, doc. Don't give me that. I know who you really are-
+# shi There... there must be something... something you can do...
+shi There... there must be something... something you can do...
+# shi You've got to save her! She...
+shi You've got to save her! She...
+# shi She saved me. I owe her my life.
+shi She saved me. I owe her my life.
+#$ cha cla_pout_regret
+cha cla_pout_regret
+# cla I'm sorry captain. But you know I can't do that.
+cla I'm sorry captain. But you know I can't do that.
+#$ cha shi_rattled
+cha shi_rattled
+# shi No...!
+shi No...!
+# shi We can't just leave her like this!
+shi We can't just leave her like this!
+#$ cha cla_armscrossed_talk
+cha cla_armscrossed_talk
+# cla There is a way...
+cla There is a way...
+#$ cha shi_max
+cha shi_max
+# shi A way?
+shi A way?
+#$ cha cla_armscrossed_talk
+cha cla_armscrossed_talk
+# cla Yes.
+cla Yes.
+#$ cha shi_max
+cha shi_max
+# shi What is it?! Tell me!
+shi What is it?! Tell me!
+#$ cha cla_armscrossed_sadtalk
+cha cla_armscrossed_sadtalk
+# cla Reach out to her.
+cla Reach out to her.
+# cla Perhaps... if she hears your voice... our sleeping beauty may wake from her spell yet.
+cla Perhaps... if she hears your voice... our sleeping beauty may wake from her spell yet.
+# cla After everything that has happened, perhaps what she needs the most right now is you, captain.
+cla After everything that has happened, perhaps what she needs the most right now is you, captain.
+#$ cha shi_resigned
+cha shi_resigned
+# shi ... ... ...
+shi ... ... ...
+#$ cha cla_pout_sadtalk
+cha cla_pout_sadtalk
+# cla But there is a condition.
+cla But there is a condition.
+#$ cha shi_stunned
+cha shi_stunned
+# shi A condition...?
+shi A condition...?
+#$ cha cla_armscrossed_sadlookaway
+cha cla_armscrossed_sadlookaway
+# cla You must tell her the truth. Everything.
+cla You must tell her the truth. Everything.
+# cla About you. The mission. The time for you to come clean has come, Kayto Shields.
+cla About you. The mission. The time for you to come clean has come, Kayto Shields.
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi ... ... ...
+shi ... ... ...
+#$ cha cla_armscrossed_sadlookaway
+cha cla_armscrossed_sadlookaway
+# cla Perhaps then... and only then... will your prayers will be answered.
+cla Perhaps then... and only then... will your prayers will be answered.
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+#$ hid cla
+hid cla
+# shi ...
+shi ...
+# shi ... ...
+shi ... ...
+# shi ... ... ...
+shi ... ... ...
+#$ cha shi_blank
+cha shi_blank
+# shi Claude?
+shi Claude?
+#$ hid shi
+hid shi
+# nar ... ... ...
+nar ... ... ...
+#$ cha shi_blank
+cha shi_blank
+# shi (She's gone...)
+shi (She's gone...)
+#$ hid shi
+hid shi
+# asa ... ... ...
+asa ... ... ...
+#$ dcg spr_chap9_cg4a
+dcg spr_chap9_cg4a
+# shi Asaga...
+shi Asaga...
+# shi No... I can't keep going on like this...
+shi No... I can't keep going on like this...
+# shi I think... Claude has a point. In the end, she was looking out for me...
+shi I think... Claude has a point. In the end, she was looking out for me...
+# shi My deceit... It must stop here.
+shi My deceit... It must stop here.
+# shi Everything has been my fault. All because I was weak.
+shi Everything has been my fault. All because I was weak.
+# shi Regardless of whether everyone mocks me... Whether I am declared a failure...
+shi Regardless of whether everyone mocks me... Whether I am declared a failure...
+# shi The truth must be faced.
+shi The truth must be faced.
+# shi ... ... ...
+shi ... ... ...
+# shi I'm sorry.
+shi I'm sorry.
+# shi This all happened because of me.
+shi This all happened because of me.
+# shi I'm sorry.
+shi I'm sorry.
+# shi All this time, you waited for me... you got so much stronger and even gave me a new ship. And this was the best I could do. Just this.
+shi All this time, you waited for me... you got so much stronger and even gave me a new ship. And this was the best I could do. Just this.
+# shi ... ... ...
+shi ... ... ...
+# shi All this time, I've wanted to tell you...
+shi All this time, I've wanted to tell you...
+# shi I wanted to tell you the truth.
+shi I wanted to tell you the truth.
+# shi From the day I ran away from Cera, I never stopped running away. From the very beginning, I was a coward.
+shi From the day I ran away from Cera, I never stopped running away. From the very beginning, I was a coward.
+# shi I wrapped myself in a captain's uniform, barked orders, acted big, but I was just some stupid kid from Cera with a big ego and nothing else. I played myself like one of those space captains you see on the holo, always so cocksure of themselves. Big, confident, with broad shoulders, a big shiny grin on their faces at all times.
+shi I wrapped myself in a captain's uniform, barked orders, acted big, but I was just some stupid kid from Cera with a big ego and nothing else. I played myself like one of those space captains you see on the holo, always so cocksure of themselves. Big, confident, with broad shoulders, a big shiny grin on their faces at all times.
+# shi Always putting the ship in danger, so certain I could pull out some dazzling feat of brilliance to save the day. I... wanted to be called captain by all of you, because in a way, each time I heard it, it... made me feel so strong.
+shi Always putting the ship in danger, so certain I could pull out some dazzling feat of brilliance to save the day. I... wanted to be called captain by all of you, because in a way, each time I heard it, it... made me feel so strong.
+# shi But with each day, I needed more and more reassurance that I wasn't who I saw in the mirror. Instead of just wrapping myself in a uniform, I wrapped myself around the nearest woman who gave me affirmation.
+shi But with each day, I needed more and more reassurance that I wasn't who I saw in the mirror. Instead of just wrapping myself in a uniform, I wrapped myself around the nearest woman who gave me affirmation.
+# shi I was weak... and I paid the price.
+shi I was weak... and I paid the price.
+# shi No longer can I blame the Prototypes or Fontana for what happened...
+shi No longer can I blame the Prototypes or Fontana for what happened...
+# shi The blame... rests solely on me.
+shi The blame... rests solely on me.
+# shi Everything that happened was due to the big lie I perpetuated...
+shi Everything that happened was due to the big lie I perpetuated...
+# shi But my sins go on... they go on... and on... and on...
+shi But my sins go on... they go on... and on... and on...
+# shi I went into exile... but I lost hope. I lost faith in my companions and thought myself abandoned.
+shi I went into exile... but I lost hope. I lost faith in my companions and thought myself abandoned.
+# shi Sola, who followed me into exile, completely in her selfless desire to protect me, I... I lashed out at her. Despite having done nothing wrong, she became the target of my frustration at my own failures. I ruined everything we had built during our time together.
+shi Sola, who followed me into exile, completely in her selfless desire to protect me, I... I lashed out at her. Despite having done nothing wrong, she became the target of my frustration at my own failures. I ruined everything we had built during our time together.
+# shi And then, I covered up all that had happened as soon we were back on the ship.
+shi And then, I covered up all that had happened as soon we were back on the ship.
+# shi Despite having left my youth, I had learned nothing. Nothing at all.
+shi Despite having left my youth, I had learned nothing. Nothing at all.
+# shi I once again put this ship in danger, time and time again. All in a mad, obsessive hunt for Crow Harbor. But did I once act for the good of humanity?
+shi I once again put this ship in danger, time and time again. All in a mad, obsessive hunt for Crow Harbor. But did I once act for the good of humanity?
+# shi The only person I sought to enrich in this mad quest was myself.
+shi The only person I sought to enrich in this mad quest was myself.
+# shi I... wanted to show Sola... I wanted to show everyone... that I was still the captain.
+shi I... wanted to show Sola... I wanted to show everyone... that I was still the captain.
+# shi That I was this grandiose, mighty, hero. I wanted to be the hero so much that I was willing to risk everyone's lives... Even my own! But... in truth, I was never any of that.
+shi That I was this grandiose, mighty, hero. I wanted to be the hero so much that I was willing to risk everyone's lives... Even my own! But... in truth, I was never any of that.
+# shi I... was never the hero.
+shi I... was never the hero.
+# shi I'm... so... weak.
+shi I'm... so... weak.
+# shi I... couldn't do anything! I couldn't liberate my home... I couldn't defeat PACT! Or Crow Harbor! Or the Prototypes!
+shi I... couldn't do anything! I couldn't liberate my home... I couldn't defeat PACT! Or Crow Harbor! Or the Prototypes!
+# shi Instead, I was manipulated... used... defeated.
+shi Instead, I was manipulated... used... defeated.
+# shi I was so ashamed... so afraid... of becoming a failure... that I became a liar.
+shi I was so ashamed... so afraid... of becoming a failure... that I became a liar.
+# shi I became... spineless. A coward. A charlatan.
+shi I became... spineless. A coward. A charlatan.
+# shi Please, Asaga...
+shi Please, Asaga...
+# shi Wake up...
+shi Wake up...
+# shi I need you... We all need you...
+shi I need you... We all need you...
+# shi You're the hero.
+shi You're the hero.
+# shi I need you...!
+shi I need you...!
+# shi Asaga!
+shi Asaga!
+# shi Please!
+shi Please!
+# shi I'm sorry...! I'm sorry for everything!
+shi I'm sorry...! I'm sorry for everything!
+# shi I don't care any more whether you curse me! Whatever little measure of a man you behold before you is nothing compared to losing you!
+shi I don't care any more whether you curse me! Whatever little measure of a man you behold before you is nothing compared to losing you!
+# shi I was weak!
+shi I was weak!
+# shi All I ever wanted was your approval...! Everyone's approval...
+shi All I ever wanted was your approval...! Everyone's approval...
+# shi Please...!
+shi Please...!
+# shi Please... ... ...!
+shi Please... ... ...!
+# shi I... beg of you...
+shi I... beg of you...
+# shi Please... forgive me.
+shi Please... forgive me.
+# shi ... ...
+shi ... ...
+# shi ...
+shi ...
+# shi !!
+shi !!
+#$ dcg spr_chap9_cg4b
+dcg spr_chap9_cg4b
+#$ mus mus_colors_loop
+mus mus_colors_loop
+# asa You are the hero, captain.
+asa You are the hero, captain.
+# asa Because only a real hero could look inside himself and admit to all that.
+asa Because only a real hero could look inside himself and admit to all that.
+# shi Asaga!
+shi Asaga!
+# asa Seems like I can't even catch a short nap around here, eh...
+asa Seems like I can't even catch a short nap around here, eh...
+# asa Don't worry.
+asa Don't worry.
+# asa As long as you can look at yourself... and still live with it... You've got the makings of a real hero.
+asa As long as you can look at yourself... and still live with it... You've got the makings of a real hero.
+# asa That's all we can do, captain. That's all any of us can do.
+asa That's all we can do, captain. That's all any of us can do.
+# asa All we can do is live with it. Ain't so simple, but nobody ever said bein' a hero was a walk in the park.
+asa All we can do is live with it. Ain't so simple, but nobody ever said bein' a hero was a walk in the park.
+# shi Asaga... thank god...
+shi Asaga... thank god...
+# shi I was so scared...
+shi I was so scared...
+# asa Mm...
+asa Mm...
+# shi Scared I'd lost you...
+shi Scared I'd lost you...
+# asa Mm...
+asa Mm...
+# shi ... ... ...
+shi ... ... ...
+# asa Eh-heh... I'm glad...
+asa Eh-heh... I'm glad...
+# asa It's okay... It's okay to be scared.
+asa It's okay... It's okay to be scared.
+# asa Now capt'n... You gotta pull yourself together.
+asa Now capt'n... You gotta pull yourself together.
+# asa The mission isn't failed. We're all still here, aren't we? Thanks to your bravery, we managed to get out of the World Fountain alive.
+asa The mission isn't failed. We're all still here, aren't we? Thanks to your bravery, we managed to get out of the World Fountain alive.
+# asa Look around you, captain.
+asa Look around you, captain.
+# shi What? What do you mean?
+shi What? What do you mean?
+# asa All of this was accomplished through your hard work.
+asa All of this was accomplished through your hard work.
+# asa You've survived where no one else would have. You've performed great feats of heroism. Bigger and mightier than any make-belief captain in a holo movie.
+asa You've survived where no one else would have. You've performed great feats of heroism. Bigger and mightier than any make-belief captain in a holo movie.
+# asa Because all of this was real.
+asa Because all of this was real.
+# asa Only you could have brought us this far. It's because... you're special.
+asa Only you could have brought us this far. It's because... you're special.
+# asa You... always have been. Not just to me...
+asa You... always have been. Not just to me...
+# asa But you yourself. You're special.
+asa But you yourself. You're special.
+# asa And so long as you keep believing in that... as long as you get up every day... and keep moving forward...
+asa And so long as you keep believing in that... as long as you get up every day... and keep moving forward...
+# asa You are the hero.
+asa You are the hero.
+# asa That's all it takes...
+asa That's all it takes...
+# asa It's not about having a coolest ship with the biggest cannon in the galaxy. Not about having broad shoulders or a winning grin. Not about the fancy uniforms. Not the big pile of vanquished foes in your shadow.
+asa It's not about having a coolest ship with the biggest cannon in the galaxy. Not about having broad shoulders or a winning grin. Not about the fancy uniforms. Not the big pile of vanquished foes in your shadow.
+# asa All you need... is just... your belief.
+asa All you need... is just... your belief.
+# asa Just like the Talbur...
+asa Just like the Talbur...
+# asa Everything you needed to become the hero...
+asa Everything you needed to become the hero...
+# asa You already have. You already have it all, captain... All inside of you.
+asa You already have. You already have it all, captain... All inside of you.
+# shi ... ... ...
+shi ... ... ...
+# shi I've... been a fool...
+shi I've... been a fool...
+# shi I've forgotten... after everything that's happened...
+shi I've forgotten... after everything that's happened...
+# shi Hahaha...
+shi Hahaha...
+# shi Thank you for putting your belief in me.
+shi Thank you for putting your belief in me.
+# shi I... won't be a coward any more.
+shi I... won't be a coward any more.
+# shi This ship... this crew... needs a leader.
+shi This ship... this crew... needs a leader.
+#$ var asa_aff
+var asa_aff
+# asa Mm...
+asa Mm...
+# shi I think... for the first time...
+shi I think... for the first time...
+# shi I can finally do something right for a change.
+shi I can finally do something right for a change.
+# obj Speak to Ava on the bridge.
+obj Speak to Ava on the bridge.
+#$ var unlock_ava4
+var unlock_ava4
+#$ map
+map
+#$ 
+
+#$ //Bridge
+//Bridge
+#$ tag chap9_bridge
+tag chap9_bridge
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc asa_uni
+ccc asa_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ mus mus_colors_main
+mus mus_colors_main
+#$ var done_ava4
+var done_ava4
+#$ cha ava_armscrossed_worriedclosedeyes
+cha ava_armscrossed_worriedclosedeyes
+# ava Captain? And Asaga too?! Should the two of you not be in the sickbay?
+ava Captain? And Asaga too?! Should the two of you not be in the sickbay?
+#$ cha shi_triumph
+cha shi_triumph
+# shi No time, Ava. The mission isn't over yet.
+shi No time, Ava. The mission isn't over yet.
+#$ cha ava_armscrossed_sadtalk
+cha ava_armscrossed_sadtalk
+# ava Captain... Please understand, you have only just escaped a traumatic ordeal. Further, given the present reality that virtually the entire Crimson Armanda has converged at the World Fountain, I do not see how our single vessel could ever hope to retake it.
+ava Captain... Please understand, you have only just escaped a traumatic ordeal. Further, given the present reality that virtually the entire Crimson Armanda has converged at the World Fountain, I do not see how our single vessel could ever hope to retake it.
+# ava To attempt to do so would be tantamount to suicide.
+ava To attempt to do so would be tantamount to suicide.
+#$ mus mus_MainTheme
+mus mus_MainTheme
+#$ cha shi_focusthink
+cha shi_focusthink
+# shi No. If PACT is allowed to arm itself with the World Fountain's Lost Technology, a full scale invasion of the Solar Alliance would be inevitable. Fontana intends to unite the galaxy under the crimson banner. There is no doubt of that now, based on all that we've learned.
+shi No. If PACT is allowed to arm itself with the World Fountain's Lost Technology, a full scale invasion of the Solar Alliance would be inevitable. Fontana intends to unite the galaxy under the crimson banner. There is no doubt of that now, based on all that we've learned.
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi But it's precisely because Veniczar Fontana has converged all his ships at the World Fountain that we have our chance to turn everything around.
+shi But it's precisely because Veniczar Fontana has converged all his ships at the World Fountain that we have our chance to turn everything around.
+#$ cha shi_smirk
+cha shi_smirk
+# shi The graviton torpedo.
+shi The graviton torpedo.
+# shi If we were to detonate it inside the World Fountain and collapse it into a black hole...
+shi If we were to detonate it inside the World Fountain and collapse it into a black hole...
+#$ cha asa_excited_happy
+cha asa_excited_happy
+# asa We could suck in every single one of PACT's ships into it! Capoot! In the blind of an eye, the entire Crimson Armada would be no more!
+asa We could suck in every single one of PACT's ships into it! Capoot! In the blind of an eye, the entire Crimson Armada would be no more!
+#$ cha ava_armcrossed_distantworry
+cha ava_armcrossed_distantworry
+# ava I... see...
+ava I... see...
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+# ava Sigh... Indeed, this is a harebrained plan only you and Asaga could have devised together...
+ava Sigh... Indeed, this is a harebrained plan only you and Asaga could have devised together...
+#$ cha ava_armup_agreesmile
+cha ava_armup_agreesmile
+# ava But it does sound... strangely appealing. Do continue.
+ava But it does sound... strangely appealing. Do continue.
+#$ cha asa_armscrossed_neutral
+cha asa_armscrossed_neutral
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi It doesn't have to be just us. Contact Alan Grey. If PACT arms itself with Crow Harbor's technology, it's the Solar Alliance which is doomed.
+shi It doesn't have to be just us. Contact Alan Grey. If PACT arms itself with Crow Harbor's technology, it's the Solar Alliance which is doomed.
+# shi Have them organize an expeditionary fleet to help us destroy the World Fountain along with the entire Crimson Fleet. They won't ever get a better opportunity than this.
+shi Have them organize an expeditionary fleet to help us destroy the World Fountain along with the entire Crimson Fleet. They won't ever get a better opportunity than this.
+#$ cha ava_armup_interrupted
+cha ava_armup_interrupted
+# ava Need I remind you that the Alliance has declared an armistice with PACT?
+ava Need I remind you that the Alliance has declared an armistice with PACT?
+#$ cha shi_confusethink
+cha shi_confusethink
+# shi That was before Fontana tried to drop the Solar Congress onto Solaris though. There's got to be a way to convince them now.
+shi That was before Fontana tried to drop the Solar Congress onto Solaris though. There's got to be a way to convince them now.
+#$ cha ava_armscrossed_annoyed
+cha ava_armscrossed_annoyed
+# ava Very well, captain. I will do my utmost to ensure we do not end up charging into the World Fountain by our lonesome.
+ava Very well, captain. I will do my utmost to ensure we do not end up charging into the World Fountain by our lonesome.
+#$ cha asa_fingerpoint_kittytalk
+cha asa_fingerpoint_kittytalk
+# asa We can still do this! This is our big chance to completely turn around our fortunes! We could turn defeat into our biggest victory yet!
+asa We can still do this! This is our big chance to completely turn around our fortunes! We could turn defeat into our biggest victory yet!
+#$ cha ava_armscrossed_focusthink
+cha ava_armscrossed_focusthink
+# ava But are you truly ready for this, captain?
+ava But are you truly ready for this, captain?
+#$ cha ava_armscrossed_focustalk
+cha ava_armscrossed_focustalk
+# ava You have been through much. You must consider the scope of your injuries. Not merely the ones which were healed at the sickbay, but the ones deep inside of you. No medical technology in the galaxy is capable of curing those wounds.
+ava You have been through much. You must consider the scope of your injuries. Not merely the ones which were healed at the sickbay, but the ones deep inside of you. No medical technology in the galaxy is capable of curing those wounds.
+#$ cha asa_armup_sad
+cha asa_armup_sad
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi Yeah. I want to do this, Ava.
+shi Yeah. I want to do this, Ava.
+# shi Not for myself. But for everyone I care about.
+shi Not for myself. But for everyone I care about.
+#$ cha shi_smirk
+cha shi_smirk
+# shi If PACT gets its hands on the World Fountain, then Ryuvia Prime is finished. The entire Neutral Rim will fall under PACT's control. And after that, it's inevitable that the Solar Alliance will fall as well.
+shi If PACT gets its hands on the World Fountain, then Ryuvia Prime is finished. The entire Neutral Rim will fall under PACT's control. And after that, it's inevitable that the Solar Alliance will fall as well.
+#$ cha shi_focus
+cha shi_focus
+# shi We need to do this, for the sake of everyone who have helped us get this far.
+shi We need to do this, for the sake of everyone who have helped us get this far.
+#$ cha ava_facepalm_focusthink
+cha ava_facepalm_focusthink
+# ava ... ... ...
+ava ... ... ...
+#$ cha asa_fist_focusconfident
+cha asa_fist_focusconfident
+#$ cha ava_armup_happytalk
+cha ava_armup_happytalk
+# ava Very well, captain. I have a mind to kick some PACT ass myself. Then, I will make every attempt to enlist the help of Captain Alan Grey to our cause.
+ava Very well, captain. I have a mind to kick some PACT ass myself. Then, I will make every attempt to enlist the help of Captain Alan Grey to our cause.
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+# shi Thank you, Ava.
+shi Thank you, Ava.
+#$ cha ava_armscrossed_sadsmile
+cha ava_armscrossed_sadsmile
+# ava In the meantime, you should inform the crew of our new mission. Doubtlessly, they will be eager to learn that you are back to form, in spite of everything.
+ava In the meantime, you should inform the crew of our new mission. Doubtlessly, they will be eager to learn that you are back to form, in spite of everything.
+#$ cha shi_smile
+cha shi_smile
+# shi Heh...
+shi Heh...
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi Wasn't easy. Needed a pretty big wake up call from Asaga, actually.
+shi Wasn't easy. Needed a pretty big wake up call from Asaga, actually.
+# shi Ava... I won't let you down!
+shi Ava... I won't let you down!
+#$ cha ava_armcrossed_shocked
+cha ava_armcrossed_shocked
+# ava Captain?
+ava Captain?
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi All this time, you've been by my side.
+shi All this time, you've been by my side.
+# shi Heh. It... really should have been the other way around. I... always thought it'd be me serving under you, just like old times, pres.
+shi Heh. It... really should have been the other way around. I... always thought it'd be me serving under you, just like old times, pres.
+#$ cha asa_shrug_laugh
+cha asa_shrug_laugh
+#$ cha ava_facepalm_troubled
+cha ava_facepalm_troubled
+# ava W-What are you calling me, all of a sudden. That... is ancient history at this point.
+ava W-What are you calling me, all of a sudden. That... is ancient history at this point.
+#$ var ava_aff
+var ava_aff
+#$ cha ava_facepalm_sigh
+cha ava_facepalm_sigh
+# ava Please do not dredge up the past. It is embarrassing.
+ava Please do not dredge up the past. It is embarrassing.
+#$ cha shi_triumph
+cha shi_triumph
+# shi Doesn't matter, Ava. It's only with your help that we can do this. We can pull off a miracle.
+shi Doesn't matter, Ava. It's only with your help that we can do this. We can pull off a miracle.
+#$ cha ava_armscrossed_playfultalk
+cha ava_armscrossed_playfultalk
+# ava Heh... Yes, captain. I am in quite the mood for miracles right now. Then, I believe it is time for me to work my magic.
+ava Heh... Yes, captain. I am in quite the mood for miracles right now. Then, I believe it is time for me to work my magic.
+#$ var unlock_cla4
+var unlock_cla4
+#$ var unlock_sol6
+var unlock_sol6
+#$ var unlock_lyn5
+var unlock_lyn5
+#$ var unlock_side_cos4
+var unlock_side_cos4
+#$ var unlock_icakry
+var unlock_icakry
+#$ map
+map
+#$ 
+
+#$ //Claude, Sickbay
+//Claude, Sickbay
+#$ tag chap9_sickbay
+tag chap9_sickbay
+#$ dbg spr_bg_sickbay
+dbg spr_bg_sickbay
+#$ mus mus_destinys_path
+mus mus_destinys_path
+#$ ccc shi_uni
+ccc shi_uni
+#$ ccc cla_nurse
+ccc cla_nurse
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi Claude.
+shi Claude.
+#$ voi cla_neu1
+voi cla_neu1
+#$ cha cla_handsonhips_happy
+cha cla_handsonhips_happy
+# cla Oh. Captain. What a pleasant surprise it is to see you up and about on your feet.
+cla Oh. Captain. What a pleasant surprise it is to see you up and about on your feet.
+#$ voi cla_neu4
+voi cla_neu4
+#$ cha cla_handsonhips_impliedgrin
+cha cla_handsonhips_impliedgrin
+# cla Ufufufu... Considering everything that has happened, I feared that I might find you huddled underneath a blanket, trembling  like a frightened chihuahua.
+cla Ufufufu... Considering everything that has happened, I feared that I might find you huddled underneath a blanket, trembling  like a frightened chihuahua.
+#$ cha shi_madgroan
+cha shi_madgroan
+# shi Sigh...
+shi Sigh...
+# shi Honestly, I thought you'd have disappeared for good after that stunt as my lawyer. Ugh, that reminds me. You've got to be the worst lawyer in the galaxy. Your law license is even more of a sham as your medical one.
+shi Honestly, I thought you'd have disappeared for good after that stunt as my lawyer. Ugh, that reminds me. You've got to be the worst lawyer in the galaxy. Your law license is even more of a sham as your medical one.
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi But... had it not been for you, Asaga would have died.
+shi But... had it not been for you, Asaga would have died.
+# shi So... despite everything... you have my thanks, doc.
+shi So... despite everything... you have my thanks, doc.
+#$ voi cla_hap4
+voi cla_hap4
+#$ cha cla_armscrossed_talk
+cha cla_armscrossed_talk
+# cla Well, you are certainly welcome. Although, I imagine you've come here to discuss other matters.
+cla Well, you are certainly welcome. Although, I imagine you've come here to discuss other matters.
+#$ cha shi_curious
+cha shi_curious
+# shi I just want to know. Why?
+shi I just want to know. Why?
+# shi Why does the goddess of the galaxy care about me enough to still be here?
+shi Why does the goddess of the galaxy care about me enough to still be here?
+#$ cha shi_surprise
+cha shi_surprise
+# shi You have every reason to have just vanished by now. But here you are. Still here.
+shi You have every reason to have just vanished by now. But here you are. Still here.
+#$ voi cla_hap4
+voi cla_hap4
+#$ cha cla_armscrossed_imagination
+cha cla_armscrossed_imagination
+# cla My~! Goddess... I quite like the sound of that!
+cla My~! Goddess... I quite like the sound of that!
+#$ cha shi_frown
+cha shi_frown
+# shi Claude...
+shi Claude...
+#$ voi cla_neu5
+voi cla_neu5
+#$ cha cla_pout_funnysigh
+cha cla_pout_funnysigh
+# cla In truth, I am at a loss as to my reasoning myself. Perhaps that is why I am still here.
+cla In truth, I am at a loss as to my reasoning myself. Perhaps that is why I am still here.
+#$ voi cla_sad3
+voi cla_sad3
+#$ cha cla_pout_sadtalk
+cha cla_pout_sadtalk
+# cla I imagine that a part of you wishes to grab me and toss me out the nearest airlock. I have, after all, done nothing but torment you. Aah, it is so natural for humans to rebel against higher authority.
+cla I imagine that a part of you wishes to grab me and toss me out the nearest airlock. I have, after all, done nothing but torment you. Aah, it is so natural for humans to rebel against higher authority.
+#$ cha shi_resigned
+cha shi_resigned
+# shi Sigh. I won't lie. I've considered it. But I then realized it'd be completely pointless.
+shi Sigh. I won't lie. I've considered it. But I then realized it'd be completely pointless.
+# shi A mortal like me is completely powerless against a goddess. There's nothing I can do to get rid of you if you choose to remain a part of my life. All I can do is just accept it.
+shi A mortal like me is completely powerless against a goddess. There's nothing I can do to get rid of you if you choose to remain a part of my life. All I can do is just accept it.
+#$ var cla_aff
+var cla_aff
+#$ voi cla_hap4
+voi cla_hap4
+#$ cha cla_squish_heartkitty
+cha cla_squish_heartkitty
+# cla A surprisingly mature view point. My~ Could the captain have gained... sexual experience?
+cla A surprisingly mature view point. My~ Could the captain have gained... sexual experience?
+#$ cha shi_focusthink
+cha shi_focusthink
+# shi Sigh. Not quite. Just had some... sense knocked into me.
+shi Sigh. Not quite. Just had some... sense knocked into me.
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi I want to know, doc. Why do you chose to be here?
+shi I want to know, doc. Why do you chose to be here?
+#$ voi cla_neu7
+voi cla_neu7
+#$ cha cla_armscrossed_closedeyehappy
+cha cla_armscrossed_closedeyehappy
+# cla Mmm... I suppose the closest reason would be: I want to know the story of Kayto Shields.
+cla Mmm... I suppose the closest reason would be: I want to know the story of Kayto Shields.
+# cla Teehee. I want to see all the twists and turns for myself. And how everything eventually will come to an end. Contrary to what you may believe, I am in the dark as to your destiny as anyone else.
+cla Teehee. I want to see all the twists and turns for myself. And how everything eventually will come to an end. Contrary to what you may believe, I am in the dark as to your destiny as anyone else.
+#$ cha shi_confusethink
+cha shi_confusethink
+# shi That doesn't make sense. You must have seen my future, along with everyone else's, in your travels through time and space.
+shi That doesn't make sense. You must have seen my future, along with everyone else's, in your travels through time and space.
+#$ voi cla_neu4
+voi cla_neu4
+#$ cha cla_armscrossed_talk
+cha cla_armscrossed_talk
+# cla So I have. An infinite amount of multi-verses. So many what-if's.
+cla So I have. An infinite amount of multi-verses. So many what-if's.
+#$ cha cla_armscrossed_kitty
+cha cla_armscrossed_kitty
+# cla But which is the true path? What is Canon?
+cla But which is the true path? What is Canon?
+#$ voi cla_sad1
+voi cla_sad1
+# cla Siggghh... Until I see with my own eyes what actually ends up happening, I'm afraid all we have are possibilities. I'll leave the moderation of those paths to my little sisters. I'm only interested in watching the real deal.
+cla Siggghh... Until I see with my own eyes what actually ends up happening, I'm afraid all we have are possibilities. I'll leave the moderation of those paths to my little sisters. I'm only interested in watching the real deal.
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi Hey, this is serious business. Not some hologame.
+shi Hey, this is serious business. Not some hologame.
+#$ voi cla_neu6
+voi cla_neu6
+#$ cha cla_handsonhips_sadtalk
+cha cla_handsonhips_sadtalk
+# cla Sorry, sorry, but not sorry. You wish to know the truth of the cosmos. But it is something far beyond human comprehension. Best I can do are analogies of best fit. I'm afraid I'm stuck attempting to explain quantum physics with nothing but finger puppets.
+cla Sorry, sorry, but not sorry. You wish to know the truth of the cosmos. But it is something far beyond human comprehension. Best I can do are analogies of best fit. I'm afraid I'm stuck attempting to explain quantum physics with nothing but finger puppets.
+#$ cha shi_stunned
+cha shi_stunned
+# shi So in the end, not even you, the great Canon, knows what will happen.
+shi So in the end, not even you, the great Canon, knows what will happen.
+#$ voi cla_hap1
+voi cla_hap1
+#$ cha cla_handsonhips_closedeyesmirk
+cha cla_handsonhips_closedeyesmirk
+# cla Nope! Who knows where we will all end up?
+cla Nope! Who knows where we will all end up?
+#$ voi cla_neu4
+voi cla_neu4
+#$ cha cla_handsonhips_kittytalkmimic
+cha cla_handsonhips_kittytalkmimic
+# cla Ufufufu. None of us can control the future. We don't know what will happen next. Not even I, the goddess of the universe.
+cla Ufufufu. None of us can control the future. We don't know what will happen next. Not even I, the goddess of the universe.
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi Crow Harbor... He knew of your identity. Was it you who brought him here, to our world?
+shi Crow Harbor... He knew of your identity. Was it you who brought him here, to our world?
+#$ voi cla_neu8
+voi cla_neu8
+#$ cha cla_pout_funnyregret
+cha cla_pout_funnyregret
+# cla Now, that would be telling, wouldn't it?
+cla Now, that would be telling, wouldn't it?
+#$ cha shi_sigh
+cha shi_sigh
+# shi Claude...
+shi Claude...
+#$ voi cla_neu9
+voi cla_neu9
+#$ cha cla_handsonhips_smug
+cha cla_handsonhips_smug
+# cla But, for you captain, I suppose I could tell you a few hints.
+cla But, for you captain, I suppose I could tell you a few hints.
+# cla The full power of time travel was beyond the technology of even the Holy Ryuvian Empire. After all, if the ancient Ryuvians could time travel, then the Holy Empire would never have fallen. Ryuvia Prime would not be the backwater world it is today if its rulers could simply go back in time and always change history to make themselves the victors.
+cla The full power of time travel was beyond the technology of even the Holy Ryuvian Empire. After all, if the ancient Ryuvians could time travel, then the Holy Empire would never have fallen. Ryuvia Prime would not be the backwater world it is today if its rulers could simply go back in time and always change history to make themselves the victors.
+#$ cha cla_handsonhips_talk
+cha cla_handsonhips_talk
+# cla With that said, while the power to travel backwards in time has always eluded humanity, the power to go forwards in time is tantamount of existence itself. We are currently traveling forwards in time right now, as we speak.
+cla With that said, while the power to travel backwards in time has always eluded humanity, the power to go forwards in time is tantamount of existence itself. We are currently traveling forwards in time right now, as we speak.
+# cla We have already learned how to manipulate the rate at which we go forwards in time with warp drives. It would only take one foolhardy man with ambitions too large for his mettle to attempt to control time via such crude means.
+cla We have already learned how to manipulate the rate at which we go forwards in time with warp drives. It would only take one foolhardy man with ambitions too large for his mettle to attempt to control time via such crude means.
+#$ cha cla_pout_sadpout
+cha cla_pout_sadpout
+# cla Alas, he never completed his little science experiment when he deployed it out of desperation. And his sad little attempt to change his destiny failed and instead brought him to your time.
+cla Alas, he never completed his little science experiment when he deployed it out of desperation. And his sad little attempt to change his destiny failed and instead brought him to your time.
+#$ cha shi_frown
+cha shi_frown
+# shi That doesn't explain how he knew your name.
+shi That doesn't explain how he knew your name.
+#$ voi cla_neu8
+voi cla_neu8
+#$ cha cla_squish_happythink
+cha cla_squish_happythink
+# cla Ah, ah, ah. A woman must still keep some secrets to keep her feminine mystique.
+cla Ah, ah, ah. A woman must still keep some secrets to keep her feminine mystique.
+#$ cha shi_curious
+cha shi_curious
+# shi I've still got so many other questions... Like, can you take me back in time to change things? Or bring me technology from the future? Sure would be useful, given the current situation.
+shi I've still got so many other questions... Like, can you take me back in time to change things? Or bring me technology from the future? Sure would be useful, given the current situation.
+#$ voi cla_sad1
+voi cla_sad1
+#$ cha cla_pout_regret
+cha cla_pout_regret
+# cla Sigh... Captain, you are beginning to wear me out with these boring questions. Surely, you must know the answers yourself by now.
+cla Sigh... Captain, you are beginning to wear me out with these boring questions. Surely, you must know the answers yourself by now.
+#$ cha shi_focus
+cha shi_focus
+# shi You can't change the past, can you? At least, not in the way you want. Because... no matter how much you go forwards or backwards in time, you can't predict what consequences your actions will have. Nobody has that power. Not even a goddess.
+shi You can't change the past, can you? At least, not in the way you want. Because... no matter how much you go forwards or backwards in time, you can't predict what consequences your actions will have. Nobody has that power. Not even a goddess.
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi I could try to do good with the best intentions in mind, but end up screwing everything up and create an even darker reality. I could try to change the past to bring myself power, but even that could backfire and instead thrust me into even deeper peril.
+shi I could try to do good with the best intentions in mind, but end up screwing everything up and create an even darker reality. I could try to change the past to bring myself power, but even that could backfire and instead thrust me into even deeper peril.
+# shi In the end, whatever I decide to do, this galaxy doesn't belong to me. It doesn't belong under anyone's control. Reality itself is so complicated, so unpredictable, that no one can control it.
+shi In the end, whatever I decide to do, this galaxy doesn't belong to me. It doesn't belong under anyone's control. Reality itself is so complicated, so unpredictable, that no one can control it.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi That's true regardless of whether you're a man or a god. So... there's no point in even trying to redo.
+shi That's true regardless of whether you're a man or a god. So... there's no point in even trying to redo.
+#$ voi cla_neu0
+voi cla_neu0
+#$ cha cla_armscrossed_laugh
+cha cla_armscrossed_laugh
+# cla My~ Correct answer.
+cla My~ Correct answer.
+#$ hid cla
+hid cla
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi Sigh... It was you who tried to show me this.
+shi Sigh... It was you who tried to show me this.
+# shi I won't lie... what I saw when you sent me through time... it was horrible. I had to relive everything I wanted to forget. I thought I wouldn't survive the ordeal.
+shi I won't lie... what I saw when you sent me through time... it was horrible. I had to relive everything I wanted to forget. I thought I wouldn't survive the ordeal.
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+# shi But... I think... I was better off that way.
+shi But... I think... I was better off that way.
+# shi Maybe, it was precisely the wake up call I needed to realize some things.
+shi Maybe, it was precisely the wake up call I needed to realize some things.
+# shi You were trying to help me, weren't you, Claude? In your own, strange, confusing way, you were trying to get me to wake up from my delusions.
+shi You were trying to help me, weren't you, Claude? In your own, strange, confusing way, you were trying to get me to wake up from my delusions.
+#$ cha shi_closedeyes
+cha shi_closedeyes
+# shi ... ... ...
+shi ... ... ...
+#$ cha shi_stunned
+cha shi_stunned
+# shi Claude?
+shi Claude?
+#$ //Claude is nowhere to be seen
+//Claude is nowhere to be seen
+#$ cha shi_smile
+cha shi_smile
+# shi (And just like that, she's vanished.)
+shi (And just like that, she's vanished.)
+# shi (Heh. I suppose even the great goddess of the galaxy is capable of getting embarrassed.)
+shi (Heh. I suppose even the great goddess of the galaxy is capable of getting embarrassed.)
+#$ cha shi_resigned
+cha shi_resigned
+# shi (Oh well. I'm sure she'll be back to her usual bumbling, annoying self the next time I see her.)
+shi (Oh well. I'm sure she'll be back to her usual bumbling, annoying self the next time I see her.)
+#$ cha shi_sigh
+cha shi_sigh
+# shi (Sigh... I don't even know how I'm gonna explain this to the crew.)
+shi (Sigh... I don't even know how I'm gonna explain this to the crew.)
+# shi (Oh well. For now, I guess there's no need to tell anyone the truth if Claude doesn't. I get the feeling she'll prefer playing the role of our quack doctor. So I guess I'll just play along for now.)
+shi (Oh well. For now, I guess there's no need to tell anyone the truth if Claude doesn't. I get the feeling she'll prefer playing the role of our quack doctor. So I guess I'll just play along for now.)
+#$ cha shi_smirk
+cha shi_smirk
+# shi (Claude...)
+shi (Claude...)
+# shi (Heh. See you around.)
+shi (Heh. See you around.)
+#$ var done_cla4
+var done_cla4
+#$ hid shi
+hid shi
+#$ dbg hide
+dbg hide
+#$ map
+map
+#$ 
+
+#$ //Sola, crew quarters, windows
+//Sola, crew quarters, windows
+#$ tag chap9_crewquarterwindows
+tag chap9_crewquarterwindows
+#$ dbg spr_bg_crewquarter_windows
+dbg spr_bg_crewquarter_windows
+#$ ccc sol_uni
+ccc sol_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha shi_curious
+cha shi_curious
+#$ mus mus_colors_chigara
+mus mus_colors_chigara
+# shi Sola.
+shi Sola.
+#$ voi sol_neu2
+voi sol_neu2
+#$ cha sol_front_surprise
+cha sol_front_surprise
+# sol Thank the Infinite Emperor. I feared I had seen you for the last.
+sol Thank the Infinite Emperor. I feared I had seen you for the last.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi It was a close shave. But, here I am.
+shi It was a close shave. But, here I am.
+#$ voi sol_neu3
+voi sol_neu3
+#$ cha sol_side_sadsmile
+cha sol_side_sadsmile
+# sol Yes.
+sol Yes.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi I wanted to talk to you, Sola.
+shi I wanted to talk to you, Sola.
+#$ voi sol_neu4
+voi sol_neu4
+#$ cha sol_front_confuse
+cha sol_front_confuse
+# sol Yes?
+sol Yes?
+#$ cha shi_sadthink
+cha shi_sadthink
+# shi Ahem... So, uh, in the end, we couldn't do anything about Crow Harbor. We just had our butts handed to us. We wouldn't even be standing here if Fontana hadn't appeared in time to save us from the fire.
+shi Ahem... So, uh, in the end, we couldn't do anything about Crow Harbor. We just had our butts handed to us. We wouldn't even be standing here if Fontana hadn't appeared in time to save us from the fire.
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi I'm sorry. All this time, I was running away from the embarrassment I caused back when we were stuck on Tydaria. But I was a total fool about it. And in the end, I only ended up causing you even more pain.
+shi I'm sorry. All this time, I was running away from the embarrassment I caused back when we were stuck on Tydaria. But I was a total fool about it. And in the end, I only ended up causing you even more pain.
+#$ cha sol_side_lookawaysad
+cha sol_side_lookawaysad
+# sol ... ... ...
+sol ... ... ...
+#$ voi sol_sad5
+voi sol_sad5
+# sol I'm sorry.
+sol I'm sorry.
+#$ cha sol_side_lookawayfrown
+cha sol_side_lookawayfrown
+# sol I don't know what to say...
+sol I don't know what to say...
+#$ cha sol_side_lookawaysad
+cha sol_side_lookawaysad
+# sol ... ... ...
+sol ... ... ...
+#$ cha shi_resigned
+cha shi_resigned
+# shi I just don't want you to be sad any more.
+shi I just don't want you to be sad any more.
+# shi I'm sorry. All the time I was in exile, I was angry. And I took it all out on you. I was pathetic.
+shi I'm sorry. All the time I was in exile, I was angry. And I took it all out on you. I was pathetic.
+#$ cha shi_sadthink
+cha shi_sadthink
+# shi And in the end, I couldn't even help you defeat Crow Harbor. I know I have no right to be saying this.
+shi And in the end, I couldn't even help you defeat Crow Harbor. I know I have no right to be saying this.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi But I don't want you to talk like you're going to disappear, Sola.
+shi But I don't want you to talk like you're going to disappear, Sola.
+# shi Don't assume you're going to be a sacrifice.
+shi Don't assume you're going to be a sacrifice.
+# shi Because I'm not strong enough to protect you. It's your help I need.
+shi Because I'm not strong enough to protect you. It's your help I need.
+# shi I need you, Sola. Please... don't go away.
+shi I need you, Sola. Please... don't go away.
+#$ voi sol_hap1
+voi sol_hap1
+#$ cha sol_front_relief
+cha sol_front_relief
+# sol ... ... ...
+sol ... ... ...
+#$ cha sol_side_sadsmile
+cha sol_side_sadsmile
+# sol Yes, captain.
+sol Yes, captain.
+# sol I never was good at speaking my feelings.
+sol I never was good at speaking my feelings.
+# sol I am sorry as well. I did not have the words to help you when you needed it the most. I am not like the commander or Asaga. I cannot support you like they can.
+sol I am sorry as well. I did not have the words to help you when you needed it the most. I am not like the commander or Asaga. I cannot support you like they can.
+#$ cha sol_side_lookawaysad
+cha sol_side_lookawaysad
+# sol In the end, even my powers as the Sharr were insufficient to defeat Crow Harbor. I bare equal shame in having failed to best him.
+sol In the end, even my powers as the Sharr were insufficient to defeat Crow Harbor. I bare equal shame in having failed to best him.
+# sol Nonetheless, that man is finally dead. While it was Veniczar Fontana who scored the killing blow, I now find myself without a foe - and thus, without a purpose.
+sol Nonetheless, that man is finally dead. While it was Veniczar Fontana who scored the killing blow, I now find myself without a foe - and thus, without a purpose.
+#$ cha sol_front_slightneutral
+cha sol_front_slightneutral
+# sol Now, I once again wander in the abyss. With Crow Harbor gone and Asaga our new Sharr, I wonder, what role I have left in this story.
+sol Now, I once again wander in the abyss. With Crow Harbor gone and Asaga our new Sharr, I wonder, what role I have left in this story.
+#$ cha sol_back_sadslight
+cha sol_back_sadslight
+# sol Is it not natural for me to disappear? My tale... has already long ended. This universe belongs to its people. Not to I.
+sol Is it not natural for me to disappear? My tale... has already long ended. This universe belongs to its people. Not to I.
+# sol What more do I have left to do?
+sol What more do I have left to do?
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi Turns out roles aren't assigned to us. Nor can we decide what it is for ourselves. It's just something we discover, eventually.
+shi Turns out roles aren't assigned to us. Nor can we decide what it is for ourselves. It's just something we discover, eventually.
+# shi I want us to find out, together.
+shi I want us to find out, together.
+#$ cha sol_side_smilealt
+cha sol_side_smilealt
+# sol ... ... ...
+sol ... ... ...
+#$ voi sol_neu3
+voi sol_neu3
+# sol Yes...
+sol Yes...
+# sol ... ... ...
+sol ... ... ...
+#$ var sol_aff
+var sol_aff
+#$ cha sol_front_sadsmileopen, blush
+cha sol_front_sadsmileopen, blush
+# sol Captain?
+sol Captain?
+# sol I did mean it.
+sol I did mean it.
+# sol Our time together.
+sol Our time together.
+#$ voi sol_hap1
+voi sol_hap1
+# sol It was brief. But I was... happy.
+sol It was brief. But I was... happy.
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+# shi Yeah.
+shi Yeah.
+#$ cha shi_smile
+cha shi_smile
+# shi Next time, I'll make sure it isn't so short.
+shi Next time, I'll make sure it isn't so short.
+#$ cha sol_front_sadsmileopenclosedeyes, blush
+cha sol_front_sadsmileopenclosedeyes, blush
+#$ voi sol_neu3
+voi sol_neu3
+# sol Yes, captain.
+sol Yes, captain.
+#$ hid sol
+hid sol
+#$ dbg hide
+dbg hide
+#$ var done_sol6
+var done_sol6
+#$ map
+map
+#$ 
+
+#$ //Lynn, Engineering
+//Lynn, Engineering
+#$ tag chap9_engineering
+tag chap9_engineering
+#$ dbg spr_bg_marayengineering
+dbg spr_bg_marayengineering
+#$ mus mus_colors_chigara
+mus mus_colors_chigara
+#$ ccc lyn_uni
+ccc lyn_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ voi lyn_neu7
+voi lyn_neu7
+#$ cha lyn_handup_confusetalk
+cha lyn_handup_confusetalk
+# lyn Shields, huh. Pretty surprised to see you up on your feet so soon...
+lyn Shields, huh. Pretty surprised to see you up on your feet so soon...
+#$ cha shi_sigh
+cha shi_sigh
+# shi Ahem, Lynn...
+shi Ahem, Lynn...
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi Never thought I'd say this, but... you're a sight for sore eyes.
+shi Never thought I'd say this, but... you're a sight for sore eyes.
+#$ voi lyn_sur1
+voi lyn_sur1
+#$ cha lyn_armscrossed_shock
+cha lyn_armscrossed_shock
+# lyn W-What?! What are you saying? Ugh, you're being gross!
+lyn W-What?! What are you saying? Ugh, you're being gross!
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi Last thing I saw was you being taken away in chains to be disposed of by Fontana like some diseased animal. I'm glad the others managed to rescue you from that PACT prison in one piece.
+shi Last thing I saw was you being taken away in chains to be disposed of by Fontana like some diseased animal. I'm glad the others managed to rescue you from that PACT prison in one piece.
+#$ voi lyn_sad2
+voi lyn_sad2
+#$ cha lyn_armscrossed_sigh
+cha lyn_armscrossed_sigh
+# lyn Sigh... About that Shields. I suppose it's me who owes you an apology.
+lyn Sigh... About that Shields. I suppose it's me who owes you an apology.
+#$ cha lyn_handonhip_focustalk
+cha lyn_handonhip_focustalk
+# lyn It was me who broke my Q-Jammer and summoned the entire Prototype swarm to the PACT prison. I... uhh... was in kind of a squeeze, so I didn't have any other choice.
+lyn It was me who broke my Q-Jammer and summoned the entire Prototype swarm to the PACT prison. I... uhh... was in kind of a squeeze, so I didn't have any other choice.
+# lyn As soon as the Prototypes attacked, the commander figured out what was happening and warped in to rescue me. But we couldn't get to you in time.
+lyn As soon as the Prototypes attacked, the commander figured out what was happening and warped in to rescue me. But we couldn't get to you in time.
+#$ voi lyn_ang1
+voi lyn_ang1
+#$ cha lyn_armscrossed_sad
+cha lyn_armscrossed_sad
+# lyn I seriously didn't think the Prototypes would get to you before me. They uhh... didn't do anything crazy to you, right? U-Ugh, they... probably did didn't they? Like, are you... all right? I didn't cause you any permanent mental trauma, did I?
+lyn I seriously didn't think the Prototypes would get to you before me. They uhh... didn't do anything crazy to you, right? U-Ugh, they... probably did didn't they? Like, are you... all right? I didn't cause you any permanent mental trauma, did I?
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi Sigh... Actually Lynn, it was me who called the Prototypes to me. So it wasn't your fault.
+shi Sigh... Actually Lynn, it was me who called the Prototypes to me. So it wasn't your fault.
+# shi Thankfully, I managed to escape before the worst of it. It was all thanks to Asaga that I'm standing here in front of you right now.
+shi Thankfully, I managed to escape before the worst of it. It was all thanks to Asaga that I'm standing here in front of you right now.
+#$ voi lyn_neu0
+voi lyn_neu0
+#$ cha lyn_handtoface_explanation
+cha lyn_handtoface_explanation
+# lyn O-Oh...
+lyn O-Oh...
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi You don't have to feel guilty about it. I was stupid and I thought the Prototypes could rescue me from Fontana. But I was wrong.
+shi You don't have to feel guilty about it. I was stupid and I thought the Prototypes could rescue me from Fontana. But I was wrong.
+#$ cha shi_sadthinkexpressive
+cha shi_sadthinkexpressive
+# shi From what I saw inside their ship, you were right about everything. They've all gone mad. You were right to be scared of becoming one of them. I'm scared of them now too.
+shi From what I saw inside their ship, you were right about everything. They've all gone mad. You were right to be scared of becoming one of them. I'm scared of them now too.
+#$ voi lyn_neu9
+voi lyn_neu9
+#$ cha lyn_handup_focustalk
+cha lyn_handup_focustalk
+# lyn Listen Shields... Maybe you should put me in the brig or something. At least, lock me out of the ship's systems. When the Q-Jammer failed, I came into contact with the Mindstream again...
+lyn Listen Shields... Maybe you should put me in the brig or something. At least, lock me out of the ship's systems. When the Q-Jammer failed, I came into contact with the Mindstream again...
+#$ voi lyn_sad5
+voi lyn_sad5
+#$ cha lyn_handup_closedeyessad
+cha lyn_handup_closedeyessad
+# lyn I... felt everything. Their lust. Their madness. Look, maybe we Prototypes were designed to be smarter than humans, but that might have made us less able to handle human emotions...
+lyn I... felt everything. Their lust. Their madness. Look, maybe we Prototypes were designed to be smarter than humans, but that might have made us less able to handle human emotions...
+# lyn Thanks to the Q-Jammer, I was able to experience what it's like to be human... But now, I know that our existences are incompatible with each other. Us Prototypes... we're basically slaves to the hivemind. Once one of us feels trauma, all of us feels it.
+lyn Thanks to the Q-Jammer, I was able to experience what it's like to be human... But now, I know that our existences are incompatible with each other. Us Prototypes... we're basically slaves to the hivemind. Once one of us feels trauma, all of us feels it.
+#$ cha lyn_armscrossed_focustalk
+cha lyn_armscrossed_focustalk
+# lyn It's like we all lose our senses and become a mindless swarm. Turns out connecting all of our brains together was actually a real bad idea. We've completely lost our ability to think for ourselves. Now, we've all become slaves to the emotions of Alice and Chigara Ashada.
+lyn It's like we all lose our senses and become a mindless swarm. Turns out connecting all of our brains together was actually a real bad idea. We've completely lost our ability to think for ourselves. Now, we've all become slaves to the emotions of Alice and Chigara Ashada.
+#$ cha lyn_handup_scared, blush
+cha lyn_handup_scared, blush
+# lyn Maybe I've already been enslaved by them. Listen Shields. I like you, you know. But... that's only because I've been inside the Mindstream, isn't it? How do I know I won't sabotage you, just like Chigara? How do I know I won't try to kidnap you, so that you can be Omega's plaything for all of eternity?
+lyn Maybe I've already been enslaved by them. Listen Shields. I like you, you know. But... that's only because I've been inside the Mindstream, isn't it? How do I know I won't sabotage you, just like Chigara? How do I know I won't try to kidnap you, so that you can be Omega's plaything for all of eternity?
+# lyn You've got to stop this, right now. Put me in the brig. Don't make the same mistake again.
+lyn You've got to stop this, right now. Put me in the brig. Don't make the same mistake again.
+#$ cha shi_focusthink
+cha shi_focusthink
+# shi I'm sorry.
+shi I'm sorry.
+#$ cha shi_neu
+cha shi_neu
+# shi But... I can't do that. You're not one of them, Lynn.
+shi But... I can't do that. You're not one of them, Lynn.
+#$ voi lyn_sur1
+voi lyn_sur1
+#$ cha lyn_armscrossed_surprisepout
+cha lyn_armscrossed_surprisepout
+# lyn What? What are you saying?
+lyn What? What are you saying?
+#$ cha shi_curious
+cha shi_curious
+# shi Chigara would never have told me all that. You're different.
+shi Chigara would never have told me all that. You're different.
+#$ cha shi_sadthink
+cha shi_sadthink
+# shi The Q-Jammer is working perfectly fine. You were the only one who saw completely through me.
+shi The Q-Jammer is working perfectly fine. You were the only one who saw completely through me.
+# shi You were right about me, all along. You were right about everything you said.
+shi You were right about me, all along. You were right about everything you said.
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi I'm sorry, for not having believed you earlier.
+shi I'm sorry, for not having believed you earlier.
+#$ voi lyn_sur2
+voi lyn_sur2
+#$ cha lyn_handup_mildpout
+cha lyn_handup_mildpout
+# lyn W-What are you saying...
+lyn W-What are you saying...
+#$ cha lyn_handup_scaredtalk, blush
+cha lyn_handup_scaredtalk, blush
+# lyn Listen, Shields. These feelings I have... I don't know what to do with them. I might be an ace pilot and a scientific genius, but it doesn't change the fact that when it comes to interpersonal relationships, I've basically got the experience of an elementary schooler.
+lyn Listen, Shields. These feelings I have... I don't know what to do with them. I might be an ace pilot and a scientific genius, but it doesn't change the fact that when it comes to interpersonal relationships, I've basically got the experience of an elementary schooler.
+# lyn I wasn't programmed to be able to handle these feelings. Hell, most of us Prototypes weren't.
+lyn I wasn't programmed to be able to handle these feelings. Hell, most of us Prototypes weren't.
+#$ cha lyn_handtoface_shyshout, blush
+cha lyn_handtoface_shyshout, blush
+# lyn Y-You know, if you grabbed me and kissed me right now, I'd spontaneously combust, you know!
+lyn Y-You know, if you grabbed me and kissed me right now, I'd spontaneously combust, you know!
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+# shi Heh... Sorry, Chief. But I can't have you melting down next to the Twin Drives.
+shi Heh... Sorry, Chief. But I can't have you melting down next to the Twin Drives.
+#$ voi lyn_sad3
+voi lyn_sad3
+#$ cha lyn_armscrossed_surprisepout
+cha lyn_armscrossed_surprisepout
+# lyn Dumbass.
+lyn Dumbass.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi You know. When we've finally dealt with PACT and the World Fountain... we can talk again. There's a lot we've got to sort through.
+shi You know. When we've finally dealt with PACT and the World Fountain... we can talk again. There's a lot we've got to sort through.
+# shi But... no matter what happens, you'll always be my comrade in arms, Lynn. There's no one else I'd trust this ship to.
+shi But... no matter what happens, you'll always be my comrade in arms, Lynn. There's no one else I'd trust this ship to.
+#$ cha shi_smirk
+cha shi_smirk
+# shi You've won my respect.
+shi You've won my respect.
+#$ var lyn_aff
+var lyn_aff
+#$ cha lyn_handtoface_surprise, blush
+cha lyn_handtoface_surprise, blush
+# lyn ... ... ...
+lyn ... ... ...
+# lyn I... I...
+lyn I... I...
+#$ cha lyn_handtoface_sadsmirk, blush
+cha lyn_handtoface_sadsmirk, blush
+# lyn I won't let you down, captain.
+lyn I won't let you down, captain.
+# lyn I swear. I swear, I'll keep this ship safe.
+lyn I swear. I swear, I'll keep this ship safe.
+#$ cha lyn_point_pout, blush
+cha lyn_point_pout, blush
+# lyn We're... gonna have that talk. No matter what, you hear?!
+lyn We're... gonna have that talk. No matter what, you hear?!
+#$ cha shi_smile
+cha shi_smile
+# shi Yeah.
+shi Yeah.
+# shi I promise.
+shi I promise.
+#$ hid shi
+hid shi
+#$ hid lyn
+hid lyn
+#$ dbg hide
+dbg hide
+#$ var done_lyn5
+var done_lyn5
+#$ map
+map
+#$ 
+
+#$ //Icari and Kryska, Mess Hall
+//Icari and Kryska, Mess Hall
+#$ tag chap9_messhall
+tag chap9_messhall
+#$ dbg spr_bg_maraymesshall
+dbg spr_bg_maraymesshall
+#$ mus mus_colors_main
+mus mus_colors_main
+#$ ccc ica_uni
+ccc ica_uni
+#$ ccc pal_zerosuit
+ccc pal_zerosuit
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha pal_playfultalk
+cha pal_playfultalk
+#$ voi ica_neu4
+voi ica_neu4
+#$ cha ica_armscrossed_mildsurprise
+cha ica_armscrossed_mildsurprise
+# ica Well, well, well. Look who's back on his feet.
+ica Well, well, well. Look who's back on his feet.
+#$ voi kry_neu2
+voi kry_neu2
+#$ cha pal_playfultalk
+cha pal_playfultalk
+# kry Captain! I am relieved to see that you have returned to active duty!
+kry Captain! I am relieved to see that you have returned to active duty!
+#$ cha pal_smile
+cha pal_smile
+#$ cha shi_smile
+cha shi_smile
+# shi Thanks, you two.
+shi Thanks, you two.
+# shi It was all because of your rescue.
+shi It was all because of your rescue.
+#$ voi ica_sad1
+voi ica_sad1
+#$ cha ica_armcrossed_concern
+cha ica_armcrossed_concern
+# ica Sigh, I've already heard. Even after that ass whooping you just got, you're headed back to the World Fountain again, aren't you?
+ica Sigh, I've already heard. Even after that ass whooping you just got, you're headed back to the World Fountain again, aren't you?
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi Yeah. This is our last chance to make sure PACT doesn't acquire Crow Harbor's Lost Technology. Now's the time we've got to counterattack.
+shi Yeah. This is our last chance to make sure PACT doesn't acquire Crow Harbor's Lost Technology. Now's the time we've got to counterattack.
+#$ voi ica_hap4
+voi ica_hap4
+#$ cha ica_handsonhips_smirk
+cha ica_handsonhips_smirk
+# ica You're quite something, Shields. All right, me and Soldier Boy are in. We were in the middle of deciding our next move anyways.
+ica You're quite something, Shields. All right, me and Soldier Boy are in. We were in the middle of deciding our next move anyways.
+#$ cha shi_curious
+cha shi_curious
+# shi Your next move, huh. What are your plans?
+shi Your next move, huh. What are your plans?
+#$ voi kry_sad2
+voi kry_sad2
+#$ cha pal_regret
+cha pal_regret
+# kry It is clear that if the Veniczar acquires Crow Harbor's technology, then we will not have a galaxy to return to. At least, not one where we will be allowed to exist.
+kry It is clear that if the Veniczar acquires Crow Harbor's technology, then we will not have a galaxy to return to. At least, not one where we will be allowed to exist.
+#$ voi kry_hap1
+voi kry_hap1
+#$ cha pal_armout_laugh
+cha pal_armout_laugh
+# kry In truth, Icari and I... we're planning on forming a partnership after all of this is over!
+kry In truth, Icari and I... we're planning on forming a partnership after all of this is over!
+#$ cha shi_gasp
+cha shi_gasp
+# shi A PARTNERSHIP?!
+shi A PARTNERSHIP?!
+#$ voi ica_sur1
+voi ica_sur1
+#$ cha ica_point_offguard
+cha ica_point_offguard
+# ica D-Dumbass! Don't word it like that!
+ica D-Dumbass! Don't word it like that!
+#$ cha pal_armout_smile
+cha pal_armout_smile
+#$ voi ica_ang3
+voi ica_ang3
+#$ cha ica_back_annoyed
+cha ica_back_annoyed
+# ica Sigh, what Soldier Boy means is that we're going to start our own business venture. I've been pretty much a solo practitioner all this time, but I think it's about time my freelancing business expanded.
+ica Sigh, what Soldier Boy means is that we're going to start our own business venture. I've been pretty much a solo practitioner all this time, but I think it's about time my freelancing business expanded.
+#$ voi ica_sad1
+voi ica_sad1
+#$ cha ica_handsonhips_grin
+cha ica_handsonhips_grin
+# ica Now that Kryska's old identity is gone, we're gonna partner up. Kryska will handle the business end while I still work out in the field. Heh, we've got real big plans. Isidolde & Co is gonna expand and become the premiere private security firm in the Neutral Rim!
+ica Now that Kryska's old identity is gone, we're gonna partner up. Kryska will handle the business end while I still work out in the field. Heh, we've got real big plans. Isidolde & Co is gonna expand and become the premiere private security firm in the Neutral Rim!
+#$ voi ica_neu3
+voi ica_neu3
+#$ cha ica_point_angrytalk
+cha ica_point_angrytalk
+# ica We're gonna hire employees, buy new equipment, and start filing paperwork to get all this started. But if PACT takes over the galaxy and nationalizes all private enterprise, that's gonna be pretty bad for business. So we've gotta stop Fontana no matter what!
+ica We're gonna hire employees, buy new equipment, and start filing paperwork to get all this started. But if PACT takes over the galaxy and nationalizes all private enterprise, that's gonna be pretty bad for business. So we've gotta stop Fontana no matter what!
+#$ cha shi_stunned
+cha shi_stunned
+# shi I... see! Well, I'm happy for you two.
+shi I... see! Well, I'm happy for you two.
+# shi I feel like I'm gonna be a regular customer once your security firm is up and running.
+shi I feel like I'm gonna be a regular customer once your security firm is up and running.
+#$ var ica_aff
+var ica_aff
+#$ voi kry_hap1
+voi kry_hap1
+#$ cha pal_laugh
+cha pal_laugh
+# kry Hah! Hah! Hah! For you captain, you can have the friends and family discount!
+kry Hah! Hah! Hah! For you captain, you can have the friends and family discount!
+#$ var pal_aff
+var pal_aff
+#$ voi ica_ang1
+voi ica_ang1
+#$ cha ica_surprise_focusyell
+cha ica_surprise_focusyell
+# ica Dumbass! Don't be handing out coupons left and right! We're running on a budget here!
+ica Dumbass! Don't be handing out coupons left and right! We're running on a budget here!
+#$ cha shi_smirk
+cha shi_smirk
+# shi (Heh. I'm glad that these two are still doing well, despite everything.)
+shi (Heh. I'm glad that these two are still doing well, despite everything.)
+#$ cha shi_shout
+cha shi_shout
+# shi Well then, I suppose Isidolde & Co has its first contract: The destruction of the World Fountain to ensure that Fontana doesn't acquire its secrets. As a paying customer, I expect results, you two.
+shi Well then, I suppose Isidolde & Co has its first contract: The destruction of the World Fountain to ensure that Fontana doesn't acquire its secrets. As a paying customer, I expect results, you two.
+#$ voi kry_neu1
+voi kry_neu1
+#$ cha pal_fistup_wideshout
+cha pal_fistup_wideshout
+# kry Sir, yes, sir!
+kry Sir, yes, sir!
+#$ voi ica_sad1
+voi ica_sad1
+#$ cha ica_back_angrytalk
+cha ica_back_angrytalk
+# ica Ugh, cut it out with that too! You work in the private sector now, Soldier Boy! No more sir yes sirs!
+ica Ugh, cut it out with that too! You work in the private sector now, Soldier Boy! No more sir yes sirs!
+#$ voi kry_sad2
+voi kry_sad2
+#$ cha pal_confused
+cha pal_confused
+# kry But then why do you still call me Soldier Boy?
+kry But then why do you still call me Soldier Boy?
+#$ voi ica_sur5
+voi ica_sur5
+#$ cha ica_back_funnytsun
+cha ica_back_funnytsun
+# ica Urk... W-Well, because that's just who you are! Stupid Soldier Boy!
+ica Urk... W-Well, because that's just who you are! Stupid Soldier Boy!
+#$ voi kry_sad3
+voi kry_sad3
+#$ cha pal_sad
+cha pal_sad
+# kry I... do not understand...
+kry I... do not understand...
+#$ cha shi_triumph
+cha shi_triumph
+# shi Heh...
+shi Heh...
+#$ cha pal_neu
+cha pal_neu
+#$ cha ica_armcrossed_neutral
+cha ica_armcrossed_neutral
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi Oh right. Before I leave...
+shi Oh right. Before I leave...
+# shi Do you have any idea what happened to our pirate friend after the Prototypes attacked the PACT prison?
+shi Do you have any idea what happened to our pirate friend after the Prototypes attacked the PACT prison?
+#$ voi ica_sad1
+voi ica_sad1
+#$ cha ica_armscrossed_focustalk
+cha ica_armscrossed_focustalk
+# ica Sigh, she was already long gone by the time we got there. No doubt, she used the chaos to make a break for it. As for where she is now, your guess is as good as mine.
+ica Sigh, she was already long gone by the time we got there. No doubt, she used the chaos to make a break for it. As for where she is now, your guess is as good as mine.
+#$ cha ica_armscrossed_confused
+cha ica_armscrossed_confused
+# ica Somehow though, I get the feeling we haven't seen the last of her. I'd keep my eyes open, if I were you.
+ica Somehow though, I get the feeling we haven't seen the last of her. I'd keep my eyes open, if I were you.
+# ica Who knows when she might appear...
+ica Who knows when she might appear...
+#$ cha shi_focusthink
+cha shi_focusthink
+# shi Good point.
+shi Good point.
+#$ hid shi
+hid shi
+#$ hid ica
+hid ica
+#$ hid pal
+hid pal
+#$ dbg hide
+dbg hide
+#$ var done_icakry
+var done_icakry
+#$ map
+map
+#$ 
+
+#$ tag side_anodetoalolispacepirate
+tag side_anodetoalolispacepirate
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ ccc shi_uni
+ccc shi_uni
+#$ voi ava_neu2
+voi ava_neu2
+#$ cha ava_salute_focus
+cha ava_salute_focus
+# ava Warp complete. We have arrived at Tydaria.
+ava Warp complete. We have arrived at Tydaria.
+#$ voi ava_ang1
+voi ava_ang1
+#$ cha ava_armscrossed_worriedclosedeyes
+cha ava_armscrossed_worriedclosedeyes
+# ava Sigh... Coming here, all thanks to the whims of a space pirate. Is this wise, captain?
+ava Sigh... Coming here, all thanks to the whims of a space pirate. Is this wise, captain?
+#$ cha shi_resigned
+cha shi_resigned
+# shi Sigh... For once, I'm starting to think the same. But... had it not been for Cosette, we wouldn't have survived against Crow Harbor. I just want to talk to her before we return to the World Fountain.
+shi Sigh... For once, I'm starting to think the same. But... had it not been for Cosette, we wouldn't have survived against Crow Harbor. I just want to talk to her before we return to the World Fountain.
+#$ voi ava_neu3
+voi ava_neu3
+#$ cha ava_armup_sadsmile
+cha ava_armup_sadsmile
+# ava You may get your wish. Pirate forces inbound.
+ava You may get your wish. Pirate forces inbound.
+#$ mus mus_suigeneris
+mus mus_suigeneris
+#$ hid ava
+hid ava
+#$ sou sou_holoopen
+sou sou_holoopen
+#$ voi cos_neu1
+voi cos_neu1
+#$ cha cos_laugh_crazy
+cha cos_laugh_crazy
+# cos So you show yourself at last, captain! What's more, you're actually in one piece. Color me surprised. I thought you'd be in shambles after what PACT and the Prototypes did to you.
+cos So you show yourself at last, captain! What's more, you're actually in one piece. Color me surprised. I thought you'd be in shambles after what PACT and the Prototypes did to you.
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi Power down your weapons, Cosette. I'm just here to talk.
+shi Power down your weapons, Cosette. I'm just here to talk.
+#$ voi cos_ang2
+voi cos_ang2
+#$ cha cos_laugh_gurk
+cha cos_laugh_gurk
+# cos Talk?
+cos Talk?
+#$ cha cos_armcrossed_crazysmirk
+cha cos_armcrossed_crazysmirk
+# cos I'm a pirate! We'll talk, all right! Through our fists!
+cos I'm a pirate! We'll talk, all right! Through our fists!
+#$ por ava_armup_madtalk
+por ava_armup_madtalk
+# ava As expected, they are committing to their attack.
+ava As expected, they are committing to their attack.
+#$ hid ava
+hid ava
+#$ cha shi_sigh
+cha shi_sigh
+# shi Come on, Cosette. Really? After all that we've been through?
+shi Come on, Cosette. Really? After all that we've been through?
+#$ voi cos_hap3
+voi cos_hap3
+#$ cha cos_fist_surpriseangry
+cha cos_fist_surpriseangry
+# cos T-Tch...! D-Don't underestimate me!
+cos T-Tch...! D-Don't underestimate me!
+#$ cha cos_fist_grin
+cha cos_fist_grin
+# cos It took me everything I had to put this squad together. Now, come on Shields! I'll be your final opponent!
+cos It took me everything I had to put this squad together. Now, come on Shields! I'll be your final opponent!
+#$ sou sou_holoclose
+sou sou_holoclose
+#$ hid cos
+hid cos
+#$ voi ava_ang1
+voi ava_ang1
+#$ cha ava_armscrossed_focusthink
+cha ava_armscrossed_focusthink
+# ava She has cut the channel.
+ava She has cut the channel.
+#$ cha shi_confusethink
+cha shi_confusethink
+# shi Well, that didn't go as hoped.
+shi Well, that didn't go as hoped.
+#$ voi ava_ang4
+voi ava_ang4
+#$ cha ava_armscrossed_playfultalk
+cha ava_armscrossed_playfultalk
+# ava No captain. Launching ryders. Pirate forces are no match for us now.
+ava No captain. Launching ryders. Pirate forces are no match for us now.
+#$ cha shi_shout
+cha shi_shout
+# shi All hands: Commence anti-pirate operations!
+shi All hands: Commence anti-pirate operations!
+# obj Destroy all pirate forces.
+obj Destroy all pirate forces.
+#$ stop
+stop
+#$ 
+
+#$ tag side_anodetoalolispacepirate_end
+tag side_anodetoalolispacepirate_end
+#$ mus mus_colors_main
+mus mus_colors_main
+#$ ccc cos_plugsuit
+ccc cos_plugsuit
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha cos_facepalm_clench
+cha cos_facepalm_clench
+# cos G-Guggh...
+cos G-Guggh...
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi Stand down, Cosette. It's over.
+shi Stand down, Cosette. It's over.
+#$ cha cos_fist_surpriseangry
+cha cos_fist_surpriseangry
+# cos Why... Why can't ever I ever beat you? Shit!
+cos Why... Why can't ever I ever beat you? Shit!
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi Sigh...
+shi Sigh...
+# shi In accordance with intergalactic law, you're under arrest for piracy. Prepare to be taken in.
+shi In accordance with intergalactic law, you're under arrest for piracy. Prepare to be taken in.
+#$ flag
+flag
+#$ stop
+stop
+#$ tag chap8_lolipirate_end
+tag chap8_lolipirate_end
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ mus mus_colors_main
+mus mus_colors_main
+#$ cha cos_fist_angrynarrowclench
+cha cos_fist_angrynarrowclench
+# cos Ugh... So you've got me in chains. Again. Just how much more are you going to humiliate me until you're satisfied?
+cos Ugh... So you've got me in chains. Again. Just how much more are you going to humiliate me until you're satisfied?
+#$ cha shi_sadthink
+cha shi_sadthink
+# shi (Please Cosette, don't say things which might be misconstrued by the crew.)
+shi (Please Cosette, don't say things which might be misconstrued by the crew.)
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi Cosette. I told you, I didn't come to fight. I just wanted to talk.
+shi Cosette. I told you, I didn't come to fight. I just wanted to talk.
+#$ cha cos_armcrossed_sigh
+cha cos_armcrossed_sigh
+# cos Spare me the speech... I'm not gonna join your harem.
+cos Spare me the speech... I'm not gonna join your harem.
+#$ cha cos_armcrossed_neutalk
+cha cos_armcrossed_neutalk
+# cos The only person I'll ever trust in is myself. If you think I'll ever submit myself to the likes of you, then you haven't been paying attention.
+cos The only person I'll ever trust in is myself. If you think I'll ever submit myself to the likes of you, then you haven't been paying attention.
+# cos I know what it's like being someone's slave... I'll never put myself in that position ever again. So you can shove it!
+cos I know what it's like being someone's slave... I'll never put myself in that position ever again. So you can shove it!
+#$ cha shi_sigh
+cha shi_sigh
+# shi Sigh... Well, if that's what you really want. But just hear me out first.
+shi Sigh... Well, if that's what you really want. But just hear me out first.
+# shi I don't care whether you join this crew. You don't have to serve under my command. I just don't want us to fight any more.
+shi I don't care whether you join this crew. You don't have to serve under my command. I just don't want us to fight any more.
+# shi Listen, the constant stream of challenges you send to my holomail... You could just have ignored me all this time, but you didn't. You keep calling me out. There must be some reason...
+shi Listen, the constant stream of challenges you send to my holomail... You could just have ignored me all this time, but you didn't. You keep calling me out. There must be some reason...
+#$ cha cos_armcrossed_uncomfortable
+cha cos_armcrossed_uncomfortable
+# cos Uggh...
+cos Uggh...
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+# ava Captain, those messages were most likely angry texts our pirate friend sent whenever she had too much to drink.
+ava Captain, those messages were most likely angry texts our pirate friend sent whenever she had too much to drink.
+#$ cha cos_fist_pain
+cha cos_fist_pain
+# cos Urk!
+cos Urk!
+#$ cha ava_armscrossed_sadtalk
+cha ava_armscrossed_sadtalk
+# ava Right on the money. As I suspected...
+ava Right on the money. As I suspected...
+#$ cha ava_armscrossed_annoyed
+cha ava_armscrossed_annoyed
+# ava And on the other hand, we have our equally foolhardy captain, who responded to each and every challenge without hesitation...
+ava And on the other hand, we have our equally foolhardy captain, who responded to each and every challenge without hesitation...
+#$ cha shi_stunned
+cha shi_stunned
+# shi O-Ohh...
+shi O-Ohh...
+#$ cha ava_facepalm_sigh
+cha ava_facepalm_sigh
+# ava Truly unbelievable...
+ava Truly unbelievable...
+#$ var cos_aff
+var cos_aff
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi Well, now that we've cleared that up though, let's try to learn to live with each other. Listen, it might have been only thanks to circumstances, but we've had to fight alongside each other on numerous occasions...
+shi Well, now that we've cleared that up though, let's try to learn to live with each other. Listen, it might have been only thanks to circumstances, but we've had to fight alongside each other on numerous occasions...
+#$ cha shi_focusthink
+cha shi_focusthink
+# shi We're about to hit the World Fountain with everything we've got. We could sure use your help...
+shi We're about to hit the World Fountain with everything we've got. We could sure use your help...
+#$ cha cos_facepalm_clench
+cha cos_facepalm_clench
+# cos Sigh...
+cos Sigh...
+#$ cha cos_armcrossed_relaxedtalk
+cha cos_armcrossed_relaxedtalk
+# cos Shields, you're really a fool, aren't you?
+cos Shields, you're really a fool, aren't you?
+# cos You've only just got out of the frying pan, and now you're headed straight into the fire.
+cos You've only just got out of the frying pan, and now you're headed straight into the fire.
+#$ cha cos_fist_surpriseangry
+cha cos_fist_surpriseangry
+# cos I'm sorry, but there's no way I'm ever gonna go back the World Fountain. It's suicide. Every single one of Fontana's ships are gonna be there.
+cos I'm sorry, but there's no way I'm ever gonna go back the World Fountain. It's suicide. Every single one of Fontana's ships are gonna be there.
+# cos You know, I think I figured something out about this Lost Fleet. Whatever treasure it holds, it's just not worth it. Everyone who pursues it is gonna end up dead... or worse. There's fates out there in the galaxy way worse than death. A choirboy like you wouldn't know just how far you can fall.
+cos You know, I think I figured something out about this Lost Fleet. Whatever treasure it holds, it's just not worth it. Everyone who pursues it is gonna end up dead... or worse. There's fates out there in the galaxy way worse than death. A choirboy like you wouldn't know just how far you can fall.
+#$ cha cos_armcrossed_sigh
+cha cos_armcrossed_sigh
+# cos So, this is where I'm finally gonna pull out. You're on your own, Shields.
+cos So, this is where I'm finally gonna pull out. You're on your own, Shields.
+#$ cha shi_stunned
+cha shi_stunned
+# shi I see...
+shi I see...
+#$ cha shi_sadvisiblethought
+cha shi_sadvisiblethought
+# shi Well then... I guess you're free to go, Cosette.
+shi Well then... I guess you're free to go, Cosette.
+#$ cha ava_armcrossed_distantworry
+cha ava_armcrossed_distantworry
+# ava I was afraid of this...
+ava I was afraid of this...
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi Just uhh... No more sending me angry drunk messages in the middle of the night.
+shi Just uhh... No more sending me angry drunk messages in the middle of the night.
+#$ cha cos_armcrossed_relaxedtalk
+cha cos_armcrossed_relaxedtalk
+# cos Fine, fine, I get you!
+cos Fine, fine, I get you!
+#$ cha cos_armcrossed_neutalk
+cha cos_armcrossed_neutalk
+# cos Then, set me free. And gimmie back my ryder while you're at it.
+cos Then, set me free. And gimmie back my ryder while you're at it.
+#$ cha shi_surprise
+cha shi_surprise
+# shi Yeah. Just uhh... how are you gonna get outta here with just your ryder?
+shi Yeah. Just uhh... how are you gonna get outta here with just your ryder?
+#$ cha cos_armcrossed_crazysmile
+cha cos_armcrossed_crazysmile
+# cos Dumbass. Of course I've got a spare jump pack hidden behind the asteroid 4000 kilos from here. Tch, did you think I'd make such an amateur mistake?
+cos Dumbass. Of course I've got a spare jump pack hidden behind the asteroid 4000 kilos from here. Tch, did you think I'd make such an amateur mistake?
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+# shi Right...
+shi Right...
+#$ cha cos_laugh_declaration
+cha cos_laugh_declaration
+# cos Ugh... Now I'm outta here, before I catch any more of your stupidity...
+cos Ugh... Now I'm outta here, before I catch any more of your stupidity...
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi Yeah.
+shi Yeah.
+#$ cha cos_laugh_relaxedtalk
+cha cos_laugh_relaxedtalk
+# cos Hey Shields...
+cos Hey Shields...
+#$ cha cos_armcrossed_focusthink
+cha cos_armcrossed_focusthink
+# cos Sigh... I suppose... we can try fighting some other way from now...
+cos Sigh... I suppose... we can try fighting some other way from now...
+# cos How about a round of cards next time?
+cos How about a round of cards next time?
+#$ cha cos_laugh_sneer
+cha cos_laugh_sneer
+# cos I won't hold back, you know.
+cos I won't hold back, you know.
+#$ cha shi_triumph
+cha shi_triumph
+# shi Heh. You're on, Cosette.
+shi Heh. You're on, Cosette.
+#$ var done_side_cos4
+var done_side_cos4
+#$ map
+map
+#$ 
+
+#$ //Ava, Bridge
+//Ava, Bridge
+#$ tag chap9_greycontact
+tag chap9_greycontact
+#$ dbg spr_bg_maraybridge
+dbg spr_bg_maraybridge
+#$ ccc gre_base
+ccc gre_base
+#$ ccc ava_uni
+ccc ava_uni
+#$ ccc shi_uni
+ccc shi_uni
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi Give me an update on your communications with Captain Grey, commander.
+shi Give me an update on your communications with Captain Grey, commander.
+#$ cha ava_armscrossed_smile
+cha ava_armscrossed_smile
+# ava No need. I have him on the line right now.
+ava No need. I have him on the line right now.
+#$ hid ava
+hid ava
+#$ sou sou_holoopen
+sou sou_holoopen
+#$ cha gre_neutalk
+cha gre_neutalk
+# gre Captain Shields. Commander Crescentia has filled me in on the situation. It seems like we're all in a "Do or Die" situation.
+gre Captain Shields. Commander Crescentia has filled me in on the situation. It seems like we're all in a "Do or Die" situation.
+#$ cha shi_madtalk
+cha shi_madtalk
+# shi I know it sounds crazy. But with the entire Crimson Fleet gathered around the World Fountain, you won't get another chance to cripple PACT on this scale ever again. This could be your final, best shot at saving the Solar Alliance.
+shi I know it sounds crazy. But with the entire Crimson Fleet gathered around the World Fountain, you won't get another chance to cripple PACT on this scale ever again. This could be your final, best shot at saving the Solar Alliance.
+# shi But time is of the essence. We don't know how long we have until Fontana uncovers something from the remains of the Lost Fleet which completely changes the power balance of the galaxy. Not to mention, he himself might realize the danger that he has unwittingly placed his entire space force in and disperse his forces.
+shi But time is of the essence. We don't know how long we have until Fontana uncovers something from the remains of the Lost Fleet which completely changes the power balance of the galaxy. Not to mention, he himself might realize the danger that he has unwittingly placed his entire space force in and disperse his forces.
+#$ cha gre_confuse
+cha gre_confuse
+# gre Sigh... I get your point. But it's not going to be easy. Even with the PACT conspiracy to drop the Solar Congress on Solaris, it doesn't change the fact that our government was elected by the people to end the Neutral Rim War.
+gre Sigh... I get your point. But it's not going to be easy. Even with the PACT conspiracy to drop the Solar Congress on Solaris, it doesn't change the fact that our government was elected by the people to end the Neutral Rim War.
+#$ cha gre_serioustalk
+cha gre_serioustalk
+# gre If the Emerald Fleet launches an expedition that deep that into the Neutral Rim and engages the Crimson Fleet in open battle, there are going to be political repercussions. The President's chances at re-election would be shot and the Progress Party's reputation would be in tatters.
+gre If the Emerald Fleet launches an expedition that deep that into the Neutral Rim and engages the Crimson Fleet in open battle, there are going to be political repercussions. The President's chances at re-election would be shot and the Progress Party's reputation would be in tatters.
+#$ cha shi_sadclosedeyes
+cha shi_sadclosedeyes
+# shi Now you're finally talking like a Grey.
+shi Now you're finally talking like a Grey.
+#$ cha shi_neutalk
+cha shi_neutalk
+# shi Look. The Solar Alliance is counting on us. No, the entire Neutral Rim is counting on us. Either we destroy the World Fountain, or Fontana will take over humanity. That smug bastard's not gonna stop at just the Neutral Rim. And he's got all of PACT rallied behind him, willing to die for his cause.
+shi Look. The Solar Alliance is counting on us. No, the entire Neutral Rim is counting on us. Either we destroy the World Fountain, or Fontana will take over humanity. That smug bastard's not gonna stop at just the Neutral Rim. And he's got all of PACT rallied behind him, willing to die for his cause.
+# gre It's not like I disagree with you. I'm just laying out the reality here. I can make my case to my superiors, but it doesn't change the fact that our political leaders aren't going to like this.
+gre It's not like I disagree with you. I'm just laying out the reality here. I can make my case to my superiors, but it doesn't change the fact that our political leaders aren't going to like this.
+#$ cha shi_sadgroan
+cha shi_sadgroan
+# shi Those are the very same politicians who would be dead right now if we hadn't pulled their asses from the fire. Do something. Work them.
+shi Those are the very same politicians who would be dead right now if we hadn't pulled their asses from the fire. Do something. Work them.
+#$ cha gre_neu_sadtalk
+cha gre_neu_sadtalk
+# gre Sigh. I'll do what I can.
+gre Sigh. I'll do what I can.
+#$ cha shi_sadsmile
+cha shi_sadsmile
+# shi Sure hope your grandfather's name still means something in the Alliance.
+shi Sure hope your grandfather's name still means something in the Alliance.
+#$ cha gre_smile
+cha gre_smile
+# gre It'll be me who pulls this off. Not my grandfather's ghost.
+gre It'll be me who pulls this off. Not my grandfather's ghost.
+#$ cha gre_focustalk
+cha gre_focustalk
+# gre Proceed with the attack as detailed in Commander Crescentia's battle plan. I'll pull something off and make sure you can get the back up you need.
+gre Proceed with the attack as detailed in Commander Crescentia's battle plan. I'll pull something off and make sure you can get the back up you need.
+# gre Grey out.
+gre Grey out.
+#$ sou sou_holoclose
+sou sou_holoclose
+#$ hid gre
+hid gre
+#$ cha shi_sigh
+cha shi_sigh
+# shi Sigh...
+shi Sigh...
+#$ cha ava_armup_madtalk
+cha ava_armup_madtalk
+# ava Do you believe he will be able to muster an expeditionary force?
+ava Do you believe he will be able to muster an expeditionary force?
+#$ cha shi_confusetalk
+cha shi_confusetalk
+# shi Doesn't matter. We still need a fall back plan, just the same.
+shi Doesn't matter. We still need a fall back plan, just the same.
+#$ cha ava_armup_shocked
+cha ava_armup_shocked
+# ava Oh? I imagine you must already have something in mind then...
+ava Oh? I imagine you must already have something in mind then...
+#$ cha shi_closedeyesthink
+cha shi_closedeyesthink
+# shi ... ... ...
+shi ... ... ...
+# shi ... ...
+shi ... ...
+#$ cha shi_focus
+cha shi_focus
+# shi ...
+shi ...
+#$ hid shi
+hid shi
+#$ hid ava
+hid ava
+#$ var done_ava5
+var done_ava5
+#$ var unlock_side_main4
+var unlock_side_main4
+#$ map
+map

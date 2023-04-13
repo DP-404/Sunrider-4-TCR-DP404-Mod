@@ -1,0 +1,1284 @@
+#$ 1Hobbes
+1Hobbes
+#$ 1Montesquieu
+1Montesquieu
+#$ 1Edmund Burke
+1Edmund Burke
+#$ 1Matsubara Kiyoshi
+1Matsubara Kiyoshi
+#$ 1Robert E. Howard
+1Robert E. Howard
+#$ 1K.H. Scheer
+1K.H. Scheer
+#$ 1Mudimbe
+1Mudimbe
+#$ 1Genos
+1Genos
+#$ 1Sappho
+1Sappho
+#$ 1Thomas Pynchon
+1Thomas Pynchon
+#$ 1Hosseini
+1Hosseini
+#$ 1Remarque
+1Remarque
+#$ 1Pasternak
+1Pasternak
+#$ 1Sebald
+1Sebald
+#$ 1Orwell
+1Orwell
+#$ 1Hemingway
+1Hemingway
+#$ 1Alcott
+1Alcott
+#$ 1Stephen King
+1Stephen King
+#$ 1Twain
+1Twain
+#$ 1Vonnegut
+1Vonnegut
+#$ 1Charles Dickens
+1Charles Dickens
+#$ 1John Steinbeck
+1John Steinbeck
+#$ 1Kafka
+1Kafka
+#$ 1Scott Fitzgerald
+1Scott Fitzgerald
+#$ 1Tolstoy
+1Tolstoy
+#$ 1Jane Austen
+1Jane Austen
+#$ 1Tolkein
+1Tolkein
+#$ 1James Joyce
+1James Joyce
+#$ 1C.S. Lewis
+1C.S. Lewis
+#$ 1J.D. Salinger
+1J.D. Salinger
+#$ 1Dahl
+1Dahl
+#$ 1Jack London
+1Jack London
+#$ 1Haruki Murakami
+1Haruki Murakami
+#$ 1Shakespeare
+1Shakespeare
+#$ 1Edgar Allan Poe
+1Edgar Allan Poe
+#$ 1Melville
+1Melville
+#$ 1H.G. Wells
+1H.G. Wells
+#$ 1Nobokov
+1Nobokov
+#$ 1Osamu Tezuka
+1Osamu Tezuka
+#$ 1Isayama
+1Isayama
+#$ 1Aristotle
+1Aristotle
+#$ 1Socrates
+1Socrates
+#$ 1Plato
+1Plato
+#$ 1Descartes
+1Descartes
+#$ 1Kant
+1Kant
+#$ 1Nietzsche
+1Nietzsche
+#$ 1Karl Marx
+1Karl Marx
+#$ 1Confucius
+1Confucius
+#$ 1Rousseau
+1Rousseau
+#$ 1Voltaire
+1Voltaire
+#$ 1John Stuart Mill
+1John Stuart Mill
+#$ 1Chomsky
+1Chomsky
+#$ 1Pythagoras
+1Pythagoras
+#$ 1Laozi
+1Laozi
+#$ 1Sun Tzu
+1Sun Tzu
+#$ 1Miyazaki
+1Miyazaki
+#$ 1Asimov
+1Asimov
+#$ 2Genos
+2Genos
+#$ 2Payback
+2Payback
+#$ 2Merlin
+2Merlin
+#$ 2Corpo
+2Corpo
+#$ 2Streetkid
+2Streetkid
+#$ 2Nomad
+2Nomad
+#$ 2Woodstock
+2Woodstock
+#$ 2Gremlin
+2Gremlin
+#$ 2Popeye
+2Popeye
+#$ 2Magic
+2Magic
+#$ 2Riptide
+2Riptide
+#$ 2Witch Doctor
+2Witch Doctor
+#$ 2Lockjaw
+2Lockjaw
+#$ 2Payne
+2Payne
+#$ 2Bob
+2Bob
+#$ 2Minotaur
+2Minotaur
+#$ 2Destroyer
+2Destroyer
+#$ 2Fearless
+2Fearless
+#$ 2Mafia
+2Mafia
+#$ 2Sus
+2Sus
+#$ 2Slasher
+2Slasher
+#$ 2Killjoy
+2Killjoy
+#$ 2Undertaker
+2Undertaker
+#$ 2Kira
+2Kira
+#$ 2Lightbringer
+2Lightbringer
+#$ 2Ripperdoc
+2Ripperdoc
+#$ 2Cyborg
+2Cyborg
+#$ 2Chromedome
+2Chromedome
+#$ 2Hotdog
+2Hotdog
+#$ 2Skullkid
+2Skullkid
+#$ 2Showtime
+2Showtime
+#$ 2Gadget
+2Gadget
+#$ 2Speedy
+2Speedy
+#$ 2Road Runner
+2Road Runner
+#$ 2Coyote
+2Coyote
+#$ 2Manchild
+2Manchild
+#$ 2Ramen
+2Ramen
+#$ 2Roach
+2Roach
+#$ 2Vulture
+2Vulture
+#$ 2Change
+2Change
+#$ 2Cypher
+2Cypher
+#$ 2Angel
+2Angel
+#$ 2Hulk
+2Hulk
+#$ 2Single
+2Single
+#$ 2Bingo
+2Bingo
+#$ 2Monkey
+2Monkey
+#$ 2Badger
+2Badger
+#$ 2Digger
+2Digger
+#$ 2Pitch
+2Pitch
+#$ 2Blaze
+2Blaze
+#$ 2Magnet
+2Magnet
+#$ 2Tiger
+2Tiger
+#$ 2Hawk
+2Hawk
+#$ 2Lucky
+2Lucky
+#$ 2Alligator
+2Alligator
+#$ 2Lizard
+2Lizard
+#$ 2Iron
+2Iron
+#$ 2Snake
+2Snake
+#$ 2Flex
+2Flex
+#$ 2Minute
+2Minute
+#$ 2Fox
+2Fox
+#$ 2Barracuda
+2Barracuda
+#$ 3Valensol
+3Valensol
+#$ 3Kyaria
+3Kyaria
+#$ 3Alcyone
+3Alcyone
+#$ 3Celestic Stardust
+3Celestic Stardust
+#$ 3Visenda
+3Visenda
+#$ 3Justinian's Revenge
+3Justinian's Revenge
+#$ 3Celestyra
+3Celestyra
+#$ 3Coriolanus
+3Coriolanus
+#$ 3Hokma
+3Hokma
+#$ 3Nordesico
+3Nordesico
+#$ 3Starnova
+3Starnova
+#$ 3Darini
+3Darini
+#$ 3Galatia
+3Galatia
+#$ 3Aeolian
+3Aeolian
+#$ 3Azumi
+3Azumi
+#$ 3Etruscan
+3Etruscan
+#$ 3Iazyges
+3Iazyges
+#$ 3Papiria
+3Papiria
+#$ 3Phoenician
+3Phoenician
+#$ 3Romilia
+3Romilia
+#$ 3Parthia
+3Parthia
+#$ 3Myrmidon
+3Myrmidon
+#$ 3Alcmene
+3Alcmene
+#$ 3Daybreak
+3Daybreak
+#$ 3Voyevoda
+3Voyevoda
+#$ 3Tsushima
+3Tsushima
+#$ 3Lao Hu
+3Lao Hu
+#$ 3Galatea
+3Galatea
+#$ 3Barong
+3Barong
+#$ 3Pamola
+3Pamola
+#$ 3Azeban
+3Azeban
+#$ 3Kaibyo
+3Kaibyo
+#$ 3Sasquatch
+3Sasquatch
+#$ 3Chrysomallos
+3Chrysomallos
+#$ 3Kelpie
+3Kelpie
+#$ 3Penghou
+3Penghou
+#$ 3Vrykolaka
+3Vrykolaka
+#$ 3Gytrash
+3Gytrash
+#$ 3Wolpertinger
+3Wolpertinger
+#$ 3Inmyeonjo
+3Inmyeonjo
+#$ 3Cipactli
+3Cipactli
+#$ 3Ratatoskr
+3Ratatoskr
+#$ 3Callisto
+3Callisto
+#$ 3Agropelter
+3Agropelter
+#$ 4Liberator
+4Liberator
+#$ 4Evaiosos
+4Evaiosos
+#$ 4Shimo
+4Shimo
+#$ 4Feles Aurantiacus
+4Feles Aurantiacus
+#$ 4Semper Jure
+4Semper Jure
+#$ 4Atilla
+4Atilla
+#$ 4Semper Tyranni
+4Semper Tyranni
+#$ 4Light Brigade
+4Light Brigade
+#$ 4Longewala
+4Longewala
+#$ 4Brownstown
+4Brownstown
+#$ 4Gate Pa
+4Gate Pa
+#$ 4Midway
+4Midway
+#$ 4Kapyong
+4Kapyong
+#$ 4Gaugamela
+4Gaugamela
+#$ 4Agincourt
+4Agincourt
+#$ 4Belgrade
+4Belgrade
+#$ 4Tsushima
+4Tsushima
+#$ 4Dien Bien Phu
+4Dien Bien Phu
+#$ 4Lacolle Mills
+4Lacolle Mills
+#$ 4Flodden Field
+4Flodden Field
+#$ 4Rorke's Drift
+4Rorke's Drift
+#$ 4Hannibal
+4Hannibal
+#$ 4Cain
+4Cain
+#$ 4Challenger
+4Challenger
+#$ 4Fortune
+4Fortune
+#$ 4Barbara
+4Barbara
+#$ 4Devastator
+4Devastator
+#$ 4Covenant
+4Covenant
+#$ 4Vision
+4Vision
+#$ 4Eternity
+4Eternity
+#$ 4Hope
+4Hope
+#$ 4Defiance
+4Defiance
+#$ 4Dragonstar
+4Dragonstar
+#$ 4Hawk
+4Hawk
+#$ 4Lifebringer
+4Lifebringer
+#$ 4Leo
+4Leo
+#$ 4Kryptoria
+4Kryptoria
+#$ 4Lavanda
+4Lavanda
+#$ 4Independence
+4Independence
+#$ 4Priestess
+4Priestess
+#$ 4Merkava
+4Merkava
+#$ 4Alexandria
+4Alexandria
+#$ 4Majestic
+4Majestic
+#$ 4Messenger
+4Messenger
+#$ 4Blue Whale
+4Blue Whale
+#$ 4Trenxal
+4Trenxal
+#$ 4Serpent
+4Serpent
+#$ 4Destroyer
+4Destroyer
+#$ 4Actium
+4Actium
+#$ 4Falling Star
+4Falling Star
+#$ 4Samurai
+4Samurai
+#$ 4Poseidon
+4Poseidon
+#$ 4Bayonet
+4Bayonet
+#$ 4Ravager
+4Ravager
+#$ 4Watcher
+4Watcher
+#$ 4Argon
+4Argon
+#$ 4Intruder
+4Intruder
+#$ 4Chekov
+4Chekov
+#$ 4Semeonis
+4Semeonis
+#$ 4Intrepid
+4Intrepid
+#$ 4Herodotus
+4Herodotus
+#$ 4Nobel
+4Nobel
+#$ 4Courage
+4Courage
+#$ 4Cousteau
+4Cousteau
+#$ 4Aegean
+4Aegean
+#$ 4Almagro
+4Almagro
+#$ 4Logan
+4Logan
+#$ 4Ahwahnee
+4Ahwahnee
+#$ 4Iron
+4Iron
+#$ 4Swordfish
+4Swordfish
+#$ 4Heart
+4Heart
+#$ 4Booming Voyager
+4Booming Voyager
+#$ 4White Erskine
+4White Erskine
+#$ 4Athena
+4Athena
+#$ 4Flying Pulsar
+4Flying Pulsar
+#$ 4Razor
+4Razor
+#$ 4Popov
+4Popov
+#$ 4Yukon
+4Yukon
+#$ 4Gonzalo
+4Gonzalo
+#$ 4Blackstone
+4Blackstone
+#$ 4Greyhound
+4Greyhound
+#$ 4Jupiter
+4Jupiter
+#$ 4Janeway
+4Janeway
+#$ 4Warmaker
+4Warmaker
+#$ 4Magellan
+4Magellan
+#$ 4Real Bellerophon
+4Real Bellerophon
+#$ 4Blue Hellhound
+4Blue Hellhound
+#$ 4Angryshark
+4Angryshark
+#$ 4Stalker
+4Stalker
+#$ 4Yeager
+4Yeager
+#$ 4Galaxy
+4Galaxy
+#$ 4Velocity
+4Velocity
+#$ 4Pendragon
+4Pendragon
+#$ 4Silent Demeter
+4Silent Demeter
+#$ 4Pasteur
+4Pasteur
+#$ 4Gallimimus
+4Gallimimus
+#$ 4Arminus
+4Arminus
+#$ 4Swift Oberth
+4Swift Oberth
+#$ 4Black Olympia
+4Black Olympia
+#$ 4Nova Essex
+4Nova Essex
+#$ 4Oberth
+4Oberth
+#$ 4Engel
+4Engel
+#$ 4Neptune
+4Neptune
+#$ 4Swift Dodo
+4Swift Dodo
+#$ 4Nemesis
+4Nemesis
+#$ 4Nebula
+4Nebula
+#$ 4Barbery Coast
+4Barbery Coast
+#$ 5Saint
+5Saint
+#$ 5Slavik
+5Slavik
+#$ 5Chase
+5Chase
+#$ 5Orbit
+5Orbit
+#$ 5Brute
+5Brute
+#$ 5Jingo
+5Jingo
+#$ 5Hush
+5Hush
+#$ 5Blade
+5Blade
+#$ 5Silver
+5Silver
+#$ 5Lurch
+5Lurch
+#$ 5Rust
+5Rust
+#$ 5Necro
+5Necro
+#$ 5Snake
+5Snake
+#$ 5Veil
+5Veil
+#$ 5Crisis
+5Crisis
+#$ 5Penumbra
+5Penumbra
+#$ 5Blitz
+5Blitz
+#$ 5Falcon
+5Falcon
+#$ 5Rascal
+5Rascal
+#$ 5Shepherd
+5Shepherd
+#$ 5Totem
+5Totem
+#$ 5Twitch
+5Twitch
+#$ 5Jewel
+5Jewel
+#$ 5Celeste
+5Celeste
+#$ 5Ditch
+5Ditch
+#$ 5Umbra
+5Umbra
+#$ 5Envy
+5Envy
+#$ 5Lotus
+5Lotus
+#$ 5Paradox
+5Paradox
+#$ 5Dove
+5Dove
+#$ 5Blesse
+5Blesse
+#$ 5Peach
+5Peach
+#$ 5Gin
+5Gin
+#$ 5Feline
+5Feline
+#$ 5Coyote
+5Coyote
+#$ 5Misery
+5Misery
+#$ 5Grim
+5Grim
+#$ 5Ivory
+5Ivory
+#$ 5Curse
+5Curse
+#$ 5Brook
+5Brook
+#$ 5Tare
+5Tare
+#$ 5Haze
+5Haze
+#$ 5Blink
+5Blink
+#$ 5Ghost
+5Ghost
+#$ 5Fetch
+5Fetch
+#$ 5Starlight
+5Starlight
+#$ 5Foxy
+5Foxy
+#$ 5Jinx
+5Jinx
+#$ 5Rustle
+5Rustle
+#$ 5Slingshot
+5Slingshot
+#$ 5Road Runner
+5Road Runner
+#$ 5Carwash
+5Carwash
+#$ 5Smiley
+5Smiley
+#$ 5Rubber
+5Rubber
+#$ 5Swifty
+5Swifty
+#$ 5Shade
+5Shade
+#$ 5Swirl
+5Swirl
+#$ 5Jolt
+5Jolt
+#$ 5Wings
+5Wings
+#$ 5Speedstar
+5Speedstar
+#$ 5Dodge
+5Dodge
+#$ 5Doughnut
+5Doughnut
+#$ 5Scooter
+5Scooter
+#$ 5Slugs
+5Slugs
+#$ 5Blowover
+5Blowover
+#$ 5Essence
+5Essence
+#$ 5Elastic
+5Elastic
+#$ 5Fortuna
+5Fortuna
+#$ 5Succubus
+5Succubus
+#$ 5Electric
+5Electric
+#$ 5Scarlet
+5Scarlet
+#$ 5Mantis
+5Mantis
+#$ 5Destiny
+5Destiny
+#$ 5Virus
+5Virus
+#$ 5Tazz
+5Tazz
+#$ 5Eternity
+5Eternity
+#$ 5Lights
+5Lights
+#$ 5Karma
+5Karma
+#$ 5Twinkle
+5Twinkle
+#$ 5Maneater
+5Maneater
+#$ 5Velvet
+5Velvet
+#$ 5Remedy
+5Remedy
+#$ 5Caramel
+5Caramel
+#$ 5Gemini
+5Gemini
+#$ 5Gloria
+5Gloria
+#$ 5Hope
+5Hope
+#$ 5Moxie
+5Moxie
+#$ 5Mantra
+5Mantra
+#$ 5Raven
+5Raven
+#$ 5Serpent
+5Serpent
+#$ 5Mime
+5Mime
+#$ 5Bucks
+5Bucks
+#$ 5Nocturne
+5Nocturne
+#$ 5Saber
+5Saber
+#$ 5Lance
+5Lance
+#$ 5Bugs
+5Bugs
+#$ 5Plasma
+5Plasma
+#$ 5Viper
+5Viper
+#$ 5Nightowl
+5Nightowl
+#$ 5Dancer
+5Dancer
+#$ 5Joy
+5Joy
+#$ 5Silence
+5Silence
+#$ 5Faith
+5Faith
+#$ 5Patches
+5Patches
+#$ 5Heat
+5Heat
+#$ 5Daydream
+5Daydream
+#$ 5Dust
+5Dust
+#$ 5Slime
+5Slime
+#$ 5Face
+5Face
+#$ 5Zero
+5Zero
+#$ 5Tinder
+5Tinder
+#$ 5Nightmare
+5Nightmare
+#$ 5Puzzle
+5Puzzle
+#$ 5Snout
+5Snout
+#$ 5Imp
+5Imp
+#$ 5Prodigy
+5Prodigy
+#$ 5Woe
+5Woe
+#$ 6Parley
+6Parley
+#$ 6Ching Shih
+6Ching Shih
+#$ 6The Marble Tassel
+6The Marble Tassel
+#$ 6Vendetta
+6Vendetta
+#$ 6Wyvern
+6Wyvern
+#$ 6Hail Cargoni
+6Hail Cargoni
+#$ 6Draco's Scyth
+6Draco's Scyth
+#$ 6Ludicrous Enterprise
+6Ludicrous Enterprise
+#$ 6Perros Chapulines
+6Perros Chapulines
+#$ 6Arroganz
+6Arroganz
+#$ 6Millennium Flagon
+6Millennium Flagon
+#$ 6Tezara
+6Tezara
+#$ 6Disgrace
+6Disgrace
+#$ 6Snap Manta
+6Snap Manta
+#$ 6Anger
+6Anger
+#$ 6Greedy Wolf
+6Greedy Wolf
+#$ 6Mad Dog
+6Mad Dog
+#$ 6Festering Rift
+6Festering Rift
+#$ 6Revenge
+6Revenge
+#$ 6Mad North
+6Mad North
+#$ 6Broken Plunder
+6Broken Plunder
+#$ 6Silent Trinity
+6Silent Trinity
+#$ 6Evil
+6Evil
+#$ 6Grand Fall
+6Grand Fall
+#$ 6Disrespectful
+6Disrespectful
+#$ 6Hades Dragon
+6Hades Dragon
+#$ 6Night Rift
+6Night Rift
+#$ 6Victory Storm
+6Victory Storm
+#$ 6Golden Atlantis
+6Golden Atlantis
+#$ 6Buccaneer
+6Buccaneer
+#$ 6Sudden Privateer
+6Sudden Privateer
+#$ 6Terror
+6Terror
+#$ 6Curse
+6Curse
+#$ 6Shark
+6Shark
+#$ 6Squid
+6Squid
+#$ 6Filthy
+6Filthy
+#$ 6Poison Raider
+6Poison Raider
+#$ 6Horror
+6Horror
+#$ 6Night Rover
+6Night Rover
+#$ 6Tide
+6Tide
+#$ 6Night
+6Night
+#$ 6Doubloon
+6Doubloon
+#$ 6Elusive
+6Elusive
+#$ 6Broken
+6Broken
+#$ 6Fearful
+6Fearful
+#$ 6Speedy Ranger
+6Speedy Ranger
+#$ 6Hateful Fortune
+6Hateful Fortune
+#$ 6Greed
+6Greed
+#$ 6Cyim
+6Cyim
+#$ 6Krabqe
+6Krabqe
+#$ 6Crilbas
+6Crilbas
+#$ 6Szex
+6Szex
+#$ 6Kogfo
+6Kogfo
+#$ 6Piarjum
+6Piarjum
+#$ 6Chix
+6Chix
+#$ 6Bukba
+6Bukba
+#$ 6Cribjep
+6Cribjep
+#$ 6Qrap
+6Qrap
+#$ 6Achrun
+6Achrun
+#$ 6Baryar
+6Baryar
+#$ 6Kubran
+6Kubran
+#$ 6Khimdaud
+6Khimdaud
+#$ 6Stradrug
+6Stradrug
+#$ 6Dizazz
+6Dizazz
+#$ 6Kabakezz
+6Kabakezz
+#$ 6Stunakom
+6Stunakom
+#$ 6Baugeborr
+6Baugeborr
+#$ 6Ungejag
+6Ungejag
+#$ 6Female Ancestor
+6Female Ancestor
+#$ 7Redgon
+7Redgon
+#$ 7Krakenlord
+7Krakenlord
+#$ 7Pippa
+7Pippa
+#$ 7Lunar Rain
+7Lunar Rain
+#$ 7Range
+7Range
+#$ 7Maths
+7Maths
+#$ 7Bell
+7Bell
+#$ 7Blunder
+7Blunder
+#$ 7Cycle
+7Cycle
+#$ 7Hollow
+7Hollow
+#$ 7Books
+7Books
+#$ 7Glove
+7Glove
+#$ 7Owl
+7Owl
+#$ 7Slide
+7Slide
+#$ 7Sapphire
+7Sapphire
+#$ 7Jade
+7Jade
+#$ 7Stillborn
+7Stillborn
+#$ 7Spider
+7Spider
+#$ 7Rock
+7Rock
+#$ 7Rabidstrike
+7Rabidstrike
+#$ 7Scarletshade
+7Scarletshade
+#$ 7Ghostbang
+7Ghostbang
+#$ 7Red Moon
+7Red Moon
+#$ 7Still Blade
+7Still Blade
+#$ 7Switch
+7Switch
+#$ 7Codex
+7Codex
+#$ 7Witness
+7Witness
+#$ 7Feature
+7Feature
+#$ 7Blossom
+7Blossom
+#$ 7Nemo
+7Nemo
+#$ 7Master
+7Master
+#$ 7Dimension
+7Dimension
+#$ 7Angel
+7Angel
+#$ 7Harpy
+7Harpy
+#$ 7Silver Teeth
+7Silver Teeth
+#$ 7Twitching
+7Twitching
+#$ 7Lazy Eye
+7Lazy Eye
+#$ 7Confident
+7Confident
+#$ 7Two Toes
+7Two Toes
+#$ 7Deceit
+7Deceit
+#$ 7Tricky
+7Tricky
+#$ 7Cranky
+7Cranky
+#$ 7Cold
+7Cold
+#$ 7Mud
+7Mud
+#$ 7Halfwit
+7Halfwit
+#$ 7Fool
+7Fool
+#$ 7Plague
+7Plague
+#$ 7Defect
+7Defect
+#$ 7Curse
+7Curse
+#$ 7Trash
+7Trash
+#$ 7Boor
+7Boor
+#$ 7Snake
+7Snake
+#$ 7Brute
+7Brute
+#$ 7Skunk
+7Skunk
+#$ 7Simpleton
+7Simpleton
+#$ 7Mite
+7Mite
+#$ 7Kobold
+7Kobold
+#$ 7Gunk
+7Gunk
+#$ 7Buffoon
+7Buffoon
+#$ 7Mistake
+7Mistake
+#$ 7Corruption
+7Corruption
+#$ 7Maggot
+7Maggot
+#$ 7Lowlife
+7Lowlife
+#$ 7Tick
+7Tick
+#$ 7Slop
+7Slop
+#$ 7Flea
+7Flea
+#$ 7Rascal
+7Rascal
+#$ 7Black Bum
+7Black Bum
+#$ 7Lowly
+7Lowly
+#$ 7Crawler
+7Crawler
+#$ 7Grime
+7Grime
+#$ 7Vermin
+7Vermin
+#$ 7Twerp
+7Twerp
+#$ 7Rodent
+7Rodent
+#$ 7Wriggler
+7Wriggler
+#$ 7Unformed
+7Unformed
+#$ 7Whelp
+7Whelp
+#$ 7Muck
+7Muck
+#$ 7Crude
+7Crude
+#$ 7Dreck
+7Dreck
+#$ 7Deviant
+7Deviant
+#$ 7Smear
+7Smear
+#$ 7Weevil
+7Weevil
+#$ 7Primitive
+7Primitive
+#$ 7Stain
+7Stain
+#$ 7Prawn
+7Prawn
+#$ 7Slime
+7Slime
+#$ 7Leech
+7Leech
+#$ 7Hybrid
+7Hybrid
+#$ 7Mug
+7Mug
+#$ 8Viola
+8Viola
+#$ 8Trojan
+8Trojan
+#$ 8Vergil
+8Vergil
+#$ 8Elisey
+8Elisey
+#$ 8St. Teresita
+8St. Teresita
+#$ 8Littorio
+8Littorio
+#$ 8Heatsoaked
+8Heatsoaked
+#$ 8Dojima
+8Dojima
+#$ 8Amatsukaze
+8Amatsukaze
+#$ 8Samidare
+8Samidare
+#$ 8Conqueror
+8Conqueror
+#$ 8Resolute
+8Resolute
+#$ 8Perseverance
+8Perseverance
+#$ 8Diligence
+8Diligence
+#$ 8Triumph
+8Triumph
+#$ 8Vengeance
+8Vengeance
+#$ 8Retribution
+8Retribution
+#$ 8Reprisal
+8Reprisal
+#$ 8Retaliation
+8Retaliation
+#$ 8Raptor Rain
+8Raptor Rain
+#$ 8Cosmic
+8Cosmic
+#$ 8Havoc Suit
+8Havoc Suit
+#$ 8Valkyrie
+8Valkyrie
+#$ 8Comet
+8Comet
+#$ 8Caelestis
+8Caelestis
+#$ 8Hurricane
+8Hurricane
+#$ 8Nightingale
+8Nightingale
+#$ 8Hunter
+8Hunter
+#$ 9Uni-Axiom
+9Uni-Axiom
+#$ 9Aetheron
+9Aetheron
+#$ 9Danubius
+9Danubius
+#$ 9Lau
+9Lau
+#$ 9Asturias
+9Asturias
+#$ 9Xelyan
+9Xelyan
+#$ 9Husky
+9Husky
+#$ 9Sixty One
+9Sixty One
+#$ 9Snickett
+9Snickett
+#$ 9Sierra
+9Sierra
+#$ 9Juan
+9Juan
+#$ 9Zalhadra
+9Zalhadra
+#$ 9Regaled Copernicus
+9Regaled Copernicus
+#$ 9Thunderous Locomotion
+9Thunderous Locomotion
+#$ 9Righteous Atlas
+9Righteous Atlas
+#$ 9Tranqui lVitruvius
+9Tranqui lVitruvius
+#$ 9Spirituous Newton
+9Spirituous Newton
+#$ 9Undeterred Babbage
+9Undeterred Babbage
+#$ 9Amicable Gutenberg
+9Amicable Gutenberg
+#$ 9Rhapsodic Galileo
+9Rhapsodic Galileo
+#$ 9Doleful Voyager
+9Doleful Voyager
+#$ 9Beguiled Alyattes
+9Beguiled Alyattes
+#$ 9Harmonious Monogenesis
+9Harmonious Monogenesis
+#$ 0D4663R
+0D4663R
+#$ 0CL4W
+0CL4W
+#$ 05P00K
+05P00K
+#$ 054B3R7007H
+054B3R7007H
+#$ 0PL46U3
+0PL46U3
+#$ 0P4R4D0X
+0P4R4D0X
+#$ 04C1D
+04C1D
+#$ 05463
+05463
+#$ 0PH4N745M
+0PH4N745M
+#$ 0P13RC3
+0P13RC3
+#$ 0CR07CH37
+0CR07CH37
+#$ 01ND13
+01ND13
+#$ 07R4C3
+07R4C3
+#$ 0P4R0DY
+0P4R0DY
+#$ 0QU35710N
+0QU35710N
+#$ 0M0N60053
+0M0N60053
+#$ 0CHR0N1CL3
+0CHR0N1CL3
+#$ 0WR47H
+0WR47H
+#$ 0P3RPL3X
+0P3RPL3X
+#$ 0PR0PH3CY
+0PR0PH3CY
+#$ 0FR46M3N7
+0FR46M3N7
+#$ 04L13N
+04L13N
+#$ 05L1V3R
+05L1V3R
+#$ 04QU4
+04QU4
+#$ 0DR4K3
+0DR4K3
+#$ 0CH453
+0CH453
+#$ 06R1FF1N
+06R1FF1N
+#$ 0V4CUUM
+0V4CUUM
+#$ 0N3UR0515
+0N3UR0515
+#$ 0H0UND
+0H0UND
+#$ 03C5745Y
+03C5745Y
+#$ 0K1D
+0K1D
+#$ 05QU1R7
+05QU1R7
+#$ 0W3B573R
+0W3B573R
+#$ 0C1PH3R
+0C1PH3R
+#$ 04B53NC3
+04B53NC3
+#$ 0DUCKL1N6
+0DUCKL1N6
+#$ 0R4Y
+0R4Y
+#$ 0BL155
+0BL155
+#$ 0CH405
+0CH405
+#$ 0FL45H
+0FL45H
+#$ 05PH1NX
+05PH1NX
+#$ 0M3M0RY
+0M3M0RY
+#$ 0B173
+0B173
+#$ 0CR4Z3
+0CR4Z3

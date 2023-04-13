@@ -1,0 +1,328 @@
+#$ Paladin, reporting!
+¡Paladin, reportándose!
+#$ I read you five by five.
+Le escucho fuerte y claro.
+#$ Reporting for duty!
+¡Reportándose para el deber!
+#$ For the Alliance!
+¡Por la Alianza!
+#$ Sir!
+¡Señor!
+#$ Copy!
+¡Copiado!
+#$ Awaiting orders!
+¡Esperando órdenes!
+#$ Standing by.
+En posición.
+#$ Command?
+¿Órdenes?
+#$ I hear you, Ryuvia One.
+Le escucho, Ryuvia Uno.
+#$ Proceeding to coordinates!
+¡Procediendo a las coordenadas!
+#$ Throttling up!
+¡Acelerando!
+#$ Understood!
+¡Entendido!
+#$ Sir, yes sir!
+¡Señor, sí señor!
+#$ Coodinates locked in!
+¡Coordenadas establecidas!
+#$ Heading to intercept!
+¡Dirigiéndome a interceptar!
+#$ Hitting thrusters!
+¡Apretando los aceleradores!
+#$ Engines are hot!
+¡Los motores están encendidos!
+#$ Copy, command!
+¡Copiado, comando!
+#$ Heading to position!
+¡Dirigiéndome a la posición!
+#$ Weapons loose!
+¡Armas liberadas!
+#$ Guns are hot!
+¡Los cañones están encendidos!
+#$ Firing!
+¡Disparando!
+#$ Opening fire!
+¡Abriendo fuego!
+#$ Shots fired!
+¡Disparos lanzados!
+#$ Targeting solution acquired. Firing!
+Adquiriendo solución de objetivo. ¡Disparando!
+#$ Fire and iron!
+¡Fuego y hierro!
+#$ Shock and awe!
+¡Shock y pavor!
+#$ Bringing down the thunder!
+¡Trayendo el trueno!
+#$ Judgement!
+¡Juicio!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ I've got tone! Fox 3!
+¡Tengo tono! ¡Zorro 3!
+#$ Missiles locked! Firing!
+¡Misiles apuntados! ¡Disparando!
+#$ Firing missiles!
+¡Disparando misiles!
+#$ Missiles away!
+¡Misiles fuera!
+#$ Target locked! Launching missiles!
+¡Objetivo apuntado! ¡Lanzando misiles!
+#$ Winchester out!
+¡Winchester fuera!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Come at me!
+¡Vengan a mí!
+#$ I'm your enemy!
+¡Yo soy su enemiga!
+#$ You question the might of the Alliance?!
+¡¿Dudas del poder de la Alianza?!
+#$ Face me, craven!
+¡Enfréntate a mí, cobarde!
+#$ Cease your dishonor and fight, coward!
+¡Cesa tu deshonra y lucha, cobarde!
+#$ My honor is my shield!
+¡Mi honor es mi escudo!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Bandit down!
+¡Bandido derribado!
+#$ Enemy scratched!
+¡Enemigo destruido!
+#$ He's down!
+¡Fue derribado!
+#$ Threat neutralized!
+¡Amenaza neutralizada!
+#$ Bandit punched!
+¡Bandido ha golpeado!
+#$ Light damage!
+¡Daño ligero!
+#$ I've been grazed! No system damage to report.
+¡He sido alcanzada! Sin daños a los sistemas que reportar.
+#$ It'll take more than that to crack the Paladin's armor!
+¡Hará falta más que eso para dañar la armadura del Paladin!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ I've taken damage!
+¡He recibido daño!
+#$ I've been hit!
+¡He sido golpeada!
+#$ I've got bandits on my tail!
+¡Tengo bandidos detrás de mí!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Systems failing! Recommend evac!
+¡Sistemas fallando! ¡Evacuación recomendada!
+#$ Bandits, all over me! Need assistance!
+¡Bandidos, a todo mi alrededor! ¡Necesito ayuda!
+#$ Systems critical!
+¡Sistemas críticos!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Paladin is RTB! Good luck, flight wing.
+¡Paladin regresando a la base! Buena suerte, escuadrón de vuelo.
+#$ Solid contact!
+¡Contacto sólido!
+#$ Hit confirmed!
+¡Golpe confirmado!
+#$ I got him.
+Lo tengo.
+#$ No joy, no joy!
+¡No es divertido, no es divertido!
+#$ That was your warning shot!
+¡Ese fue tu disparo de advertencia!
+#$ Attack failed to connect!
+¡El ataque falló en conectar!
+#$ Evasion successful.
+Evasión exitosa.
+#$ No damage to report!
+¡Sin daños que reportar!
+#$ Enemy attack, unsuccessful.
+Ataque enemigo, fallido.
+#$ Damage nill.
+Daño nulo.
+#$ Sensors show no contact.
+Los sensores no muestran contacto.
+#$ Coward! Cease your subterfuge and face me!
+¡Cobarte! ¡Termina con tu trampa y enfréntate a mí!
+#$ My electronics have been hacked!
+¡Mis electrónicos han sido hackeados!
+#$ My ryder is being disabled!
+¡Mi ryder está siendo desactivado!
+#$ Manning turrets!
+¡Manejando torretas!
+#$ Firing!
+¡Disparando!
+#$ Hiyah!
+¡Hiyah!
+#$ Come on!
+¡Vamogs!
+#$ I'm working on it!
+¡Estoy trabajado en ello!
+#$ Negative, my ryder does not have the power to do that!
+¡Negativo, mi ryder no tiene la energía para hacer eso!
+#$ I require more energy for that command!
+¡Necesito más energía para esa orden!
+#$ Hold command. My ryder does not have enough energy!
+Detenga la orden. ¡Mi ryder no tiene suficiente energía!
+#$ Sir!
+¡Señor!
+#$ Captain!
+¡Capitán!
+#$ Do you require something, captain?
+¿Necesita algo, capitán?
+#$ Heh.
+Heh.
+#$ You require something of me?
+¿Necesita algo de mí?
+#$ But is that true?
+¿Pero es eso cierto?
+#$ This is my word!
+¡Esta es mi palabra!
+#$ On my honor!
+¡Por mi honor!
+#$ That is so!
+¡Así es!
+#$ Listen to my words.
+Escuche mis palabras.
+#$ Hah! Hah! Hah!
+¡Hah! ¡Hah! ¡Hah!
+#$ You are still as brave as I remember, captain!
+¡Sigue siendo tan valiente como recuerdo, capitán!
+#$ I am honored!
+¡Me siento honrada!
+#$ Understood, captain!
+¡Entendido, capitán!
+#$ I am in agreement!
+¡Estoy de acuerdo!
+#$ Coward!
+¡Cobarde!
+#$ Fool!
+¡Tonto!
+#$ You dishonor yourself!
+¡Te deshonras a tí mismo!
+#$ Prepare yourself!
+¡Prepárate!
+#$ I cannot agree!
+¡No puedo estar de acuerdo!
+#$ The name Kryska Stares is no longer!
+¡El nombre Kryska Stares no existe más!
+#$ I am...
+Yo soy...
+#$ I was a fool!
+¡Fui una tonta!
+#$ I am mistaken...
+Estaba mal...
+#$ I apologize.
+Me disculpo.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ What?!
+¡¿Qié?!
+#$ How can this be?!
+¡¿Cómo puede ser esto?!
+#$ Impossible!
+¡Imposible!
+#$ I have made your case to the Solar Alliance!
+¡He llevado su caso a la Alianza Solar!
+#$ This is what support I have mustered to our cause!
+¡Este es el apoyo que he reunido para nuestra causa!
+#$ Very well, captain. I shall continue to muster the Alliance.
+Muy bien, capitán. Continuaré reuniendo a la Alianza.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000

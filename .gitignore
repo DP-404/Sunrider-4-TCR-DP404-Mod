@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Don't ignore directories, so we can recurse into them
+!*/
+
+# Don't ignore...
+!Data/*
+!Localization/*
+!.gitignore
+!.gitattributes
+!Spanish_*.txt
+!README.md

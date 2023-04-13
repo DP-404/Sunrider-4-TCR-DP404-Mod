@@ -1,0 +1,310 @@
+#$ Phoenix here.
+Phoenix aquí.
+#$ It's not like I'm doing this because I like you or anything!
+¡No es como si estuviera haciendo esto porque me gustas o algo!
+#$ Yeah, you need something, cap?
+Sí, ¿necesitas algo, capitán?
+#$ I'm just in this for the creds. Definitely not for you, or anything.
+Solo estoy en esto por los créditos. Definitivamente no por tí, o algo.
+#$ You got a target?
+¿Tienes un objetivo?
+#$ What do you want, captain?
+¿Qué quieres, capitán?
+#$ Reporting.
+Reportándose.
+#$ Swords at the ready.
+Espadas listas.
+#$ Copy, Maray. You need something?
+Copiado, Maray. ¿Necesitas algo?
+#$ So, what's the plan here?
+Así que, ¿cuál es el plan aquí?
+#$ I'll get there before anyone else!
+¡Llegaré allí antes que nadie más!
+#$ Throttling up!
+¡Acelerando!
+#$ Pulling some G's!
+¡Añadiendo algunas G's!
+#$ Firing engines!
+¡Encendiendo motores!
+#$ I am speed!
+¡Soy velocidad!
+#$ Heading to coordinates!
+¡Dirigiéndome a las coordenadas!
+#$ Don't get left behind!
+¡No te quedes atrás!
+#$ Accelerating!
+¡Acelerando!
+#$ Phoenix, moving out!
+¡Phoenix, moviéndose!
+#$ Coming about!
+¡Entrando!
+#$ Bullets loose!
+¡Balas sueltas!
+#$ Shots fired!
+¡Disparos lanzados!
+#$ I'm charging by the round!
+¡Estoy cargando rondas!
+#$ Firing guns!
+¡Disparando cañones!
+#$ Dodge this!
+¡Evade esto!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Hiyah!
+¡Hiyah!
+#$ Raseeeeennnnzan!!!
+¡¡¡Raseeeeennnnzan!!!
+#$ One cut! One kill!
+¡Un corte! ¡Una muerte!
+#$ Haah!
+¡Haah!
+#$ Nothing personal!
+¡Nada personal!
+#$ They won't see me coming...
+No me verán venir...
+#$ Activating cloak...
+Activando camuflaje...
+#$ Going off the grid...
+Escabulléndome del radar...
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ One down!
+¡Uno abajo!
+#$ Hostile down!
+¡Hostil derribado!
+#$ I'll invoice you for that later!
+¡Te facturaré por ese luego!
+#$ Enemy down!
+¡Enemigo derrotado!
+#$ Confirmed kill!
+¡Muerte confirmada!
+#$ Be careful! I just waxed the frame!
+¡Ten cuidado! ¡Acabo de pulir la armadura!
+#$ Tch, too close!
+¡Tch, muy cerca!
+#$ Come on cap, you're getting careless!
+¡Vamos capitán, te estas volviendo descuidado!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ I've been hit!
+¡He sido golpeada!
+#$ My armor's thin, you know! Be careful!
+¡Mi armadura es delgada, sabes! ¡Ten cuidado!
+#$ I'm invoicing you for this!
+¡Te cobraré por esto!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ I... hate everything.
+Yo... odio todo.
+#$ The Phoenix wasn't made for this kind of punishment!!
+¡¡El Phoenix no fue hecho para este tipo de castigo!!
+#$ Damnit captain, do something!!
+¡¡Maldita sea capitán, haz algo!!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ You better reimburse me for this!
+¡Más te vale reembolsarme por esto!
+#$ Direct hit!
+¡Golpe directo!
+#$ That wasn't luck, that was skill!
+¡Eso no fue suerte, fue habilidad!
+#$ Remember my name!
+¡Recuerda mi nombre!
+#$ The enemy has evaded my attack!
+¡El enemigo evadió mi ataque!
+#$ I'll get her next time!
+¡Lo atraparé la próxima vez!
+#$ Great, I missed!
+¡Genial, fallé!
+#$ Peh! Try harder!
+¡Peh! ¡Inténtalo más fuerte!
+#$ I can do this all day long.
+Puedo hacer esto todo el día.
+#$ Evasive maneuvers successful!
+¡Maniobras evasivas exitosas!
+#$ Where are you aiming?
+¿A dónde estás apuntando?
+#$ Too slow!
+¡Demasiado lento!
+#$ The enemy's sabotaging my electronics!
+¡El enemigo está saboteando mis electrónicos!
+#$ Enemy ECM detected!
+¡ECM enemiga detectada!
+#$ Enemy ECM! Do something, cap!
+¡ECM enemiga! Do something, cap!
+#$ Manning turrets!
+¡Manejando torretas!
+#$ Input! Okay, stay sharp!
+¡Entrada! ¡De acuerdo, mantente firme!
+#$ Don't get cocky!
+¡No te pongas engreído!
+#$ They're coming in too fast!
+¡Se están acercando demasiado rápido!
+#$ Don’t worry, she'll hold together!
+¡No te preocupes, aguantará!
+#$ My battery's dry!
+¡Mi batería está seca!
+#$ The Phoenix doesn't have enough power!
+¡El Phoenix no tiene suficiente energía!
+#$ Negative, lacking energy!
+¡Negativo, me falta energía!
+#$ Hey cap.
+Hey capitán.
+#$ You need something?
+¿Necesitas algo?
+#$ Let's talk.
+Hablemos.
+#$ Heh.
+Heh.
+#$ What's up?
+¿Qué ocurre?
+#$ Huh...
+Huh...
+#$ Got a moment?
+¿Tienes un momento?
+#$ I suppose.
+Supongo.
+#$ You looking at me?
+¿Estás mirándome a mí?
+#$ It really isn't because I like you or anything, cap.
+Realmente no es porque me gustes o algo, capitán.
+#$ Heh!
+¡Heh!
+#$ Hahaha!
+¡Hahaha!
+#$ Hey cap!
+¡Hey capitán!
+#$ Not bad!
+¡Nada mal!
+#$ Good going!
+¡Vas bien!
+#$ Tch!
+¡Tch!
+#$ It REALLY isn't because I like you!
+¡REALMENTE no es porque me gustes!
+#$ I am not being tsundere!
+¡No estoy siendo tsundere!
+#$ I'm only in this for the creds!
+¡Solo estoy en esto por los créditos!
+#$ Damned thing's busted!
+¡La maldita cosa está arruinada!
+#$ Sigh...
+Suspiro...
+#$ Ugh...
+Ugh...
+#$ Uhh...
+Uhh...
+#$ Hey cap...
+Hey capitán...
+#$ Huh?
+¿Huh?
+#$ It's not like I like you or anything!
+¡No es como si me gustaras o algo!
+#$ Stop calling me tsundere!
+¡Deja de llamarme tsundere!
+#$ WHAT?!
+¡¿QUÉ?!
+#$ Ehhh?!
+¡¿Ehhh?!
+#$ Uck!
+¡Uck!
+#$ Need to look at our cargo bay manifest?
+¿Necesitas revisar el manifiesto de nuestra bahía de carga?
+#$ All done? This stuff's not going anywhere.
+¿Todo listo? Esto no está yendo a ningún lado.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000

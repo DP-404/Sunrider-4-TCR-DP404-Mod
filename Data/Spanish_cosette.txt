@@ -1,0 +1,310 @@
+# Calamity here!
+Calamity here!
+# Yeah, yeah, I hear you!
+Yeah, yeah, I hear you!
+# I can't believe I'm doing this...
+I can't believe I'm doing this...
+# This doesn't make us friends, Shields!
+This doesn't make us friends, Shields!
+# You better watch your back!
+You better watch your back!
+# What do you need wrecked?
+What do you need wrecked?
+# Leave the destruction to me!
+Leave the destruction to me!
+# There's no way I'm gonna die here!
+There's no way I'm gonna die here!
+# You better get us out of this mess!
+You better get us out of this mess!
+# I'll kill them all!
+I'll kill them all!
+# Copy. Heading to position!
+Copy. Heading to position!
+# I'm going, I'm going!
+I'm going, I'm going!
+# You better know what you're doing!
+You better know what you're doing!
+# If you get me killed, I'll kill you! Hahahaha!!
+If you get me killed, I'll kill you! Hahahaha!!
+# Firing engines!
+Firing engines!
+# Moving out!
+Moving out!
+# A bold move.
+A bold move.
+# Moving forward!
+Moving forward!
+# I got it.
+I got it.
+# When's the killing gonna start?
+When's the killing gonna start?
+# Hahahahaha!!!
+Hahahahaha!!!
+# Die!!!
+Die!!!
+# I'll maim them!
+I'll maim them!
+# Lighting them up!
+Lighting them up!
+# I only see dead men!
+I only see dead men!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Launching all ordinance!
+Launching all ordinance!
+# I'll light the sky up!
+I'll light the sky up!
+# Hahahaha!!! Run! Scream! 'Cause you're all dead!
+Hahahaha!!! Run! Scream! 'Cause you're all dead!
+# Anyone who claimed there was no fire or screams in space has never met me!
+Anyone who claimed there was no fire or screams in space has never met me!
+# Bombs away!
+Bombs away!
+# I'm all out of missiles, Shields!
+I'm all out of missiles, Shields!
+# Target locked! See ya!
+Target locked! See ya!
+# I'll see ya in hell!
+I'll see ya in hell!
+# Time to make some widows!
+Time to make some widows!
+# Firing torpedo!
+Firing torpedo!
+# Torpedo away!
+Torpedo away!
+# I've already fired all my torpedoes!
+I've already fired all my torpedoes!
+# Hahahaha... Hyaaahahahaha!!!!
+Hahahaha... Hyaaahahahaha!!!!
+# DIEEE!!!
+DIEEE!!!
+# Beg for mercy!! I love hearing you scream!!
+Beg for mercy!! I love hearing you scream!!
+# There's no escape!!
+There's no escape!!
+# You're mine!!!
+You're mine!!!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Who's next?
+Who's next?
+# To the Davy Jones locker you go!
+To the Davy Jones locker you go!
+# Come back, so I can kill you again!! Hahaha!!!
+Come back, so I can kill you again!! Hahaha!!!
+# Weak!
+Weak!
+# Too easy!
+Too easy!
+# Grazed! Hardly penetrated the armor.
+Grazed! Hardly penetrated the armor.
+# Hahahaha, it'll take more than that!
+Hahahaha, it'll take more than that!
+# Was that an attack or did I just hit some debris?
+Was that an attack or did I just hit some debris?
+#$ -1000
+-1000
+#$ -1000
+-1000
+# I've taken moderate damage!
+I've taken moderate damage!
+# Command me better, Shields!
+Command me better, Shields!
+# What are you doing, Shields?!
+What are you doing, Shields?!
+#$ -1000
+-1000
+#$ -1000
+-1000
+# I'm surrounded! Do something!
+I'm surrounded! Do something!
+# My ryder's critical!
+My ryder's critical!
+# Moron! You're making me reconsider our alliance!
+Moron! You're making me reconsider our alliance!
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Fuck! Calamity, bugging out!
+Fuck! Calamity, bugging out!
+# I've got him. Hehehe...
+I've got him. Hehehe...
+# Hit confirmed.
+Hit confirmed.
+# He's damaged, but still up. Let's get him some more!
+He's damaged, but still up. Let's get him some more!
+# Ah, I missed!
+Ah, I missed!
+# My attack's failed!
+My attack's failed!
+# I can't get an angle!
+I can't get an angle!
+# You must be blind!
+You must be blind!
+# You missed, dumbass!
+You missed, dumbass!
+# You couldn't hit water if you fell out of a boat!
+You couldn't hit water if you fell out of a boat!
+# Calamity, no damage!
+Calamity, no damage!
+# Hahaha, the enemy must be a moron!
+Hahaha, the enemy must be a moron!
+# Ah, I've been hacked!
+Ah, I've been hacked!
+# My ryder's not responding to commands!
+My ryder's not responding to commands!
+# I've got an enemy ECM eating my ass, Shields!
+I've got an enemy ECM eating my ass, Shields!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+# Pay attention, can't you see I'm out of energy?!
+Pay attention, can't you see I'm out of energy?!
+# My power's empty!
+My power's empty!
+# I can't do that right now!
+I can't do that right now!
+# Shields...
+Shields...
+# What do you want?
+What do you want?
+# This doesn't make us friends.
+This doesn't make us friends.
+# I can't believe we're working together...
+I can't believe we're working together...
+# I'll still cook you one day.
+I'll still cook you one day.
+# Right now, we've got to work together.
+Right now, we've got to work together.
+# Yeah, Shields?
+Yeah, Shields?
+# I'm listening.
+I'm listening.
+# You've got my attention.
+You've got my attention.
+# Listen.
+Listen.
+# Hahahahaha!!!
+Hahahahaha!!!
+# You're quite something, Shields!
+You're quite something, Shields!
+# Looks like you've got a pair of balls on you!
+Looks like you've got a pair of balls on you!
+# I'm Cosette Cosmos, the terror of the stars!
+I'm Cosette Cosmos, the terror of the stars!
+# Yeaahh!!!
+Yeaahh!!!
+# You wanna die?
+You wanna die?
+# Gaaahh!!
+Gaaahh!!
+# Shields!!!
+Shields!!!
+# Scream for me!
+Scream for me!
+# You'll regret this!
+You'll regret this!
+# Ugh...
+Ugh...
+# Fine...
+Fine...
+# Yeah, whatever...
+Yeah, whatever...
+# Stupid...
+Stupid...
+# Sigh...
+Sigh...
+# W-What?! Have you lost your mind?!
+W-What?! Have you lost your mind?!
+# You're even crazier than me!
+You're even crazier than me!
+# What?!
+What?!
+# Uck!
+Uck!
+# Shit!!
+Shit!!
+# I've might be able to get my hands on some extra special merchandise today...
+I've might be able to get my hands on some extra special merchandise today...
+# See anything that catches your eyes, Shields?
+See anything that catches your eyes, Shields?
+# Heh, I can't wait to see this stuff in action.
+Heh, I can't wait to see this stuff in action.
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000

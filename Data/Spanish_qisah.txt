@@ -1,0 +1,214 @@
+#$ Standing by.
+En posición.
+#$ I hear you, five by five.
+Le escucho, fuerte y claro.
+#$ Let us deal with these extremists.
+Acabemos con estos extremistas.
+#$ Denari Guard, reporting.
+Guardia Denari, reportándose.
+#$ We shall make short work of these extremists.
+Deberíamos deshacernos de estos extremistas.
+#$ You believe you can aid us?
+¿Cree que puede ayudarnos?
+#$ Dragoon, ready.
+Dragoon, listo.
+#$ I copy, Ryuvia One.
+Copiado, Ryuvia Uno.
+#$ Ready.
+Lista.
+#$ Will you prove to be a friend of the Denari?
+¿Demostrará usted ser un amigo de los Denari?
+#$ Engines hot!
+¡Motores encendidos!
+#$ Throttling to coordinates.
+Marchando a las coordenadas.
+#$ Orders received.
+Órdenes recibidas.
+#$ Underway!
+¡En camino!
+#$ Moving to coordinates!
+¡Moviéndome a las coordenadas!
+#$ Dragoon, acknowledged.
+Dragoon, enterado.
+#$ I hope your tactics are sound.
+Espero que sus tácticas funcionen.
+#$ Very well, Captain Shields.
+Muy bien, Capitán Shields.
+#$ Coordinates received.
+Coordenadas recibidas.
+#$ Copy that.
+Copiado.
+#$ Shots fired!
+¡Disparos lanzados!
+#$ Engaging the enemy!
+¡Enfrentándome al enemigo!
+#$ Hostiles engaged!
+¡Enemigos atacados!
+#$ Weapons are hot!
+¡Armas encendidas!
+#$ Bandit engaged!
+¡Bandido atacado!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Missiles away!
+¡Misiles fuera!
+#$ Tone confirmed. Fox 3!
+Tono confirmado. ¡Zorro 3!
+#$ Ordinance unleashed!
+¡Ordenanza desatada!
+#$ I've got them!
+¡Los tengo!
+#$ Fox 3!
+¡Zorro 3!
+#$ Winchester out.
+Winchester liberado.
+#$ Bazooka locked. Firing!
+Bazuca apuntada. ¡Disparando!
+#$ Fire in the hatch!
+¡Fuego en el casco!
+#$ I've got lock. Away!
+He apuntado. ¡Lanzado!
+#$ Heavy bazooka, fire!
+¡Bazuka pesada, fuego!
+#$ Lock confirmed. Fire!
+Apunte confirmado. ¡Fuego!
+#$ My bazooka is dry!
+¡Mi bazuca está vacía!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Bandit scratched.
+Bandido aplastado.
+#$ One less criminal scum.
+Una escoria criminal menos.
+#$ Enemy down!
+¡Enemigo derribado!
+#$ Kill confirmed!
+¡Muerte confirmada!
+#$ This is the might of the Denari Guard!
+¡Este es el poder de la Guardia Denari!
+#$ Light damage - armor holding.
+Daño ligero - la armadura resiste.
+#$ Minor damage reported.
+Daño menor reportado.
+#$ My armor is holding!
+¡Mi armadura está aguantando!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ I am under fire!
+¡Estoy bajo fuego!
+#$ They're everywhere!
+¡Están por todas partes!
+#$ Systems damaged!
+¡Sistemas dañados!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Argh! You fool!
+¡Argh! ¡Tonto!
+#$ You disappoint me, Captain Shields!
+¡Me decepciona, Capitán Shields!
+#$ Catastrophic loss imminent!
+¡Pérdida catastrófica inminente!
+#$ -1000
+-1000
+#$ -1000
+-1000
+#$ Falling back! We shall discuss this later, Captain Shields!
+¡Retirándome! ¡Discutiremos esto más tarde, Capitán Shields!
+#$ Hit confirmed!
+¡Golpe confirmado!
+#$ The enemy has taken damage!
+¡El enemigo ha recibido daño!
+#$ Attack successful!
+¡Ataque exitoso!
+#$ The attack has failed to connect!
+¡El ataque ha fallado en conectar!
+#$ Attack failed!
+¡Ataque fallido!
+#$ No effect!
+¡Sin efecto!
+#$ I have evaded the enemy!
+¡He esquivado al enemigo!
+#$ Evasive maneuvers successful!
+¡Maniobras evasivas exitosas!
+#$ No damage to report - enemy attack failed.
+Sin daños que reportar - el ataque enemigo falló.
+#$ You are no match!
+¡No eres rival!
+#$ Fool!
+¡Tonto!
+#$ Tch-! My systems are compromised!
+¡Tch-! ¡Mis sistemas están comprometidos!
+#$ Enemy ECM deployed!
+¡ECM enemigo desplegado!
+#$ Hostile ECM detected - take them out!
+¡ECM enemigo detectado - derríbenlos!
