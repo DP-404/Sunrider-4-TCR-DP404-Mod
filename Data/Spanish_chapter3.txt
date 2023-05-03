@@ -407,7 +407,7 @@ shi Este Comandante Storn... Él era el testigo de la acusación, ¿pero se dio 
 #$ cha ava_armscrossed_focustalk
 cha ava_armscrossed_focustalk
 #$ ava Rear Admiral Storn now.
-ava Contralmirante Storn ahora.
+ava Contraalmirante Storn ahora.
 #$ cha shi_frown
 cha shi_frown
 #$ shi Quite a jump in rank, even in wartime. I'm guessing his testimony had something to do with it.
@@ -1295,7 +1295,7 @@ cc1 Cuénteme más sobre estos rumores.
 #$ cc2 What is a Mar'qui?
 cc2 ¿Qué es un Mar'qui?
 #$ cc3 Tell me about the Denari people.
-cc3 Tell me about the Denari people.
+cc3 Cuéntame sobre el pueblo Denari.
 #$ cc4 Thank you, Mar'qui Johan. We will head along our way. (End conversation)
 cc4 Gracias, Mar'qui Johan. Nos pondremos en camino. (Terminar conversación)
 #$ 
@@ -1321,7 +1321,7 @@ cc0 chap3_johanintro_b
 #$ cc1 What is a Mar'qui?
 cc1 ¿Qué es un Mar'qui?
 #$ cc2 Tell me about the Denari people.
-cc2 Cuénteme más sobre la gente de Denari.
+cc2 Cuénteme sobre el pueblo Denari.
 #$ cc3 Thank you, Mar'qui Johan. We will head along our way. (End conversation)
 cc3 Gracias, Mar'qui Johan. Nos pondremos en camino. (Terminar conversación)
 #$ 
@@ -1341,13 +1341,13 @@ joh Ah, en tiempos modernos, el Mar'qui sería el equivalente del Ministro de Co
 #$ cha joh_neu
 cha joh_neu
 #$ joh But today, the Denari people have been forced to modernize. To reorganize our ways to fit into the Alliance bureaucracy. As such, whilst I am still called the Mar'qui out of our traditions, my duties are identical to any of the other Ministers of Trade in the Solar Alliance.
-joh Pero hoy, la gente de Denari ha sido forzada a modernizarse. A reorganizar nuestras formas de ajustarnos a la burocracia de la Alianza. Así, aunque sigo siendo llamado el Mar'qui por nuestras tradiciones, mis deberes son idénticos a cualquiera de los otros Ministros de Comercio en la Alianza Solar.
+joh Pero hoy, el pueblo Denari ha sido forzado a modernizarse. A reorganizar nuestras formas de ajustarnos a la burocracia de la Alianza. Así, aunque sigo siendo llamado el Mar'qui por nuestras tradiciones, mis deberes son idénticos a cualquiera de los otros Ministros de Comercio en la Alianza Solar.
 #$ cc0 chap3_johanintro_c
 cc0 chap3_johanintro_c
 #$ cc1 Tell me more about these rumors.
 cc1 Cuénteme más sobre estos rumores.
 #$ cc2 Tell me about the Denari people.
-cc2 Cuénteme más sobre la gente de Denari.
+cc2 Cuénteme sobre el pueblo Denari.
 #$ cc3 Thank you, Mar'qui Johan. We will head along our way. (End conversation)
 cc3 Gracias, Mar'qui Johan. Nos pondremos en camino. (Terminar conversación)
 #$ 
@@ -1361,9 +1361,9 @@ tag chap3_johanintro_c_cc2
 #$ cha joh_frustrated
 cha joh_frustrated
 #$ joh The Denari People? I'm afraid that's a long and complicated topic, requiring several data crystals to properly archive. I imagine depending on the person you ask, you may receive drastically different answers as to our cultural identity.
-joh ¿La Gente de Denari? Me temo que ese es un largo y complicado tema, requiriendo múltiples cristales de datos para archivarlo apropiadamente. Imagino que dependiendo de la persona a la que le pregunte, podrá recibir respuestas drásticamentes diferentes en cuanto a nuestra identidad cultural.
+joh ¿El Pueblo Denari? Me temo que ese es un largo y complicado tema, requiriendo múltiples cristales de datos para archivarlo apropiadamente. Imagino que dependiendo de la persona a la que le pregunte, podrá recibir respuestas drásticamentes diferentes en cuanto a nuestra identidad cultural.
 #$ joh To begin with, the Denari was the word the ancient Ryuvians used to refer to the various tribes which inhabited the space now known as the Denari Expanse. But my ancestors called themselves by no other name but of their tribe... Names now long forgotten. We were conquered by the Holy Empire, re-organized into a single nation state called the "Denari" and instructed in the ways of both statehood and technology, our primitive tribal system forcibly dismantled.
-joh Para empezar, Denari era la palabra con la que los antiguos Ryuvianos solían referirse a las distintas tribus que habitaban el espacio ahora conocido como el Denari Expanse. Pero mis ancestros se llamaban por más ningún otro nombre que el de su tribu... Nombres hace mucho olvidados. Fuimos conquistados por el Sagrado Imperio, re-organizados en una sola nación estado llamado el "Denari" e instruidos en los conocimientos de estados y tecnología, con nuestro primitivo sistema tribal desmantelado a la fuerza.
+joh Para empezar, Denari era como antiguos Ryuvianos se referían a las tribus que habitaban el espacio ahora conocido como el Denari Expanse. Pero mis ancestros no se llamaban sino por el nombre de su tribu... Nombres hace mucho olvidados. Fuimos conquistados por el Sagrado Imperio, re-organizados en una sola nación llamada "Denari" y enseñados los conocimientos de estado y tecnología, y nuestro primitivo sistema tribal desmantelado a la fuerza.
 #$ cha joh_sad
 cha joh_sad
 #$ joh Long ago, our worlds were rich in gray iron. Not quite as valuable as black iron, but far more plentiful. Following the collapse of the Holy Empire, we joined the Solar Alliance in the war against the New Imperials. We offered our gray iron to the war effort, and upon the Solar Alliance's victory, become co-equal members of the new galactic order of free trade.
@@ -1723,7 +1723,7 @@ shi Bueno, lo intenté.
 #$ cha ava_facepalm_talk
 cha ava_facepalm_talk
 #$ ava Yes captain. You tried. Their carrier has launched ryders. It's the Denari Guard. While their equipment may be dated, I recall they are noted for their proficiency in close quarters combat.
-ava Sí capitán. Lo intentó. Su carguero ha lanzado ryders. Es la Guardia Denari. Aunque sus equipamientos podrán estar atrasados, le recuerdo que resaltan por su desempeño en el combate cuerpo a cuerpo.
+ava Sí capitán. Lo intentó. Su carguero ha lanzado ryders. Es la Guardia Denari. Aunque su equipamiento pueda estar atrasado, le recuerdo que resaltan por su desempeño en el combate cuerpo a cuerpo.
 #$ cha shi_neutalk
 cha shi_neutalk
 #$ shi Asaga, you hear me?
@@ -1769,7 +1769,7 @@ ccc shi_uni
 #$ cha ava_facepalm_annoyed
 cha ava_facepalm_annoyed
 #$ ava A Denari unit has been lost! With this, we have made ourselves an enemy of the Denari people. Any further exploration of this sector is no longer an option!
-ava ¡Una unidad Denari ha sido perdida! Con esto, nos hemos convertido en un enemigo de la gente de Denari. ¡Cualquier próxima exploración de este sector ya no es más una opción!
+ava ¡Una unidad Denari ha sido perdida! Con esto, nos hemos convertido en un enemigo del pueblo Denari. ¡Cualquier próxima exploración de este sector ya no es más una opción!
 #$ cha shi_madgroan
 cha shi_madgroan
 #$ shi (Shit... Now we'll never be able to find Kryska!)
@@ -1829,7 +1829,7 @@ cha shi_confusetalk
 #$ shi A cell? What do you mean?
 shi ¿Una celda? ¿Qué quiere decir?
 #$ tri She and the 13th Fleet have run amok through the Denari Expanse without regard for our rights as Alliance citizens, subjecting our vessels to unwarranted searches and seizures! Anyone resisting has been arrested on trumped up charges or killed outright!
-tri ¡Ella y la 13ra Flota han estado corriendo por el Denari Expanse sin concentimiento por nuestros derechos como ciudadanos de la Alianza, sometiendo a nuestras naves a injustificadas búsquedas y confiscaciones! ¡Cualquiera que se resista ha sido arrestado por cargos forjados o asesinado al momento!
+tri ¡Ella y la 13ra Flota han estado corriendo por el Denari Expanse sin consentimiento por nuestros derechos como ciudadanos de la Alianza, sometiendo a nuestras naves a injustificadas búsquedas y confiscaciones! ¡Cualquiera que se resista ha sido arrestado por cargos forjados o asesinado al momento!
 #$ tri Of course, my complaints have been brushed aside by Solaris. What purpose does our membership in the Solar Alliance serve, if the law never takes our side?
 tri Por supuesto, mis quejas han sido barridas a un lado por Solaris. ¿Qué propósito tiene nuestra membresía en el senado de la Alianza Solar, si la ley nunca toma nuestro lado?
 #$ cha shi_sadthinkexpressive
@@ -1845,7 +1845,7 @@ cc1 ¿Tiene evidencia de lo que la 13ra Flota ha hecho?
 #$ cc2 Is Pre'ator a rank? I thought the Denari only held ranks in the Alliance service.
 cc2 ¿Es Pre'ator un rango? Pensaba que los Denari solo tenían rangos en el servicio de la Alianza.
 #$ cc3 Whatever is going on, we need to find the truth. We need to find this Captain Paladin. (End conversation)
-cc3 Lo que sea que esté sucediendo, debemos hallar la verdad. Debemos encontrar a esta Capitán Paladin. (Terminar conversación)
+cc3 Debemos hallar la verdad de lo que ocurre. Hallaremos a esta Capitán Paladin. (Terminar conversación)
 #$ 
 
 #$ tag chap3_qisahintro_a_cc1
@@ -1875,7 +1875,7 @@ tri Esta Capitán Paladin es meramente la manifestación de las décadas de larg
 #$ cha shi_sigh
 cha shi_sigh
 #$ shi (There must be a long history of enmity between the Denari and the Solar Alliance... But would Kryska terrorize citizens of the Solar Alliance like this?)
-shi (Debe haber una larga historia de enemistad entre el Denari y la Alianza Solar... ¿Pero aterrorizaría Kryska a civiles de la Alianza Solar de esta forma?)
+shi (Debe haber una larga historia de enemistad entre los Denari y la Alianza Solar... ¿Pero aterrorizaría Kryska a civiles de la Alianza Solar de esta forma?)
 #$ hid shi
 hid shi
 #$ cc0 chap3_qisahintro_b
@@ -1883,7 +1883,7 @@ cc0 chap3_qisahintro_b
 #$ cc1 Is Pre'ator a rank? I thought the Denari only held ranks in the Alliance service.
 cc1 ¿Es Pre'ator un rango? Pensaba que los Denari solo tenían rangos en el servicio de la Alianza.
 #$ cc2 Whatever is going on, we need to find the truth. We need to find this Captain Paladin. (End conversation)
-cc2 Lo que sea que esté sucediendo, debemos hallar la verdad. Debemos encontrar a esta Capitán Paladin. (Terminar conversación)
+cc2 Debemos hallar la verdad de lo que ocurre. Hallaremos a esta Capitán Paladin. (Terminar conversación)
 #$ 
 
 #$ tag chap3_qisahintro_a_cc2
@@ -1899,7 +1899,7 @@ tri Aunque los Sagrados Ryuvianos afirmaban darnos una nacionalidad, en realidad
 #$ cha tri_neutalk
 cha tri_neutalk
 #$ tri But as the millennia passed, we came to gradually accept our new identity as the singular Denari people. During the Alliance-Imperial War, we joined the Solar Alliance to fight against the New Imperialists, after we were promised trade and freedom by the Solari.
-tri Pero a medida que pasaban los milenios, llegamos a aceptar gradualmente nuestra nueva identidad como el pueblo singular Denari. Durante la Guerra Alianza-Imperial, nos unimos a la Alianza Solar para luchar contra los Nuevos Imperialistas, tras lo cual fuimos prometidos comercio y libertad por los Solari.
+tri Pero a medida que pasaban los milenios, llegamos a aceptar gradualmente nuestra nueva identidad como el singular pueblo Denari. Durante la Guerra Alianza-Imperial, nos unimos a la Alianza Solar para luchar contra los Nuevos Imperialistas, tras lo cual fuimos prometidos comercio y libertad por los Solari.
 #$ tri With the joining of the Solar Alliance, the Denari military was reformed to fit into the Alliance bureaucracy. While I am still called the Pre'ator by our traditions, I hold the rank of master sergeant in the Denari Regional Guard.
 tri Al unirse a la Alianza Solar, el ejército Denari fue reformado para ajustarse a la burocracia de la Alianza. Aunque todavía me llamo la Pre'ator por nuestras tradiciones, poseo el rango de sargento maestro en la Guardia Regional Denari.
 #$ tri As for my jurisdiction of this matter, while investigating an inter-planetary money laundering scheme on Ferros, I discovered a possible conspiracy tying Captain Paladin and the 13th Fleet to various ultra-nationalist groups in the Denari Expanse. I am in pursuit of Captain Paladin in connection with that investigation.
@@ -1917,7 +1917,7 @@ cc0 chap3_qisahintro_c
 #$ cc1 Do you have evidence of what the 13th Fleet has done?
 cc1 ¿Tiene evidencia de lo que la 13ra Flota ha hecho?
 #$ cc2 Whatever is going on, we need to find the truth. We need to find this Captain Paladin. (End conversation)
-cc2 Lo que sea que esté sucediendo, debemos hallar la verdad. Debemos encontrar a esta Capitán Paladin. (Terminar conversación)
+cc2 Debemos hallar la verdad de lo que ocurre. Hallaremos a esta Capitán Paladin. (Terminar conversación)
 #$ 
 
 #$ tag chap3_qisahintro_a_cc3
@@ -1955,7 +1955,7 @@ cha shi_focus
 #$ shi Yeah... Just a little training exercise, that's all. I'm Captain Kayto Shields of the Ryuvian flagship Maray. We here in search of an Alliance captain who goes by the name of Paladin, but were surprised to find Kor'ath... gone. My new Denari friends are pretty concerned about their missing planet too.
 shi Sí... Solo un pequeño ejercicio de entrenamiento, eso es todo. Soy el Capitán Kayto Shields de la nave insignea Ryuviana Maray. Venimos en búsqueda de una capitán de la Alianza bajo el nombre de Paladin, pero nos sorprendimos al encontrar a Kor'ath... ido. Mis nuevos amigos Denari están bastante preocupados por su planeta desaparecido también.
 #$ min Hey Captain, we've got a permit from Solaris to be mining here. You'll have to talk to my supervisors over at the Mining Union for more, 'cause my bosses don't pay me to talk. Now you'll let us go back to work, yes?
-min Hey Capitán, tenemos un permiso de Solaris para estar minando aquí. Tendrás que hablar con mis superiores en la Unión Minera para más, porque mis jefesno me pagan por hablar. Ahora nos dejarás volver al trabajo, ¿sí?
+min Hey Capitán, tenemos un permiso de Solaris para estar minando aquí. Tendrás que hablar con mis superiores en la Unión Minera para más, porque mis jefes no me pagan por hablar. Ahora nos dejarás volver al trabajo, ¿sí?
 #$ cha ava_armup_madtalk
 cha ava_armup_madtalk
 #$ ava They have sent us a mining permit. It appears to be genuine.
@@ -1985,7 +1985,7 @@ cha shi_resigned
 #$ shi Sigh... Come on man, just talk and we can be on our way. You seriously expect us to see an entire planet reduced to space rocks and carry on like nothing's happened?
 shi Suspiro... Vamos hombre, solo dinos y nos marcharemos. ¿En serio esperas que veamos todo un planeta reducido a rocas espaciales y seguir adelante como si nada hubiera pasado?
 #$ min Listen, all I know is that the higher ups used some kind of device on the planet... It shattered the entire planet like it was made of glass, and somehow, there were Ongessite crystals in the debris field. Don't ask me how they did it, because I have no clue. I just do the maintenance work on the miner drones, that's all.
-min Escucha, todo lo que sé es que los altos mandos usaron algún tipo de dispositivo en el planeta... Despedazó el planeta entero como si fuera hecho de cristal, y de alguna forma, había cristales de Ongessita en el campo de escombros. No me preguntes cómo lo hicieron, porque no tengo idea. Yo Solo hago el trabajo de mantenimiento en los drones mineros, eso es todo.
+min Escucha, todo lo que sé es que los altos mandos usaron algún tipo de dispositivo en el planeta... Despedazó el planeta entero como si fuera hecho de cristal, y de alguna forma, había cristales de Ongessita en el campo de escombros. No me preguntes cómo lo hicieron, porque no tengo idea. Yo solo hago el trabajo de mantenimiento en los drones mineros, eso es todo.
 #$ cha shi_confusethink
 cha shi_confusethink
 #$ shi Do you know the whereabouts of the Alliance captain known as the Paladin?
@@ -2069,7 +2069,7 @@ tri El Senador del Congreso Solar más cercano está estacionado en Ferros. Debe
 #$ cha shi_confusetalk
 cha shi_confusetalk
 #$ shi We were just there actually. Let's rendezvous back at Ferros and hear what the local Senator has to say about Kor'ath's destruction...
-shi Estuvimos justo ahí en realidad. Reunámonos de vuelta en Ferros y escuchemos lo que el Senador local tenga que decir sobre la destrucción de Kr'ath.
+shi Estuvimos justo ahí en realidad. Reunámonos de vuelta en Ferros y escuchemos lo que el Senador local tenga que decir sobre la destrucción de Kor'ath.
 #$ obj Return to Ferros.
 obj Regresa a Ferros.
 #$ map
@@ -2139,7 +2139,7 @@ joh Oh... Ya veo... Esto es muy preocupante.
 #$ cha tri_madtalk
 cha tri_madtalk
 #$ tri We must go to the Senator's Office here on Ferros at once! The Denari cannot permit the wholesale destruction of our worlds by these profiteers!
-tri ¡Debemos ir a la Oficina del Cenador aquí en Ferros de inmediato! ¡Los Denari no pueden permitir la destrucción completa de nuestros mundos por estos aprovechados!
+tri ¡Debemos ir a la Oficina del Senador aquí en Ferros de inmediato! ¡Los Denari no pueden permitir la destrucción completa de nuestros mundos por estos aprovechados!
 #$ cha joh_focus
 cha joh_focus
 #$ joh I'm afraid that would be... difficult, as the Senator has been missing for the past three days.
@@ -2363,7 +2363,7 @@ ava Capitán, por favor absténgase de tratarme tanto con condescendencia. No ne
 #$ cha shi_sadsmile
 cha shi_sadsmile
 #$ shi Best laid plans of mice and men.
-shi Los mejores planes.
+shi Los mejores planes de ratones y hombres.
 #$ voi ava_neu1
 voi ava_neu1
 #$ cha ava_armup_madtalk
@@ -2535,7 +2535,7 @@ sou sou_holoopen
 #$ por tri_fury
 por tri_fury
 #$ tri No authority? Within the last few hours alone, the Denari Guard has had to rescue over five hundred civilian vessels! Thirty six vessels still remain unaccounted for! All because of your detonation of two mass gravity weapons!
-tri ¿No tenemos autoridad? ¡Solamente en las últimas horas, la Guardia Denari ha tenido que rescatas más de quinientas naves civiles! ¡Treinta y seis naves todavía siguen desaparecidas! ¡Todo por culpa de la detonación de sus dos armas de gravedad!
+tri ¿No tenemos autoridad? ¡Solamente en las últimas horas, la Guardia Denari ha tenido que rescatar más de quinientas naves civiles! ¡Treinta y seis naves todavía siguen desaparecidas! ¡Todo por culpa de la detonación de sus dos armas de gravedad!
 #$ hid tri
 hid tri
 #$ cha pal_armout_neu
@@ -2653,7 +2653,7 @@ pal ¡Argh!
 #$ cha shi_shout
 cha shi_shout
 #$ shi Stand down. I just want to talk to you, captain. In private. 
-shi Detende. Solo quiero hablar con usted, capitán. En privado.
+shi Deténgase. Solo quiero hablar con usted, capitán. En privado.
 #$ cha shi_confusetalk
 cha shi_confusetalk
 #$ shi I have important news...
@@ -2661,7 +2661,7 @@ shi Tengo importantes noticias...
 #$ cha pal_armout_neu
 cha pal_armout_neu
 #$ pal You underestimate the power of the Solar Alliance!
-pal ¡Subestima el poder de la Alianza SOlar!
+pal ¡Subestima el poder de la Alianza Solar!
 #$ pal We cannot be stopped. No matter how many worlds must be destroyed, the Alliance Fleet shall rise once more.
 pal No podemos ser detenidos. Sin importar cuántos mundos deban ser destruidos, la Flota de la Alianza se levantará una vez más.
 #$ pal If you truly seek to meet me, come to the world of Ainur. Until then, we will table this matter!
@@ -2803,7 +2803,7 @@ gre La gente ha elegido al Partido Progresista con el objetivo de terminar la gu
 #$ cha shi_madtalk
 cha shi_madtalk
 #$ shi So let me get this straight. Captain Paladin is one of the leaders of the Hawk Faction, an extremist group inside the United Universalist Party seeking to overthrow the civilian government to restart the war with PACT. 
-shi Así que déjeme organizar esto. La Capitán Paladin es una de los líderes de la Facción Halcón, un grupo extremista dentro del Partido Universalista Unido que busca derrocar al gobierno civil para reiniciar la guerra con el PACT.
+shi Así que déjeme organizar esto. La Capitán Paladin es uno de los líderes de la Facción Halcón, un grupo extremista dentro del Partido Universalista Unido que busca derrocar al gobierno civil para reiniciar la guerra con el PACT.
 #$ cha shi_frown
 cha shi_frown
 #$ shi Your late grandfather ran under that very same party ticket when he sought the Presidency. Not only that, but he was the principle architect of the very war the Hawk Faction wants to resume. And you're telling me to stop them, Captain Grey?
@@ -2909,7 +2909,7 @@ voi asa_ang4
 #$ cha asa_armscrossed_focustalk
 cha asa_armscrossed_focustalk
 #$ asa These are Denari lands, so the Alliance has no right to be demolishing planets here. It's only a matter of time until a ship warps out in the wrong spot and crashes into a space station. In the end, it's just gonna be the Denari people who end up suffering for the Ongessite the Mining Union's going to get outta this deal! There's no way we can just let the Mining Union have its way!
-asa Estas son tierras Denari, así que la Alianza no tiene derecho para estar demoliendo planetas aquí. Es solo cuestión de tiempo para que una nave salte en el lugar equivocado y se estrelle contra una estación espacial. ¡Al final, será la gente de Denari los que terminarán sufriendo por la Ongessita que la Unión Minera va a sacar de este negocio! ¡No hay forma de que simplemente podamos dejar a la Unión Minera salirse con la suya!
+asa Estas son tierras Denari, así que la Alianza no tiene derecho para estar demoliendo planetas aquí. Es solo cuestión de tiempo para que una nave salte en el lugar equivocado y se estrelle contra una estación espacial. ¡Al final, será el pueblo Denari el que terminará sufriendo por la Ongessita que la Unión Minera va a sacar de este negocio! ¡No hay forma de que simplemente podamos dejar a la Unión Minera salirse con la suya!
 #$ hid asa
 hid asa
 #$ cre chap3_inrentos_crewmeeting
@@ -2933,7 +2933,7 @@ voi ava_ang1
 #$ cha ava_armscrossed_focusthink
 cha ava_armscrossed_focusthink
 #$ ava While it is tempting to say that the Alliance may liberate the Neutral Rim from PACT once their supply of Ongessite is restored, in reality, we may merely be trading one dictator for another. In addition, that would require furthering the Paladin's aims. Regardless of her past as Kryska Stares, she is now a political extremist. I cannot recommend backing such an unpredictable agent, even for the sake of the Neutral Rim.
-ava Aunque es tentador decir que la Alianza podría liberar al Margen Neutral del PACT una vez su suministro de Ongessita sea restaurado, en realidad, podríamos meramente estar cambiando un dictador por otro. Adicionalmente, eso requeriría fomentar los objetivos de la Paladin. A pesar de su pasado como Kryska Stares, ahora es una extremista política. No puedo recomentar respaldar a tan impredecible agente, incluso por el bien del Margen Neutral.
+ava Aunque es tentador decir que la Alianza podría liberar al Margen Neutral del PACT una vez su suministro de Ongessita sea restaurado, en realidad, podríamos meramente estar cambiando un dictador por otro. Adicionalmente, eso requeriría fomentar los objetivos de la Paladin. A pesar de su pasado como Kryska Stares, ahora es una extremista política. No puedo recomendar respaldar a tan impredecible agente, incluso por el bien del Margen Neutral.
 #$ cha shi_sadgroan
 cha shi_sadgroan
 #$ shi But if the Progress Party has its way, then the Alliance will further isolate itself inwards. Then PACT will be permitted to run amok in the Neutral Rim, with nobody to stop them.
@@ -2961,7 +2961,7 @@ voi sol_neu4
 #$ cha sol_side_lookawayfrown
 cha sol_side_lookawayfrown
 #$ sol Kryska was a comrade in arms back when we fought in the Neutral Rim War... I pray you will be able to convince her to join us in our quest to stop Crow Harbor. Her skills are formidable even by ancient Ryuvian standards and she could even inspire her allies in the Alliance to assist us. You must convince her to abandon her mad mission to overthrow the Solaris government so that she may live to save the galaxy from Crow Harbor.
-sol Kryska fue una compañera en armas cuando luchamos en la Guerra del Margen Neutral... Rezo por que se capaz de convencerla de unírsenos en nuestra misión para detener a Crow harbor. Sus habilidades son formidables incluso para los antiguos estándares Ryuvianos y podría inspirar a sus aliados en la Alianza a ayudarnos. Podría convencerla de abandonar su misión de derrocar al gobierno de Solaris para que pueda vivir para salvar la galaxia de Crow Harbor.
+sol Kryska fue una compañera en armas en la Guerra del Margen Neutral... Rezo porque pueda convencerla de unírsenos en nuestra misión de detener a Crow Harbor. Sus habilidades son formidables incluso para los antiguos estándares Ryuvianos y puede inspirar a sus aliados en la Alianza a apoyarnos. Debes convencerla de abandonar su loca misión de derrocar al gobierno de Solaris para que pueda vivir para salvar la galaxia de Crow Harbor.
 #$ cha shi_focus
 cha shi_focus
 #$ shi What about the situation with the Ongessite mining?
@@ -2971,11 +2971,11 @@ voi sol_neu0
 #$ cha sol_side_concernclosedeyesfrown
 cha sol_side_concernclosedeyesfrown
 #$ sol This Ongessite is necessary for your ships to remain operational? I'm afraid I am ill suited to understand the realities of this era's energy situation. 
-sol ¿Esta Ongessita es necesaria para que tus navez permanezcan operativas? Me temo que no estoy lista para entender las realidades de la situación energética de esta era.
+sol ¿Esta Ongessita es necesaria para que tus naves permanezcan operativas? Me temo que no estoy lista para entender las realidades de la situación energética de esta era.
 #$ cha sol_front_confuse
 cha sol_front_confuse
 #$ sol But if there is a way to produce Ongessite without endless wars in the Neutral Rim, it seems worth pursuing, no?
-sol Pero si hay una forma de producir Ongessita sin guerras sin fin en el Margen Neutra, vale la pena perseguirla, ¿no?
+sol Pero si hay una forma de producir Ongessita sin guerras sin fin en el Margen Neutral, vale la pena perseguirla, ¿no?
 #$ hid sol
 hid sol
 #$ cre chap3_inrentos_crewmeeting
@@ -3063,9 +3063,9 @@ lyn He tenido más tiempo para investigar este nuevo Tactical Paradox Core sin e
 #$ cha lyn_handup_focustalk
 cha lyn_handup_focustalk
 #$ lyn It's not a simple process like "Tactical Paradox Core goes brrrrr and prints out Ongessite for free" though. First, it takes a colossal amount of matter to fuel the process. Practically, entire planet's worth. And we're not just talking about any old planet either: It has to contain certain materials for the process to work. 
-lyn Sin embargo es un simple proceso como "El Tactical Paradox Core hace magia e imprime Ongessita gratis". Primero, necesita una colosal cantidad de materia para alimentar el proceso. Prácticamente, todo un planeta. Y no estamos hablando simplemente de cualquier planeta tampoco: Tiene que contener ciertos materiales para que el proceso funcione.
+lyn Sin embargo no es un simple proceso como "El Tactical Paradox Core hace magia e imprime Ongessita gratis". Primero, necesita una colosal cantidad de materia para alimentar el proceso. Prácticamente, todo un planeta. Y no estamos hablando simplemente de cualquier planeta tampoco: Tiene que contener ciertos materiales para que el proceso funcione.
 #$ lyn Not only that, but the process generates unwanted matter and energies. You've already seen what the gravitons generated by a detonation will do to navi-computers. But that's only the beginning. We're talking about the process emitting elements which literally did not exist in our universe until now. It'd be anyone's guess what those elements will do to life as we know it. Maybe they'll do nothing. Or maybe they'll mutate us all into three legged freaks.
-lyn No solo eso, sino que el proceso genera materia y energías no deseadas. Ya has visto lo que los gravitones generados por una detonación le harán a las nave-computadoras. Pero eso es solo el comienzo. Estamos hablando del proceso de emitir elementos que literalmente no existen en nuestro universo hasta ahora. Nadie sabe lo que esos elementos le harán a la vida como la conocemos. Tal vez no harán nada. O tal vez nos mutarán en extravagancias de tres piernas.
+lyn No solo eso, sino que el proceso genera materia y energías no deseadas. Ya viste lo que los gravitones generados por una detonación le harán a las nave-computadoras. Pero eso es solo el inicio. Hablamos del proceso de emitir elementos que literalmente no existen en nuestro universo hasta ahora. Nadie sabe lo que esos elementos le harán a la vida como la conocemos. Tal vez no harán nada. O tal vez nos mutarán en extravagancias de tres piernas.
 #$ voi lyn_hap1
 voi lyn_hap1
 #$ cha lyn_handtoface_confidentsly
@@ -3109,7 +3109,7 @@ ccc pal_armor
 #$ cha ava_armup_madtalk
 cha ava_armup_madtalk
 #$ ava We are approaching Ainur. Surely, you must have a strategy to escape the obvious trap?
-ava Nos estamos acercando a Ainur. Ciertamente, ¿debe tener una estrategia para escapar a la obvia trampa no?
+ava Nos estamos acercando a Ainur. Debe tener una estrategia para escapar a la obvia trampa, ¿cierto?
 #$ cha shi_triumph
 cha shi_triumph
 #$ shi Diplomacy.
@@ -3205,7 +3205,7 @@ pal ¡La gente de la Alianza Solar debe despertar!
 #$ pal It was not the Alliance which betrayed me, but the corrupt politicians of the Solar Congress! In their cowardice, it was they who surrendered to PACT! They surrendered the Neutral Rim's freedom, safety, and democracy! All in the name of serving their own selfish political agendas!
 pal ¡No fue la Alianza quien me traicionó, sino los políticos corruptos del Congreso Solar! ¡En su cobardía, fueron ellos quienes se rindieron ante el PACT! ¡Entregaron la libertad, seguridad, y democracia del Margen Neutral! ¡Todo en el nombre de servir a sus propias agendas políticas egoístas!
 #$ pal In the face of such villainy, we have no choice but to act! It is the only way to safeguard the sanctity of the Solar Alliance! For it is from the might of the Solar Alliance, and only the Solar Alliance, that freedom is delivered! I cannot stop, captain. Not even against you!
-pal ¡Ante tanta villanía, no tenemos más elección que actuar! ¡Es la única forma de salvaguardar el valor sagrado de la Alianza SOlar! ¡Ya que es gracias al poder de la Alianza Solar, y solo la Alianza Solar, que la libertad es entregada! No puedo detenerme, capitán. ¡Ni siquiera ante usted!
+pal ¡Ante tanta villanía, no tenemos más elección que actuar! ¡Es la única forma de salvaguardar el valor sagrado de la Alianza Solar! ¡Ya que es gracias al poder de la Alianza Solar, y solo la Alianza Solar, que la libertad es entregada! No puedo detenerme, capitán. ¡Ni siquiera ante usted!
 #$ mus mus_goreandsand
 mus mus_goreandsand
 #$ cha pal_armout_neu
@@ -3657,7 +3657,7 @@ ica ¡No sé cuál sea tu problema... pero me gustabas mucho más cuando no usab
 #$ ica Now stop being dumb and open your eyes! There's no way the people are gonna back your coup d'etat!
 ica ¡Ahora deja de ser una tonta y abre tus ojos! ¡No hay forma de que la gente vaya a apoyar tu golpe de estado!
 #$ ica You know what's worse than lying? Falling for your own lies, until you've convinced yourself you're telling the truth.
-ica ¿Sabes qué es peor que mentir? Creer en tus propias mentiras, hasta que te hayas convencido a tí misma de que estás diciendo la verdad..
+ica ¿Sabes qué es peor que mentir? Creer en tus propias mentiras, hasta que te hayas convencido a tí misma de que estás diciendo la verdad.
 #$ ica But let's face it. You're heading out on a suicide mission, soldier boy.
 ica Pero enfrentémoslo. Te estás dirigiendo a una misión suicida, chico soldado.
 #$ sou sou_swordblock
@@ -3795,7 +3795,7 @@ shi Ya veo. Bueno, no podemos atraparlos a todos. Estamos en marcha hacia fuera 
 #$ cha shi_focus
 cha shi_focus
 #$ shi I doubt the Hawk Faction will be bothering the Denari again. I suppose this means good bye for now.
-shi Dudo que la Facción Halcón molesta a los Denari de nuevo. Supongo que esto significa adiós por ahora.
+shi Dudo que la Facción Halcón moleste a los Denari de nuevo. Supongo que esto significa adiós por ahora.
 #$ cha tri_smile
 cha tri_smile
 #$ tri Very well, Captain Shields. Before you leave, know this: You have redeemed yourself in the eyes of the Denari people. Whenever you are in our space, know that you are surrounded by friends. Including myself.
