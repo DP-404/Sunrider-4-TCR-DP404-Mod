@@ -1,13 +1,13 @@
-# Ryuvian Lancer at your command.
-Ryuvian Lancer at your command.
-# Priming crystals.
-Priming crystals.
-# Your will is my command.
-Your will is my command.
-# The Queensguard is at your disposal.
-The Queensguard is at your disposal.
-# For the Ryuvian Empire!
-For the Ryuvian Empire!
+#$ Ryuvian Lancer at your command.
+Lancero Ryuviano a sus órdenes.
+#$ Priming crystals.
+Preparando cristales.
+#$ Your will is my command.
+Su voluntad es mi orden.
+#$ The Queensguard is at your disposal.
+La Guardia Real está a su disposición.
+#$ For the Ryuvian Empire!
+¡Por el Imperio Ryuviano!
 #$ -1000
 -1000
 #$ -1000
@@ -18,14 +18,14 @@ For the Ryuvian Empire!
 -1000
 #$ -1000
 -1000
-# Moving out.
-Moving out.
-# All ahead full.
-All ahead full.
-# By your will.
-By your will.
-# All power to engines.
-All power to engines.
+#$ Moving out.
+Moviéndose.
+#$ All ahead full.
+Completamente adelante.
+#$ By your will.
+Por su voluntad.
+#$ All power to engines.
+Máximo poder a los motores.
 #$ -1000
 -1000
 #$ -1000
@@ -58,16 +58,16 @@ All power to engines.
 -1000
 #$ -1000
 -1000
-# Our fury burns!
-Our fury burns!
-# Incinerating them!
-Incinerating them!
-# Our light will cleanse them!
-Our light will cleanse them!
-# By the Queen's light!
-By the Queen's light!
-# Our lenses are hot!
-Our lenses are hot!
+#$ Our fury burns!
+¡Nuestra furia arde!
+#$ Incinerating them!
+¡Incinérenlos!
+#$ Our light will cleanse them!
+¡Nuestra luz los limpiará!
+#$ By the Queen's light!
+¡Por la luz de la Reina!
+#$ Our lenses are hot!
+¡Nuestros cristales están encendidos!
 #$ -1000
 -1000
 #$ -1000
@@ -112,12 +112,12 @@ Our lenses are hot!
 -1000
 #$ -1000
 -1000
-# Sabotaging enemy's shields.
-Sabotaging enemy's shields.
-# Their defences will not protect them!
-Their defences will not protect them!
-# Activating AB-particles!
-Activating AB-particles!
+#$ Sabotaging enemy's shields.
+Saboteando los escudos del enemigo.
+#$ Their defences will not protect them!
+¡Sus defensas no los protegerán!
+#$ Activating AB-particles!
+¡Activando partículas-AB!
 #$ -1000
 -1000
 #$ -1000
@@ -142,72 +142,72 @@ Activating AB-particles!
 -1000
 #$ -1000
 -1000
-# The heathen has been cleansed!
-The heathen has been cleansed!
-# We have prevailed against the enemy!
-We have prevailed against the enemy!
-# The enemy has perished!
-The enemy has perished!
+#$ The heathen has been cleansed!
+¡El bárbaro ha sido eliminado!
+#$ We have prevailed against the enemy!
+¡Hemos prevalecido contra el enemigo!
+#$ The enemy has perished!
+¡El enemigo ha perecido!
 #$ -1000
 -1000
 #$ -1000
 -1000
-# That attack does nothing to stop our will!
-That attack does nothing to stop our will!
-# The Queen protects us!
-The Queen protects us!
+#$ That attack does nothing to stop our will!
+¡Ese ataque no hace nada para detener nuestra voluntad!
+#$ The Queen protects us!
+¡La Reina nos protege!
 #$ -1000
 -1000
 #$ -1000
 -1000
 #$ -1000
 -1000
-# Our ship has sustained damage!
-Our ship has sustained damage!
-# The enemy assails us!
-The enemy assails us!
+#$ Our ship has sustained damage!
+¡Nuestra nave ha sufrido daños!
+#$ The enemy assails us!
+¡El enemigo nos asalta!
 #$ -1000
 -1000
 #$ -1000
 -1000
 #$ -1000
 -1000
-# Hull is critical!
-Hull is critical!
-# We shall fight to the death!
-We shall fight to the death!
+#$ Hull is critical!
+¡El casco está crítico!
+#$ We shall fight to the death!
+¡Lucharemos hasta la muerte!
 #$ -1000
 -1000
 #$ -1000
 -1000
 #$ -1000
 -1000
-# My Queen, I have failed you!
-My Queen, I have failed you!
-# Enemy confirmed on fire.
-Enemy confirmed on fire.
-# Feel the might of Ryuvia!
-Feel the might of Ryuvia!
-# Retreat, heathen!
-Retreat, heathen!
-# The enemy has evaded our attack!
-The enemy has evaded our attack!
-# Our laser fails to meet its target!
-Our laser fails to meet its target!
+#$ My Queen, I have failed you!
+¡Mi Reina, le he fallado!
+#$ Enemy confirmed on fire.
+Confirmado enemigo en fuego.
+#$ Feel the might of Ryuvia!
+¡Siente el poder de Ryuvia!
+#$ Retreat, heathen!
+¡Retírense, bárbaros!
+#$ The enemy has evaded our attack!
+¡El enemigo ha evadido nuestro ataque!
+#$ Our laser fails to meet its target!
+¡Nuestro láser falló en encontrar su objetivo!
 #$ -1000
 -1000
-# Performing evasive action!
-Performing evasive action!
-# Burning Ongessite.
-Burning Ongessite.
+#$ Performing evasive action!
+¡Realizando acción evasiva!
+#$ Burning Ongessite.
+Encendiendo Ongessita.
 #$ -1000
 -1000
 #$ -1000
 -1000
 #$ -1000
 -1000
-# Cease your subterfuge and face us!
-Cease your subterfuge and face us!
+#$ Cease your subterfuge and face us!
+¡Cesen su subterfugio y enfréntense a nosotros!
 #$ -1000
 -1000
 #$ -1000
@@ -222,8 +222,8 @@ Cease your subterfuge and face us!
 -1000
 #$ -1000
 -1000
-# We lack the sufficient energy.
-We lack the sufficient energy.
+#$ We lack the sufficient energy.
+Carecemos de la suficiente energía.
 #$ -1000
 -1000
 #$ -1000

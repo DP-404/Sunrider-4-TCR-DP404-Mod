@@ -561,7 +561,7 @@ Movibilidad reducida, +
 #$ RESEARCH AND DEVELOPMENT
 INVESTIGACIÓN Y DESARROLLO
 #$ THE PEOPLE'S ALLIANCE
-ALIANZA DE LAS PERSONAS
+ALIANZA DE LOS PUEBLOS
 #$ THE SOLAR ALLIANCE
 ALIANZA SOLAR
 #$ THE DENARI EXPANSE
@@ -677,7 +677,7 @@ CALIBRACIONES DEL Q-JAMMER: Área de Drones Volantes aumentada
 #$ TWIN DRIVE RESEARCH II: Overdrive order unlocked
 INVESTIGACIÓN DEL NÚCLEO DUAL II: Desbloqueada orden Sobremarcha
 #$ PROTOTYPE MASTERY: Flier Drones simultaneously attack enemies and heal allies
-MAESTRÍA PROTOTIPO: Los Drones Volantes atacan a enemigos y curan a aliados simultáneamente
+MAESTRÍA PROTOTIPO: Drones Volantes atacan enemigos y curan aliados a la vez
 #$ INFINITY: Secret Ending Unlocked
 INFINIDAD: Final Secreto Desbloqueado
 #$ LOST TECHNOLOGY: Sola asks you to find ancient tech
@@ -1017,7 +1017,7 @@ CAPITAL DE LA ALIANZA SOLAR>>>>POBLACIÓN: 42 mil millones + 2 mil millones en �
 #$ SIDE: Shadows of the Future
 LAT: Sombras del Futuro
 #$ Captain Shields: I am sending this message in the hopes that you can assist the Denari people once more. Following the Paladin Incident, I was assigned to investigate the Iron Brotherhood criminal syndicate. My investigation has led me to the location of their kingpin. However, I am embarrassed to admit that I find myself outgunned against these scum. I know together, we will be able to topple this criminal enterprise for good.
-Capitán Shields: Le estoy enviando este mensaje con la esperanza de que puead ayudar a la gente de Denari una vez más. Tras el Incidente de la Paladin, fui asignado a investigar al sindicato criminal de la Hermandad de Hierro. Mi investigación me ha llevado a la ubicación de su jefe. Sin embargo, me avergüenza admitir que me encuentro superado por esta escoria. Sé que juntos, podremos acabar con esta compañia criminal de una vez por todas.
+Capitán Shields: Le estoy enviando este mensaje con la esperanza de que puead ayudar al pueblo Denari una vez más. Tras el Incidente de la Paladin, fui asignada a investigar al sindicato criminal de la Hermandad de Hierro. Mi investigación me ha llevado a la ubicación de su jefe. Sin embargo, me avergüenza admitir que me encuentro superada por esta escoria. Sé que juntos, podremos acabar con esta compañia criminal de una vez por todas.
 #$ SIDE: Human Costs
 LAT: Costos Humanos
 #$ Greetings, Captain Shields. While I bid you farewell from our space not long ago, I am humbled by the reality that I am in need of your assistance once more. With the Mining Union's cooperation, we have expanded the scope of our Ongessite fracking operations. Unfortunately, we have lost contact with one of our mines and every team we have sent to investigate has gone silent. We could offer you a handsome reward if you uncover what has happened...
@@ -1051,7 +1051,7 @@ Armadura +
 #$ ONGESS
 ONGESS
 #$ CLASS 7 ROCKY WORLD>>>>POPULATION: 38 BILLION>>>>Ongess is a filthy world with a long history of colonial exploitation. Ongessite ore can be refined into liquid Ongessite, a valuable commodity used in the construction of high-grade fusion reactors. First conquered by the Holy Ryuvian Empire during the ancient era, then by the New Empire, then most recently caught between the Solar Alliance and PACT in the Neutral Rim War, the citizens of Ongess have essentially been slaves to one galactic power or another for most of its history. Veniczar Fontana has ordered the nationalization of the entire Ongessite industry and promised trillions of credits to fund environmental cleanup and social services. However, corruption throughout the People's Alliance bureaucracy and the more pressing Fleet Modernization Project has only made PACT into Ongess's newest imperial master.
-CLASE 7 MUNDO ROCOSO>>>>POBLACIÓN: 38 MIL MILLONES>>>>Ongess es un asqueroso mundo con una larga historia de explotación colonial. El mineral de Ongessita puede ser refinado en líquido de Ongessita, una valuable mercancía usada en la construcción de reactores de fusión de alto-grado. Primero conquistados por el Sagrado Imperio Ryuvia durante la era antigua, luego por el Nuevo Imperio, después atrapado muy recientemente entre la Alianza y el PACT en la Guerra del Margen Neutral, los ciudadanos de Ongess han sido esencialmente esclavos de un poder galáctico a otro por la mayor parte de su historia. Veniczar Fontana ha ordenado la nacionalización de toda la industria de Ongessita y prometió billones de créditos para financiar la limpieza ambiental y los servicios sociales. Sin embargo, la corrupción por toda la burocracia de la Alianza de las Personas y el más urgente Proyecto de Modernización de la Flota solo han hecho al PACT el nuevo amo imperial de Ongess.
+CLASE 7 MUNDO ROCOSO>>>>POBLACIÓN: 38 MIL MILLONES>>>>Ongess es un asqueroso mundo con una larga historia de explotación colonial. El mineral de Ongessita puede ser refinado en líquido de Ongessita, una valuable mercancía usada en la construcción de reactores de fusión de alto-grado. Primero conquistados por el Sagrado Imperio Ryuvia durante la era antigua, luego por el Nuevo Imperio, después atrapado muy recientemente entre la Alianza y el PACT en la Guerra del Margen Neutral, los ciudadanos de Ongess han sido esencialmente esclavos de un poder galáctico a otro por la mayor parte de su historia. Veniczar Fontana ha ordenado la nacionalización de toda la industria de Ongessita y prometió billones de créditos para financiar la limpieza ambiental y los servicios sociales. Sin embargo, la corrupción por toda la burocracia de la Alianza de los Pueblos y el más urgente Proyecto de Modernización de la Flota solo han hecho al PACT el nuevo amo imperial de Ongess.
 #$ FORMOTTI
 FORMOTTI
 #$ UNCHARTED>>>>An uncharted nebula of little note, the Formotti Nebula is seldom visited by travelers. A large number of asteroids, ice meteors, and space garbage orbit the protostar at the center of the nebula, caught in its gravitational field.

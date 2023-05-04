@@ -1,13 +1,13 @@
-# Hey, I'm flying naked here!
-Hey, I'm flying naked here!
-# Are you our support?
-Are you our support?
-# I've gotta get out of here!
-I've gotta get out of here!
-# Mayday, mayday!
-Mayday, mayday!
-# I wasn't trained for this!
-I wasn't trained for this!
+#$ Hey, I'm flying naked here!
+¡Hey, estoy volando aquí!
+#$ Are you our support?
+¿Son ustedes nuestra ayuda?
+#$ I've gotta get out of here!
+¡Tengo que salir de aquí!
+#$ Mayday, mayday!
+¡SOS, SOS!
+#$ I wasn't trained for this!
+¡No fui entrenado para esto!
 #$ -1000
 -1000
 #$ -1000
@@ -18,26 +18,26 @@ I wasn't trained for this!
 -1000
 #$ -1000
 -1000
-# I got it!
-I got it!
-# I'm moving to position!
-I'm moving to position!
-# I hope you know what you're doing!
-I hope you know what you're doing!
-# Copy that.
-Copy that.
-# I knew I should have gone to dental school instead.
-I knew I should have gone to dental school instead.
-# I can't die yet... Not until I see Aki-chan at the Dome...!
-I can't die yet... Not until I see Aki-chan at the Dome...!
-# Moving to coordinates.
-Moving to coordinates.
-# I'm on the move!
-I'm on the move!
-# I hope corporate's paying me hazard pay for this!
-I hope corporate's paying me hazard pay for this!
-# I hope this thing's insured! Okay, here we go!
-I hope this thing's insured! Okay, here we go!
+#$ I got it!
+¡Lo tengo!
+#$ I'm moving to position!
+¡Moviéndome a la posición!
+#$ I hope you know what you're doing!
+¡Espero que sepas lo que estás haciendo!
+#$ Copy that.
+Copiado.
+#$ I knew I should have gone to dental school instead.
+Sabía que debería haber ido a una escuela dental en cambio.
+#$ I can't die yet... Not until I see Aki-chan at the Dome...!
+No puedo morir todavía... ¡No hasta ver a Aki-chan en el Domo...!
+#$ Moving to coordinates.
+Moviéndome a las coordenadas.
+#$ I'm on the move!
+¡Estoy en movimiento!
+#$ I hope corporate's paying me hazard pay for this!
+¡Espero que la corporación me pague por este peligro!
+#$ I hope this thing's insured! Okay, here we go!
+¡Espero que esta cosa esté asegurada! ¡Bien, aquí vamos!
 #$ -1000
 -1000
 #$ -1000
@@ -152,38 +152,38 @@ I hope this thing's insured! Okay, here we go!
 -1000
 #$ -1000
 -1000
-# Ack! They got me!
-Ack! They got me!
-# They clipped me!
-They clipped me!
+#$ Ack! They got me!
+¡Ack! ¡Me atraparon!
+#$ They clipped me!
+¡Me atacaron!
 #$ -1000
 -1000
 #$ -1000
 -1000
 #$ -1000
 -1000
-# Oy, where's our support?!
-Oy, where's our support?!
-# Ack, this ship wasn't built for this!
-Ack, this ship wasn't built for this!
+#$ Oy, where's our support?!
+¡¿Oy, dónde está nuestra ayuda?!
+#$ Ack, this ship wasn't built for this!
+¡Ack, esta nave no fue construida para esto!
 #$ -1000
 -1000
 #$ -1000
 -1000
 #$ -1000
 -1000
-# Aaah, I knew I should have listened to dad and become a dentist!
-Aaah, I knew I should have listened to dad and become a dentist!
-# This it! I'm gonna die!!
-This it! I'm gonna die!!
+#$ Aaah, I knew I should have listened to dad and become a dentist!
+¡Aaah, sabía que debía haber escuchado a mi papá y haberme vuelto un dentista!
+#$ This it! I'm gonna die!!
+¡Este es el fin! ¡¡Voy a morir!!
 #$ -1000
 -1000
 #$ -1000
 -1000
 #$ -1000
 -1000
-# Ah nooo!!!
-Ah nooo!!!
+#$ Ah nooo!!!
+¡¡¡Ah nooo!!!
 #$ -1000
 -1000
 #$ -1000
@@ -206,8 +206,8 @@ Ah nooo!!!
 -1000
 #$ -1000
 -1000
-# My electronics all just shut off!
-My electronics all just shut off!
+#$ My electronics all just shut off!
+¡Todos mis electrónicos se acaban de apagar!
 #$ -1000
 -1000
 #$ -1000
@@ -222,8 +222,8 @@ My electronics all just shut off!
 -1000
 #$ -1000
 -1000
-# My ship doesn't have enough power for that!
-My ship doesn't have enough power for that!
+#$ My ship doesn't have enough power for that!
+¡Mi nave no tiene suficiente energía para eso!
 #$ -1000
 -1000
 #$ -1000

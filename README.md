@@ -19,9 +19,17 @@ It consists on a Spanish translation of the game.
 
 # Changelog
 
+## Beta v0.2
+
+### Changes
+- Translated Chapter 4
+- Translated Civilian, Cruiser, Lancer, Lore (partial)
+- Fixed UI, Lore
+- Fixed Qisah
+
 ## Beta v0.1
 
 ### Changes
 - Translated Chapter 1, 2, 3 (not checked), 8 (not checked)
 - Translated Intro, Lore (partial), Names, UI, Shipnames
-- Translated Asaga, Ava, Claude, Gunship, Icari, Kryska, Lynn, Quisah, Sola
+- Translated Asaga, Ava, Claude, Gunship, Icari, Kryska, Lynn, Qisah, Sola
