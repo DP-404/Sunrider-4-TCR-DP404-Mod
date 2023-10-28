@@ -1,6 +1,6 @@
 # Sunrider 4 TCR DP404 Mod
 # What is DP404 Mod?
-This is a localization mod for the visual novel [Sunrider 4: The Captain's Return](https://store.steampowered.com/app/2251620/Sunrider_4_The_Captains_Return/) v1.2.04 developed by [Love In Space](https://forum.loveinspace.moe/).
+This is a localization mod for the visual novel [Sunrider 4: The Captain's Return](https://store.steampowered.com/app/2251620/Sunrider_4_The_Captains_Return/) v1.2.06 developed by [Love In Space](https://forum.loveinspace.moe/).
 
 It consists on a Spanish translation of the game. 
 
@@ -8,7 +8,7 @@ It consists on a Spanish translation of the game.
 - Spanish language localization to be inserted into the game.
 
 # How to install?
-- Install Sunrider 4: The Captain's Return v1.2.04
+- Install Sunrider 4: The Captain's Return v1.2.06
 - Download the [latest version of DP404 Mod](https://github.com/DP-404/Sunrider-4-TCR-DP404-Mod/releases).
 - Copy `"Spanish_###.txt"` files into your game folder.
 - Copy `"Localization"` folder into `"C:/Users/{Your User}/AppData/Local/Sunrider_4_The_Captains_Return/"`.
@@ -19,6 +19,16 @@ It consists on a Spanish translation of the game.
 
 # Changelog
 
+## Alpha v1.0 (updated to v1.2.06)
+
+### Changes
+- Full translation finished.
+- Full check finished (isolated errors/typos may still remain).
+- Translated Chapter 5, 6, 7, 8, 9, 10.
+- Translated Cosette, Lore.
+- Fixed Chapter 1, 2, 3, 4.
+- Fixed UI, Lore, Names.
+
 ## Beta v0.2
 
 ### Changes
@@ -27,7 +37,7 @@ It consists on a Spanish translation of the game.
 - Fixed UI, Lore
 - Fixed Qisah
 
-## Beta v0.1
+## Beta v0.1 (based on v1.2.04)
 
 ### Changes
 - Translated Chapter 1, 2, 3 (not checked), 8 (not checked)
