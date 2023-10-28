@@ -9,25 +9,25 @@ ccc cla_uni
 #$ mus mus_hommage
 mus mus_hommage
 #$ pro Veniczar Fontana's newest, swiftest, greatest victory yet!
-pro ¡La victoria más grande, nueva, y rápida de Veniczar Fontana hasta la fecha!
+pro ¡La victoria más reciente, rápida, y grande de Veniczar Fontana hasta la fecha!
 #$ pro Citizens of the galaxy were terrified to learn that the ancient Ryuvian warlord, Crow Harbor, had arrived in our time!
-pro ¡Ciudadanos de la galaxia estuvieron aterrorizados al saber que el antiguo señor de la guerra Ryuviano, Crow Harbor, había llegado a nuestra época!
+pro ¡Los, ciudadanos de la galaxia estaban aterrorizados al saber que el antiguo señor de la guerra Ryuviano, Crow Harbor, había llegado a nuestra era!
 #$ pro The evil dictator from another age used a time machine in a dastardly bid to take over an unsuspecting galaxy!
-pro ¡El malvado dictador de otra era usó una máquina del tiempo en un intento cobarde de tomar una galaxia desprevenida!
+pro ¡El malvado dictador de otra época usó una máquina del tiempo en un intento cobarde de tomar una galaxia desprevenida!
 #$ pro Thankfully, the brave men and women of the Crimson Fleet were more than prepared to take on the ancient Ryuvian threat!
 pro ¡Por suerte, los valientes hombres y mujeres de la Flota Carmesí estaban más que preparados para enfrentarse a la antigua amenaza Ryuviana!
 #$ pro Upon discovering the arrival of Crow Harbor's fleet, Veniczar Fontana took decisive action in defending all of humanity, while the defeated imperialists of Solaris cowered at Far Port!
 pro ¡Tras descubrir la llegada de la flota de Crow Harbor, Veniczar Fontana realizó una acción decisiva en defensa de toda la humanidad, mientras que los derrotados imperialistas de Solaris se acobardaban en Far Port!
 #$ pro The Crimson Fleet met Crow Harbor's mighty flagship, the Imperium in combat! Not even the ancient Ryuvian warship, with all of its vaunted Lost Technology, stood a match against the combined will of the People's Alliance! The Imperium was sunk, and Crow Harbor lost his life in the battle!
-pro ¡La Flota Carmesí se enfrentó a la poderosa nave insignea de Crow Harbor, el Imperium en combate! ¡Ni siquiera la antigua nave de batalla Ryuviana, con toda su alardeante Tecnología Perdida, supuso un reto contra la voluntad combinada de la Alianza de los Pueblos! ¡El Imperium fue hundido, y Crow Harbor perdió su vida en la batalla!
+pro ¡La Flota Carmesí se enfrentó a la poderosa nave insignia de Crow Harbor, el Imperium, en combate! ¡Ni siquiera la antigua nave de batalla Ryuviana, con toda su alardeante Tecnología Perdida, supuso un reto contra la voluntad combinada de la Alianza de los Pueblos! ¡El Imperium fue hundido, y Crow Harbor perdió su vida en la batalla!
 #$ pro What's more! Veniczar Fontana discovered that infamous war criminal, and lover of Prototypes, Kayto Shields had vowed his allegiance to Crow Harbor, in exchange for lordship of the sovereign world of Cera! Having become Crow Harbor's crony, Shields was apprehended by the People's Alliance to stand judgment for his crimes!
-pro ¡Lo que es más! ¡Veniczar Fontana descubrió que el infame criminal de guerra, y amante de Prototipos, Kayto Shields había jurado su lealtad a Crow Harbor, a cambio de liderar el soberano mundo de Cera! ¡Habiéndose vuelto un amigo de Crow Harbor, Shields fue apresado por la Alianza de los Pueblos para enfrentarse a un juicio por sus crímenes!
+pro ¡Lo que es más! ¡Veniczar Fontana descubrió que el infame criminal de guerra, y amante de Prototipos, Kayto Shields, había jurado su lealtad a Crow Harbor, a cambio de liderar el soberano mundo de Cera! ¡Habiéndose vuelto un amigo de Crow Harbor, Shields fue apresado por la Alianza de los Pueblos para enfrentarse a un juicio por sus crímenes!
 #$ pro Alongside him was his new Prototype lover, whom Veniczar Fontana righteously ordered destroyed at once! The sheer debauchery of Kayto Shields clearly knows neither reason nor sanity!
-pro ¡Junto a él estaba su nueva amante Prototipo, a quien Veniczar Fontana ordenó con justicia destruir de inmediato! ¡El total libertinaje de Kayto Shields claramente no conoce ni razón ni cordura!
+pro ¡Junto a él estaba su nueva amante Prototipo, a quien Veniczar Fontana ordenó con justicia destruir de inmediato! ¡El total libertinaje de Kayto Shields claramente no conoce razón ni cordura!
 #$ pro Sexual deviant and traitor to all of humanity, Kayto Shields, now stands trial for all of his sins! Let his evils be exposed to the galaxy! Let the ugly truth of Kayto Shields be revealed!
 pro ¡El pervertido sexual y traidor de toda la humanidad, Kayto Shields, ahora es llevado a juicio por todos sus pecados! ¡Que sus males sean expuestos a la galaxia! ¡Que la horrible verdad de Kayto Shields sea revelada!
 #$ pro All hail Veniczar Fontana! Vanquisher of Crow Harbor! The prosecutor of Kayto Shields! Hero eternal of the galaxy! The savior of humanity!
-pro ¡Todos alaben a Veniczar Fontana! ¡Vencedor ante Crow Harbor! ¡El acusador de Kayto Shields! ¡Héroe eterno de la galaxia! ¡El salvador de la humanidad!
+pro ¡Todos alaben a Veniczar Fontana! ¡Vencedor de Crow Harbor! ¡El acusador de Kayto Shields! ¡Héroe eterno de la galaxia! ¡El salvador de la humanidad!
 #$ mus stop
 mus stop
 #$ sou sou_static
@@ -71,13 +71,13 @@ fon Shields.
 #$ shi Fontana.
 shi Fontana.
 #$ fon You are hereby accused of: One hundred and thirty charges of fornicating with the enemy. Five hundred, fifty three charges of acts consisting of crimes against humanity. Three hundred and thirty five charges of acts constituting war crimes under the People's Charter.
-fon Por la presente eres acusado de: Ciento treinta cargos de fornicar con el enemigo. Quinientos cincuenta y tres cargos de actos que consisten crímenes contra la humanidad. Trescientos treinta y cinco cargos de actos que constituyen crímenes de guerra bajo la Carta del PACT.
+fon Por la presente eres acusado de: Ciento treinta cargos de fornicar con el enemigo. Quinientos cincuenta y tres cargos de actos que consisten en crímenes contra la humanidad. Trescientos treinta y cinco cargos de actos que constituyen crímenes de guerra bajo la Carta de los Pueblos.
 #$ fon And so on and so forth.
 fon Y así sucesivamente.
 #$ shi You can cut to the chase.
 shi Puedes ir al grano.
 #$ fon The maximum sentence you face is nine thousand, three hundred, ninety two years of cryo-prison. You will be put into suspended animation and injected with drugs which slow down your perception of time, so that you will be able to experience the entire duration of your sentence as if you were fully awake, without being able to age or move a single muscle. After your period of confinement, you will presumably die, from the shock of reanimation.
-fon La máxima sentencia a la que te enfrentas es nueve mil trescientos noventa y dos años de crio-prisión. Serás puesto en animación suspendida e inyectado con drogas que ralentizarán tu percepción del tiempo, por lo que serás capaz de experimentar toda la duración de tu sentencia como si estuvieras completamente despierto, sin ser capaz de envejecer o mover un solo músculo. Luego de tu período de confinamiento, probablemente morirás, por el impacto de la reanimación.
+fon La máxima sentencia que enfrentas es nueve mil trescientos noventa y dos años de crio-prisión. Serás puesto en animación suspendida e inyectado con drogas que disminuirán tu percepción del tiempo, así que serás capaz de experimentar toda la duración de tu sentencia como si estuvieras totalmente despierto, sin ser capaz de envejecer o mover un solo músculo. Luego de tu período de confinamiento, posiblemente morirás, del impacto de la reanimación.
 #$ fon Do you have any questions, Shields?
 fon ¿Tienes alguna pregunta, Shields?
 #$ shi This is all a charade. You intend to try me in a kangaroo court, where you're the prosecutor, judge, and executioner. This isn't a court of law. It's nothing but a political theater you intend to put on for the sake of legitimizing your dictatorship!
@@ -91,7 +91,7 @@ fon Oh no, Shields. Yo no deseé que nada de esto ocurriera.
 #$ fon You brought upon all of this by your own actions.
 fon Tú trajiste todo esto sobre tí por tus propias acciones.
 #$ fon You chose to pursue Crow Harbor. You committed yourself, your crew, and your ship. But did you have any chance of victory? What were your strategic assets? A rag tag crew? A single ship, provided to you out of pity, by the ruler of a backwater nation? Would such tactics ever win the day? And here, I thought you a strategic genius. But you are merely a fool.
-fon Elejiste perseguir a Crow Harbor. Se arriesgaste, a tu tripulación, y a tu nave. ¿Pero tenías alguna posibilidad de victoria? ¿Cuáles eran tus recursos estratégicos? ¿Una harapienta tripulación? ¿Una sola nave, entregada a tí por lástima, por la gobernante de una nación olvidada? ¿Tales tácticas llegarían a ganar el día? Y yo aquí, pensaba que eras un genio estratégico. Pero eres meramente un tonto.
+fon Elejiste perseguir a Crow Harbor. Te arriesgaste a tí mismo, a tu tripulación, y a tu nave. ¿Pero tenías alguna posibilidad de victoria? ¿Cuáles eran tus recursos estratégicos? ¿Una harapienta tripulación? ¿Una sola nave, entregada a tí por lástima, por la gobernante de una nación olvidada? ¿Tales tácticas llegarían a ganar el día? Y yo aquí, pensaba que eras un genio estratégico. Pero eres meramente un tonto.
 #$ fon You were desperate Shields. And reckless, just as you always were. And that led you to make one mistake after another, which you covered up again and again with your grand deception: That you were still the hero. When you were merely a desperate failure, grasping for one, last, stupid, impossible chance at salvation.
 fon Estabas desesperado Shields. Y fuiste imprudente, al igual que siempre lo fuiste. Y eso te llevó a cometer un error detrás de otro, los cuales cubrías una y otra vez con tu gran decepción: Que todavía eras el héroe. Cuando eras simplemente un fallo desesperado, aferrándose a una, última, estúpida, e imposible posibilidad de salvación.
 #$ fon You think I am the dictator? The cruel, merciless tyrant, who would wrongly condemn you, the brave hero, to multiple lifetimes of suffering? All out of some arbitrary, evil, maniacal plot to let darkness prevail? Hahaha!
@@ -145,11 +145,11 @@ shi Argh...
 #$ cha shi_curious
 cha shi_curious
 #$ shi Well... doc. I'm sure you must have an explanation for all this. How did you manage to deceive PACT that you're a famous defense attorney? Are you here to rescue me?
-shi Bueno... doctora. Estoy segurode que debe tener una explicación para todo esto. ¿Cómo lograste engañar al PACT con que eres una famosa abogada defensora? ¿Estás aquí para rescatarme?
+shi Bueno... doctora. Estoy seguro de que debes tener una explicación para todo esto. ¿Cómo lograste engañar al PACT con que eres una famosa abogada defensora? ¿Estás aquí para rescatarme?
 #$ cha cla_pout_funnypout
 cha cla_pout_funnypout
 #$ cla Deceive PACT, my dear captain? Oh la la! Are you implying that my legal credentials are a sham? You hurt me, captain! How could you sling such accusations at poor ol' Claude! You're looking at a fully licensed practitioner of the law! Tada! Here's my bar card!
-cla ¿Engañar al PACT, mi querido capitán? ¡Oh la la! ¿Estás implicando que mis credenciales legales son falsas? ¡Me heriste, capitán! ¡Cómo pudiste arrojar semejantes acusaciones a la pobre Claude! ¡Estás mirando a una completamente licenciada practicante de la ley! ¡Tadá! ¡Aquí está mi carta!
+cla ¿Engañar al PACT, mi querido capitán? ¡Oh la la! ¿Estás insinuando que mis credenciales legales son falsas? ¡Me heriste, capitán! ¡Cómo pudiste arrojar semejantes acusaciones a la pobre Claude! ¡Estás mirando a una completamente licenciada practicante de la ley! ¡Tadá! ¡Aquí está mi carta!
 #$ cha shi_madgroan
 cha shi_madgroan
 #$ shi Don't be absurd! What kind of bar association would license you to be an attorney?!
@@ -173,7 +173,7 @@ shi ¡No seas absurda! ¡El sistema judicial del PACT es un engaño! ¡La única
 #$ cha cla_armscrossed_sadtalk
 cha cla_armscrossed_sadtalk
 #$ cla Oh no! As an officer of the law, I urge you to respect the judiciary and prepare to have your day at court!
-cla ¡Oh no! ¡Como un oficial de la ley, le insto a que respete el sistema judicial y se prepare para tener su día en la corte!
+cla ¡Oh no! ¡Como un oficial de la ley, te insto a que respetes el sistema judicial y te prepares para tener tu día en la corte!
 #$ cha shi_shout
 cha shi_shout
 #$ shi Don't be stupid! Break me out of this place!
@@ -319,7 +319,7 @@ cha cla_armscrossed_danger
 #$ cla You already know the truth. Aaah, you've known the truth all along.
 cla Tú ya sabes la verdad. Aaah, has sabido la verdad todo el tiempo.
 #$ cla From the very beginning, you knew that I was the grand puppetmaster. That I would task you with all those exciting, fun filled missions, all for the sake of taking down evil and saving the galaxy. If there was ever a deception, then you were a willing participant in it, hook, line, and sinker.
-cla Desde el mismo comienzo, supiste que yo era la gran titiritera. Que te encomentaría todas esas misiones emocionantes, y llenas de diversión, todo por el bien de derrotar al mal y salvar la galaxia. Si hubo alguna vez un engaño, entonces fuiste un participante voluntario en él.
+cla Desde el mismo comienzo, supiste que yo era la gran titiritera. Que te encomendaría todas esas misiones emocionantes, y llenas de diversión, todo por el bien de derrotar al mal y salvar la galaxia. Si hubo alguna vez un engaño, entonces fuiste un participante voluntario en él.
 #$ cha shi_fury
 cha shi_fury
 #$ shi Me?! Why?!
@@ -327,7 +327,7 @@ shi ¡¿Yo?! ¡¿Por qué?!
 #$ cha cla_pout_concern
 cha cla_pout_concern
 #$ cla Because to live, you must ignore. Aah, if you knew the insignificance of your existence, just how little your decisions actually impact anything in the grand scheme of things, just how utterly microscopically small the size of the... footprint that you leave in history, then how would you pull yourself out of bed each morning?
-cla Porque para vivir, debes ignorar. Aah, si supieras la insignificancia de tu existencia, simplemente cuán poco tus decisiones realmente impactan en el gran esquema de las cosas, simplemente cuán absolutamente y microscópicamente pequeño es el tamaño de... la huella que has dejado en la historia, ¿entonces cómo te levantarías de la cama cada mañana?
+cla Porque para vivir, debes ignorar. Aah, si supieras la insignificancia de tu existencia, simplemente cuán poco tus decisiones realmente impactan en el gran esquema de las cosas, simplemente cuán absoluta y microscópicamente pequeño es el tamaño de... la huella que has dejado en la historia, ¿entonces cómo te levantarías de la cama cada mañana?
 #$ cha shi_fury
 cha shi_fury
 #$ shi No... I remember everything now... It didn't add up... You died during the Battle of Cera... But then you miraculously returned to us after everything, claiming to have used some Lost Technology to teleport yourself before your ryder exploded. But all these coincidences...
@@ -347,7 +347,7 @@ shi Eres la responsable de todo, ¿no? Tú... los trajiste aquí con tu poder. T
 #$ cha cla_handsonhips_focushappy
 cha cla_handsonhips_focushappy
 #$ cla Teehee. Is what you think me to be? A time traveler? A tourist, ooooing and aaaahing at all the sights that space time offers?
-cla Teehee. ¿Es eso lo que crees que soy? ¿Una viajera en el tiempo? ¿Una turista, oohh y aahh de todas las cosas que ofree el espacio tiempo?
+cla Teehee. ¿Es eso lo que crees que soy? ¿Una viajera en el tiempo? ¿Una turista, oohh y aahh de todas las cosas que ofrece el espacio tiempo?
 #$ cha shi_angryshout
 cha shi_angryshout
 #$ shi What else would you be?! What else would explain the... abhorrent power you hold over everything?!
@@ -429,7 +429,7 @@ shi ¡Dame otra oportunidad! ¡¿Este es... solo otro estúpido Final Malo no?! 
 #$ cha shi_fury
 cha shi_fury
 #$ shi Take me to before I enter the World Fountain! Then I'll blow that entire place to kingdom come with the graviton torpedo and get the hell out of there! Then I won't rot in this PACT prison!
-shi ¡Llévame a antes de que entrara a la Fuente del Mundo! ¡Entonces estallaré todo el lugar hasta el reino que venga con el torpedo gravitón y saldré de ese lugar! ¡Así no me pudriré en esta prisión del PACT!
+shi ¡Llévame a antes de que entrara a la Fuente del Mundo! ¡Entonces volaré todo ese lugar por los aires con el torpedo de gravitones y saldré de ese lugar! ¡Así no me pudriré en esta prisión del PACT!
 #$ cha cla_pout_regret
 cha cla_pout_regret
 #$ cla Ah ah ah, now you're asking ol' Claude for a lil' too much at the current stage of our relationship. Once you max out my affection meter, I'll be willing to do all the kinky adult stuff, but right now, you're asking Claude to leave her comfort zone...
@@ -801,7 +801,7 @@ fon ¿Qué elección tenemos en el momento, cuando todo es incierto? No hay form
 #$ cha shi_shout
 cha shi_shout
 #$ shi Give me my choices! Give them to me! It's not fair when everything's... pre-determined! I WANT MY CHOICES!
-shi ¡Dame mis decisiones! ¡Dámelas! ¡No es justo cuando todo está... pre-determinado! ¡QUIERO MIS DECISIONES!
+shi ¡Dame mis decisiones! ¡Dámelas! ¡No es justo cuando todo está... predeterminado! ¡QUIERO MIS DECISIONES!
 #$ hid fon
 hid fon
 #$ hid cla
@@ -1033,7 +1033,7 @@ ccc shi_dirty
 #$ dbg spr_cg01a
 dbg spr_cg01a
 #$ gua Glory to the People's Alliance.
-Gloria a la Alianza de los Pueblos.
+gua Gloria a la Alianza de los Pueblos.
 #$ gua Your name and occupation?
 gua ¿Tu nombre y ocupación?
 #$ shi Kayto Shields. Miner.
@@ -1041,7 +1041,7 @@ shi Kayto Shields. Minero.
 #$ gua Shields, eh? Like the space captain who died a few years back?
 gua Shields, ¿eh? ¿Como el capitán espacial que murió hace unos cuantos años?
 #$ shi Sigh...
-shi Suspiro...
+shi *Suspiro*...
 #$ gua There's still a warrant out for the guy, even though he's probably long dead. Just another two bit criminal who got exactly what he deserved.
 gua Todavía hay una orden de búsqueda por ese tipo, incluso a pesar de que probablemente lleve mucho tiempo muerto. Simplemente otro criminal de quinta que obtuvo exactamente lo que se merecía.
 #$ shi Look, it's not the first time I've been through here. How 'bout you cut through the paperwork and let me get to work?
@@ -1355,7 +1355,7 @@ cha shi_min_angrytalk
 #$ shi It's been years now with no word from anyone. Just... been waiting all this time.
 shi Han pasado años sin ninguna noticia de nadie. Solo... esperando todo este tiempo.
 #$ shi The Sunrider's never going to be reborn.
-shi El Sunrider nunca va a renacer.
+shi El Sunrider nunca renacerá.
 #$ shi It was all a lie. The mission... is lost.
 shi Fue todo una mentira. La misión... está perdida.
 #$ cha shi_min_closedeyesclench
@@ -1525,7 +1525,7 @@ cha cla_squish_heartkitty
 #$ cla I gave you the space adventure you craved. I gave you the escape from your sad little life.
 cla Te di la aventura espacial que ansiabas. Te di la salida de tu triste y pequeña vida.
 #$ cla That is my role as the Canon. Not to make you miserable. Oh no.
-cla Ese es mi papel como el Canon. No volverte miserable. Oh no.
+cla Ese es mi papel como Canon. No volverte miserable. Oh no.
 #$ cla But to give you adventure! Power! Glory!
 cla ¡Sino darte aventura! ¡Poder! ¡Gloria!
 #$ cha shi_sadgroan
@@ -1885,9 +1885,9 @@ dcg spr_chap8_cg5a
 #$ lyn Mmffphfh...!
 lyn ¡Mmffphfh...!
 #$ ga1 How much longer are we going to have to put up with listening to this bitch?
-ga1 ¿Cuánto más vanos a tener que aguantar con escuchar a esta perra?
+ga1 ¿Cuánto más vamos a tener que aguantar con escuchar a esta perra?
 #$ ga2 Fuck. The first woman I've seen in the three years of hell I've been posted here and it's got to be a Prototype... Hey, why don't we teach her a lesson?
-ga2 Diablos. La primera mujer que he visto en los tres años de infierno que he estado postado aquí y tiene que ser un Prototipo... Hey, ¿por qué no le enseñamos una lección?
+ga2 Diablos. La primera mujer que he visto en los tres años de infierno que he estado apostado aquí y tiene que ser un Prototipo... Hey, ¿por qué no le enseñamos una lección?
 #$ ga1 What are you talking about? We have orders to keep her confined at all times!
 ga1 ¿De qué estás hablando? ¡Tenemos órdenes de mantenerla confinada todo el tiempo!
 #$ ga2 How about you grow a pair, rookie? You think you're ever gonna see another bitch on this rock?
@@ -1956,6 +1956,8 @@ por chi_smile
 chi ¡Estoy justo aquí capitán! ¡Vengo a rescatarte!
 #$ hid chi
 hid chi
+#$ cha fon_angryshout
+cha fon_angryshout
 #$ fon If you join the Prototypes, your life is forfeit.
 fon Si te unes a los Prototipos, tu vida está perdida.
 #$ cha shi_closedeyesthink
@@ -1972,6 +1974,8 @@ por chi_focustalkalt
 chi ¡No lo escuches capitán! Ya casi estoy ahí...
 #$ hid chi
 hid chi
+#$ cha fon_angryshout
+cha fon_angryshout
 #$ fon Do not fall for their words! You know this yourself: The Prototypes cannot be trusted! They will speak whatever sweet words are necessary to win your trust! But their endgame is to eradicate humanity! Listen to me, Shields!
 fon ¡No te dejes engañar por sus palabras! Tú mismo sabes esto: ¡No se puede confiar en los Prototipos! ¡Dirán todas las dulces palabras que sean necesarias para ganarse tu confianza! ¡Pero su objetivo es erradicar a la humanidad! ¡Escúchame, Shields!
 #$ cha shi_focus
@@ -1997,7 +2001,7 @@ chi ¡Capitán! ¡Estoy aquí ahora! ¡Todo va a estar bien!
 #$ por fon_angryshout
 por fon_angryshout
 #$ fon Shields! Do not make the same mistake twice! The Prototypes cannot be trusted!
-fon ¡Shields! ¡No cometas el mismo error dos veces! ¡No se puede confiar en los prototipos!
+fon ¡Shields! ¡No cometas el mismo error dos veces! ¡No se puede confiar en los Prototipos!
 #$ hid fon
 hid fon
 #$ hid chi
