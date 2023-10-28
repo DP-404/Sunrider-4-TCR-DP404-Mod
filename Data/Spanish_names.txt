@@ -123,7 +123,7 @@ Piloto Facción Halcón 4
 #$ PACT Officer
 Oficial del PACT
 #$ Library
-Librería
+Biblioteca
 #$ Crystal
 Cristal
 #$ ???

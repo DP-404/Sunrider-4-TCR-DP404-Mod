@@ -61,7 +61,7 @@ voi asa_neu3
 #$ cha asa_fingerpoint_talk
 cha asa_fingerpoint_talk
 #$ asa Well, this is the flagship of Ryuvia Prime, isn't it? Like I said, the commander's the Acting Prime Minister of Cera now. We can just ring her up on the diplomatic channel! Heck, ya coulda done that earlier right from your office!
-asa Bueno, esta es la nave insignea de Ryuvia Prime, ¿no es así? Como dije, la comandante es la Primera Ministra Interina de Cera ahora. ¡Podemos simplemente llamarla por el canal diplomático! ¡Diablos, podías haber hecho eso antes justo desde tu oficina!
+asa Bueno, esta es la nave insignia de Ryuvia Prime, ¿no es así? Como dije, la comandante es la Primera Ministra Interina de Cera ahora. ¡Podemos simplemente llamarla por el canal diplomático! ¡Diablos, podías haber hecho eso antes justo desde tu oficina!
 #$ cha shi_sadclosedeyes
 cha shi_sadclosedeyes
 #$ shi O-Oh... Right. Didn't think it'd be so easy...
@@ -93,7 +93,7 @@ asa Eh sí, creo que escuché al Canciller decir algo acerca de Cera en una sesi
 #$ cha asa_fingerpoint_talk 
 cha asa_fingerpoint_talk 
 #$ asa Fontana's installed the commander, now a renown figure in the Ceran Liberation Movement, to give the upcoming election the appearance of legitimacy. The Acting Prime Minister is there only until the election, so it's not like she has actual power though.
-asa Fontana ha instalado a la comandante, ahora una figura renombrada en el Movimiento de Liberación de Cera, para darle a las próximas elecciones la apariencia de legitimidad. Sin embargo la Primera Ministra Interina está ahí solo hasta las elecciones, así que no es como que tenga verdadero poder.
+asa Fontana ha instalado a la comandante, ahora una figura renombrada en el Movimiento de Liberación de Cera, para darles a las próximas elecciones la apariencia de legitimidad. Sin embargo la Primera Ministra Interina está ahí solo hasta las elecciones, así que no es como que tenga verdadero poder.
 #$ asa Still, with someone like the commander overseeing the election, people will accept the result, whichever way it turns out. Cera's Prime Ministerial election is the first time that a Neutral Rim world will hold an election after Fontana's announcement. If a candidate in support of joining PACT wins, then it's all but certain the other Neutral Rim worlds will follow in line.
 asa Aun así, con alguien como la comandante supervisando las elecciones, la gente aceptará el resultado, comoquiera que resulte. La elección del Primer Ministro de Cera es la primera vez que un mundo del Margen Neutral sostendrá una elección luego del anuncio de Fontana. Si un candidato que apoye unirse al PACT gana, entonces es más que seguro que los otros mundos del Margen Neutral seguirán en fila.
 #$ cha shi_madtalk
@@ -197,7 +197,7 @@ ccc ava_suit
 #$ cha ava_armscrossed_talk 
 cha ava_armscrossed_talk 
 #$ ava I hear you Ryuvia One. This is Prime Minister Crescentia.
-ava Te escucho Ryuvia. Aquí la Primera Ministra Crescentia.
+ava Le escucho Ryuvia Uno. Aquí la Primera Ministra Crescentia.
 #$ cha shi_madtalk 
 cha shi_madtalk 
 #$ shi Ava! It's me! Kayto!
@@ -209,11 +209,11 @@ ava ¿Qué es esto?
 #$ cha shi_madtalk 
 cha shi_madtalk 
 #$ shi I'm on board the Ryuvian flagship along with Asaga and Sola. Listen, there's been a big development. It's hard to believe, but-
-shi Estoy a bordo de la nave insignea Ryuviana junto con Asaga y Sola. Escucha, ha habido una gran situación. Es difícil de creer, pero-
+shi Estoy a bordo de la nave insignia Ryuviana junto con Asaga y Sola. Escucha, ha habido una gran situación. Es difícil de creer, pero-
 #$ cha ava_armup_madtalk 
 cha ava_armup_madtalk 
 #$ ava I'm afraid I have no clue what you may be referring to. May I remind you, misuse of diplomatic channels is a national offense. This line is monitored at all times by security personnel. I have nothing further to add to this matter!
-ava Me temo que no tengo idea de a qué podría estar refiriéndose. Le recuerdo que, el mal empleo de los canales diplomáticos es una ofensa nacional. Esta línea es monitoreada todo el tiempo por personal de seguridad. ¡No tengo nada más que añadir a este asunto! 
+ava Me temo que no tengo idea de a qué podría estarse refiriendo. Debería recordárselo, el mal empleo de los canales diplomáticos es una ofensa nacional. Esta línea es monitoreada todo el tiempo por personal de seguridad. ¡No tengo nada más que añadir a este asunto! 
 #$ sou sou_holoclose
 sou sou_holoclose
 #$ hid ava
@@ -355,7 +355,7 @@ voi lyn_ang4
 #$ cha lyn_handonhip_focustalk 
 cha lyn_handonhip_focustalk 
 #$ lyn Sigh... This mercenary's somewhat of a legend anyways. She even has a fan club? Of mostly women? What's going on here?
-lyn Suspiro... Esta mercenaria es algo así como una leyenda de todas formas. ¿Incluso tiene un club de fans? ¿De mayormente mujeres? ¿Qué está pasando aquí?
+lyn *Suspiro*... Esta mercenaria es algo así como una leyenda de todas formas. ¿Incluso tiene un club de fans? ¿De mayormente mujeres? ¿Qué está pasando aquí?
 #$ cha shi_neu 
 cha shi_neu 
 #$ shi Sounds like we've found her.
@@ -485,7 +485,7 @@ sol Sin embargo a pesar de mi odio por mi padre, volverme la Sharr de Ryuvia fue
 #$ sol And so, I gladly sacrificed my life when the moment came. We cornered Crow Harbor and his fleet to the Mnemosyne System. It was there that I saw an opportunity to end the civil war once and for all.
 sol Y así, sacrifiqué con alegría mi vida cuando el momento llegó. Acorralamos a Crow Harbor y su flota en el Sistema Mnemosyne. Fue ahí que vi la oportunidad de terminar la guerra civil de una vez por todas.
 #$ sol The flagship of the Ryuvian Empire, the Sharr'Lac, had an ultimate ability: The Final Tear. The ship could explode in a massive space-time explosion, obliterating all life within a half light year radius. It was an weapon which could only be used with the payment of my own life.
-sol La nave insignea del Imperio Ryuviano, el Sharr'Lac, poseía una habilidad definitiva: La Final Tear. La nave podía explotar en una masiva explosión espacio-tiempo, borrando toda vida en un radio de medio año luz. Era un arma que solo podía ser usada con el pago de la propia vida.
+sol La nave insignia del Imperio Ryuviano, el Sharr'Lac, poseía una habilidad definitiva: La Final Tear. La nave podía explotar en una masiva explosión espacio-tiempo, borrando toda vida en un radio de medio año luz. Era un arma que solo podía ser usada con el pago de la propia vida.
 #$ cha sol_side_sadclosedeyestalk
 cha sol_side_sadclosedeyestalk
 #$ sol As I activated the Final Tear, I closed my eyes... and was enveloped by light. And I thought the next sight I would behold would be the infinite meadows of Heaven.
@@ -589,7 +589,7 @@ cha shi_sadsmile
 #$ shi Not really something... Just having a hard time believing any of this is happening.
 shi No realmente un problema... Solo teniendo un mal rato creyendo que todo esto está sucediendo.
 #$ shi Just a few days ago, I was living out of a trailer in the middle of nowhere. Now, I'm here, captaining the flagship of the Ryuvian Kingdom... What's more, I've now been commissioned as an officer of the Ryuvian fleet by the head of state herself. Which is you.
-shi Hace solo unos pocos días, estaba viviendo en un remolque en el medio de la nada. Ahora, estoy aquí, capitaneando la nave insignea del Reino Ryuviano. Y lo que es más, he sido nombrado como un oficial de la flota Ryuviana por la líder del estado en persona. La cual eres tú.
+shi Hace solo unos pocos días, estaba viviendo en un remolque en el medio de la nada. Ahora, estoy aquí, capitaneando la nave insignia del Reino Ryuviano. Y lo que es más, he sido nombrado como un oficial de la flota Ryuviana por la líder del estado en persona. La cual eres tú.
 #$ shi Guess I'm working for you now, Asaga. I'm not much to look at, but I'll do what I can.
 shi Supongo que estoy trabajando para tí ahora, Asaga. No tengo mucho que mostrar, pero haré lo que pueda.
 #$ voi asa_neu3
@@ -741,7 +741,7 @@ voi lyn_ang4
 #$ cha lyn_armscrossed_sigh 
 cha lyn_armscrossed_sigh 
 #$ lyn Sigh...
-lyn Suspiro...
+lyn *Suspiro*...
 #$ voi lyn_sad4
 voi lyn_sad4
 #$ cha lyn_armscrossed_sad 
@@ -799,7 +799,7 @@ voi lyn_ang4
 #$ cha lyn_armscrossed_sigh 
 cha lyn_armscrossed_sigh 
 #$ lyn Sigh... You're really the worst, you know.
-lyn Suspiro... Eres realmente el peor, sabes.
+lyn *Suspiro*... Eres realmente el peor, sabes.
 #$ cha shi_confusethink 
 cha shi_confusethink 
 #$ shi Me?
@@ -833,7 +833,7 @@ voi lyn_neu6
 #$ cha lyn_handup_talk 
 cha lyn_handup_talk 
 #$ lyn The FPS-9000-ACS. It regulates the output of the Maray's two cores so that one half of the ship doesn't tear off from the other. Unfortunately, the one we had burned out centuries ago, explaining why the Twin Drives couldn't be operated at anything higher than 15 percent power.
-lyn El EPF-9000-ACS. Regula la salida de los dos núcleos de la Maray de forma que una mitad de la nave no se desgarre de la otra. Desafortunadamente, el que teníamos se había quemado hacía siglos, lo cual explica por qué los Controladores Duales no podían ser operados por encima del 15 por ciento de la energía.
+lyn El EPF-9000-ACS. Regula la salida de los dos núcleos de la Maray de forma que una mitad de la nave no se desgarre de la otra. Desafortunadamente, el que teníamos se había quemado hacía siglos, lo cual explica por qué los Controladores Gemelos no podían ser operados por encima del 15 por ciento de la energía.
 #$ lyn Luckily, we found in Ryuvia's records that another ship with the identical part was put in storage inside a forest moon facility halfway across the Neutral Rim four hundred years ago. Ah, but we couldn't pin point its precise location, and to our great surprise when we got there, the moon populated by... some really big beasts with a taste for manflesh.
 lyn Por suerte, encontramos en los registros de Ryuvia que otra nave con la parte idéntica fue puesta en un almacén dentro de una instalación en una luna boscosa a mitad de camino en el Margen Neutral hace cuatrocientos años. Ah, pero no pudimos establecer su ubicación precisa, y para nuestra gran sorpresa cuando llegamos ahí, la luna estaba poblada por... unas bestias realmente grandes con hambre de carne humana.
 #$ lyn We also had a few run-ins with a certain short-statured space pirate... All in all, Asaga and I had to overcome some serious trials on that moon...
@@ -925,7 +925,7 @@ voi lyn_ang4
 #$ cha lyn_armscrossed_sigh 
 cha lyn_armscrossed_sigh 
 #$ lyn Sigh... I suppose you could put it that way.
-lyn Suspiro... Supongo que podrías ponerlo de esa forma.
+lyn *Suspiro*... Supongo que podrías ponerlo de esa forma.
 #$ cha shi_madtalk 
 cha shi_madtalk 
 #$ shi Did you at least know anything about the Alpha?
@@ -973,7 +973,7 @@ voi lyn_ang4
 #$ cha lyn_armscrossed_sigh 
 cha lyn_armscrossed_sigh 
 #$ lyn Sigh... Shields, I really don't feel like speaking sweet nothings to help you sleep better at night...
-lyn Suspiro... Shields, realmente no me apetece decirte cosas dulces para ayudarte a dormir mejor por la noche...
+lyn *Suspiro*... Shields, realmente no me apetece decirte cosas dulces para ayudarte a dormir mejor por la noche...
 #$ cha shi_sigh 
 cha shi_sigh 
 #$ shi I just want an answer.
@@ -1015,7 +1015,7 @@ shi ¿Pero era su objetivo final que Chigara provocara la Masacre del Día de Li
 #$ cha lyn_handup_annoyedtalk 
 cha lyn_handup_annoyedtalk 
 #$ lyn Sigh, don't ask me about what the endgame was, Shields. I was just a pilot. But to answer your question, no, the Alpha was deeply perturbed by what happened. It was Alice who assumed control of Chigara and assassinated Admiral Harold Grey, triggering the escalation of the Neutral Rim War.
-lyn Suspiro, no me preguntes sobre cuál era el objetivo final, Shields. Yo era solo un piloto. Pero para responder a tu pregunta, no, el Alpha estuvo profundamente molesto por lo que sucedió. Fue Alice quien asumió el control de Chigara y asesinó al Almirante Harold Grey, provocando el escalamiento de la Guerra del Margen Neutral.
+lyn *Suspiro*, no me preguntes sobre cuál era el objetivo final, Shields. Yo era solo un piloto. Pero para responder a tu pregunta, no, el Alpha estuvo profundamente molesto por lo que sucedió. Fue Alice quien asumió el control de Chigara y asesinó al Almirante Harold Grey, provocando el escalamiento de la Guerra del Margen Neutral.
 #$ cha lyn_armscrossed_sigh 
 cha lyn_armscrossed_sigh 
 #$ lyn As for why Alice would do such a thing is beyond the knowledge of the Prototypes... And perhaps even Alpha herself.
@@ -1049,7 +1049,7 @@ voi lyn_ang4
 #$ cha lyn_armscrossed_focustalk 
 cha lyn_armscrossed_focustalk 
 #$ lyn Sigh... Before you leave Shields...
-lyn Suspiro... Antes de irte Shields...
+lyn *Suspiro*... Antes de irte Shields...
 #$ cha shi_neu 
 cha shi_neu 
 #$ shi Lynn?
@@ -1353,7 +1353,7 @@ voi ica_neu4
 #$ cha ica_handsonhips_smirk 
 cha ica_handsonhips_smirk 
 #$ ica Heh, a pocket carrier, huh? And the flagship of the Ryuvian Kingdom. Not quite as armored as your last command, but armed to the tooth. My kind of style.
-ica Heh, un carguero de bolsillo, ¿huh? Y la nave insignea del Reino Ryuviano. No tan armado como la última vez, pero armado hasta los dientes. Mi estilo.
+ica Heh, un carguero de bolsillo, ¿huh? Y la nave insignia del Reino Ryuviano. No tan armado como la última vez, pero armado hasta los dientes. Mi estilo.
 #$ cha shi_smile 
 cha shi_smile 
 #$ shi Welcome aboard the Maray. It's been a while, Icari. Now, I'm sure you want to know what all of this is about...
@@ -1831,7 +1831,7 @@ cla ¡Yay! ¡No te arrepentirás, capitán!
 #$ cha shi_sigh
 cha shi_sigh
 #$ shi (Sigh... I think I'm done here for now. I should acquire what supplies I need for the path ahead then set course out of here.)
-shi (Suspiro... Creo que he terminado aquí por ahora. Deberé adquirir los suministros que necesite para el camino adelante y luego establecer el curso fuera de aquí.)
+shi (*Suspiro*... Creo que he terminado aquí por ahora. Deberé adquirir los suministros que necesite para el camino adelante y luego establecer el curso fuera de aquí.)
 #$ hid shi
 hid shi
 #$ dcg hide
@@ -1923,7 +1923,7 @@ ava (Saludo)
 #$ cha ava_armscrossed_focustalk
 cha ava_armscrossed_focustalk
 #$ ava Welcome back, captain. I see Queen Asaga gave you the privilege of captaining the new flagship of the Ryuvian Kingdom. I imagine something must have happened for you to have come out of exile.
-ava Bienvenido de vuelta, capitán. Veo que la Reina Asaga le dio el privilegio de capitanear la nueva nave insignea del Reino Ryuviano. Imagino que algo debe haber sucedido para que saliera del exilio.
+ava Bienvenido de vuelta, capitán. Veo que la Reina Asaga le dio el privilegio de capitanear la nueva nave insignia del Reino Ryuviano. Imagino que algo debe haber sucedido para que saliera del exilio.
 #$ cha shi_madtalk
 cha shi_madtalk
 #$ shi I've got dire news. Sola and I were attacked by ancient Ryuvian assassin drones on Tydaria: The same drones used by the ancient Ryuvian war lord Crow Harbor during Sola's time. It could only mean one thing: Crow Harbor and his fleet has somehow traveled in time to our age. 
@@ -2061,7 +2061,7 @@ ica ¿Qué? ¡No me mires a mí, no voy a planchar tu uniforme! ¡Hmph!
 #$ cha shi_sadthink
 cha shi_sadthink
 #$ shi (Meanwhile, being the captain of the Ryuvian flagship doesn't mean jack...)
-shi (Mientras tanto, ser el capitán de la nave insignea Ryuviana no es fácil...)
+shi (Mientras tanto, ser el capitán de la nave insignia Ryuviana no es fácil...)
 #$ var icariclaude_add
 var icariclaude_add
 #$ var unlock_ica1
@@ -2103,7 +2103,7 @@ cla ¡Oh, captain! ¡Gracias a dios que estás aquí! ¡Tu pobre e indefensa Cla
 #$ cha shi_madgroan
 cha shi_madgroan
 #$ shi Sigh... What happened?
-shi Suspiro... ¿Qué sucedió?
+shi *Suspiro*... ¿Qué sucedió?
 #$ cha lyn_point_angryshout
 cha lyn_point_angryshout
 #$ lyn I was called here to give a DNA sample for the sake of Prototype research... W-When this pervert tried to jam that obviously non-medical... vibrating apparatus into my... my...
@@ -2153,7 +2153,7 @@ cla ¡Nada de engaños! ¡Solo la verdad!
 #$ cha shi_sigh
 cha shi_sigh
 #$ shi Sigh... Well, get on with it.
-shi Suspiro... Bueno, comienza.
+shi *Suspiro*... Bueno, comienza.
 #$ mus mus_crackingthecode
 mus mus_crackingthecode
 #$ cha cla_armscrossed_talk
@@ -2179,7 +2179,7 @@ cla En lo profundo del Formotti Expanse. ¡Tengo las coordenadas aquí mismo!
 #$ cha shi_closedeyesthink
 cha shi_closedeyesthink
 #$ shi (Sigh. Claude's a fool, but this ancient temple could be useful in our coming battle with Crow. If it's guarded by ancient Ryuvian ryders, it's not going to be easy getting in and out. I should gather my old crew first before investigating this temple.)
-shi (Suspiro. Claude es una tonta, pero este antiguo templo podría ser útil en nuestra próxima batalla con Crow. Si está defendido por antiguos ryders Ryuvianos, no va a ser fácil entrar y salir. Debería reunir a mi antigua tripulación primero antes de investigar este templo.)
+shi (*Suspiro*. Claude es una tonta, pero este antiguo templo podría ser útil en nuestra próxima batalla con Crow. Si está defendido por antiguos ryders Ryuvianos, no va a ser fácil entrar y salir. Debería reunir a mi antigua tripulación primero antes de investigar este templo.)
 #$ cha shi_madtalk
 cha shi_madtalk
 #$ shi I'll save the coordinates in the navi-computer. Once we're ready, we can see for ourselves what this temple holds.
@@ -2551,7 +2551,7 @@ voi lyn_sad3
 #$ cha lyn_armscrossed_bigsigh
 cha lyn_armscrossed_bigsigh
 #$ lyn Sighh... And I suppose it'll be a certain Prototype genius who has to do all the installation work.
-lyn Suspiroo... Y supongo que será cierta genio Prototipo quien tendrá que hacer todo el trabajo de instalación.
+lyn *Suspiroo*... Y supongo que será cierta genio Prototipo quien tendrá que hacer todo el trabajo de instalación.
 #$ voi sol_sur4
 voi sol_sur4
 #$ cha sol_side_sadclosedeyestalk
@@ -2651,7 +2651,7 @@ cha shi_neu
 #$ shi (Sounds like we have the cargo well in hand...)
 shi (Parece que tenemos la carga bien asegurada...)
 #$ shi (Who would have thought the flagship of the Ryuvia kingdom would end up transporting a pack of farm animals?)
-shi (¿Quién habría pensado que la nave insignea del reino de Ryuvia terminaría transportando una bandada de animales de corral?)
+shi (¿Quién habría pensado que la nave insignia del reino de Ryuvia terminaría transportando una bandada de animales de corral?)
 #$ hid shi
 hid shi
 #$ mus mus_drivingtopdown
@@ -3143,7 +3143,7 @@ ccc ica_plugsuit
 #$ por ica_back_annoyed
 por ica_back_annoyed
 #$ ica Sigh... I was afraid this would happen. Mind your head, cap.
-ica Suspiro... Temía que esto sucediera. Agacha tu cabeza, capitán.
+ica *Suspiro*... Temía que esto sucediera. Agacha tu cabeza, capitán.
 #$ hid ica
 hid ica
 #$ mus mus_drivingtopdown
@@ -3193,7 +3193,7 @@ shi Lo siento...
 #$ cha ava_armscrossed_focustalk
 cha ava_armscrossed_focustalk
 #$ ava Sigh... In reality, I imagine the blame lies with me. Most likely, PACT had already figured out my connections to the Resistance and was using me to lure you into a trap. It seems there is nothing further I can accomplish as Acting Prime Minister at this stage, in any matter.
-ava Suspiro... En realidad, creo que la culpa descansa conmigo. Lo más probable, es que el PACT ya hubiera averiguado mis coneciones con la Resistencia y estuviera usándome para atraerlo a una trampa. Parece que no hay nada más que pueda lograr como Primera Ministra Interina a estas alturas, de cualquier forma.
+ava *Suspiro*... En realidad, creo que la culpa descansa conmigo. Lo más probable, es que el PACT ya hubiera averiguado mis coneciones con la Resistencia y estuviera usándome para atraerlo a una trampa. Parece que no hay nada más que pueda lograr como Primera Ministra Interina a estas alturas, de cualquier forma.
 #$ por lyn_handup_focustalk
 por lyn_handup_focustalk
 #$ lyn Oy, I'd hate to interrupt your reunion, but we've got PACT ships closing in on us from every direction! We gotta get the hell outta here!
@@ -3215,7 +3215,7 @@ ccc lyn_uni
 #$ por lyn_handup_focustalk
 por lyn_handup_focustalk
 #$ lyn I've got the Twin Drives up to 99.7 percent capacity! Get us the hell out of here or else you won't even be able to pat me on the back for that new record!
-lyn ¡Tengo los Controladores Duales al 99.7 por ciento de su capacidad! ¡Sácanos de aquí o de lo contrario no serás capaz de palmearme la espalda de nuevo!
+lyn ¡Tengo los Controladores Gemelos al 99.7 por ciento de su capacidad! ¡Sácanos de aquí o de lo contrario no serás capaz de palmearme la espalda de nuevo!
 #$ hid lyn
 hid lyn
 #$ cha shi_madtalk
@@ -3229,7 +3229,7 @@ ava Naves del PACT, entrando. Cientos de ellas.
 #$ cha shi_madtalk
 cha shi_madtalk
 #$ shi Don't worry, we can still out run them. Helm, get us out of Cera's gravity well. Redirect everything we've got to the engines. Don't worry about fighting them. Lynn, think you can get us a little more juice?
-shi No te preocupes, todavía podemos pasarles de largo. Timonel, sácanos del campo de gravedad de Cera. Redirije todo lo que tenemos a los motores. No te preocupes por luchar con ellos. Lynn, ¿crees que puedas darnos un poco más de jugo?
+shi No te preocupes, todavía podemos pasarles de largo. Timonel, sácanos del campo de gravedad de Cera. Redirige todo lo que tenemos a los motores. No te preocupes por luchar con ellos. Lynn, ¿crees que puedas darnos un poco más de jugo?
 #$ por lyn_armsonhips_madtalk
 por lyn_armsonhips_madtalk
 #$ lyn What do you think I'm already trying to do here?!
@@ -3417,7 +3417,7 @@ kuu Heh. Así que tú eres la Sharr de Ryuvia. Junto con el Demonio de Far Port.
 #$ cha asa_bendover_madshout
 cha asa_bendover_madshout
 #$ asa It's the Crimson Wolf! What's she doing here?!
-asa ¡Es el Lobo Carmesí! ¡¿Qué está haciendo aquí?!
+asa ¡Es la Loba Carmesí! ¡¿Qué está haciendo aquí?!
 #$ hid asa
 hid asa
 #$ cha kuu_shout

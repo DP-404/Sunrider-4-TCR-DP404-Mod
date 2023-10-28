@@ -91,7 +91,7 @@ tri Notables de-méritos incluyen la destrucción no deseada de propiedad comerc
 #$ cha shi_sadgroan
 cha shi_sadgroan
 #$ shi Sigh... So in the end, hardly anything was worth it.
-shi Suspiro... Así que al final, casi nada valió la pena.
+shi *Suspiro*... Así que al final, casi nada valió la pena.
 #$ cha tri_frustrated
 cha tri_frustrated
 #$ tri Such is the service for a Denari.
@@ -227,7 +227,7 @@ dec No nos pagan lo suficiente por esta basura.
 #$ cha shi_resigned
 cha shi_resigned
 #$ shi Sigh. We've done all that we can here. Do what you will.
-shi Suspiro. Hemos hecho aquí todo lo que podemos. Hagan lo que consideren.
+shi *Suspiro*. Hemos hecho aquí todo lo que podemos. Hagan lo que consideren.
 #$ hid shi
 hid shi
 #$ dbg hide
@@ -383,7 +383,7 @@ voi lyn_ang4
 #$ por lyn_handonhip_closedeyessadtalk
 por lyn_handonhip_closedeyessadtalk
 #$ lyn Sigh... I was afraid of that.
-lyn Suspiro... Eso me temía.
+lyn *Suspiro*... Eso me temía.
 #$ voi lyn_neu8
 voi lyn_neu8
 #$ por lyn_armscrossed_focustalk
@@ -609,7 +609,7 @@ joh Así que me temo que voy a tener que pedirle que elimine esos registros.
 #$ cha shi_resigned
 cha shi_resigned
 #$ shi Sigh...
-shi Suspiro...
+shi *Suspiro*...
 #$ cha shi_sigh
 cha shi_sigh
 #$ shi I've completed the mission. Do as you will.
@@ -1055,7 +1055,7 @@ shi Heh, no me meteré en muchos problemas.
 #$ cha ava_facepalm_reminisce
 cha ava_facepalm_reminisce
 #$ ava Sigh... I best double check the tracking device is still transmitting.
-ava Suspiro... Mejor vuelvo a revisar que el dispositivo rastreador todavía esté transmitiendo.
+ava *Suspiro*... Mejor vuelvo a revisar que el dispositivo rastreador todavía esté transmitiendo.
 #$ cha shi_surprise
 cha shi_surprise
 #$ shi T-Tracking device? Since when?!
@@ -1145,7 +1145,7 @@ voi lyn_hap1
 #$ cha lyn_armscrossed_confidentgrin
 cha lyn_armscrossed_confidentgrin
 #$ lyn Besides, I was planning to use this chance to dig a bit deeper into the Maray's Twin Drives.
-lyn Aparte, estaba planeando aprovechar esta oportunidad para indagar un poco más en los Controladores Duales de la Maray.
+lyn Aparte, estaba planeando aprovechar esta oportunidad para indagar un poco más en los Controladores Gemelos de la Maray.
 #$ voi asa_sad3
 voi asa_sad3
 #$ cha asa_armup_sad
@@ -1211,7 +1211,7 @@ voi sol_sad2
 #$ cha sol_side_sigh
 cha sol_side_sigh
 #$ sol Sigh... The serenity of Far Port's oceans would have been preferable...
-sol Suspiro... La serenidad de los océanos de Far Port habrían sido preferibles...
+sol *Suspiro*... La serenidad de los océanos de Far Port habrían sido preferibles...
 #$ voi ica_hap1
 voi ica_hap1
 #$ cha asa_excited_kittyfocus
@@ -1567,7 +1567,7 @@ asa ¡Lo sé! Pero sabes, estamos en una misión. ¡Y como dije, soy la Reina de
 #$ cha ica_back_funnytsun, blush
 cha ica_back_funnytsun, blush
 #$ ica Sigh... You Ryuvians are so old fashioned...
-ica Suspiro... Ustedes los Ryuvianos están tan pasados de moda...
+ica *Suspiro*... Ustedes los Ryuvianos están tan pasados de moda...
 #$ cha sol_front_closedeyesslight, blush
 cha sol_front_closedeyesslight, blush
 #$ sol U-uggnnugnn...
@@ -1651,7 +1651,7 @@ shi Una vez me contaste que planeabas renunciar y comenzar reformas democrática
 #$ voi asa_sad2
 voi asa_sad2
 #$ asa Sigh... Well, ya don't just toss away millions of years of history with a hand wave and call it a day.
-asa Suspiro... Bueno, no puedes simplemente arrojar millones de años de historia con la mano e irte a dormir.
+asa *Suspiro*... Bueno, no puedes simplemente arrojar millones de años de historia con la mano e irte a dormir.
 #$ cha asa_fingerpoint_focustalk
 cha asa_fingerpoint_focustalk
 #$ asa The real reason why I can't step down is because Ryuvia Prime needs me. There're some real bad guys lurking in the shadows right now, lemme tell ya that. The Neutral Rim War's brought out the worst in some folk. Bad guys who'll do some real hurt to everyone.
@@ -1991,7 +1991,7 @@ voi ava_ang1
 #$ cha ava_facepalm_annoyed
 cha ava_facepalm_annoyed
 #$ ava Sigh...
-ava Suspiro...
+ava *Suspiro*...
 #$ cha ava_armup_madtalk
 cha ava_armup_madtalk
 #$ ava Yes, I have been turning a blind eye to some of your minor lapses of diligence. And that of the crew as well. Is that an issue, captain?
@@ -2299,7 +2299,7 @@ voi cla_sad1
 #$ cha cla_pout_funnysigh
 cha cla_pout_funnysigh
 #$ cla Sigh...
-cla Suspiro...
+cla *Suspiro*...
 #$ cha shi_focus
 cha shi_focus
 #$ shi Just how did you get out of that little mishap during the Battle of Cera alive anyways? Did you really just happen to have an ancient Ryuvian device that let you conveniently teleport to safety when the Bianca exploded?
@@ -2337,7 +2337,7 @@ voi cla_sad1
 #$ cha cla_pout_sadtalk
 cha cla_pout_sadtalk
 #$ cla Sigh... Well, if you're going to go that far, I suppose I should tell you the truth...
-cla Suspiro... Bueno, si vas a ir tan lejos, supongo que debería contarte la verdad...
+cla *Suspiro*... Bueno, si vas a ir tan lejos, supongo que debería contarte la verdad...
 #$ cha shi_focus
 cha shi_focus
 #$ shi The truth?
@@ -2573,7 +2573,7 @@ shi (No pudo haber sido ella. Yo... debo de haber tomado demasiado de nuevo. ¿M
 #$ cha shi_sadgroan
 cha shi_sadgroan
 #$ shi (What's gotten into me... Sigh.)
-shi (Qué me ha pasado... Suspiro.)
+shi (Qué me ha pasado... *Suspiro*.)
 #$ shi (These lights... the sea of people... the noises. It'd be so easy to just fade away... and disappear. Into the vast, faceless, nameless ocean of neon...)
 shi (Estas luces... el mar de personas... los ruidos. Sería fácil solamente desvanecerse... y desaparecer. En el vasto, sin rostro, y sin nombre océano de neón...)
 #$ por mir_hat_sad
@@ -4343,7 +4343,7 @@ shi Al final, no era un agente del PACT. Debería ser recordada como una patriot
 #$ cha gre_focus
 cha gre_focus
 #$ gre Sigh...
-gre Suspiro...
+gre *Suspiro*...
 #$ cha gre_fist_neutalk
 cha gre_fist_neutalk
 #$ gre With both Storn and Kryska gone, it seems the immediate threat has been neutralized, at least. Their remaining co-conspirators have all been arrested - and rest assured, they will be questioned thoroughly. We will get to the bottom of this matter.
@@ -4393,7 +4393,7 @@ shi Oh las cosas que todavía le quedan por aprender...
 #$ cha gre_annoyed
 cha gre_annoyed
 #$ gre Sigh. In any matter, your little misadventure in the Solar Alliance has caused an avalanche of paperwork in my office.
-gre Suspiro. De cualquier forma, su pequeña desaventura en la Alianza Solar ha causado una avalancha de papeleo en mi oficina.
+gre *Suspiro*. De cualquier forma, su pequeña desaventura en la Alianza Solar ha causado una avalancha de papeleo en mi oficina.
 #$ cha gre_focustalk
 cha gre_focustalk
 #$ gre At this rate, I really am going to be gray the next time you see me.
@@ -4443,7 +4443,7 @@ shi No. Podremos ser ambos miembros del escuadrón anti-papeleo, pero no hay for
 #$ cha ava_armscrossed_playfultalk, blush
 cha ava_armscrossed_playfultalk, blush
 #$ ava Sigh... Despite the fact that you two complimented each other so perfectly...
-ava Suspiro... A pesar del hecho de que ustedes dos se complementan tan perfectamente...
+ava *Suspiro*... A pesar del hecho de que ustedes dos se complementan tan perfectamente...
 #$ cha shi_surprise
 cha shi_surprise
 #$ shi What? Ava? What are you saying?! Hey-
