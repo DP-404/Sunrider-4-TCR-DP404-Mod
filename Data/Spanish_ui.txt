@@ -701,9 +701,9 @@ LA MARCA DE LA SHARR: Golpea enemigos detrás del objetivo por la mitad del DAÑ
 #$ LEGEND: Secret Ending Unlocked
 LEYENDA: Final Secreto Desbloqueado
 #$ BOUNTY HUNTER: Icari asks you to help collect bounties
-CAZADOR DE RECOMPENSAS: Icari te pide que la ayudes a conseguir recompensas
+CAZARRECOMPENSAS: Icari te pide que la ayudes a conseguir recompensas
 #$ AFTER MARKET: Post-battle repair costs reduced by 15 percent.
-MERCADO POSTERIOR: Costes de reparaciones luego de batallas reducidos en 15%
+MERCADO DE REPUESTOS: Costes de reparaciones luego de batallas reducidos en 15%
 #$ RASENZAN I: Consecutive melee attacks deal 50% more damage
 RASENZAN I: Ataques melee consecutivos provocan 50% más daño
 #$ RASENZAN II: Move again after chaining two or more melee attacks
@@ -1061,7 +1061,7 @@ KRYSKA STARES
 #$ PATRIOT OF THE SWOL-AR ALLIANCE
 PATRIOTA DE LA ALIANZA SWOL-AR
 #$ EXTREMIST REFORMED: Kryska abandons both her helm and political extremism
-EXTREMISTA REFORMADA: Kryska abandona tanto su casco y su extremismo político
+EXTREMISTA REFORMADA: Kryska abandona tanto su casco como su extremismo político
 #$ IRON FURY I: Chance to fire additional kinetic shot when HP is under 50%
 FURIA DE HIERRO I: Posibilidad de lanzar otro disparo kinético con HP bajo el 50%
 #$ SECOND WIND: The Paladin restores 50% of its HP upon death
@@ -1075,7 +1075,7 @@ FURIA DE HIERRO II: Posibilidad de lanzar otro disparo kinético con HP bajo el 
 #$ SHIELD WALL: Boost to armor when under 25% HP
 MURO DE ESCUDO: Aumenta la armadura con HP bajo el 25%
 #$ SPEEDY FRIEND: Chance to evade attacks when near Phoenix
-VELOZ AMIGA: Posibilidad de evadir ataques cerca del Phoenix
+AMIGA FELOZ: Posibilidad de evadir ataques cerca del Phoenix
 #$ SHOCK AND AWE: Weapons deal double damage when at 1 HP
 IMPACTO Y ASOMBRO: Armas provocan doble de daño teniendo 1 HP
 #$ SOLARIS DREAM: Secret Ending Unlocked
@@ -1121,11 +1121,11 @@ Soporte del PACT
 #$ SIDE: Simulacra and Simulation
 LAT: Simulacro y Simulación
 #$ I've got a contract from Wei-Ren Shipping to take out a rogue ex-employee. Let's jack into the Holonet and take care of this digitally.
-Conseguí un contrato con Correos Wei-Ren para extraer a un ex-empleado. Metámonos en la Holonet y hagámonos cargo de esto digitalmente.
+Conseguí un contrato con Correos Wei-Ren para extraer a un ex-empleado descontrolado. Metámonos en la Holonet y hagámonos cargo de esto digitalmente.
 #$ SIDE: Sports Day
 LAT: Día del Deporte
 #$ Captain Alan Grey has invited us to participate in a training exercise at Far Port. What say we teach the Solar Alliance some of our tricks?
-El Capitán Alan Grey nos ha invitado a participar en un ejercicio de entrenamiento en Far Port. ¿Qué dices si le enseñamos a la Alianza Solar algunos de nuestros trucos?
+El Capitán Alan Grey nos ha invitado a participar en un ejercicio de entrenamiento en Far Port. ¿Qué dice si le enseñamos a la Alianza Solar algunos de nuestros trucos?
 #$ SIDE: Who is this sassy, lost child?
 LAT: ¿Quién es esta atrevida>>chica perdida?
 #$ Where the fuck are you, Shields?! I heard that your sorry hide was spotted in the Denari Expanse so I had to pay the toll to pass through the Ryuvian Canal, only to find no trace of you once I got here! Ugh, you better fly back here right now!
@@ -1151,7 +1151,7 @@ LAT: Intervención Ryuviana
 #$ Versta has descended into political chaos after it voted to reject membership in PACT. We've got to get there to save democracy!
 Versta ha caído en el caos político luego de que votó rechazar la membresía del PACT. ¡Tenemos que ir allí para salvar la democracia!
 #$ SIDE: The Empress' New Clothes
-LAT: Las Nuevas Ropas de la Emperatriz
+LAT: El Traje Nuevo de la Emperatriz
 #$ The Neutral Rim is in need of our help. Let's secure Tydaria so that everyone can stay warm during the winter!
 El Margen Neutral necesita nuestra ayuda. ¡Aseguremos Tydaria para que todos puedan mantenerse calientes durante el invierno!
 #$ SIDE: The Scar
@@ -1177,7 +1177,7 @@ DERROTAR A CROW HARBOR
 #$ Finally, we have found the location of Crow Harbor himself. The Lost Fleet is moored at the World Fountain, a refueling station of the ancient age. This may be our toughest mission yet: You best finish all other open missions before embarking on this battle.
 Finalmente, hemos encontrado la ubicación del mismísimo Crow Harbor. La Flota Perdida está atracada en la Fuente del Mundo, una estación de reabastecimiento de combustible de la era antigua. Esta podría ser nuestra misión más difícil hasta ahora: Mejor termine todas las demás misiones abiertas antes de embarcarse en esta batalla.
 #$ Ryuvian Lancer
-Lancero Ryuviano
+Lancer Ryuviano
 #$ Ancient Ryder
 Antiguo Ryder
 #$ Imperium
@@ -1199,7 +1199,7 @@ WIDOW
 #$ DESTROY THE CRIMSON FLEET
 DESTRUIR LA FLOTA CARMESÍ
 #$ It all comes down to this: With the entire Crimson Fleet gathered at the World Fountain, we either detonate the graviton torpedo and destroy all of PACT's ships or Veniczar Fontana gains access to Crow Harbor's Lost Technology. This will be our most difficult battle YET. I trust that you understand the stakes - the fate of humanity hangs in the balance.
-Todo se resuelve aquí: Con toda la Flota Carmesí reunida en la Fuente del Mundo, o detonamos el torpedo gravitón y destruimos todas las naves del PACT o Veniczar Fontana obtiene acceso a la Tecnología Perdida de Crow Harbor. Esta será nuestra batalla más difícil hasta AHORA. Confío en que comprenderá los peligros - el destino de la humanidad cuelga en la balanza.
+Todo se resuelve aquí: Con toda la Flota Carmesí reunida en la Fuente del Mundo, o detonamos el torpedo de gravitones y destruimos todas las naves del PACT o Veniczar Fontana obtiene acceso a la Tecnología Perdida de Crow Harbor. Esta será nuestra batalla más difícil hasta AHORA. Confío en que comprenderá los peligros - el destino de la humanidad cuelga en la balanza.
 #$ RESEARCH
 INVESTIGAR
 #$ QUICK SAVE
@@ -1219,7 +1219,7 @@ DECRETO REAL
 #$ COST: 
 COSTE: 
 #$ SUMMON LANCER
-INVOCAR LANCERO
+INVOCAR LANCER
 #$ SHORT RANGE WARP
 SALTO DE CORTO RANGO
 #$ OVERDRIVE
@@ -1243,7 +1243,7 @@ INVOCAR CAÑONERO
 #$ SUMMON CRUISER
 INVOCAR CRUCERO
 #$ Warp in a Ryuvian Lancer cruiser
-Invoca un crucero Lancero Ryuviano
+Invoca un crucero Lancer Ryuviano
 #$ Instantly relocate the Maray
 Reposiciona instantáneamente a la Maray
 #$ Fully restore the Maray's EN

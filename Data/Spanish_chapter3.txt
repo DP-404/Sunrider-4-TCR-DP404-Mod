@@ -29,11 +29,11 @@ cha shi_smile
 #$ shi Something like that. A technicality the Ryuvian court needed checked off before I could take command of this ship.
 shi Algo así. Un tecnicismo que la corte Ryuviana necesitaba realizar antes de que pudiera tomar el mando de esta nave.
 #$ ava So now you're a Ryuvian noble, in command of their flagship. It sounds like you've had quite the adventure.
-ava Así que ahora es un noble Ryuviano, al mando de su nave insignea. Parece que ha tenido una gran aventura.
+ava Así que ahora es un noble Ryuviano, al mando de su nave insignia. Parece que ha tenido una gran aventura.
 #$ cha shi_closedeyesthink
 cha shi_closedeyesthink
 #$ shi Had no choice. Our nation's under occupation and the Solar Alliance's retreated back to Far Port. Not that they'd help me, considering what I did to their flagship six years ago. Right now, Ryuvia's the only backer we've got.
-shi No tuve elección. Nuestra nación está bajo la ocupación del PACT y la Alianza Solar se ha retirado a Far Port. No es como si ellos pudieran ayudarme, considerando lo que le hice a su nave insignea hace seis años. Ahora mismo, Ryuvia es el único patrocinador que tenemos.
+shi No tuve elección. Nuestra nación está bajo la ocupación del PACT y la Alianza Solar se ha retirado a Far Port. No es como si ellos pudieran ayudarme, considerando lo que le hice a su nave insignia hace seis años. Ahora mismo, Ryuvia es el único patrocinador que tenemos.
 #$ shi This adventure's only just begun.
 shi Esta aventura solo ha comenzado.
 #$ hid shi
@@ -163,7 +163,7 @@ shw ¿Fue usted dentro del Paladin, quien jaló el gatillo para disparar a la na
 #$ kry Yes.
 kry Sí.
 #$ shw And those rounds did hit Airman Johnson's craft?
-shw ¿Y esas rondas golpearon la nave de Airman Johnson?
+shw ¿Y esos disparos golpearon la nave de Airman Johnson?
 #$ kry Yes.
 kry Sí.
 #$ shw And that resulted in enough damage to cripple the craft's life support system, killing him?
@@ -219,7 +219,7 @@ shw Tras la destrucción del Machiavelli Actual, ¿qué le sucedió al resto de 
 #$ kry It retreated.
 kry Se retiró.
 #$ shw Did it retreat because of the overwhelming tactical advantage PACT now possessed, with the destruction of the Alliance flagship?
-shw ¿Se retiró debido a la abrumadora ventaja táctica que el PACT ahora poseía, con la destrucción de la nave insignea de la Alianza?
+shw ¿Se retiró debido a la abrumadora ventaja táctica que el PACT ahora poseía, con la destrucción de la nave insignia de la Alianza?
 #$ hos Objection. Call for speculation.
 hos Protesto. Está especulando.
 #$ shw Expert opinion, your honor.
@@ -227,7 +227,7 @@ shw Opinión de experto, su excelencia.
 #$ jud Overruled. Ms. Stares, please answer.
 jud Anulada. Sta. Stares, por favor conteste.
 #$ kry The Combined Fleet fell into disarray with our flagship's destruction. Once the PACT fleet regrouped, it had no other choice but to retreat.
-kry La Flota Combinada cayó en desorden con la destrucción de nuestra nave insignea. Una vez que la flota del PACT se reagrupó, ella no tuvo otra opción que retirarse.
+kry La Flota Combinada cayó en desorden con la destrucción de nuestra nave insignia. Una vez que la flota del PACT se reagrupó, ella no tuvo otra opción que retirarse.
 #$ shw It, being the Combined Fleet?
 shw ¿Ella, se refiere a la Flota Combinada?
 #$ kry Yes.
@@ -243,7 +243,7 @@ dcg spr_cg26b
 #$ shw Commander Storn. Tell us about yourself.
 shw Comandante Storn. Cuéntenos sobre usted.
 #$ sto I served as the chief engineer on board the flagship of the Combined Fleet, the Machiavelli Actual. My crew's heroism during the liberation of Cera was noted, and I was a guest of honor at the victory ceremony after the battle.
-sto Serví como el ingeniero jefe a bordo de la nave insignea de la Flota Combinada, el Machiavelli Actual. El heroísmo de mi tripulación durante la liberación de Cera fue notado, y fui un invitado de honor en la ceremonia de victoria tras la batalla.
+sto Serví como el ingeniero jefe a bordo de la nave insignia de la Flota Combinada, el Machiavelli Actual. El heroísmo de mi tripulación durante la liberación de Cera fue notado, y fui un invitado de honor en la ceremonia de victoria tras la batalla.
 #$ shw The Machiavelli Actual, being the ship which was armed with the Tactical Paradox Core, and which was destroyed?
 shw ¿El Machiavelli Actual, se refiere a la nave que estuvo armada con el Tactical Paradox Core, y que fue destruida?
 #$ shw Yes.
@@ -577,7 +577,7 @@ kry A juzgar por lo que sucedió previamente en el salón de premiación, creí 
 #$ hos So what did you do?
 hos ¿Así que qué hizo usted?
 #$ kry I did everything in my power to prevent that. I even shot at my fellow soldiers. I covered the Sunrider as it made its approach to our flagship.
-kry Hice todo en mi poder para prevenir eso. Incluso disparé a mis compañeros soldados. Cubrí al Sunrider mientras se aproximaba a nuestra nave insignea.
+kry Hice todo en mi poder para prevenir eso. Incluso disparé a mis compañeros soldados. Cubrí al Sunrider mientras se aproximaba a nuestra nave insignia.
 #$ hos And what would have happened if you had failed?
 hos ¿Y qué habría sucedido de haber fallado usted?
 #$ kry The Tactical Paradox Core would have been detonated. Cera, and its eight billion inhabitants, would have been instantly vaporized. Along with PACT's fleet, and an unknown number of our own ships caught in the detonation.
@@ -1099,7 +1099,7 @@ cos ¡Caapiitáán! ¡Y parece que has logrado reunirte con tu amiga de la infan
 #$ cha shi_resigned
 cha shi_resigned
 #$ shi Sigh... Can we just get this started, Cosette? I've got a lot of other things to attend to...
-shi Suspiro... ¿Podemos simplemente comenzar esto, Cosette? Tengo un montón de otras cosas que atender...
+shi *Suspiro*... ¿Podemos simplemente comenzar esto, Cosette? Tengo un montón de otras cosas que atender...
 #$ voi cos_ang1
 voi cos_ang1
 #$ cha cos_fist_angrynarrowclench
@@ -1257,11 +1257,11 @@ sou sou_holoopen
 #$ cha joh_neutalk
 cha joh_neutalk
 #$ joh Greetings. I am Johanna, the Mar'qui of Trade here on Ferros. Tell me, what brings the flagship of the Ryuvian Kingdom to our lands?
-joh Saludos. Soy Johanna, el Mar'qui de Comercio aquí en Ferros. Cuéntenme, ¿qué trae a la nave insignea del Reino Ryuviano a nuestras tierras?
+joh Saludos. Soy Johanna, el Mar'qui de Comercio aquí en Ferros. Cuéntenme, ¿qué trae a la nave insignia del Reino Ryuviano a nuestras tierras?
 #$ cha shi_neutalk
 cha shi_neutalk
 #$ shi I'm Kayto Shields, captain of the Ryuvian flagship Maray. We come in peace. We come here seeking an Alliance captain, who calls herself the Paladin. 
-shi Soy Kayto Shields, capitán de la nave insignea Ryuviana Maray. Venimos en paz. Venimos aquí buscando a una capitán de la Alianza, que se llama a sí misma la Paladin.
+shi Soy Kayto Shields, capitán de la nave insignia Ryuviana Maray. Venimos en paz. Venimos aquí buscando a una capitán de la Alianza, que se llama a sí misma la Paladin.
 #$ cha joh_confused
 cha joh_confused
 #$ joh Captain... Kayto Shields...
@@ -1277,11 +1277,11 @@ joh Heh, no. Ciertamente no puede ser.
 #$ cha shi_sadthink
 cha shi_sadthink
 #$ shi (Sigh... Considering how much it would complicate things if he knew, I better just leave it at that.)
-shi (Suspiro... Considerando cuán complicadas serían las cosas si lo supiera, mejor solo dejarlo así.)
+shi (*Suspiro*... Considerando cuán complicadas serían las cosas si lo supiera, mejor solo dejarlo así.)
 #$ cha joh_neu
 cha joh_neu
 #$ joh In any matter, I welcome you to the Denari Expanse, captain. It would be our honor to host the flagship of the Ryuvian Kingdom.
-joh En cualquier caso, le doy la bienvenida al Denari Expanse, capitán. Será nuestro honor servirle a la nave insignea del Reino Ryuviano.
+joh En cualquier caso, le doy la bienvenida al Denari Expanse, capitán. Será nuestro honor servirle a la nave insignia del Reino Ryuviano.
 #$ cha joh_focus
 cha joh_focus
 #$ joh As for this Paladin, I'm afraid I know little of her whereabouts. But I hear rumors of an Alliance fleet in orbit around the uninhabited world of Kor'ath. Perhaps that is where you may find this captain.
@@ -1443,7 +1443,7 @@ shi Kor'ath en camino.
 #$ cha ava_armscrossed_worriedclosedeyes
 cha ava_armscrossed_worriedclosedeyes
 #$ ava Captain. We should proceed with caution. While it may have been six years, I doubt the Alliance has forgotten about us destroying their flagship.
-ava Capitán. Deberíamos proceder con cautela. Aunque podrán haber sido seis años, dudo que la Alianza haya olvidado que destruimos su nave insignea.
+ava Capitán. Deberíamos proceder con cautela. Aunque podrán haber sido seis años, dudo que la Alianza haya olvidado que destruimos su nave insignia.
 #$ cha ava_armscrossed_focusthink
 cha ava_armscrossed_focusthink
 #$ cha shi_shout
@@ -1807,7 +1807,7 @@ tri ¡Guardia de honor, deténganse! Escuchemos lo que el Capitán Shields tenga
 #$ cha shi_neutalk
 cha shi_neutalk
 #$ shi We're not some Prototype spy ship. This is the Ryuvian flagship Maray. We come in peace in search of an Alliance captain who goes by the alias of the "Paladin." Kor'ath was already shattered into pieces when we got here and we have no idea how it happened.
-shi No somos una nave espía Prototipo. Esta es la nave insignea Ryuviana Maray. Venimos en paz en búsqueda de una capitán de la Alianza que usa el alias de la "Paladin". Kor'ath ya estaba hecho pedazos cuando llegamos aquí y no tenemos idea de cómo sucedió.
+shi No somos una nave espía Prototipo. Esta es la nave insignia Ryuviana Maray. Venimos en paz en búsqueda de una capitán de la Alianza que usa el alias de la "Paladin". Kor'ath ya estaba hecho pedazos cuando llegamos aquí y no tenemos idea de cómo sucedió.
 #$ cha shi_curious
 cha shi_curious
 #$ shi But maybe the Mining Union drone host parked here can give us some answers.
@@ -1953,7 +1953,7 @@ min Aquí la nave de control de drones de la Unión Minera, número de registro 
 #$ cha shi_focus
 cha shi_focus
 #$ shi Yeah... Just a little training exercise, that's all. I'm Captain Kayto Shields of the Ryuvian flagship Maray. We here in search of an Alliance captain who goes by the name of Paladin, but were surprised to find Kor'ath... gone. My new Denari friends are pretty concerned about their missing planet too.
-shi Sí... Solo un pequeño ejercicio de entrenamiento, eso es todo. Soy el Capitán Kayto Shields de la nave insignea Ryuviana Maray. Venimos en búsqueda de una capitán de la Alianza bajo el nombre de Paladin, pero nos sorprendimos al encontrar a Kor'ath... ido. Mis nuevos amigos Denari están bastante preocupados por su planeta desaparecido también.
+shi Sí... Solo un pequeño ejercicio de entrenamiento, eso es todo. Soy el Capitán Kayto Shields de la nave insignia Ryuviana Maray. Venimos en búsqueda de una capitán de la Alianza bajo el nombre de Paladin, pero nos sorprendimos al encontrar a Kor'ath... ido. Mis nuevos amigos Denari están bastante preocupados por su planeta desaparecido también.
 #$ min Hey Captain, we've got a permit from Solaris to be mining here. You'll have to talk to my supervisors over at the Mining Union for more, 'cause my bosses don't pay me to talk. Now you'll let us go back to work, yes?
 min Hey Capitán, tenemos un permiso de Solaris para estar minando aquí. Tendrás que hablar con mis superiores en la Unión Minera para más, porque mis jefes no me pagan por hablar. Ahora nos dejarás volver al trabajo, ¿sí?
 #$ cha ava_armup_madtalk
@@ -1983,7 +1983,7 @@ min ¿Créditos hechos por Solaris? Los créditos de Solaris no me sirven, no cu
 #$ cha shi_resigned
 cha shi_resigned
 #$ shi Sigh... Come on man, just talk and we can be on our way. You seriously expect us to see an entire planet reduced to space rocks and carry on like nothing's happened?
-shi Suspiro... Vamos hombre, solo dinos y nos marcharemos. ¿En serio esperas que veamos todo un planeta reducido a rocas espaciales y seguir adelante como si nada hubiera pasado?
+shi *Suspiro*... Vamos hombre, solo dinos y nos marcharemos. ¿En serio esperas que veamos todo un planeta reducido a rocas espaciales y seguir adelante como si nada hubiera pasado?
 #$ min Listen, all I know is that the higher ups used some kind of device on the planet... It shattered the entire planet like it was made of glass, and somehow, there were Ongessite crystals in the debris field. Don't ask me how they did it, because I have no clue. I just do the maintenance work on the miner drones, that's all.
 min Escucha, todo lo que sé es que los altos mandos usaron algún tipo de dispositivo en el planeta... Despedazó el planeta entero como si fuera hecho de cristal, y de alguna forma, había cristales de Ongessita en el campo de escombros. No me preguntes cómo lo hicieron, porque no tengo idea. Yo solo hago el trabajo de mantenimiento en los drones mineros, eso es todo.
 #$ cha shi_confusethink
@@ -2497,7 +2497,7 @@ shi (Ver a nuestra "Paladin" de la nada me comió la lengua, pero tal vez eso fu
 #$ cha shi_madtalk
 cha shi_madtalk
 #$ shi Captain Paladin, I presume. This is the Ryuvian flagship Maray. We were helping the local Denari Pre'ator investigate the unexpected destruction of Kor'ath on a mission of goodwill. If you could explain to us how two planets were demolished, I'm sure we can put this misunderstanding behind us...
-shi Capitán Paladin, supongo. Aquí la nave insignea Ryuviana Maray. Estamos ayudando a la Pre'ator Denari local a investigar la destrucción inesperada de Kor'ath en una misión de buena voluntad. Si pudiera explicarnos cómo dos planetas fueron demolidos, estoy seguro de que podemos olvidarnos de este malentendido...
+shi Capitán Paladin, supongo. Aquí la nave insignia Ryuviana Maray. Estamos ayudando a la Pre'ator Denari local a investigar la destrucción inesperada de Kor'ath en una misión de buena voluntad. Si pudiera explicarnos cómo dos planetas fueron demolidos, estoy seguro de que podemos olvidarnos de este malentendido...
 #$ cha pal_neu
 cha pal_neu
 #$ pal And how can I trust a known traitor to the Alliance?
@@ -2525,7 +2525,7 @@ shi Demoliéndolos y convirtiéndolos en campos de asteroides ricos en Ongessita
 #$ cha pal_neu
 cha pal_neu
 #$ pal What we do in our territory does not concern the Ryuvian Kingdom. This Pre'ator has no authority to enlist the help of Ryuvia's flagship nor to interfere with our plans. We are here under Solaris' authority, so depart at once!
-pal Lo que hagamos en nuestro territorio no le concierne al Reino Ryuviano. Esta Pre'ator no tiene autoridad para obtener la ayuda de la nave insignea de Ryuvia ni para interferir en nuestros planes. ¡Estamos aquí bajo la autoridad de Solaris, así que márchense de una vez!
+pal Lo que hagamos en nuestro territorio no le concierne al Reino Ryuviano. Esta Pre'ator no tiene autoridad para obtener la ayuda de la nave insignia de Ryuvia ni para interferir en nuestros planes. ¡Estamos aquí bajo la autoridad de Solaris, así que márchense de una vez!
 #$ cha shi_sadclosedeyes
 cha shi_sadclosedeyes
 #$ shi (That's an issue you see, because we're actually here looking for you...)
@@ -2715,7 +2715,7 @@ shi Heh... Bueno... Nunca me detuvo.
 #$ cha ava_facepalm_madtalk
 cha ava_facepalm_madtalk
 #$ ava Sigh. I have already inputted Ainur's coordinates into the navi-computer.
-ava Suspiro. Ya he ingresado las coordenadas de Ainur en la nave-computadora.
+ava *Suspiro*. Ya he ingresado las coordenadas de Ainur en la nave-computadora.
 #$ cha shi_neutalk
 cha shi_neutalk
 #$ shi Thank you commander.
@@ -2739,7 +2739,7 @@ gre Saludos, Maray. Aquí el Capitán Alan Grey de la Tercera Flota de la Alianz
 #$ cha shi_focus
 cha shi_focus
 #$ shi This is Captain Kayto Shields, of the Ryuvian flagship Maray. 
-shi Aquí el Capitán Kayto Shields, de la nave insignea Ryuviana Maray.
+shi Aquí el Capitán Kayto Shields, de la nave insignia Ryuviana Maray.
 #$ cha shi_focusthink
 cha shi_focusthink
 #$ shi Captain Alan Grey...
@@ -3029,7 +3029,7 @@ cla ¡No te preocupes, capitán, Claude continuará amándote sin importar lo qu
 #$ cha shi_sigh
 cha shi_sigh
 #$ shi Sigh... But don't you at least have any recommendations?
-shi Suspiro... ¿Pero no tienes al menos alguna recomendación?
+shi *Suspiro*... ¿Pero no tienes al menos alguna recomendación?
 #$ voi cla_hap4
 voi cla_hap4
 #$ cha cla_armscrossed_imagination
@@ -3053,7 +3053,7 @@ voi lyn_neu1
 #$ cha lyn_armscrossed_sigh
 cha lyn_armscrossed_sigh
 #$ lyn Me? Sigh, I wasn't even around when all of you guys were one big happy family, so I wouldn't be able to tell you anything about your old Lieutenant Kryska Stares.
-lyn ¿Yo? Suspiro, ni siquiera estaba presente cuando todos ustedes eran una gran familia feliz, así que no sería capaz de decirte nada sobre tu antigua Teniente Kryska Stares.
+lyn ¿Yo? *Suspiro*, ni siquiera estaba presente cuando todos ustedes eran una gran familia feliz, así que no sería capaz de decirte nada sobre tu antigua Teniente Kryska Stares.
 #$ voi lyn_neu4
 voi lyn_neu4
 #$ cha lyn_handtoface_explanation
@@ -3529,7 +3529,7 @@ mus stop
 #$ cha ava_armscrossed_focustalk
 cha ava_armscrossed_focustalk
 #$ ava Confirmed hits to the Alliance flagship's reactor. They are dead in the water. Likewise, the Denari Honor Guard are dead in the water as well.
-ava Golpes confirmados al reactor de la nave insignea de la Alianza. Están acabados. Igualmente, la Guardia de Honor Denari está acabada también.
+ava Golpes confirmados al reactor de la nave insignia de la Alianza. Están acabados. Igualmente, la Guardia de Honor Denari está acabada también.
 #$ cha shi_neutalk
 cha shi_neutalk
 #$ shi Prepare a boarding party. We're taking in the Paladin ourselves.
@@ -3545,7 +3545,7 @@ shi Ella no va a venir fácil. Tienes el puente, comandante.
 #$ cha ava_facepalm_annoyed
 cha ava_facepalm_annoyed
 #$ ava Sigh... I suppose there's no point in even pointing out that goes against standard procedure...
-ava Suspiro... Supongo que no tiene sentido siquiera señalar que eso va contra los procedimientos estándares...
+ava *Suspiro*... Supongo que no tiene sentido siquiera señalar que eso va contra los procedimientos estándares...
 #$ hid ava
 hid ava
 #$ roo roo_chap3_story15
@@ -3587,7 +3587,7 @@ shi Ella no va a venir fácil. Tienes el puente, comandante.
 #$ cha ava_facepalm_annoyed
 cha ava_facepalm_annoyed
 #$ ava Sigh... I suppose there's no point in even pointing out that goes against standard procedure...
-ava Suspiro... Supongo que no tiene sentido siquiera señalar que eso va contra los procedimientos estándares...
+ava *Suspiro*... Supongo que no tiene sentido siquiera señalar que eso va contra los procedimientos estándares...
 #$ hid ava
 hid ava
 #$ flag
@@ -3737,7 +3737,7 @@ ava Ya veo.
 #$ cha ava_armscrossed_annoyed
 cha ava_armscrossed_annoyed
 #$ ava In any matter, I am glad you've managed to come back in one piece, captain. Sigh... Tragically, the same cannot be said of your uniform.
-ava En cualquier caso, me alegro de que haya logrado regresar en una pieza, capitán. Suspiro... Trágicamente, lo mismo no puede decirse de su uniforme.
+ava En cualquier caso, me alegro de que haya logrado regresar en una pieza, capitán. *Suspiro*... Trágicamente, lo mismo no puede decirse de su uniforme.
 #$ cha shi_gasp
 cha shi_gasp
 #$ shi O-Oh...

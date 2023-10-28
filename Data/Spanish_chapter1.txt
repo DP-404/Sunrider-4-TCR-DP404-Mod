@@ -19,7 +19,7 @@ shi Kayto Shields. Minero.
 #$ gua Shields, eh? Like the space captain who died a few years back?
 gua Shields, ¿eh? ¿Como el capitán espacial que murió hace unos cuantos años?
 #$ shi Sigh...
-shi Suspiro...
+shi *Suspiro*...
 #$ gua There's still a warrant out for the guy, even though he's probably long dead. Just another two bit criminal who got exactly what he deserved.
 gua Todavía hay una orden de búsqueda por ese tipo, incluso a pesar de que probablemente lleve mucho tiempo muerto. Simplemente otro criminal de quinta que obtuvo exactamente lo que se merecía.
 #$ gua Come on, raise your head so I can get a look at you.
@@ -301,7 +301,7 @@ shi ¡MENTIRAS!
 #$ shi PACT murdered millions on Cera! We did nothing to provoke them, but they vaporized Cera City without even...-- They murdered...-- They murdered...--!!!
 shi ¡El PACT asesinó a millones en Cera! No hicimos nada para provocarlos, pero vaporizaron Ciudad Cera sin siquiera...-- Ellos asesinaron...-- ¡¡¡Ellos asesinaron...--!!!
 #$ shi This is all trickery! Honeyed words, uttered by a tyrant bent on controlling us! Controlling everyone!
-shi ¡Todo esto es un truco! ¡Palabras endulzadas, pronunciadas por un tirano decidido a controlarnos! ¡A controlar a todos
+shi ¡Todo esto es un truco! ¡Palabras endulzadas, pronunciadas por un tirano decidido a controlarnos! ¡A controlar a todos!
 #$ shi How could anyone believe this? After all that PACT's done!
 shi ¿Cómo podría creer alguien esto? ¡Después de todo lo que el PACT ha hecho!
 #$ roo chap1_shieldstrailer_knock
@@ -339,7 +339,7 @@ sol Ha...
 #$ shi Hang on. I've got a medkit.
 shi Aguanta. Tengo el kit médico.
 #$ shi It's not too deep. Here...
-shi No es muy profundo. Aquí...
+shi No es muy profundo. Listo...
 #$ dbg spr_cg06
 dbg spr_cg06
 #$ shi Who did this to you?
@@ -347,7 +347,7 @@ shi ¿Quién te hizo esto?
 #$ sol They came from nowhere... Assassin drones.
 sol Salieron de la nada... Drones asesinos.
 #$ shi PACT?! It was Fontana, wasn't it?! He's going to tie up all the loose ends!
-shi ¡¿El PACT?! ¡Fue Fontana, ¿no?! ¡Va a atar todos los cabos sueltos!
+shi ¡¿El PACT?! ¡¿Fue Fontana, no?! ¡Va a atar todos los cabos sueltos!
 #$ sol No... It was not PACT assassin drones that did this...
 sol No... No fueron drones asesinos del PACT los que hicieron esto...
 #$ shi Then who?! The Alliance? Who else wants us dead?!
@@ -359,7 +359,7 @@ sol La encarnación de la oscuridad... El precursor de todas las catástrofes...
 #$ sou mus_OW_MetalDrone2_CT
 sou mus_OW_MetalDrone2_CT
 #$ sol Crow Harbor, the pretender!
-sol ¡Crow Harbor, el pretendiente!
+sol ¡Crow Harbor, el impostor!
 #$ shi Crow Harbor?! You mean... your uncle?! From... Ancient Ryuvia?!
 shi ¡¿Crow Harbor?! Quieres decir... ¡¿tu tío?! Desde... ¡¿la Antigua Ryuvia?!
 #$ sol He has followed me! We must flee this place at once!
@@ -429,7 +429,7 @@ shi ¡¿Tienes algo capaz de detener a esas cosas?!
 #$ cha sol_front_focustalk
 cha sol_front_focustalk
 #$ sol I feared such a foe would appear, and reforged a piece of the Seraphim's hull into bullets... But I've only two rounds.
-sol Temía que un enemigo así apareciese, y reforjé una pieza del casco del Seraphim en balas... Pero solo tengo dos rondas.
+sol Temía que un enemigo así apareciese, y reforjé una pieza del casco del Seraphim en balas... Pero solo tengo dos balas.
 #$ cha shi_min_angrytalk
 cha shi_min_angrytalk
 #$ shi That's not good, because I just saw three of them back there!
@@ -529,7 +529,7 @@ gua Suspiiiiroooo... Escucha aquí, hombre... ¿Cuántas veces hemos pasado por 
 #$ shi You've got to believe me here! The fate of the galaxy is at stake!
 shi ¡Tienes que creerme esto! ¡El destino de la galaxia está en peligro!
 #$ gua We know you and your lady friend are involved in some shady business. Why don't you just come clean and get this over with. Level with me here, pal. Was it a smuggling dispute? A drug deal gone wrong? Pirates?
-gua Sabemos que tú y tu amiga señorita están envueltos en algún negocio sospechoso. Por qué no simplemente me dices la verdad y acaban con esto. Cuéntame, amigo. ¿Fue una disputa de contrabando? ¿Un trato de drogas fue mal? ¿Piratas?
+gua Sabemos que tú y tu amiga señorita están envueltos en algún negocio sospechoso. Por qué no simplemente me dices la verdad y acaban con esto. Cuéntame, amigo. ¿Fue una disputa de contrabando? ¿Un trato de drogas salió mal? ¿Piratas?
 #$ shi No! I'm Kayto Shields, captain of the Ceran Assault Carrier Sunrider! My friend Sola, she's an Ryuvian Sharr! We've got to alert the authorities about the ancient Ryuvians!
 shi ¡No! ¡Yo soy Kayto Shields, capitán del Carguero de Asalto Cerano Sunrider! ¡Mi amiga Sola, ella es una Sharr Ryuviana! ¡Tenemos que alertar a las autoridades acerca de los antiguos Ryuvianos!
 #$ shi See her? She's from the past! Like thousands of years! And her evil uncle, he's come here from the past, into OUR timeline to kill us all! Listen, I've got friends all across the galaxy, just let me contact them and they'll-
@@ -537,7 +537,7 @@ shi ¿La ves? ¡Ella vino del pasado! ¡Como miles de años! ¡Y su tío malvado
 #$ gua Aagh, you're out of your mind, bud! Well, it's your lucky day, "Captain!" According to the commissar, the People's Alliance has bigger concerns than chasing down the village drunk's delusions.
 gua ¡Aagh, estás loco, hombre! ¡Vaya, es tu día de suerte, "Capitán"! De acuerdo con el comisario, la Alianza de los Pueblos tiene problemas mucho mayores que cazar al villano de los delirios de un ebrio.
 #$ gua I'm gonna have to let you go this time. But I better not ever see your sorry mug again in this town! Now git outta here!
-gua Te voy a dejar ir esta vez. ¡Pero mejor que no vea de nuevo en este pueblo! ¡Ahora sal de aquí!
+gua Te voy a dejar ir esta vez. ¡Pero mejor que nunca más te vea de nuevo en este pueblo! ¡Ahora sal de aquí!
 #$ obj Talk to Sola.
 obj Habla con Sola.
 #$ roo chap1_mineentrance2
@@ -623,7 +623,7 @@ voi sol_ang5
 #$ cha sol_side_sigh
 cha sol_side_sigh
 #$ sol Sigh... To think the Fallen have pursued me to this time line... I know not how they got here, nor their intentions, but I know neither will be honorable.
-sol Suspiro... Pensar que los Caídos me perseguirían a esta línea temporal... No sé cómo llegaron aquí, ni sus intenciones, pero sé que ninguna será honorable.
+sol *Suspiro*... Pensar que los Caídos me perseguirían a esta línea temporal... No sé cómo llegaron aquí, ni sus intenciones, pero sé que ninguna será honorable.
 #$ cha shi_min_sadtalk
 cha shi_min_sadtalk
 #$ shi Ahem... Well, I meant, more about what happened before that.
@@ -709,7 +709,7 @@ cha shi_min_closedeyessad
 #$ shi (Wait a minute... She fell asleep! And here, I thought we were having a real heart to heart conversation...)
 shi (Espera un minuto... ¡Se durmió! Y vaya, pensé que estábamos teniendo una verdadera conversación de corazón a corazón...)
 #$ shi (Sigh. We've been through a lot. I should get some rest too.)
-shi (Suspiro. Hemos pasado por tanto. Debería descansar un poco también.)
+shi (*Suspiro*. Hemos pasado por tanto. Debería descansar un poco también.)
 #$ fad roo_chap1_pirates
 fad roo_chap1_pirates
 #$ tag choice_offrock_cc2
@@ -765,7 +765,7 @@ cha shi_min_closedeyessad
 #$ shi (Wait a minute... She fell asleep! And here, I thought we were having a real heart to heart conversation...)
 shi (Espera un minuto... ¡Se durmió! Y vaya, pensé que estábamos teniendo una verdadera conversación de corazón a corazón...)
 #$ shi (Sigh. We've been through a lot. I should get some rest too.)
-shi (Suspiro. Hemos pasado por tanto. Debería descansar un poco también.)
+shi (*Suspiro*. Hemos pasado por tanto. Debería descansar un poco también.)
 #$ fad roo_chap1_pirates
 fad roo_chap1_pirates
 #$ tag choice_freighter_cc2
@@ -971,7 +971,7 @@ shi (Deberías prestar atención a la DIRECCIÓN de tu unidad también.)
 #$ shi (Some weapons can only be fired in certain directions. Not only that, but units have ARMOR to varying degrees on the front, rear, and sides. The angle at which you face your enemies can be a matter of victory or defeat.)
 shi (Algunas armas solo pueden ser disparadas en determinadas direcciones. No solo eso, sino que las unidades tienen ARMADURA a varios grados en el frente, la retaguardia y los laterales. El ángulo con el que encares a tus enemigos puede ser un factor de victoria o derrota.)
 #$ shi (Most units are unarmored in the rear. Make sure that you never allow the enemy to hit you in the rear, while always aiming to hit the baddies down the tailpipe.)
-shi (La mayoría de las unidades no están protegidas en la parte posterior. Asegúrate de que nunca permitas al enemigo golpearte en la parte posterior, mientras que siempre le apuntes a los malos en el tubo de escape.)
+shi (La mayoría de las unidades no están protegidas en la parte posterior. Asegúrate de que nunca permitas al enemigo golpearte en la parte posterior, mientras que siempre les apuntes a los malos en el tubo de escape.)
 #$ shi (Once you've finished commanding your units, deselect everything by right clicking, and press and HOLD the end turn button.)
 shi (Una vez que hayas terminado de comandar a tus unidades, deselecciona todo usando el click derecho, y MANTÉN presionado el botón de terminar el turno.)
 #$ obj Deselect the Ore Freighter and press and hold the end turn button to end your turn.
@@ -1237,7 +1237,7 @@ shi ¡¿Por qué?! ¡¿Por qué desertar?! ¡¿Ustedes los Prototipos tienen siq
 #$ hid shi
 hid shi
 #$ lyn Sigh... It's a long story. But it involves the Prototype you fell for back when you were the captain of the Sunrider. After the Prototype you called Chigara "died" her consciousness returned to the Mindstream.
-lyn Suspiro... Es una larga historia. Pero involucra al Prototipo del que te enamoraste antes cuando eras el capitán del Sunrider. Luego de que el Prototipo que llamabas Chigara "muriera" su conciencia regresó al Torrente de Mentes.
+lyn *Suspiro*... Es una larga historia. Pero involucra al Prototipo del que te enamoraste antes cuando eras el capitán del Sunrider. Luego de que el Prototipo que llamabas Chigara "muriera" su conciencia regresó al Torrente de Mentes.
 #$ lyn But she was no longer one of us by then. She started a rebellion against our leader, the Prototype you know as Alice. Something like that was completely inconceivable.
 lyn Pero ella ya no era más una de nosotros para entonces. Ella comenzó una rebelión contra nuestra líder, el Prototipo que conoces como Alice. Algo como eso era completamente inconcebible.
 #$ lyn The Mindstream changed... But not in a good way...
@@ -1349,7 +1349,7 @@ ptt
 #$ cha asa_fingerpoint_focustalk
 cha asa_fingerpoint_focustalk
 #$ asa Introducing the new flagship of the Ryuvian Fleet! We didn't let Lynn here join our party for nothing, captain! She's shared all of the Prototypes' secret technology to our military, and thanks to that, we were able to put that lovely lady together.
-asa ¡Introduciendo a la nueva nave insignea de la Flota Ryuviana! ¡No dejamos que Lynn se uniera a nuestro equipo por nada, capitán! Ella ha compartido toda la tecnología secreta de los Prototipos con nuestro ejército, y gracias a eso, fuimos capaces de armar a esa encantadora señorita.
+asa ¡Introduciendo a la nueva nave insignia de la Flota Ryuviana! ¡No dejamos que Lynn se uniera a nuestro equipo por nada, capitán! Ella ha compartido toda la tecnología secreta de los Prototipos con nuestro ejército, y gracias a eso, fuimos capaces de armar a esa encantadora señorita.
 #$ cha lyn_handtoface_confidentsly
 cha lyn_handtoface_confidentsly
 #$ lyn Heh, it wasn't like I had to start from scratch though. Asaga's late father had a vintage royal skiff from the ancient era. It wasn't much, but it was enough to build a new ship around. 350 meters long, four kinetic cannons, one lancer laser emitter, missiles, torpedoes, pulsars, and all the point defense you could ask for. And she can service eight ryders. That last part, I'm particularly proud of.
@@ -1383,7 +1383,7 @@ cha shi_min_focus
 #$ shi Two cores...
 shi Dos núcleos...
 #$ lyn Notice how I said we built this ship around a vintage royal skiff? Those cores over there are the two hearts of the Twin Drive System. Ancient Ryuvian Technology. The kind of stuff that goes beyond even my Prototype head.
-lyn ¿Te das cuenta cómo dije que había construido esta nave alrededor de un antiguo esquife real? Esos núclos de ahí son los dos corazones del Sistema de Controladores Dual. Antigua Tecnología Ryuviana. El tipo de cosa que va más allá de mi cabeza de Prototipo.
+lyn ¿Te das cuenta cómo dije que había construido esta nave alrededor de un antiguo esquife real? Esos núclos de ahí son los dos corazones del Sistema de Controladores Gemelos. Antigua Tecnología Ryuviana. El tipo de cosa que va más allá de mi cabeza de Prototipo.
 #$ lyn Somehow, the two cores are supposed to resonate with each other to theoretically generate the output of four cores... But the damned thing's half busted by now, so I barely got it operating as well as a single core. And that's with advanced Prototype technology, way beyond what you humans can muster.
 lyn De alguna forma, los dos núclos se suponen que resuenen con el otro para generar teóricamente la salida de cuatro núcleos... Pero la maldita cosa está medio arruinada a estas alturas, así que apenas logré que operara como un solo núcleo. Y eso es con avanzada tecnología Prototipo, mucho más allá de lo que ustedes humanos pueden lograr.
 #$ cha asa_armup_happytalk
@@ -1393,7 +1393,7 @@ asa Mi padre siempre se quejó acerca de que los motores del esquife real nunca 
 #$ cha lyn_handup_talk
 cha lyn_handup_talk
 #$ lyn My research into how the Twin Drive System works is still just beginning. Give me a bit more time, and I'll figure out how to get it working...
-lyn Mi investigación en cómo funciona el Sistema de Controladores Dual está todavía solo comenzando. Dame un poco más de tiempo, y averiguaré cómo hacer que funcione...
+lyn Mi investigación en cómo funciona el Sistema de Controladores Gemelos está todavía solo comenzando. Dame un poco más de tiempo, y averiguaré cómo hacer que funcione...
 #$ hid lyn
 hid lyn
 #$ dbg hide
@@ -1521,7 +1521,7 @@ asa Estoy sorprendida de que no lo supieras. Fue una gran cosa, sabes. Ella reco
 #$ shi No... All of the information on Tydaria was controlled by PACT. I didn't know any of this.
 shi No... Toda la información en Tydaria estaba controlada por el PACT. Yo no sabía nada de esto.
 #$ asa Veniczar Fontana's made the same offer to all worlds they've conquered during the Neutral Rim War. But you've got to know all that's just a big sham! PACT has no intention of allowing free elections to occur in the first place.
-asa Veniczar Fontana le ha hecho la misma oferta a todos los mundos que han conquistado durante la Guerra del Margen Neutral. ¡Pero tienes que saber que todo es simplemente un gran engaño! El PACT no tiene intenciones de permitir que elecciones libres ocurran en primer lugar.
+asa Veniczar Fontana les ha hecho la misma oferta a todos los mundos que han conquistado durante la Guerra del Margen Neutral. ¡Pero tienes que saber que todo es simplemente un gran engaño! El PACT no tiene intenciones de permitir que elecciones libres ocurran en primer lugar.
 #$ asa They've still got a military outpost manned mostly by hired pirates in orbit around Ryuvia Prime, and fleets positioned at Ongess, Cera, and Versta. This isn't freedom. This is an occupation.
 asa Todavía tienen una estación tripulada mayormente por piratas contratados en órbita alrededor de Ryuvia Prime, y flotas posicionadas en Ongess, Cera, y Versta. Esto no es libertad. Esto es una ocupación.
 #$ shi What about the others? What's going on in the Solar Alliance? Have they truly withdrawn from the Neutral Rim?
@@ -1569,7 +1569,7 @@ tag chap1_haircut_whereava_cc1
 #$ asa Weellll, it turned out abdicating wasn't such a simple matter... and according to the opinion polls, the people were going to revolt if I stepped down.
 asa Buueenoo, resultó que renunciar no era un asunto tan simple... y de acuerdo a las encuestas de opinión, la gente estaba dispuesta a realizar revueltas si yo me retiraba.
 #$ asa Sigh... Ryuvia's been ruled by its traditions since the beginning of humankind. At least, according to the Church of Ryuvia. The people here don't want democracy. They want the continuation of the old ways.
-asa Suspiro... Ryuvia ha sido gobernada por sus tradiciones desde el comienzo de la humanidad. Al menos, de acuerdo a la Iglesia de Ryuvia. La gente de aquí no quieren democracia. Quieren la continuación de las viejas tradiciones.
+asa *Suspiro*... Ryuvia ha sido gobernada por sus tradiciones desde el comienzo de la humanidad. Al menos, de acuerdo a la Iglesia de Ryuvia. La gente de aquí no quieren democracia. Quieren la continuación de las viejas tradiciones.
 #$ asa Beh. All a bunch of hooey, I say. Can ya believe it, capt'n? I'm expected to marry sooner than later, and then Ryuvia will have a King and Prince just like always, and our traditions will continue, and everyone'll carry on with their regular old lives, reassured that Ryuvia will stay goode olde Ryuvia.
 asa Beh. Todo es un montón de impulso, digo yo. ¿Puedes creerlo, capitán? Todo el mundo espera que me case tarde o temprano, y entonces Ryuvia tendrá un Rey y un Príncipe igual que siempre, y nuestras tradiciones continuarán, y todos seguirán con sus vidas normales, seguros de que Ryuvia seguirá siendo la vieja Ryuvia.
 #$ asa Oooh hooo, so we've lost our Lost Technology, our fleets, and all our power, but it'll be over my dead body if we also lose our sacred traditions! That's what the common man on the streets is saying.
@@ -1627,7 +1627,7 @@ sol En mi tiempo, los cortesanos caminaban como hombres, pero tenían los corazo
 #$ hid sol
 hid sol
 #$ mm1 My beloved Queen, the Council has received some news of note... That she seeks to use the new flagship of our fleet to open hostilities against PACT!
-mm1 Mi querida Reina, el Consejo ha recibido algunas noticias relevantes... ¡Que usted planea usar la nueva nave insignea de nuestra flota para abrir hostilidades contra el PACT!
+mm1 Mi querida Reina, el Consejo ha recibido algunas noticias relevantes... ¡Que usted planea usar la nueva nave insignia de nuestra flota para abrir hostilidades contra el PACT!
 #$ cha sol_side_annoyed
 cha sol_side_annoyed
 #$ sol Alas, but perhaps such prayers are in vain...
@@ -1663,15 +1663,15 @@ asa El PACT no tiene intenciones de permitir que elecciones justas ocurran. Quiz
 #$ mm1 Y-Yes, my Queen, how could we forget... But Veniczar Fontana...
 mm1 S-Sí, mi Reina, cómo podríamos olvidarlo... Pero Veniczar Fontana...
 #$ asa Have you seen his new flagship? The Invictus? If he speaks of equality, then why does he have the biggest ship in all of the Neutral Rim?
-asa ¿Ha visto a su nueva nave insignea? ¿El Invictus? Si habla de igualdad, ¿entonces por qué tiene él la nave más grande en todo el Margen Neutral?
+asa ¿Ha visto a su nueva nave insignia? ¿El Invictus? Si habla de igualdad, ¿entonces por qué tiene él la nave más grande en todo el Margen Neutral?
 #$ asa I have made my decision. Ryuvia Prime shall not participate in Veniczar Fontana's elections! How can PACT claim that we are free, when there is a PACT military base in high orbit around our world? When PACT has hired pirates to harass our merchants and terrorize the people?!
 asa He tomado mi decisión. ¡Ryuvia Prime no participará en las elecciones de Veniczar Fontana! ¿Cómo puede el PACT decir que somos libres, cuando hay una base militar del PACT en alta órbita alrededor de nuestro mundo? ¡¿Cuando el PACT ha contratado a piratas para atormentar a nuestros mercaderes y aterrorizar a nuestro pueblo?!
 #$ asa Above Cera, Ongess, Versta are PACT armadas loaded with enough bombs to turn entire continents to glass! Chancellor, what free and fair elections occur at gunpoint? Does Veniczar Fontana truly seek democracy, or merely to intimidate us into rubber stamping his annexation of the Neutral Rim?
 asa ¡Sobre Cera, Ongess, y Versta hay armadas del PACT cargadas con suficientes bombas para convertir continentes enteros en cristal! Canciller, ¿qué libres y justas elecciones ocurren siendo apuntados con un cañón? ¿Veniczar Fontana verdaderamente busca la democracia, o solamente intimidarnos para acuñar su anexión del Margen Neutral?
 #$ asa I have brought a special guest today. The very man who rescued me from PACT seven years ago. He shall command our flagship and bring war to PACT.
-asa He traído un invitado especial hoy. El mismo hombre que me rescató del PACT hace siete años. Él comandará nuestra nave insignea y llevará la guerra al PACT.
+asa He traído un invitado especial hoy. El mismo hombre que me rescató del PACT hace siete años. Él comandará nuestra nave insignia y llevará la guerra al PACT.
 #$ mm1 So I have heard... But my Queen... He is a foreigner... To hand over the flagship of our fleet to an officer of another national government is... And to this particular man...
-mm1 Eso he oído... Pero mi Reina... Él es un extranjero... Entregarle la nave insignea de nuestra flota a un oficial de otro gobierno nacional es... Y a este hombre en particular...
+mm1 Eso he oído... Pero mi Reina... Él es un extranjero... Entregarle la nave insignia de nuestra flota a un oficial de otro gobierno nacional es... Y a este hombre en particular...
 #$ asa Then I invoke the Right of Destiny. By our laws, Kayto Shields is hereby declared an honorary Ryuvian Count from now, until he dis-earns that privilege.
 asa Entonces invoco el Derecho del Destino. Por nuestras leyes, Kayto Shields es declarado un Conde Ryuviano honorario de ahora en adelante, hasta que pierda ese privilegio.
 #$ cha shi_focus
@@ -1711,7 +1711,7 @@ sol (¿Pero qué verdad descansa tras las sombras de la corte Ryuviana?)
 #$ hid sol
 hid sol
 #$ asa By my will, Count Shields shall take command of our flagship and liberate our world from PACT. And I shall join him on the front lines, as the Sharr! PACT's crimes of regicide and desecration of our holy lands shall not go unpunished! For the Rebirth of the Holy Empire!
-asa Por mi voluntad, el Conde Shields tomará el comando de nuestra nave insignea, y liberará nuestro mundo del PACT. ¡Yo me uniré a él en las líneas delanteras, como la Sharr! ¡Los crímenes de regicidio y profanación de nuestras tierras sagradas no saldrán impunes! ¡Por el Renacer del Sagrado Imperio!
+asa Por mi voluntad, el Conde Shields tomará el comando de nuestra nave insignia, y liberará nuestro mundo del PACT. ¡Yo me uniré a él en las líneas delanteras, como la Sharr! ¡Los crímenes de regicidio y profanación de nuestras tierras sagradas no saldrán impunes! ¡Por el Renacer del Sagrado Imperio!
 #$ eve The Sharr of Ryuvia has spoken! Ryuvia shall have its revenge!
 eve ¡La Sharr de Ryuvia ha hablado! ¡Ryuvia tendrá su venganza!
 #$ eve Glory to the Holy Empire!
@@ -1785,7 +1785,7 @@ voi lyn_sad4
 #$ cha lyn_armsonhips_madtalk
 cha lyn_armsonhips_madtalk
 #$ lyn Sigh... Wait, wait. It's not going to be a piece of cake. Am I the only one who sees a major problem with this plan? The instant we blow up that base, PACT is going to warp in an armada to Ryuvia Prime. Then what? We'll get our asses spaced and your people will be enslaved. Game over.
-lyn Suspiro... Espera, espera. No va a ser pan comido. ¿Soy yo la única que ve un enorme problema con este plan? En el instante en que volemos esa base, el PACT va a saltar con una armada a Ryuvia Prime. ¿Y entonces qué? Lanzarán nuestros traseros al espacio y tu gente será esclavizada. Fin del juego.
+lyn *Suspiro*... Espera, espera. No va a ser pan comido. ¿Soy yo la única que ve un enorme problema con este plan? En el instante en que volemos esa base, el PACT va a saltar con una armada a Ryuvia Prime. ¿Y entonces qué? Lanzarán nuestros traseros al espacio y tu gente será esclavizada. Fin del juego.
 #$ cha shi_closedeyesthink
 cha shi_closedeyesthink
 #$ shi Hmmm...
@@ -2033,7 +2033,7 @@ dbg spr_bg_marayengineering
 #$ cha lyn_armsonhips_madtalk
 cha lyn_armsonhips_madtalk
 #$ lyn Twin Drives are at 91.3 percent output. Hey, that's the highest number yet. Looks like she's taken a liking to you, Shields.
-lyn Los Controladores Duales están al 91.3 por ciento de salida. Hey, ese es el mayor número hasta ahora. Parece que le has gustado, Shields.
+lyn Los Controladores Gemelos están al 91.3 por ciento de salida. Hey, ese es el mayor número hasta ahora. Parece que le has gustado, Shields.
 #$ cha lyn_handtoface_confidentsly
 cha lyn_handtoface_confidentsly
 #$ lyn Or maybe it's just my Prototype genius at work. It's probably that, actually.
