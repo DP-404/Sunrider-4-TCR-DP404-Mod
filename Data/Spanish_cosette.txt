@@ -1,53 +1,53 @@
-# Calamity here!
-Calamity here!
-# Yeah, yeah, I hear you!
-Yeah, yeah, I hear you!
-# I can't believe I'm doing this...
-I can't believe I'm doing this...
-# This doesn't make us friends, Shields!
-This doesn't make us friends, Shields!
-# You better watch your back!
-You better watch your back!
-# What do you need wrecked?
-What do you need wrecked?
-# Leave the destruction to me!
-Leave the destruction to me!
-# There's no way I'm gonna die here!
-There's no way I'm gonna die here!
-# You better get us out of this mess!
-You better get us out of this mess!
-# I'll kill them all!
-I'll kill them all!
-# Copy. Heading to position!
-Copy. Heading to position!
-# I'm going, I'm going!
-I'm going, I'm going!
-# You better know what you're doing!
-You better know what you're doing!
-# If you get me killed, I'll kill you! Hahahaha!!
-If you get me killed, I'll kill you! Hahahaha!!
-# Firing engines!
-Firing engines!
-# Moving out!
-Moving out!
-# A bold move.
-A bold move.
-# Moving forward!
-Moving forward!
-# I got it.
-I got it.
-# When's the killing gonna start?
-When's the killing gonna start?
-# Hahahahaha!!!
-Hahahahaha!!!
-# Die!!!
-Die!!!
-# I'll maim them!
-I'll maim them!
-# Lighting them up!
-Lighting them up!
-# I only see dead men!
-I only see dead men!
+#$ Calamity here!
+¡Calamity aquí!
+#$ Yeah, yeah, I hear you!
+¡Sí, sí, te escucho!
+#$ I can't believe I'm doing this...
+No puedo creer que estoy haciendo esto...
+#$ This doesn't make us friends, Shields!
+¡Esto no nos hace amigos, Shields!
+#$ You better watch your back!
+¡Más te vale cuidar tu espalda!
+#$ What do you need wrecked?
+¿Qué necesitas que destruya?
+#$ Leave the destruction to me!
+¡Déjame la destrucción a mí!
+#$ There's no way I'm gonna die here!
+¡No hay forma de que vaya a morir aquí!
+#$ You better get us out of this mess!
+¡Más te vale sacarnos de este desastre!
+#$ I'll kill them all!
+¡Los mataré a todos!
+#$ Copy. Heading to position!
+Copiado. ¡Dirigiéndome a la posición!
+#$ I'm going, I'm going!
+¡Ya voy, ya voy!
+#$ You better know what you're doing!
+¡Más te vale que sepas lo que estás haciendo!
+#$ If you get me killed, I'll kill you! Hahahaha!!
+¡Si haces que me maten, te mataré! ¡¡Hahahaha!!
+#$ Firing engines!
+¡Encendiendo motores!
+#$ Moving out!
+¡Moviéndome!
+#$ A bold move.
+Un movimiento atrevido.
+#$ Moving forward!
+¡Avanzando!
+#$ I got it.
+Entendido.
+#$ When's the killing gonna start?
+¿Cuándo va a comenzar la matanza?
+#$ Hahahahaha!!!
+¡¡¡Hahahahaha!!!
+#$ Die!!!
+¡¡¡Muere!!!
+#$ I'll maim them!
+¡Los mutilaré!
+#$ Lighting them up!
+¡Incendiándolos!
+#$ I only see dead men!
+¡Solo veo hombres muertos!
 #$ -1000
 -1000
 #$ -1000
@@ -78,40 +78,40 @@ I only see dead men!
 -1000
 #$ -1000
 -1000
-# Launching all ordinance!
-Launching all ordinance!
-# I'll light the sky up!
-I'll light the sky up!
-# Hahahaha!!! Run! Scream! 'Cause you're all dead!
-Hahahaha!!! Run! Scream! 'Cause you're all dead!
-# Anyone who claimed there was no fire or screams in space has never met me!
-Anyone who claimed there was no fire or screams in space has never met me!
-# Bombs away!
-Bombs away!
-# I'm all out of missiles, Shields!
-I'm all out of missiles, Shields!
-# Target locked! See ya!
-Target locked! See ya!
-# I'll see ya in hell!
-I'll see ya in hell!
-# Time to make some widows!
-Time to make some widows!
-# Firing torpedo!
-Firing torpedo!
-# Torpedo away!
-Torpedo away!
-# I've already fired all my torpedoes!
-I've already fired all my torpedoes!
-# Hahahaha... Hyaaahahahaha!!!!
-Hahahaha... Hyaaahahahaha!!!!
-# DIEEE!!!
-DIEEE!!!
-# Beg for mercy!! I love hearing you scream!!
-Beg for mercy!! I love hearing you scream!!
-# There's no escape!!
-There's no escape!!
-# You're mine!!!
-You're mine!!!
+#$ Launching all ordinance!
+¡Lanzando todas las ordenanzas!
+#$ I'll light the sky up!
+¡Encenderé el cielo!
+#$ Hahahaha!!! Run! Scream! 'Cause you're all dead!
+¡¡¡Hahahaha!!! ¡Corran! ¡Griten! ¡Porque están todos muertos!
+#$ Anyone who claimed there was no fire or screams in space has never met me!
+¡Cualquiera que diga que no hubo fuego o gritos en el espacio nunca me ha conocido!
+#$ Bombs away!
+¡Bombas fuera!
+#$ I'm all out of missiles, Shields!
+¡Me he quedado sin misiles, Shields!
+#$ Target locked! See ya!
+¡Objetivos apuntados! ¡Nos vemos!
+#$ I'll see ya in hell!
+¡Te veré en el infierno!
+#$ Time to make some widows!
+¡Hora de hacer algunas viudas!
+#$ Firing torpedo!
+¡Disparando torpedo!
+#$ Torpedo away!
+¡Torpedo fuera!
+#$ I've already fired all my torpedoes!
+¡Ya he disparado todos mis torpedos!
+#$ Hahahaha... Hyaaahahahaha!!!!
+Hahahaha... ¡¡¡¡Hyaaahahahaha!!!!
+#$ DIEEE!!!
+¡¡¡MUEREEE!!!
+#$ Beg for mercy!! I love hearing you scream!!
+¡¡Ruega piedad!! ¡¡Amo oírte gritar!!
+#$ There's no escape!!
+¡¡No hay escapatoria!!
+#$ You're mine!!!
+¡¡¡Eres mío!!!
 #$ -1000
 -1000
 #$ -1000
@@ -142,76 +142,76 @@ You're mine!!!
 -1000
 #$ -1000
 -1000
-# Who's next?
-Who's next?
-# To the Davy Jones locker you go!
-To the Davy Jones locker you go!
-# Come back, so I can kill you again!! Hahaha!!!
-Come back, so I can kill you again!! Hahaha!!!
-# Weak!
-Weak!
-# Too easy!
-Too easy!
-# Grazed! Hardly penetrated the armor.
-Grazed! Hardly penetrated the armor.
-# Hahahaha, it'll take more than that!
-Hahahaha, it'll take more than that!
-# Was that an attack or did I just hit some debris?
-Was that an attack or did I just hit some debris?
+#$ Who's next?
+¿Quién es el próximo?
+#$ To the Davy Jones locker you go!
+¡Vas al casillero de Davy Jones!
+#$ Come back, so I can kill you again!! Hahaha!!!
+¡¡Regresa, para que pueda matarte de nuevo!! ¡¡¡Hahaha!!!
+#$ Weak!
+¡Débil!
+#$ Too easy!
+¡Demasiado fácil!
+#$ Grazed! Hardly penetrated the armor.
+¡Pasado! Apenas penetró la armadura
+#$ Hahahaha, it'll take more than that!
+¡Hahahaha, tomará más que eso!
+#$ Was that an attack or did I just hit some debris?
+¿Fue eso un ataque o acabo de golpear algunos escombros?
 #$ -1000
 -1000
 #$ -1000
 -1000
-# I've taken moderate damage!
-I've taken moderate damage!
-# Command me better, Shields!
-Command me better, Shields!
-# What are you doing, Shields?!
-What are you doing, Shields?!
+#$ I've taken moderate damage!
+¡He recibido daños moderados!
+#$ Command me better, Shields!
+¡Diríjeme mejor, Shields!
+#$ What are you doing, Shields?!
+¡¿Qué estás haciendo, Shields?!
 #$ -1000
 -1000
 #$ -1000
 -1000
-# I'm surrounded! Do something!
-I'm surrounded! Do something!
-# My ryder's critical!
-My ryder's critical!
-# Moron! You're making me reconsider our alliance!
-Moron! You're making me reconsider our alliance!
+#$ I'm surrounded! Do something!
+¡Estoy rodeada! ¡Haz algo!
+#$ My ryder's critical!
+¡Mi ryder está crítico!
+#$ Moron! You're making me reconsider our alliance!
+¡Tonto! ¡Me estás haciendo reconsiderar nuestra alianza!
 #$ -1000
 -1000
 #$ -1000
 -1000
-# Fuck! Calamity, bugging out!
-Fuck! Calamity, bugging out!
-# I've got him. Hehehe...
-I've got him. Hehehe...
-# Hit confirmed.
-Hit confirmed.
-# He's damaged, but still up. Let's get him some more!
-He's damaged, but still up. Let's get him some more!
-# Ah, I missed!
-Ah, I missed!
-# My attack's failed!
-My attack's failed!
-# I can't get an angle!
-I can't get an angle!
-# You must be blind!
-You must be blind!
-# You missed, dumbass!
-You missed, dumbass!
-# You couldn't hit water if you fell out of a boat!
-You couldn't hit water if you fell out of a boat!
-# Calamity, no damage!
-Calamity, no damage!
-# Hahaha, the enemy must be a moron!
-Hahaha, the enemy must be a moron!
-# Ah, I've been hacked!
-Ah, I've been hacked!
-# My ryder's not responding to commands!
-My ryder's not responding to commands!
-# I've got an enemy ECM eating my ass, Shields!
-I've got an enemy ECM eating my ass, Shields!
+#$ Fuck! Calamity, bugging out!
+¡Jódete! ¡Calamity, destruyendo!
+#$ I've got him. Hehehe...
+Lo tengo. Hehehe...
+#$ Hit confirmed.
+Golpe confirmado.
+#$ He's damaged, but still up. Let's get him some more!
+Fue dañado, pero sigue en pie. ¡Démosle un poco más!
+#$ Ah, I missed!
+¡Ah, fallé!
+#$ My attack's failed!
+¡Mi ataque ha fallado!
+#$ I can't get an angle!
+¡No puedo conseguir un ángulo!
+#$ You must be blind!
+¡Debes estar ciego!
+#$ You missed, dumbass!
+¡Fallaste, tonto!
+#$ You couldn't hit water if you fell out of a boat!
+¡No golpearías el agua si cayeras de un bote!
+#$ Calamity, no damage!
+¡Calamity, sin daños!
+#$ Hahaha, the enemy must be a moron!
+¡Hahaha, el enemigo debe ser un tonto!
+#$ Ah, I've been hacked!
+¡Ah, he sido hackeada!
+#$ My ryder's not responding to commands!
+¡Mi ryder no está respondiendo a mis comandos!
+#$ I've got an enemy ECM eating my ass, Shields!
+¡Tengo un ECM enemigo comiéndome el trasero, Shields!
 #$ -1000
 -1000
 #$ -1000
@@ -222,78 +222,78 @@ I've got an enemy ECM eating my ass, Shields!
 -1000
 #$ -1000
 -1000
-# Pay attention, can't you see I'm out of energy?!
-Pay attention, can't you see I'm out of energy?!
-# My power's empty!
-My power's empty!
-# I can't do that right now!
-I can't do that right now!
-# Shields...
+#$ Pay attention, can't you see I'm out of energy?!
+¡¿Presta atención, no puedes ver que no tengo energía?!
+#$ My power's empty!
+¡Mi energía está vacía!
+#$ I can't do that right now!
+¡No puedo hacer eso ahora!
+#$ Shields...
 Shields...
-# What do you want?
-What do you want?
-# This doesn't make us friends.
-This doesn't make us friends.
-# I can't believe we're working together...
-I can't believe we're working together...
-# I'll still cook you one day.
-I'll still cook you one day.
-# Right now, we've got to work together.
-Right now, we've got to work together.
-# Yeah, Shields?
-Yeah, Shields?
-# I'm listening.
-I'm listening.
-# You've got my attention.
-You've got my attention.
-# Listen.
-Listen.
-# Hahahahaha!!!
-Hahahahaha!!!
-# You're quite something, Shields!
-You're quite something, Shields!
-# Looks like you've got a pair of balls on you!
-Looks like you've got a pair of balls on you!
-# I'm Cosette Cosmos, the terror of the stars!
-I'm Cosette Cosmos, the terror of the stars!
-# Yeaahh!!!
-Yeaahh!!!
-# You wanna die?
-You wanna die?
-# Gaaahh!!
-Gaaahh!!
-# Shields!!!
-Shields!!!
-# Scream for me!
-Scream for me!
-# You'll regret this!
-You'll regret this!
-# Ugh...
+#$ What do you want?
+¿Qué quieres?
+#$ This doesn't make us friends.
+Esto no nos hace amigos.
+#$ I can't believe we're working together...
+No puedo creer que estemos trabajando juntos...
+#$ I'll still cook you one day.
+Todavía te puedo cocinar algún día.
+#$ Right now, we've got to work together.
+Ahora mismo, tenemos que trabajar juntos.
+#$ Yeah, Shields?
+¿Sí, Shields?
+#$ I'm listening.
+Estoy escuchando.
+#$ You've got my attention.
+Tienes mi atención.
+#$ Listen.
+Escucha.
+#$ Hahahahaha!!!
+¡¡¡Hahahahaha!!!
+#$ You're quite something, Shields!
+¡Eres bastante sorprendente, Shields!
+#$ Looks like you've got a pair of balls on you!
+¡Parece que tienes un par de pelotas!
+#$ I'm Cosette Cosmos, the terror of the stars!
+¡Soy Cosette Cosmos, el terror de las estrellas!
+#$ Yeaahh!!!
+¡¡¡Sííí!!!
+#$ You wanna die?
+¿Quieres morir?
+#$ Gaaahh!!
+¡¡Gaaahh!!
+#$ Shields!!!
+¡¡Shields!!!
+#$ Scream for me!
+¡Grita para mí!
+#$ You'll regret this!
+¡Te arrepentirás de esto!
+#$ Ugh...
 Ugh...
-# Fine...
-Fine...
-# Yeah, whatever...
-Yeah, whatever...
-# Stupid...
-Stupid...
-# Sigh...
-Sigh...
-# W-What?! Have you lost your mind?!
-W-What?! Have you lost your mind?!
-# You're even crazier than me!
-You're even crazier than me!
-# What?!
-What?!
-# Uck!
-Uck!
-# Shit!!
-Shit!!
-# I've might be able to get my hands on some extra special merchandise today...
-I've might be able to get my hands on some extra special merchandise today...
-# See anything that catches your eyes, Shields?
-See anything that catches your eyes, Shields?
-# Heh, I can't wait to see this stuff in action.
-Heh, I can't wait to see this stuff in action.
+#$ Fine...
+Bien...
+#$ Yeah, whatever...
+Sí, lo que sea...
+#$ Stupid...
+Estúpido...
+#$ Sigh...
+*Suspiro*...
+#$ W-What?! Have you lost your mind?!
+¿¡Q-Qué?! ¡¿Has perdido la cabeza?!
+#$ You're even crazier than me!
+¡Eres incluso más loco que yo!
+#$ What?!
+¡¿Qué?!
+#$ Uck!
+¡Uck!
+#$ Shit!!
+¡¡Diablos!!
+#$ I've might be able to get my hands on some extra special merchandise today...
+Podría ser capaz de poner mis manos en algo de mercancía especial extra hoy...
+#$ See anything that catches your eyes, Shields?
+¿Ves algo que atrape tu atención, Shields?
+#$ Heh, I can't wait to see this stuff in action.
+Heh, no puedo esperar para ver esta cosa en acción.
 #$ -1000
 -1000
 #$ -1000
